@@ -252,7 +252,7 @@ async function render() {
   try {
     if (h.startsWith("#/episode/")) await renderEpisode(h.slice(10));
     else if (h === "#/review") await renderReview();
-    else if (h.startsWith("#/train")) await renderTrain(h.split("/")[2]);
+    else if (h === "#/quiz") await renderQuiz();
     else if (h === "#/settings") renderSettings();
     else await renderHome();
   } catch (e) {
@@ -266,11 +266,6 @@ async function render() {
 async function renderHome() {
   setChrome("F·R·I·E·N·D·S", false, "#/home");
   const idx = await getIndex();
-  const due = dueCards().length;
-  const done = state.daily[today()] || 0;
-  const total = due + done;
-  const pct = total === 0 ? 1 : done / total;
-  const R = 80, CIRC = 2 * Math.PI * R;
 
   const seasons = [...new Set(idx.map((e) => e.season))];
   const sel = seasons.includes(state.seasonSel) ? state.seasonSel : seasons[0];
@@ -279,24 +274,6 @@ async function renderHome() {
   const last = state.lastEp && idx.find((e) => e.id === state.lastEp);
 
   view.innerHTML = `
-  <div class="peephole-wrap">
-    <div class="peephole" role="button" tabindex="0" aria-label="복습 시작">
-      <svg width="172" height="172" viewBox="0 0 172 172" aria-hidden="true">
-        <circle cx="86" cy="86" r="${R}" fill="none" stroke="var(--ring-track)" stroke-width="9"/>
-        <circle cx="86" cy="86" r="${R}" fill="none" stroke="var(--frame)" stroke-width="9"
-          stroke-linecap="round" stroke-dasharray="${CIRC}" stroke-dashoffset="${CIRC * (1 - pct)}"/>
-      </svg>
-      <div class="inner">
-        <span class="num">${due}</span>
-        <span class="lbl">복습 대기</span>
-      </div>
-    </div>
-    <div class="peephole-cap">${
-      due > 0 ? `링을 눌러 복습 시작 · 오늘 <b>${done}</b>장 완료`
-      : done > 0 ? `오늘 복습 끝! <b>${done}</b>장 완료`
-      : `에피소드에서 표현을 카드에 담아보세요`}</div>
-  </div>
-
   ${last ? `
   <div class="sec">
     <button class="continue" data-ep="${last.id}">
@@ -330,10 +307,6 @@ async function renderHome() {
     </div>
   </div>`;
 
-  $(".peephole").addEventListener("click", () => (location.hash = "#/review"));
-  $(".peephole").addEventListener("keydown", (e) => {
-    if (e.key === "Enter" || e.key === " ") location.hash = "#/review";
-  });
   view.querySelectorAll("[data-season]").forEach((b) =>
     b.addEventListener("click", () => { state.seasonSel = +b.dataset.season; save(); renderHome(); }));
   view.querySelectorAll("[data-ep]").forEach((b) =>
@@ -349,12 +322,10 @@ function epStatus(e) {
 
 /* ── 에피소드 ─────────────────────────────── */
 let epTab = "vocab";
-let rp = { ep: null, scene: null, char: null };
 async function renderEpisode(id) {
   const idx = await getIndex();
   const meta = idx.find((e) => e.id === id);
   if (!meta) throw new Error("에피소드를 찾을 수 없습니다: " + id);
-  if (rp.ep !== id) rp = { ep: id, scene: null, char: null };
   state.lastEp = id; save();
   setChrome(meta.code, true, "");
   if (!meta.hasVocab) epTab = "script";
@@ -367,7 +338,6 @@ async function renderEpisode(id) {
   <div class="segtabs">
     <button data-t="vocab" ${meta.hasVocab ? "" : "disabled"} class="${epTab === "vocab" ? "active" : ""}">표현 ${meta.hasVocab ? meta.exprCount : ""}</button>
     <button data-t="script" class="${epTab === "script" ? "active" : ""}">대본</button>
-    <button data-t="roleplay" class="${epTab === "roleplay" ? "active" : ""}">역할극</button>
   </div>
   <div id="epBody"><div class="loading">불러오는 중…</div></div>`;
 
@@ -432,9 +402,6 @@ async function renderEpBody(meta) {
         }
       });
     });
-  } else if (epTab === "roleplay") {
-    const ep = await getEpisode(meta.id);
-    renderRoleplay(body, ep);
   } else {
     const ep = await getEpisode(meta.id);
     body.innerHTML = `<div class="script">
@@ -444,82 +411,6 @@ async function renderEpBody(meta) {
         return `<div class="dir">${esc(l.text)}</div>`;
       }).join("")}</div>`;
   }
-}
-
-/* ── 역할극: 장면 → 배역 → 연기 ─────────────── */
-function epScenes(ep) {
-  const scenes = [];
-  let cur = null;
-  for (const l of ep.lines) {
-    if (l.t === "scene") {
-      cur = { label: l.text, lines: [] };
-      scenes.push(cur);
-    } else if (cur && l.t !== "direction") {
-      cur.lines.push(l);
-    }
-  }
-  return scenes.filter((s) => s.lines.filter((l) => l.t === "dialogue").length >= 4);
-}
-function renderRoleplay(body, ep) {
-  const scenes = epScenes(ep);
-  if (scenes.length === 0) {
-    body.innerHTML = `<div class="review-empty"><div class="big">장면 정보가 없어요</div>
-      <p>이 에피소드는 장면 구분이 없어 역할극을 만들 수 없습니다.</p></div>`;
-    return;
-  }
-  // 1) 장면 선택
-  if (rp.scene === null) {
-    body.innerHTML = `<p class="train-note">장면을 고르면 그 장면의 배역 하나를 맡아 대사를 연기합니다.</p>
-      <div class="eplist">${scenes.map((s, i) =>
-        `<button class="ep" data-s="${i}"><span class="no">${i + 1}</span>
-          <span class="t"><span class="en">${esc(s.label.slice(0, 60))}</span>
-          <span class="meta">대사 ${s.lines.filter((l) => l.t === "dialogue").length}줄</span></span></button>`).join("")}</div>`;
-    body.querySelectorAll("[data-s]").forEach((b) =>
-      b.addEventListener("click", () => { rp.scene = +b.dataset.s; renderRoleplay(body, ep); }));
-    return;
-  }
-  const scene = scenes[rp.scene];
-  // 2) 배역 선택
-  if (rp.char === null) {
-    const counts = {};
-    scene.lines.forEach((l) => {
-      if (l.t === "dialogue") counts[l.speaker] = (counts[l.speaker] || 0) + 1;
-    });
-    const chars = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 8);
-    body.innerHTML = `<p class="train-note">[${esc(scene.label.slice(0, 70))}]<br>어떤 역할을 맡을까요?</p>
-      <div class="eplist">${chars.map(([name, n]) =>
-        `<button class="ep" data-c="${esc(name)}"><span class="t"><span class="en">${esc(name)}</span>
-         <span class="meta">대사 ${n}줄</span></span></button>`).join("")}</div>
-      <button class="showbtn" id="rpBack">장면 다시 선택</button>`;
-    body.querySelectorAll("[data-c]").forEach((b) =>
-      b.addEventListener("click", () => { rp.char = b.dataset.c; renderRoleplay(body, ep); }));
-    body.querySelector("#rpBack").addEventListener("click", () => { rp.scene = null; renderRoleplay(body, ep); });
-    return;
-  }
-  // 3) 연기 화면: 내 대사는 가려짐 — 먼저 말해보고 탭해서 확인
-  body.innerHTML = `
-    <p class="train-note">나의 배역: <b>${esc(rp.char)}</b> — 내 차례 대사는 가려져 있어요.
-    소리 내어 말해본 뒤 탭해서 확인하세요. ▶ 버튼은 상대 대사를 읽어줍니다.</p>
-    <div class="script">${scene.lines.map((l, li) => {
-      if (l.t !== "dialogue") return "";
-      if (l.speaker === rp.char) {
-        return `<div class="line rp-mine" data-li="${li}">
-          <span class="spk">${esc(l.speaker)}</span>
-          <button class="rp-mask">내 대사 — 탭해서 확인</button>
-          <span class="rp-text" hidden>${esc(l.text)} <button class="rp-say" data-say="${esc(l.text)}">▶</button></span></div>`;
-      }
-      return `<div class="line"><span class="spk">${esc(l.speaker)}</span>${esc(l.text)}
-        <button class="rp-say" data-say="${esc(l.text)}">▶</button></div>`;
-    }).join("")}</div>
-    <button class="showbtn" id="rpOther">다른 배역/장면 하기</button>`;
-  body.querySelectorAll(".rp-mask").forEach((m) =>
-    m.addEventListener("click", () => {
-      m.hidden = true;
-      m.parentElement.querySelector(".rp-text").hidden = false;
-    }));
-  body.querySelectorAll(".rp-say").forEach((b) =>
-    b.addEventListener("click", () => speak(b.dataset.say)));
-  body.querySelector("#rpOther").addEventListener("click", () => { rp.char = null; renderRoleplay(body, ep); });
 }
 
 /* ── 복습 ─────────────────────────────────── */
@@ -533,8 +424,8 @@ async function renderReview() {
     view.innerHTML = `<div class="donebox">
       <div class="ring">◎</div>
       <div class="big">${done > 0 ? "오늘 복습 완료!" : "복습할 카드가 없어요"}</div>
-      <p>${done > 0 ? `${done}장을 복습했어요. 내일 문구멍에서 만나요.`
-        : "에피소드 화면에서 표현을 카드에 담으면\n여기에 복습 카드가 쌓입니다."}</p>
+      <p>${done > 0 ? `${done}장을 복습했어요. 내일 다시 만나요.`
+        : "에피 탭에서 표현을 카드에 담으면\n여기에 복습 카드가 쌓입니다."}</p>
     </div>`;
     return;
   }
@@ -623,116 +514,15 @@ async function showCard() {
     }));
 }
 
-/* ── 훈련 탭 ──────────────────────────────── */
-async function renderTrain(sub) {
-  if (sub === "dictation") return renderDictation();
-  if (sub === "quiz") return renderQuiz();
-  setChrome("훈련", false, "#/train");
-  const n = Object.keys(state.cards).length;
-  view.innerHTML = `
-  <div class="modes">
-    <button class="mode" data-m="dictation">
-      <div class="m-t">듣기 딕테이션</div>
-      <div class="m-d">대사를 귀로만 듣고 빈칸의 표현을 받아써요. 자막 없이 듣기 훈련에 직결됩니다.</div>
-    </button>
-    <button class="mode" data-m="quiz">
-      <div class="m-t">문맥 퀴즈</div>
-      <div class="m-d">빈칸 대사에 맞는 표현을 4개 중에서 고르는 스피드 퀴즈. 한 손으로 가볍게.</div>
-    </button>
-    <div class="mode static">
-      <div class="m-t">역할극</div>
-      <div class="m-d">에피소드 화면의 <b>역할극</b> 탭에서 장면과 배역을 골라 대사를 직접 연기해보세요.</div>
-    </div>
-  </div>
-  ${n < 4 ? `<p class="train-note">딕테이션과 퀴즈는 카드가 4개 이상 담겨 있어야 시작할 수 있어요. (현재 ${n}개)</p>` : ""}`;
-  view.querySelectorAll("[data-m]").forEach((b) =>
-    b.addEventListener("click", () => (location.hash = "#/train/" + b.dataset.m)));
-}
-
-/* ── 듣기 딕테이션 ────────────────────────── */
-let dict = null;
-async function renderDictation() {
-  setChrome("듣기 딕테이션", true, "#/train");
-  view.innerHTML = `<div class="loading">카드 불러오는 중…</div>`;
-  const pool = await cardPool();
-  if (pool.length < 1) {
-    view.innerHTML = `<div class="review-empty"><div class="big">카드가 없어요</div>
-      <p>에피소드에서 표현을 카드에 담은 뒤 시작할 수 있습니다.</p></div>`;
-    return;
-  }
-  dict = { items: shuffle([...pool]).slice(0, 10), i: 0, ok: 0 };
-  dictQuestion();
-}
-function dictQuestion() {
-  if (dict.i >= dict.items.length) {
-    view.innerHTML = `<div class="donebox"><div class="ring">◎</div>
-      <div class="big">딕테이션 완료 — ${dict.ok}/${dict.items.length}</div>
-      <p>틀린 표현은 복습 카드에서 다시 만나요.</p>
-      <button class="showbtn" id="againBtn">한 번 더</button></div>`;
-    $("#againBtn").addEventListener("click", renderDictation);
-    return;
-  }
-  const it = dict.items[dict.i];
-  const line = keyLine(it.x);
-  const cloze = markDialogue(line.text, it.x.expression, "cloze");
-  view.innerHTML = `
-  <div class="rv-progress">${dict.i + 1} / ${dict.items.length} · 맞힘 ${dict.ok}</div>
-  <div class="card">
-    <div class="dict-controls">
-      <button class="playbtn" data-rate="1">▶ 듣기</button>
-      <button class="playbtn" data-rate="0.65">느리게 듣기</button>
-    </div>
-    <div class="q-dlg">${line.speaker ? `<b>${esc(line.speaker)}:</b> ` : ""}${cloze.found ? cloze.html : `<span class="blank" style="min-width:140px">&nbsp;</span>`}</div>
-    <div class="dict-hint">힌트: ${esc(it.x.meaning)}</div>
-    <form class="answer-form" autocomplete="off">
-      <input class="answer-input" type="text" inputmode="latin" autocapitalize="off"
-        autocorrect="off" spellcheck="false" placeholder="들린 표현을 입력하세요" aria-label="표현 입력">
-      <button class="checkbtn" type="submit">확인</button>
-    </form>
-    <div class="verdict" hidden></div>
-    <div class="a" hidden>
-      <div class="en">${esc(it.x.expression)}</div>
-      <p class="dict-full">${line.speaker ? `<b>${esc(line.speaker)}:</b> ` : ""}${esc(line.text)}</p>
-    </div>
-  </div>
-  <button class="showbtn" id="giveUp">모르겠어요 — 정답 보기</button>
-  <button class="showbtn primary" id="nextBtn" hidden>다음</button>`;
-
-  view.querySelectorAll(".playbtn").forEach((b) =>
-    b.addEventListener("click", () => speak(line.text, +b.dataset.rate)));
-  function finish(ok, typed) {
-    if (ok) dict.ok++;
-    const v = $(".verdict");
-    if (typed !== null) {
-      v.hidden = false;
-      v.className = "verdict " + (ok ? "v-ok" : "v-no");
-      v.innerHTML = (ok ? "⭕ 정답!" : "❌ 아쉬워요") + (typed ? ` <span class="typed">${esc(typed)}</span>` : "");
-    }
-    $(".card .a").hidden = false;
-    $(".answer-form").hidden = true;
-    $("#giveUp").hidden = true;
-    $("#nextBtn").hidden = false;
-    view.querySelectorAll(".blank").forEach((bl) => bl.classList.add("revealed"));
-  }
-  $(".answer-form").addEventListener("submit", (ev) => {
-    ev.preventDefault();
-    const typed = $(".answer-input").value.trim();
-    if (!typed) return;
-    finish(judgeAnswer(typed, it.x.expression).ok, typed);
-  });
-  $("#giveUp").addEventListener("click", () => finish(false, null));
-  $("#nextBtn").addEventListener("click", () => { dict.i++; dictQuestion(); });
-}
-
-/* ── 문맥 퀴즈 ────────────────────────────── */
+/* ── 퀴즈 (문맥 4지선다) ──────────────────── */
 let quiz = null;
 async function renderQuiz() {
-  setChrome("문맥 퀴즈", true, "#/train");
+  setChrome("퀴즈", false, "#/quiz");
   view.innerHTML = `<div class="loading">카드 불러오는 중…</div>`;
   const pool = await cardPool();
   if (pool.length < 4) {
     view.innerHTML = `<div class="review-empty"><div class="big">카드가 부족해요</div>
-      <p>보기(오답)를 만들려면 카드가 4개 이상 필요합니다. (현재 ${pool.length}개)</p></div>`;
+      <p>에피 탭에서 표현을 카드에 담아주세요.\n보기(오답)를 만들려면 4개 이상 필요합니다. (현재 ${pool.length}개)</p></div>`;
     return;
   }
   quiz = { items: shuffle([...pool]).slice(0, 10), pool, i: 0, ok: 0 };
