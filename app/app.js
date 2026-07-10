@@ -87,12 +87,39 @@ const STOP = new Set(["someone", "somebody", "something", "sth", "sb", "one's",
   "ones", "a", "an", "the", "to", "be", "it", "that", "this", "of", "in", "on",
   "with", "and", "or", "you", "your", "name", "adjective", "number", "i", "is",
   "was", "so", "not", "no", "do", "did"]);
-function exprKeywords(expr) {
+// 정답 판정용: 표현의 핵심 단어 (구동사의 up/out/off 같은 짧은 불변화사 포함)
+const STOP_STRICT = new Set(["someone", "somebody", "something", "sth", "sb",
+  "one's", "ones", "a", "an", "the", "to", "be", "that", "it", "this", "you",
+  "your", "name", "adjective", "number", "i", "is", "was", "and", "or"]);
+function exprWords(expr, stop) {
   return expr.replace(/\(([^)]*)\)/g, " $1 ").replace(/\[[^\]]*\]/g, " ")
     .split(/[\/~,]/).join(" ").split(/[^A-Za-z']+/)
     .map((w) => w.toLowerCase().replace(/'s$/, ""))
-    .filter((w) => w.length >= 3 && !STOP.has(w))
+    .filter((w) => w.length >= 2 && !stop.has(w));
+}
+function exprKeywords(expr) {
+  return exprWords(expr, STOP).filter((w) => w.length >= 3)
     .sort((a, b) => b.length - a.length);
+}
+function stemLite(w) {
+  return w.length > 4 ? w.replace(/(e|ed|ing|s)$/, "") : w;
+}
+/* 주관식 채점: 표현의 핵심 단어가 모두 입력에 들어 있으면 정답.
+   "A / B"처럼 대안이 병기된 표현은 그중 하나만 맞히면 정답. */
+function judgeAnswer(typed, expr) {
+  const t = typed.toLowerCase().replace(/[^a-z' ]/g, " ");
+  const typedWords = t.split(/\s+/).filter(Boolean).map(stemLite);
+  let best = { ok: false, hits: 0, total: 1 };
+  for (const alt of expr.split("/")) {
+    const targets = [...new Set(exprWords(alt, STOP_STRICT).map(stemLite))];
+    if (targets.length === 0) continue;
+    const hits = targets.filter((k) =>
+      typedWords.some((w) => w === k || (k.length >= 4 && w.startsWith(k)) || (w.length >= 4 && k.startsWith(w))));
+    const r = { ok: hits.length === targets.length, hits: hits.length, total: targets.length };
+    if (r.ok || r.hits / r.total > best.hits / best.total) best = r;
+    if (best.ok) break;
+  }
+  return best;
 }
 /* 대사에서 표현 단어를 <mark> 또는 빈칸 span으로 감싼다 */
 function markDialogue(dialogue, expr, mode) {
@@ -364,16 +391,25 @@ async function showCard() {
   <div class="rv-progress">${doneToday + 1} / ${qTotal}</div>
   <div class="card">
     <div class="q-ko">${esc(x.meaning)}</div>
-    ${cloze.found ? `<div class="q-dlg">${cloze.html}</div>` : ""}
+    ${cloze.found ? `
+    <button class="hintbtn">힌트 보기 (대사)</button>
+    <div class="q-dlg" hidden>${cloze.html}</div>` : ""}
+    <form class="answer-form" autocomplete="off">
+      <input class="answer-input" type="text" inputmode="latin" autocapitalize="off"
+        autocorrect="off" spellcheck="false" placeholder="영어 표현을 입력해보세요"
+        aria-label="영어 표현 입력">
+      <button class="checkbtn" type="submit">확인</button>
+    </form>
+    <div class="verdict" hidden></div>
     <div class="a" hidden>
       <div class="en">${esc(x.expression)}</div>
-      ${cloze.found ? "" : `<div class="q-dlg">${markDialogue(x.dialogue, x.expression, "mark").html}</div>`}
+      <div class="q-dlg">${markDialogue(x.dialogue, x.expression, "mark").html}</div>
       <h4>뉘앙스</h4><p>${esc(x.nuance)}</p>
       <h4>예문</h4><p>${esc(x.example)}</p>
       <div class="src">${esc(meta ? meta.code + ". " + meta.title : card.ep)} · ${esc(x.speaker)}의 대사</div>
     </div>
   </div>
-  <button class="showbtn">정답 보기</button>
+  <button class="showbtn">입력 없이 정답 보기</button>
   <div class="grades" hidden>
     <button class="g-again">다시<small>${ivLabel(card, 0)}</small></button>
     <button class="g-hard">어려움<small>${ivLabel(card, 1)}</small></button>
@@ -381,12 +417,35 @@ async function showCard() {
     <button class="g-easy">쉬움<small>${ivLabel(card, 3)}</small></button>
   </div>`;
 
-  $(".showbtn").addEventListener("click", () => {
+  function reveal() {
     $(".card .a").hidden = false;
     $(".showbtn").hidden = true;
+    $(".answer-form").hidden = true;
+    const hint = $(".hintbtn");
+    if (hint) hint.hidden = true;
+    const frontDlg = $(".card > .q-dlg");
+    if (frontDlg) frontDlg.hidden = true; // 해설 쪽 대사만 남긴다
     $(".grades").hidden = false;
-    view.querySelectorAll(".blank").forEach((b) => b.classList.add("revealed"));
+  }
+  const hintBtn = $(".hintbtn");
+  if (hintBtn) hintBtn.addEventListener("click", () => {
+    $(".card .q-dlg").hidden = false;
+    hintBtn.hidden = true;
   });
+  $(".answer-form").addEventListener("submit", (ev) => {
+    ev.preventDefault();
+    const typed = $(".answer-input").value.trim();
+    if (!typed) return;
+    const r = judgeAnswer(typed, x.expression);
+    const v = $(".verdict");
+    v.hidden = false;
+    v.className = "verdict " + (r.ok ? "v-ok" : "v-no");
+    v.innerHTML = r.ok
+      ? `⭕ 정답! <span class="typed">${esc(typed)}</span>`
+      : `❌ 아쉬워요 <span class="typed">${esc(typed)}</span>`;
+    reveal();
+  });
+  $(".showbtn").addEventListener("click", reveal);
   [["g-again", 0], ["g-hard", 1], ["g-good", 2], ["g-easy", 3]].forEach(([cls, g]) =>
     $("." + cls).addEventListener("click", () => {
       grade(card, g);
