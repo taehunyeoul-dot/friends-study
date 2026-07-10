@@ -1,0 +1,209 @@
+{
+    "id":  "s03e04",
+    "code":  "304",
+    "title":  "The One With The Metaphorical Tunnel",
+    "model":  "sonnet",
+    "cost_usd":  0.5043,
+    "expressions":  [
+                        {
+                            "expression":  "There\u0027s gotta be a better way!",
+                            "dialogue":  "Host: these darn cartons are so flingin\u0027-flangin\u0027 hard to open.\nJoey: (rips open the carton and spills milk) Aw! There\u0027s got to be a better way!\nMike: And there is Kevin.",
+                            "speaker":  "Joey (TV commercial character \u0027Kevin\u0027)",
+                            "meaning":  "더 나은 방법이 있어야 한다! — 현재 방식에 불만을 표하며 해결책을 원하는 표현",
+                            "nuance":  "미국 홈쇼핑(infomercial)의 클리셰 문구로 널리 패러디됨. \u0027have got to\u0027→\u0027gotta\u0027로 줄이는 전형적인 구어 축약. 일상에서도 짜증스러운 상황을 과장하며 쓸 수 있음.",
+                            "example":  "I keep losing my keys every single morning. There\u0027s gotta be a better way! → 매일 아침 열쇠를 잃어버려. 이것보다 더 나은 방법이 있어야 해!"
+                        },
+                        {
+                            "expression":  "flingin\u0027-flangin\u0027",
+                            "dialogue":  "Host: these darn cartons are so flingin\u0027-flangin\u0027 hard to open.\n...\nChandler: You\u0027re flingin\u0027-flangin\u0027 right I am!",
+                            "speaker":  "Infomercial Host / Chandler",
+                            "meaning":  "욕설(f***ing)을 방송용으로 순화한 완곡 표현. 강한 짜증이나 흥분을 나타냄.",
+                            "nuance":  "방송이나 아이 앞처럼 욕을 참아야 할 때 쓰는 대체 표현. \u0027darn\u0027, \u0027freakin\u0027\u0027, \u0027friggin\u0027\u0027 등도 같은 역할. 과장된 어감이 유머 효과를 낳기도 함.",
+                            "example":  "This flingin\u0027-flangin\u0027 printer jams every time I have a deadline! → 이 빌어먹을 프린터는 마감 때마다 꼭 걸린다니까!"
+                        },
+                        {
+                            "expression":  "How could you not ~?!",
+                            "dialogue":  "Joey: My agent would like to know why I didn\u0027t show up at the audition I didn\u0027t know I had today. The first good thing she gets me in weeks. How could you not give me the message?!\nChandler: Well, I\u0027ll tell ya I do enjoy guilt, but, ah, it wasn\u0027t me.",
+                            "speaker":  "Joey",
+                            "meaning":  "어떻게 그럴 수가 있어?! — 상대의 행동에 강한 비난과 실망을 담은 수사의문문",
+                            "nuance":  "\u0027Why didn\u0027t you ~?\u0027보다 감정이 훨씬 강하게 실려 있음. 실제로 답을 원하는 게 아니라 분노·상처를 표현. \u0027How could you do this to me?\u0027 형태로도 폭넓게 활용.",
+                            "example":  "How could you not tell me the party was cancelled? I showed up in a suit! → 파티 취소됐다는 걸 어떻게 말 안 할 수가 있어? 나 정장까지 입고 갔잖아!"
+                        },
+                        {
+                            "expression":  "I do enjoy X, but ~",
+                            "dialogue":  "Joey: How could you not give me the message?!\nChandler: Well, I\u0027ll tell ya I do enjoy guilt, but, ah, it wasn\u0027t me.\nPhoebe: Yes, it was! It was him! (then) Okay, it was me!",
+                            "speaker":  "Chandler",
+                            "meaning":  "죄책감을 즐기는 편이긴 한데, 이번엔 내 잘못이 아니야 — 역설적 유머로 결백을 주장하는 표현",
+                            "nuance":  "\u0027I do + 동사\u0027 구조는 강조를 위해 조동사 do를 쓰는 패턴. 여기서는 \u0027죄책감을 즐긴다\u0027는 역설적 표현에 do가 결합되어 Chandler 특유의 자기비하 유머를 만들어냄.",
+                            "example":  "Oh, I do love being blamed for things I didn\u0027t do — but check the security footage this time. → 내가 안 한 일로 비난받는 거 정말 좋아하긴 하는데 — 이번엔 CCTV 확인해봐."
+                        },
+                        {
+                            "expression":  "That\u0027s what it\u0027s there for.",
+                            "dialogue":  "Phoebe: Can I use the phone again?\nRachel: Sure Pheebs, you know, that\u0027s what it\u0027s there for, emergencies and pretend agents.",
+                            "speaker":  "Rachel",
+                            "meaning":  "그게 바로 그것이 있는 이유야 — 어떤 것의 존재 목적을 설명하거나 가볍게 허락할 때 쓰는 표현",
+                            "nuance":  "친절하게 허락할 때(\u0027물론, 그러라고 있는 거잖아\u0027)도, 살짝 빈정댈 때도 쓰임. Rachel은 \u0027pretend agents\u0027를 붙여 Phoebe를 놀리면서도 허락. \u0027That\u0027s what friends are for\u0027와 같은 패턴.",
+                            "example":  "\u0027Can I borrow your charger?\u0027 \u0027Go ahead, that\u0027s what it\u0027s there for.\u0027 → \u0027충전기 빌려도 돼?\u0027 \u0027써, 빌리라고 있는 거잖아.\u0027"
+                        },
+                        {
+                            "expression":  "miss one\u0027s chance",
+                            "dialogue":  "Joey: Well, Estelle tried, you know. The casting director told her that I missed my chance.\nPhoebe: That is unfair. I\u0027ll call her and tell her it was totally my fault.",
+                            "speaker":  "Joey",
+                            "meaning":  "기회를 놓치다 — 타이밍을 잘못 잡아 기회를 잃었을 때 쓰는 표현",
+                            "nuance":  "\u0027lose a chance\u0027보다 더 자연스럽고 흔한 표현. \u0027blow my chance\u0027는 자기 실수 강조, \u0027miss my chance\u0027는 타이밍의 문제에 더 가까움. 취업·연애·오디션 등 모든 상황에 적용.",
+                            "example":  "I was going to invest in that startup years ago but hesitated. I really missed my chance. → 몇 년 전에 그 스타트업에 투자하려다 망설였어. 진짜 기회를 놓쳤어."
+                        },
+                        {
+                            "expression":  "What a sad little life she must lead.",
+                            "dialogue":  "Joey: Phoebe, you can\u0027t do that. The casting director doesn\u0027t talk to friends, she only talks to agents.\nPhoebe: What a sad little life she must lead. Okay, ooh (starts dialing).",
+                            "speaker":  "Phoebe",
+                            "meaning":  "얼마나 불쌍한 삶을 살고 있을까 — 상대방의 좁은 태도를 동정하는 척 비꼬는 표현",
+                            "nuance":  "\u0027What a ~\u0027 감탄문 구조. 직접 비판하지 않고 동정하는 척하며 상대를 가볍게 깎아내리는 어감. Phoebe 특유의 순진한 듯 뼈 있는 화법.",
+                            "example":  "\u0027He refuses to try any food that isn\u0027t Korean.\u0027 \u0027What a sad little life he must lead.\u0027 → \u0027그는 한국 음식 아니면 아무것도 안 먹대.\u0027 \u0027얼마나 불쌍한 삶이야.\u0027"
+                        },
+                        {
+                            "expression":  "face your fear",
+                            "dialogue":  "Joey: it seems to me it\u0027s pretty much like anything else, you know, face your fear. If you have a fear of heights, you go to the top of the building! If you\u0027re afraid of bugs... get a bug. In this case, you have a fear of commitment, so I say you go in there and be the most committed guy there ever was.",
+                            "speaker":  "Joey",
+                            "meaning":  "두려움을 정면으로 직면하라 — 무서운 것을 피하지 않고 맞서는 것이 해결책이라는 조언",
+                            "nuance":  "심리 치료·자기계발에서 흔히 쓰이는 표현. \u0027confront your fear\u0027와 비슷. Joey의 단순하지만 사실 꽤 효과적인 논리로 전달된다는 점이 이 장면의 개그 포인트.",
+                            "example":  "\u0027I\u0027ve been avoiding driving since my accident.\u0027 \u0027You just have to face your fear and get back behind the wheel.\u0027 → \u0027사고 이후 운전을 피해왔어.\u0027 \u0027그냥 두려움을 직면하고 다시 운전대를 잡아야 해.\u0027"
+                        },
+                        {
+                            "expression":  "go for it",
+                            "dialogue":  "Chandler: You think?\nJoey: Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!\nChandler: Yeah, Joe, I assure you if I\u0027m staring down the barrel of a gun, I\u0027m pretty much peeing every which way.",
+                            "speaker":  "Joey",
+                            "meaning":  "도전해봐! / 한번 해봐! — 강하게 격려하며 시도를 권유하는 표현",
+                            "nuance":  "매우 구어적이고 캐주얼한 표현. \u0027try it\u0027보다 훨씬 더 열정적이고 적극적인 뉘앙스. 연애·스포츠·직업 등 모든 도전 상황에 사용 가능하며 보통 짧게 단독으로 씀.",
+                            "example":  "\u0027I\u0027ve been thinking about asking for a raise.\u0027 \u0027Go for it! You\u0027ve been working overtime every week.\u0027 → \u0027연봉 인상 요청할까 생각 중이야.\u0027 \u0027해봐! 매주 야근하잖아.\u0027"
+                        },
+                        {
+                            "expression":  "pee into the wind",
+                            "dialogue":  "Joey: Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!\nChandler: Yeah, Joe, I assure you if I\u0027m staring down the barrel of a gun, I\u0027m pretty much peeing every which way.",
+                            "speaker":  "Joey / Chandler",
+                            "meaning":  "원래는 역효과 나는 무모한 행동의 비유(바람 향해 소변 보면 자기한테 튄다). Joey는 반대로 용기의 예시로 잘못 사용.",
+                            "nuance":  "원뜻은 \u0027헛수고를 하다 / 스스로 화를 자초하다\u0027. Joey의 의도와 달리 쓰인다는 점이 개그 포인트. Chandler가 \u0027peeing every which way\u0027로 원래 뜻을 살려 받아치는 언어 개그.",
+                            "example":  "Trying to fight city hall over this permit is like peeing into the wind — you\u0027ll never win. → 허가 문제로 시청에 맞서는 건 바람 향해 오줌 누는 격이야 — 절대 못 이겨."
+                        },
+                        {
+                            "expression":  "patch someone through",
+                            "dialogue":  "Phoebe: (in \u0027Katelynn\u0027s\u0027 voice) \u0027Okay, well, um, she\u0027s in her car I\u0027ll have to patch you through.\u0027 (switching to normal voice) \u0027Okay, go ahead.\u0027 Hi Annie.",
+                            "speaker":  "Phoebe (as Katelynn)",
+                            "meaning":  "전화를 다른 사람/선으로 연결해 드리다",
+                            "nuance":  "비즈니스 전화 응대에서 자주 쓰이는 공식 표현. \u0027transfer your call\u0027과 비슷하지만 특히 무선·위성·비서 경유 연결 시 \u0027patch\u0027를 씀. 지금도 콜센터·비서 상황에서 들을 수 있는 표현.",
+                            "example":  "Please hold — I\u0027ll patch you through to the billing department right away. → 잠시만요 — 청구 부서로 바로 연결해 드리겠습니다."
+                        },
+                        {
+                            "expression":  "work for scale",
+                            "dialogue":  "Phoebe: (on phone as Katelynn) \u0027Will he work for scale?\u0027 you ask me. Well, I don\u0027t know about that, (Joey clears his throat to signify yes) except that I do and he will.",
+                            "speaker":  "Phoebe (as Katelynn)",
+                            "meaning":  "배우·음악가 등이 조합(SAG-AFTRA 등) 규정 최저 임금으로 일하다 — 큰 보수 없이 기본 임금만 받고 일하는 것",
+                            "nuance":  "미국 연예인 노조의 최저 규정 임금을 \u0027scale\u0027이라 함. 신인 배우가 경력을 쌓기 위해 받아들이는 조건. 비연예계에서는 \u0027최저 시급으로 일하다\u0027는 의미로 확장되기도 함.",
+                            "example":  "The director loved him but the studio only had budget for scale — he took it anyway to build his resume. → 감독은 그를 마음에 들어 했지만 스튜디오 예산이 기본급밖에 안 됐어 — 경력을 위해 수락했대."
+                        },
+                        {
+                            "expression":  "act aloof",
+                            "dialogue":  "Rachel: If you feel yourself reaching for that phone, then you go shoe shopping, you get your butt in a bubble bath. You want her back you have to start acting aloof.\nMonica: She has to know that you\u0027re not ready.",
+                            "speaker":  "Rachel",
+                            "meaning":  "관심 없는 척하다 / 쿨하게 거리를 두다 — 상대방에게 진심을 숨기고 여유 있어 보이는 연애 전략",
+                            "nuance":  "\u0027aloof\u0027 = 거리를 두는, 냉담한. 연애에서 \u0027playing hard to get\u0027과 비슷한 심리 전략. 너무 적극적으로 보이지 않아야 상대가 더 관심 가진다는 논리. 부정적 뜻도 있으므로 맥락 파악 중요.",
+                            "example":  "She\u0027s been texting you first every day — stop replying instantly, act a little aloof. → 그 여자가 매일 먼저 문자 보내잖아 — 즉시 답장 그만 하고 좀 쿨하게 굴어봐."
+                        },
+                        {
+                            "expression":  "accidentally run into someone on purpose",
+                            "dialogue":  "Rachel: So, what you have to do is, you have to accidentally run into her on purpose. And then act aloof.\nChandler: So I\u0027m not gonna lose her?",
+                            "speaker":  "Rachel",
+                            "meaning":  "의도적으로 우연한 만남을 꾸미다 — 계획한 만남이지만 마치 우연처럼 보이게 하는 행동",
+                            "nuance":  "\u0027accidentally\u0027(우연히)와 \u0027on purpose\u0027(의도적으로)는 원래 반의어인데 함께 써서 연애 전략의 아이러니를 유머 있게 표현. 이런 모순적 표현이 영어 구어에서 꽤 자연스럽게 쓰임.",
+                            "example":  "I \u0027accidentally\u0027 ran into him on purpose at his gym, but he saw me walk in three different times. → \u0027우연히\u0027 그의 헬스장에서 마주치려 했는데, 그가 내가 세 번이나 들어오는 걸 봤어."
+                        },
+                        {
+                            "expression":  "get screwed over",
+                            "dialogue":  "Monica: You know, when you start getting screwed over all the time, you gotta switch to low-fat.\nRachel: Yeah, you do.",
+                            "speaker":  "Monica",
+                            "meaning":  "당하다 / 부당하게 이용당하거나 피해를 입다",
+                            "nuance":  "다소 직설적인 구어 표현. \u0027get cheated\u0027나 \u0027get taken advantage of\u0027보다 강도가 세고 감정적임. 연애·직장·거래 등 다양한 상황에 사용. 여기서는 Monica와 Rachel이 반복적으로 연애에서 상처받는 상황을 가리킴.",
+                            "example":  "He got screwed over by his business partner — the guy took all the money and vanished. → 그는 사업 파트너한테 제대로 당했어 — 그 사람이 돈 다 들고 사라졌어."
+                        },
+                        {
+                            "expression":  "damage control",
+                            "dialogue":  "Monica: Well, no, not at all, you\u0027re not terminal, you just need some damage control.\nChandler: Okay, so should I call her?\nRachel and Monica: Nooo!",
+                            "speaker":  "Monica",
+                            "meaning":  "피해 수습 — 이미 잘못된 상황을 더 나빠지지 않도록 관리하는 것",
+                            "nuance":  "원래 군사·정치 용어였으나 연애·비즈니스·일상 전반에서 폭넓게 쓰임. \u0027I need to do damage control\u0027처럼 동사구로도 자주 씀. 상황을 완전히 해결하는 게 아니라 \u0027최악을 막는다\u0027는 뉘앙스.",
+                            "example":  "I accidentally liked my ex\u0027s photo from three years ago — full damage control: unlike, close the app, cry. → 실수로 전 남자친구 3년 전 사진에 좋아요를 눌렀어 — 완전 수습 모드: 취소, 앱 닫기, 울기."
+                        },
+                        {
+                            "expression":  "be aloof, not a doof",
+                            "dialogue":  "Chandler: And then I just, you know, threw the bag of barley at her, and ran out of the store.\nMonica: My God! Chandler, we said be \u0027aloof\u0027 not \u0027a doof\u0027.",
+                            "speaker":  "Monica",
+                            "meaning":  "쿨하게 굴어, 바보같이 굴지 말고 — Chandler의 실패를 운율로 비꼬는 표현. \u0027doof\u0027 = doofus(바보)의 축약",
+                            "nuance":  "\u0027aloof\u0027와 \u0027a doof\u0027의 라임(운율)을 활용한 언어유희. 영어에서 이런 rhyming criticism은 간결하고 인상적이어서 농담이나 비판에 자주 등장. \u0027doofus\u0027 = 어수룩하고 멍청한 사람.",
+                            "example":  "\u0027You waved at her from across the restaurant instead of playing it cool?\u0027 \u0027Yeah, I tried to be aloof and ended up being a total doof.\u0027 → \u0027쿨한 척하려다 레스토랑 반대편에서 손 흔들었다고?\u0027 \u0027응, 쿨하게 굴려다 완전 바보가 됐어.\u0027"
+                        },
+                        {
+                            "expression":  "I\u0027ve said too much.",
+                            "dialogue":  "Chandler: I\u0027ve scared ya\u0027! I\u0027ve said too much! I\u0027m hopeless, and awkward, and desperate for love!!\n(Janice leaves. Chandler calls her answering machine.)\nChandler: Hey, Janice! It\u0027s me. Um, I just wanna apologize in advance for having chased you down the street.",
+                            "speaker":  "Chandler",
+                            "meaning":  "내가 너무 많이 말했어 — 실수로 지나치게 솔직하거나 과도하게 털어놓았을 때 하는 말",
+                            "nuance":  "후회와 당혹감이 담긴 표현. 비밀을 누설했을 때보다 감정 표현이 지나쳤을 때 더 자주 씀. 가볍게 웃으며 쓰기도 하고 Chandler처럼 절박하게 쓰기도 함.",
+                            "example":  "I told my date everything about my ex on the very first date. I\u0027ve said too much. → 첫 데이트에서 전 남자친구 얘기를 다 털어놨어. 말이 너무 많았어."
+                        },
+                        {
+                            "expression":  "(You\u0027re) not terminal.",
+                            "dialogue":  "Chandler: So, you don\u0027t think I\u0027m terminal?\nMonica: Well, no, not at all, you\u0027re not terminal, you just need some damage control.",
+                            "speaker":  "Monica / Chandler",
+                            "meaning":  "(관계가) 돌이킬 수 없을 정도로 망한 건 아니야 — 의학 용어 \u0027말기\u0027를 연애 상황에 비유한 표현",
+                            "nuance":  "Rachel이 \u0027말기 환자용 아이스크림\u0027으로 시작한 메타포를 이어받아 씀. \u0027terminal\u0027 = 말기 환자처럼 희망 없는 상태. 심각한 상황을 블랙 유머로 승화한 Friends 특유의 표현.",
+                            "example":  "\u0027I replied \u0027you too\u0027 when the waiter said enjoy your meal. Is this friendship terminal?\u0027 \u0027No, everyone does that.\u0027 → \u0027웨이터가 맛있게 드세요 했는데 \u0027당신도요\u0027 해버렸어. 이 관계 끝난 거야?\u0027 \u0027아니, 다들 해.\u0027"
+                        },
+                        {
+                            "expression":  "I am so busted.",
+                            "dialogue":  "Joey: Wait a minute, did you just make up all that stuff just to get out of being my agent?\nPhoebe: (in a coy tone) Oh, you caught me. I am so busted.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "완전히 들켰다 / 딱 걸렸다 — 비밀이나 꾀가 발각되었을 때 하는 말",
+                            "nuance":  "\u0027busted\u0027 = 발각된 (경찰 은어에서 일상어로 확장). \u0027I got caught\u0027보다 더 구어적이고 자기 자신을 가볍게 표현. 보통 큰 죄의식보다 당혹감이나 재미있다는 뉘앙스가 섞임.",
+                            "example":  "\u0027Were you reading my diary?\u0027 \u0027I am so busted. I\u0027m sorry, I was just curious.\u0027 → \u0027내 일기 읽었어?\u0027 \u0027완전 들켰다. 미안해, 그냥 궁금했어.\u0027"
+                        },
+                        {
+                            "expression":  "they went another way",
+                            "dialogue":  "Joey: you\u0027re a better agent than she is, but at least with her I don\u0027t want to blow my brains out.\n...agents always lie. You know, Estelle just says stuff like \u0027They went another way\u0027, but this, I can use this.",
+                            "speaker":  "Joey",
+                            "meaning":  "다른 방향으로 결정했다 — 실제 이유 없이 거절을 완곡하게 표현하는 연예·비즈니스 업계 클리셰",
+                            "nuance":  "\u0027We\u0027ve decided to go in a different direction\u0027의 축약형. 실제 피드백 없이 부드럽게 거절할 때 씀. Joey는 이런 완곡어법보다 Phoebe의 직접적인 피드백이 더 유용하다고 말함.",
+                            "example":  "\u0027How did the audition go?\u0027 \u0027They said they went another way — I\u0027ll never know what I did wrong.\u0027 → \u0027오디션 어떻게 됐어?\u0027 \u0027다른 방향으로 갔다고 하더라 — 내가 뭘 잘못했는지 영원히 모르겠지.\u0027"
+                        },
+                        {
+                            "expression":  "pretty + 형용사 (부사 pretty = quite/fairly)",
+                            "dialogue":  "Phoebe: Um, the off-Broadway play people said \u0027You were pretty but dumb.\u0027\nJoey: Oh.\nPhoebe: Oh no wait, I\u0027m sorry, that\u0027s \u0027pretty dumb.\u0027",
+                            "speaker":  "Phoebe",
+                            "meaning":  "\u0027pretty\u0027가 형용사(예쁜)가 아닌 부사(꽤, 상당히)로 쓰인 것. Phoebe가 처음에 \u0027pretty but dumb(예쁘지만 멍청하다)\u0027으로 잘못 전달하는 것이 개그.",
+                            "nuance":  "\u0027pretty\u0027 = quite / fairly / somewhat (부사). \u0027pretty good\u0027, \u0027pretty bad\u0027, \u0027pretty sure\u0027 등 일상에서 매우 자주 쓰임. 한국인이 \u0027예쁜\u0027으로만 알고 있어 부사 용법을 놓치기 쉬운 단어.",
+                            "example":  "\u0027How was the negotiation?\u0027 \u0027Pretty tough, but I\u0027m pretty sure we got a good deal.\u0027 → \u0027협상 어땠어?\u0027 \u0027꽤 힘들었는데, 좋은 조건 얻은 것 같아.\u0027"
+                        },
+                        {
+                            "expression":  "be crazy about someone",
+                            "dialogue":  "Chandler: Hello, Janice. Hi, I\u0027m so glad that you called, I know I\u0027ve been acting really weird lately. And, it\u0027s just because I\u0027m crazy about you, and I just got...stupid, and, and scared, and....stupid a couple of more times. I\u0027m sorry.",
+                            "speaker":  "Chandler",
+                            "meaning":  "당신에게 완전히 빠져있어 / 너를 너무 좋아해 — 강렬한 감정적 끌림을 나타내는 표현",
+                            "nuance":  "\u0027I love you\u0027보다 가볍지만 \u0027I like you\u0027보다 강한 표현. 연인 사이뿐 아니라 취미·음식에도 쓸 수 있음(\u0027I\u0027m crazy about sushi\u0027). 열정적이고 감정이 넘치는 뉘앙스.",
+                            "example":  "\u0027Why do you always agree to help her even at midnight?\u0027 \u0027Because I\u0027m crazy about her, okay?\u0027 → \u0027왜 자정에도 그 여자 부탁을 들어줘?\u0027 \u0027왜냐면 그 여자한테 완전히 빠져있거든, 알겠어?\u0027"
+                        },
+                        {
+                            "expression":  "the minute you ~ (= as soon as you ~)",
+                            "dialogue":  "Monica: What is it with you people! I mean, the minute you start to feel something, you have to run away?\nChandler: I know, that\u0027s why I don\u0027t want to go tonight, I\u0027m afraid I\u0027m going to say something stupid.",
+                            "speaker":  "Monica",
+                            "meaning":  "뭔가 느끼기 시작하자마자 도망가야 해? — 어떤 일이 시작되는 순간 곧바로 다른 일이 벌어지는 패턴을 강조",
+                            "nuance":  "\u0027the minute (that) ~\u0027 = \u0027~하는 순간, ~하자마자\u0027. \u0027as soon as\u0027보다 구어적이고 감정이 실린 표현. 특정 행동 패턴을 비판하거나 관찰할 때 자주 씀.",
+                            "example":  "The minute things get serious, he disappears. I\u0027m done with him. → 일이 진지해지는 순간 그는 사라져버려. 이제 그 사람이랑은 끝이야."
+                        },
+                        {
+                            "expression":  "desperate for ~",
+                            "dialogue":  "Chandler: I\u0027ve scared ya\u0027! I\u0027ve said too much! I\u0027m hopeless, and awkward, and desperate for love!!",
+                            "speaker":  "Chandler",
+                            "meaning":  "~가 너무너무 간절하다 / ~를 절실히 원하다",
+                            "nuance":  "비즈니스(\u0027desperate for a solution\u0027), 감정(\u0027desperate for approval\u0027), 일상(\u0027desperate for sleep\u0027) 등 폭넓게 사용. 여기서는 Chandler의 자기비하 유머로 쓰여 절박함을 코믹하게 표현. 강도가 세어 상황에 따라 다소 과장된 인상을 줄 수 있음.",
+                            "example":  "After three hours of hiking with no water, I was desperate for a cold drink. → 물 없이 세 시간 하이킹 후에 차가운 음료가 너무 간절했어."
+                        }
+                    ]
+}

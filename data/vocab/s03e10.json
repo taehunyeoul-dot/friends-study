@@ -1,0 +1,209 @@
+{
+    "id":  "s03e10",
+    "code":  "310",
+    "title":  "The One Where Rachel Quits",
+    "model":  "sonnet",
+    "cost_usd":  0.4292,
+    "expressions":  [
+                        {
+                            "expression":  "Good one.",
+                            "dialogue":  "Rachel: Oh, sure! Do you need me to train somebody new? / Gunther: (laughs) **Good one.** Actually, ah, Terry wants you to take the training again.",
+                            "speaker":  "Gunther",
+                            "meaning":  "잘했다 (비꼬는 표현) — 상대방이 상황을 전혀 파악 못한 말을 했을 때 반어적으로 칭찬하는 척하는 표현",
+                            "nuance":  "표면은 칭찬이지만 실제로는 비아냥. 눈 굴리기나 약한 웃음과 함께 쓰이며 지금도 일상에서 자주 쓰인다.",
+                            "example":  "I told my boss I forgot to send the report again. / Good one. Now go fix it. → 보스한테 보고서 또 보내는 거 깜빡했다고 했어. / 기가 막히네. 이제 수습해봐."
+                        },
+                        {
+                            "expression":  "Just admit it.",
+                            "dialogue":  "Ross: **Just admit it** Chandler, you have no backhand.",
+                            "speaker":  "Ross",
+                            "meaning":  "그냥 인정해 — 상대가 뻔한 사실을 부정할 때 직접적으로 압박하는 표현",
+                            "nuance":  "\"just\"를 붙이면 \u0027왜 아직도 부정해?\u0027라는 답답함이 실린다. 장난스러운 상황과 진지한 상황 모두에서 사용 가능.",
+                            "example":  "**Just admit it** — you forgot about the meeting. → 그냥 인정해 — 너 회의 있는 거 까먹었잖아."
+                        },
+                        {
+                            "expression":  "shriek like a ~",
+                            "dialogue":  "Ross: Shielding your face and **shrieking like a girl**... is not a backhand. / Chandler: I was **shrieking**... **like a Marine.**",
+                            "speaker":  "Ross / Chandler",
+                            "meaning":  "~처럼 날카롭게 소리를 지르다 — shriek은 공포·놀람·흥분으로 내는 날카로운 외침",
+                            "nuance":  "Chandler가 \u0027like a Marine\u0027으로 반박하는 장면이 핵심 웃음 포인트. 원 대사 \u0027like a girl\u0027은 성차별적 표현으로 현재는 잘 쓰지 않는다. shriek은 scream보다 더 날카롭고 다급한 느낌.",
+                            "example":  "She **shrieked like a banshee** when the cat jumped onto her lap. → 고양이가 무릎에 올라오자 그녀는 귀신처럼 날카롭게 소리를 질렀다."
+                        },
+                        {
+                            "expression":  "in one\u0027s prime",
+                            "dialogue":  "Phoebe: I am against innocent trees being cut down **in their prime**, and their corpses grotesquely dressed in tinsel and twinkly lights.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "한창때에, 전성기에 — 특히 가장 좋을 시절에 비극적으로 끝날 때 사용",
+                            "nuance":  "주로 \u0027die/be cut down in one\u0027s prime\u0027 형태로 쓰인다. 사람, 경력, 나무 등 다양한 대상에 적용 가능. Phoebe가 나무를 향해 과장된 동정심을 표현하는 맥락.",
+                            "example":  "The novelist died **in her prime**, leaving her greatest work unfinished. → 그 소설가는 한창때에 세상을 떠나 가장 훌륭한 작품을 미완으로 남겼다."
+                        },
+                        {
+                            "expression":  "fulfill one\u0027s life purpose",
+                            "dialogue":  "Joey: Those trees were born to be Christmas trees, **they\u0027re fulfilling their life purpose**, by making people happy.",
+                            "speaker":  "Joey",
+                            "meaning":  "삶의 목적/사명을 완수하다",
+                            "nuance":  "Joey가 Phoebe를 설득하려 진지하게 쓰는 표현이 코미디 포인트. \u0027fulfill one\u0027s destiny/calling\u0027으로도 응용 가능. 진지한 상황에서도 충분히 쓸 수 있는 표현.",
+                            "example":  "She said she finally felt like she was **fulfilling her life purpose** the moment she opened the clinic. → 그녀는 진료소를 열던 순간 드디어 삶의 목적을 이루고 있다는 느낌이 들었다고 했다."
+                        },
+                        {
+                            "expression":  "I feel horrible.",
+                            "dialogue":  "Monica: You broke a little girl\u0027s leg?!! / Ross: **I know. I feel horrible.** Okay.",
+                            "speaker":  "Ross",
+                            "meaning":  "정말 괴롭다, 죄책감이 너무 심하다",
+                            "nuance":  "\u0027I feel bad\u0027보다 훨씬 강한 죄책감·후회를 표현. \u0027terrible\u0027과 강도가 비슷하다. 실수로 타인에게 잘못을 했을 때 자주 나오는 즉각적인 반응.",
+                            "example":  "**I feel horrible** about leaving early and missing her speech. → 일찍 자리를 떠서 그녀의 발언을 못 들은 게 정말 죄책감이 들어."
+                        },
+                        {
+                            "expression":  "Look out, ~\u0027s coming!",
+                            "dialogue":  "Chandler: **Look out kids, he\u0027s coming!** (Ross가 아이의 다리를 부러뜨리고 떠나는 장면에서)",
+                            "speaker":  "Chandler",
+                            "meaning":  "조심해, ~가 온다! — 실제 경고 또는 장난스러운 비꼼으로 사용",
+                            "nuance":  "진짜 위험 경고로도, 누군가를 놀릴 때도 쓴다. \u0027Look out!\u0027만 외치면 \u0027조심해!\u0027라는 즉각적인 경고가 된다. Chandler가 Ross를 위험 인물처럼 비꼬는 맥락.",
+                            "example":  "**Look out, the boss is coming!** Put your phone away. → 조심해, 사장님 온다! 핸드폰 집어넣어."
+                        },
+                        {
+                            "expression":  "at the touch of a button",
+                            "dialogue":  "Woman: I can dial 9-1-1 **at the touch of a button**, y\u0027know.",
+                            "speaker":  "Woman (복도의 여성)",
+                            "meaning":  "버튼 하나만 누르면, 즉시, 매우 쉽게",
+                            "nuance":  "어떤 행동이 매우 쉽고 즉각적으로 가능하다는 걸 강조할 때 쓰인다. 기술적 편리함을 묘사할 때도, 여기처럼 은근한 협박 뉘앙스로도 사용 가능.",
+                            "example":  "You can now unlock your front door **at the touch of a button** from anywhere. → 이제 어디서든 버튼 하나로 현관문을 열 수 있다."
+                        },
+                        {
+                            "expression":  "honorary ~",
+                            "dialogue":  "Ross: No, hi, I\u0027m, I\u0027m **an honorary Brown Bird**. (Does the Brown Bird salute.) / Woman: What does that mean? / Ross: It means that I can sell cookies, but I\u0027m not invited to sleep-overs.",
+                            "speaker":  "Ross",
+                            "meaning":  "명예 ~, 정식 멤버는 아니지만 특별히 자격이 인정된",
+                            "nuance":  "\u0027honorary degree\u0027(명예 학위), \u0027honorary member\u0027 등으로 폭넓게 쓰인다. Ross의 \u0027not invited to sleep-overs\u0027 설명이 이 장면의 웃음 포인트. 다소 격식체 단어이지만 일상에서도 사용.",
+                            "example":  "He was given **an honorary membership** at the club for his decades of support. → 그는 수십 년간의 후원을 인정받아 클럽의 명예 회원이 됐다."
+                        },
+                        {
+                            "expression":  "That sounds do-able.",
+                            "dialogue":  "Sarah: So far, I\u0027ve sold seventy-five. / Ross: Four hundred, huh? Well, **that sounds do-able.**",
+                            "speaker":  "Ross",
+                            "meaning":  "해볼 만하겠는데, 충분히 가능할 것 같아",
+                            "nuance":  "\u0027feasible\u0027이나 \u0027possible\u0027의 캐주얼한 구어체 버전. 현대에는 \u0027doable\u0027이 더 일반적인 철자. 회의나 일상 대화에서 아이디어의 실현 가능성을 긍정적으로 평가할 때 자주 쓰인다.",
+                            "example":  "Finish the whole presentation by noon? Yeah, **that\u0027s totally doable**. → 정오까지 발표 자료 전체를 끝낸다고? 응, 충분히 가능해."
+                        },
+                        {
+                            "expression":  "have nothing pushing you to ~",
+                            "dialogue":  "Joey: As long as you got this job, **you\u0027ve got nothing pushing you to get another one.**",
+                            "speaker":  "Joey",
+                            "meaning":  "~하게 만드는 동기나 압박이 전혀 없다",
+                            "nuance":  "\u0027push\u0027를 동기부여나 압력의 의미로 사용하는 구어체. 안전지대에 있으면 변화할 이유가 없다는 현실적인 조언. \u0027nothing motivating you to\u0027와 같은 의미.",
+                            "example":  "If the company keeps making excuses for you, **you\u0027ve got nothing pushing you to do better**. → 회사가 계속 변명을 받아주면, 더 잘해야 할 이유가 없잖아."
+                        },
+                        {
+                            "expression":  "be still pursuing ~",
+                            "dialogue":  "Chandler: How... exactly are you pursuing that? / Rachel: Well, yeah! **I\u0027m still pursuing that.**",
+                            "speaker":  "Rachel",
+                            "meaning":  "아직도 ~를 추구하고 있어, 목표를 향해 노력 중이야",
+                            "nuance":  "\u0027pursue\u0027는 목표·꿈·경력을 적극적으로 뒤쫓는다는 의미. 이 장면에서 Rachel이 실제론 아무것도 안 하면서 \u0027still pursuing\u0027이라고 말하는 아이러니가 포인트. 이력서·면접에서도 자주 쓰이는 표현.",
+                            "example":  "I\u0027m **still pursuing** a career in architecture, even if it\u0027s taking longer than expected. → 예상보다 오래 걸리고 있지만 아직 건축 분야 커리어를 향해 나아가고 있어."
+                        },
+                        {
+                            "expression":  "send out good thoughts",
+                            "dialogue":  "Chandler: How exactly are you pursuing that? Other than sending out resumes like what, two years ago? / Rachel: Well, I\u0027m also **sending out.... good thoughts.**",
+                            "speaker":  "Rachel",
+                            "meaning":  "좋은 기운/생각을 보낸다 — 아무런 실질적 행동 없이 막연히 긍정적 태도만 취하는 것을 자조하는 표현으로도 쓰임",
+                            "nuance":  "\u0027send good vibes/thoughts\u0027는 진심으로 응원한다는 의미이기도 하지만, 여기서는 Rachel이 실질적 노력 없이 희망만 품고 있다고 자기 풍자하는 맥락. 비꼬는 뉘앙스로도 쓸 수 있다.",
+                            "example":  "So your entire job-search strategy is **sending out good thoughts**? → 구직 전략이 전부 좋은 생각 보내기야?"
+                        },
+                        {
+                            "expression":  "I would give anything to ~",
+                            "dialogue":  "Rachel: **I would give anything to** work for a designer, y\u0027know, or a buyer.",
+                            "speaker":  "Rachel",
+                            "meaning":  "~을 할 수 있다면 뭐든 다 내줄 수 있어 — 강렬한 소망을 과장법으로 표현하는 관용구",
+                            "nuance":  "\u0027I\u0027d give my right arm to ~\u0027의 완화된 버전. 일상 대화에서 매우 자주 쓰이며 조건절 없이 단독으로도 사용 가능. 진심 어린 간절함을 표현할 때 자연스럽다.",
+                            "example":  "**I would give anything to** redo that presentation. → 그 발표를 다시 할 수 있다면 뭐든지 할 텐데."
+                        },
+                        {
+                            "expression":  "give someone one\u0027s notice",
+                            "dialogue":  "Rachel: So I don\u0027t think I should do it anymore. I\u0027m gonna **give you my weeks notice.** ... **I quit.**",
+                            "speaker":  "Rachel",
+                            "meaning":  "고용주에게 퇴직 의사를 공식 통보하다",
+                            "nuance":  "미국에서 퇴직 시 2주 전 통보가 관례이며, 이를 \u0027give two weeks\u0027 notice\u0027라고 한다. Rachel의 \u0027my weeks notice\u0027는 비표준 구어체. 직장 관련 대화에서 필수 표현.",
+                            "example":  "I finally **gave my two weeks\u0027 notice** today — I start the new job next month. → 오늘 드디어 2주 후 퇴직 통보를 했어 — 다음 달에 새 직장 시작해."
+                        },
+                        {
+                            "expression":  "cut someone off",
+                            "dialogue":  "Monica: (달려와 쿠키를 찾으며) Ross, put me down for another box... / Ross: Monica, **I\u0027m cutting you off.**",
+                            "speaker":  "Ross",
+                            "meaning":  "무언가를 더 이상 공급하지 않다, 공급·지원을 차단하다",
+                            "nuance":  "원래 바텐더가 술을 더 이상 제공하지 않겠다는 상황에서 나온 표현. 재정 지원, 통신, 관계 등 다양한 \u0027공급\u0027에 적용 가능. \u0027cut off\u0027 단독으로도 쓰인다.",
+                            "example":  "His parents **cut him off** after he refused to go back to school. → 그가 학교로 돌아가기를 거부하자 부모님이 지원을 끊었다."
+                        },
+                        {
+                            "expression":  "the munchies",
+                            "dialogue":  "Ross: The key to my success, **\u0027the munchies.\u0027** So I ah, started hitting the NYU dorms around midnight.",
+                            "speaker":  "Ross",
+                            "meaning":  "주로 늦은 밤에 오는 갑작스러운 식욕, 야식 충동",
+                            "nuance":  "원래 마리화나 흡연 후의 강한 식욕을 뜻하는 슬랭이었으나 현재는 일반적인 야식 충동에도 사용된다. Ross가 대학생들의 야식 충동을 쿠키 판매 전략으로 활용하는 장면.",
+                            "example":  "I always get **the munchies** after midnight and end up emptying the fridge. → 나는 자정 넘으면 항상 야식 생각이 나서 결국 냉장고를 비우게 된다."
+                        },
+                        {
+                            "expression":  "hit the ~ (장소를 공략하다/방문하다)",
+                            "dialogue":  "Ross: So I ah, **started hitting the NYU dorms** around midnight. I am selling cookies by the case.",
+                            "speaker":  "Ross",
+                            "meaning":  "~에 가다, ~를 공략하다 — 특정 목적을 갖고 장소를 방문할 때 쓰는 구어체",
+                            "nuance":  "\u0027hit the gym\u0027, \u0027hit the bars\u0027, \u0027hit the road\u0027, \u0027hit the stores\u0027 등 활용 범위가 매우 넓다. 일상 회화에서 빈번하게 쓰이는 핵심 phrasal 패턴.",
+                            "example":  "We should **hit the supermarket** before it closes tonight. → 오늘 밤 문 닫기 전에 슈퍼 빨리 다녀오자."
+                        },
+                        {
+                            "expression":  "I blew it.",
+                            "dialogue":  "Chandler: Hey! How\u0027d the interview go? / Rachel: **Oh, I blew it.** I wouldn\u0027t of even hired me.",
+                            "speaker":  "Rachel",
+                            "meaning":  "망쳤어, 기회를 날려버렸어",
+                            "nuance":  "중요한 기회(인터뷰·시험·발표 등)를 실패했을 때 쓰는 자기비판적 표현. \u0027I messed it up\u0027보다 더 구어적이고 체념한 느낌. \u0027blow\u0027의 과거형 \u0027blew\u0027를 사용.",
+                            "example":  "**I blew it** at the audition — I forgot my lines right at the beginning. → 오디션 망쳤어 — 시작하자마자 대사를 잊어버렸거든."
+                        },
+                        {
+                            "expression":  "That\u0027s not how that was supposed to come out.",
+                            "dialogue":  "Ross: ...you\u0027re gonna go on like a thousand interviews before you get a job. (she glares at him) **That\u0027s not how that was supposed to come out.**",
+                            "speaker":  "Ross",
+                            "meaning":  "그건 내가 말하려던 뜻이 아니었어, 말이 이상하게 나왔어",
+                            "nuance":  "의도치 않게 상처를 주거나 어색한 말이 나왔을 때 수습하는 영어식 패턴. \u0027That came out wrong.\u0027과 같은 의미로, 원어민들이 자주 쓰는 자기 수습 표현.",
+                            "example":  "You look exhausted compared to last year — sorry, **that\u0027s not how that was supposed to come out**. → 작년에 비해 많이 지쳐 보여 — 미안, 그런 뜻으로 한 말이 아니었어."
+                        },
+                        {
+                            "expression":  "perk up / perk something up",
+                            "dialogue":  "Chandler: Well seeing that drunk Santa wet himself, **really perked up my Christmas.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "기운이 나다/나게 하다, 분위기가 갑자기 살아나다",
+                            "nuance":  "\u0027cheer up\u0027과 비슷하지만 더 즉각적이고 경쾌한 느낌. Chandler가 부정적인 사건(취한 산타의 사고)을 아이러니하게 크리스마스 기분을 살린 사건으로 묘사하는 게 웃음 포인트.",
+                            "example":  "A strong espresso **really perks me up** when I\u0027m dragging in the afternoon. → 오후에 기운이 없을 때 진한 에스프레소 한 잔이 정말 기운을 돋워준다."
+                        },
+                        {
+                            "expression":  "give in to ~",
+                            "dialogue":  "Chandler: You-you-you don\u0027t wanna **give into the fear.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "~에 굴복하다, 저항하다가 결국 따르다",
+                            "nuance":  "압박·유혹·두려움에 저항하다 결국 굴복하는 것을 표현. 여기서 \u0027the fear\u0027는 직업 불안과 변화에 대한 두려움. \u0027give in\u0027 단독으로 쓰면 \u0027결국 양보하다\u0027는 의미.",
+                            "example":  "Don\u0027t **give in to** the pressure — you made the right call. → 압박에 굴복하지 마 — 네 판단이 맞았어."
+                        },
+                        {
+                            "expression":  "be (a little) judgmental",
+                            "dialogue":  "Phoebe: I-I thought a lot about what you said, and um, I realized duh, all right **maybe I was a little judgmental.** Yeah.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "너무 쉽게 남을 판단하다, 비판적인 시각으로 재단하다",
+                            "nuance":  "\u0027Don\u0027t be so judgmental\u0027처럼 경고로도 자주 쓰이는 형용사. Phoebe가 자신의 과잉 반응을 인정하는 장면에서 자기 반성의 표현으로 사용. 일상 대화에서 매우 빈번히 등장한다.",
+                            "example":  "I know I can be **a little judgmental** about his choices, but I\u0027m just worried about him. → 내가 그의 선택에 좀 판단적이라는 걸 알지만, 그냥 걱정이 돼서."
+                        },
+                        {
+                            "expression":  "That is so ~ist. / ageist",
+                            "dialogue":  "Phoebe: You keep the old ones in the back, **that is so ageist.**",
+                            "speaker":  "Phoebe",
+                            "meaning":  "그건 완전 나이 차별이야 — \u0027-ist\u0027 접미사로 특정 차별 행위를 직접 비판하는 표현",
+                            "nuance":  "\u0027sexist\u0027(성차별), \u0027racist\u0027(인종차별)와 같은 구조. \u0027ageism\u0027(나이차별주의)은 여전히 사회적으로 중요한 개념. Phoebe가 이를 나무에게 적용하는 게 웃음 포인트.",
+                            "example":  "Telling someone they\u0027re \u0027too old to switch careers\u0027 is **so ageist**. → 커리어를 바꾸기에 너무 늙었다고 말하는 건 완전 나이 차별이야."
+                        },
+                        {
+                            "expression":  "I wouldn\u0027t have even hired me.",
+                            "dialogue":  "Rachel: Oh, I blew it. **I wouldn\u0027t of even hired me.**",
+                            "speaker":  "Rachel",
+                            "meaning":  "나 스스로도 나를 채용하지 않았을 거야 — 완전히 망쳤다는 강한 자기 비하적 표현",
+                            "nuance":  "\u0027wouldn\u0027t of\u0027는 \u0027wouldn\u0027t have\u0027의 비표준 구어체 형태 (발음이 \u0027would\u0027ve\u0027처럼 들려서 \u0027of\u0027로 쓰는 경우). 면접에서 완전히 실패했을 때 쓰는 강한 자조적 표현.",
+                            "example":  "I stumbled over every answer. **I wouldn\u0027t have even hired me.** → 모든 답변에서 허둥댔어. 나 스스로도 내가 뽑지 않았을 거야."
+                        }
+                    ]
+}

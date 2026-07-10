@@ -1,0 +1,209 @@
+{
+    "id":  "s02e04",
+    "code":  "204",
+    "title":  "The One With Phoebe\u0027s Husband",
+    "model":  "sonnet",
+    "cost_usd":  0.435,
+    "expressions":  [
+                        {
+                            "expression":  "I gotta go",
+                            "dialogue":  "OH MY GOOOD, oh my God, oh **I gotta go, I gotta go, I gotta go**. [hangs up]",
+                            "speaker":  "Rachel",
+                            "meaning":  "\u0027I have to go\u0027의 구어체 단축형. 자리를 급히 떠야 하거나 전화를 갑자기 끊어야 할 때 쓰는 말.",
+                            "nuance":  "세 번 연달아 반복(\u0027I gotta go, I gotta go, I gotta go\u0027)하면 극도의 당황·긴박감을 표현한다. 전화 중 갑자기 상황이 생겼을 때 가장 자연스러운 마무리 표현이며, 이유 설명 없이 그냥 쓰면 \u0027아무튼 급하다\u0027는 뜻으로 통한다.",
+                            "example":  "My boss just walked in — **I gotta go**, I\u0027ll call you back. → 상사가 방금 들어왔어, 나 끊어야 해, 나중에 전화할게."
+                        },
+                        {
+                            "expression":  "c\u0027mon",
+                            "dialogue":  "Mom, **c\u0027mon**, stop worrying. This is a safe street, this is a safe building.",
+                            "speaker":  "Rachel",
+                            "meaning":  "\u0027Come on\u0027의 축약형. 상대를 설득하거나 재촉하거나, 답답함·실망을 전할 때 씀.",
+                            "nuance":  "맥락에 따라 \u0027제발 그만해\u0027, \u0027어서\u0027, \u0027설마 진짜야?\u0027 등 전혀 다른 뉘앙스가 된다. 문어체에서는 거의 쓰지 않는 순수 구어 표현이며, 억양이 올라가면 설득, 내려가면 한탄에 가깝다.",
+                            "example":  "**C\u0027mon**, it\u0027s just one bite — try it! → 제발, 한 입만이야, 먹어봐!"
+                        },
+                        {
+                            "expression":  "not [X] [X] (강조형 부정 반복)",
+                            "dialogue":  "I mean, I\u0027m **not married married**, ya know, he\u0027s just a friend and he\u0027s gay and he just needed a green card.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "\u0027진짜 그 의미의 X는 아니다\u0027라는 뜻. 같은 단어를 두 번 반복해 전형적인 의미와 거리를 두고 상황을 가볍게 만드는 기법.",
+                            "nuance":  "\u0027not sick sick\u0027, \u0027not dating dating\u0027, \u0027not mad mad\u0027처럼 패턴을 바꿔 쓸 수 있다. 오해를 부드럽게 바로잡거나 심각성을 줄일 때 쓰이며, 한국어의 \u0027진짜 ~은 아니고\u0027에 가장 가깝다.",
+                            "example":  "We\u0027re **not fighting fighting** — it\u0027s just a small disagreement. → 우리가 진짜로 싸우는 건 아니야, 그냥 작은 의견 차이일 뿐이야."
+                        },
+                        {
+                            "expression":  "Hello (문장 중간 삽입 강조)",
+                            "dialogue":  "You were totally in love with this guy who, **hello**, was gay.",
+                            "speaker":  "Monica",
+                            "meaning":  "문장 중간에 삽입해 \u0027이건 뻔한 사실 아니야?\u0027, \u0027이게 안 보여?\u0027라는 답답함이나 빈정댐을 표현.",
+                            "nuance":  "1990~2000년대 미국 구어에서 특히 유행한 표현. 상대가 명백한 사실을 모르고 있을 때 약간 빈정대며 쓴다. 인사 \u0027Hello\u0027와 억양이 달라서 강세가 단어 앞으로 오는 느낌이다. 지금도 쓰이지만 다소 시대적 색채가 있음.",
+                            "example":  "You want to go hiking in flip-flops? **Hello**, it\u0027s a mountain trail. → 슬리퍼 신고 하이킹 가겠다고? 이봐, 산길이잖아."
+                        },
+                        {
+                            "expression":  "What the hell were you thinking?",
+                            "dialogue":  "I mean, **what the hell were you thinking?**",
+                            "speaker":  "Monica",
+                            "meaning":  "\u0027도대체 무슨 생각으로 그랬어?\u0027 강한 황당함·분노를 표현하는 질문.",
+                            "nuance":  "\u0027What were you thinking?\u0027보다 감정 강도가 훨씬 세다. 친한 사이에서만 편하게 쓸 수 있는 수위이며, 처벌 예고보다는 황당함 표출에 가깝다. \u0027the hell\u0027이 강도 조절 장치 역할을 한다.",
+                            "example":  "You signed a two-year lease without reading it? **What the hell were you thinking?** → 계약서도 안 읽고 2년 계약에 서명했어? 도대체 무슨 생각이었어?"
+                        },
+                        {
+                            "expression":  "You are dead meat",
+                            "dialogue":  "[Monica to Chandler] **You are dead meat.**",
+                            "speaker":  "Monica",
+                            "meaning":  "\u0027너 죽었어\u0027, \u0027각오해\u0027. 상대가 크게 실수했을 때 보복·처벌을 예고하는 가벼운 위협.",
+                            "nuance":  "실제 폭력이 아닌 장난기 섞인 위협으로, 친한 사이나 코미디 상황에서 씀. 진지한 톤으로 말하면 더 무섭게 들린다. \u0027You\u0027re so dead\u0027와 같은 계열.",
+                            "example":  "If you eat my leftovers again, **you\u0027re dead meat**. → 내 남은 음식 또 먹으면 너 죽은 거야."
+                        },
+                        {
+                            "expression":  "go through with something",
+                            "dialogue":  "At the last minute I couldn\u0027t **go through with** it so they let me be the guy who comes in to fix the copier.",
+                            "speaker":  "Joey",
+                            "meaning":  "(어렵거나 불편한 일을) 끝까지 실행하다, 완수하다.",
+                            "nuance":  "주로 부정형 \u0027couldn\u0027t go through with it\u0027으로 자주 쓰인다. 결심은 했지만 막상 실행하지 못한 상황에 딱 맞는 표현. \u0027follow through\u0027와 비슷하지만 힘들거나 꺼려지는 행동에 더 어울린다.",
+                            "example":  "She planned to confront him but couldn\u0027t **go through with** it. → 그녀는 그를 따지려 했지만 끝내 실행하지 못했다."
+                        },
+                        {
+                            "expression":  "set yourself up (for something)",
+                            "dialogue":  "I can\u0027t believe you\u0027re dressing up for him. I mean, you\u0027re just **setting yourself up** all over again.",
+                            "speaker":  "Monica",
+                            "meaning":  "스스로 실망·상처·실패를 자초하는 상황을 만들다.",
+                            "nuance":  "\u0027set up for failure/disappointment\u0027 형태로도 자주 쓴다. 상대가 나쁜 결과를 향해 가고 있을 때 경고하는 어조이며, \u0027all over again\u0027이 붙으면 \u0027또다시 그 함정에 빠진다\u0027는 뜻이 된다.",
+                            "example":  "Lending him money again is just **setting yourself up** for disappointment. → 그에게 또 돈을 빌려주면 실망을 자초하는 거야."
+                        },
+                        {
+                            "expression":  "psych yourself out",
+                            "dialogue":  "I\u0027ve got myself all **psyched out**, you know, and it\u0027s become, like this, this thing.",
+                            "speaker":  "Ross",
+                            "meaning":  "스스로 긴장하거나 불안하게 만들어 결국 행동하지 못하게 되다.",
+                            "nuance":  "\u0027psych someone out\u0027은 상대를 심리적으로 압박하는 것, \u0027psych yourself out\u0027은 그 화살이 자신을 향하는 것. 시험·발표·데이트 등 중요한 순간 직전에 자주 쓰인다.",
+                            "example":  "I had the answer but I totally **psyched myself out** and froze. → 답을 알고 있었는데 스스로 너무 긴장해서 얼어버렸어."
+                        },
+                        {
+                            "expression":  "No kidding?",
+                            "dialogue":  "Rachel: As a woman, there is nothing sexier than a man who does not want to have sex. / Ross: **No kidding?**",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027진짜? 정말?\u0027 상대의 말에 놀라거나 흥미로울 때 쓰는 반응.",
+                            "nuance":  "\u0027Really?\u0027, \u0027Seriously?\u0027와 비슷하지만 약간 더 캐주얼하고 구식 느낌. \u0027농담하는 거 아니야?\u0027가 직역이지만 실제로는 \u0027오, 진짜?\u0027 정도의 반응이다. 강조하면 \u0027설마!\u0027 뉘앙스로도 씀.",
+                            "example":  "A: She quit her job and moved to Bali. B: **No kidding?** Good for her. → A: 그녀 직장 그만두고 발리로 이사 갔대. B: 진짜? 잘 됐네."
+                        },
+                        {
+                            "expression":  "get over it / get over someone",
+                            "dialogue":  "He\u0027s with her now and you\u0027re just gonna have to **get over it**.",
+                            "speaker":  "Monica",
+                            "meaning":  "(감정적 고통·실망·집착에서) 벗어나다, 극복하고 앞으로 나아가다.",
+                            "nuance":  "직설적이고 약간 차갑게 들릴 수 있어서 아주 친한 사이에서 쓴다. \u0027I\u0027m not over him yet\u0027처럼 부정형으로도 자주 쓰이며, 연애 감정뿐 아니라 실망·트라우마 등에도 씀.",
+                            "example":  "It\u0027s been six months. You really need to **get over** her. → 6개월이 지났잖아. 이제 그녀를 잊어야 해."
+                        },
+                        {
+                            "expression":  "wiped (out)",
+                            "dialogue":  "This has been great but I\u0027m officially **wiped**.",
+                            "speaker":  "Chandler",
+                            "meaning":  "완전히 지쳐있다, 녹초가 된 상태.",
+                            "nuance":  "\u0027exhausted\u0027보다 구어적이고 직접적. \u0027I\u0027m beat\u0027, \u0027I\u0027m dead\u0027, \u0027I\u0027m done\u0027과 같은 계열. \u0027officially\u0027를 붙이면 과장·유머 효과가 있으며, Chandler가 자신의 상태를 공식 선언하듯 쓰는 게 포인트.",
+                            "example":  "Three back-to-back meetings — I\u0027m completely **wiped**. → 회의 세 개 연속으로 하고 나니 완전 녹초야."
+                        },
+                        {
+                            "expression":  "hang out (with someone)",
+                            "dialogue":  "C\u0027mon, it\u0027s only eleven thirty. Let\u0027s just talk — we never just **hang out** and talk anymore.",
+                            "speaker":  "Rachel",
+                            "meaning":  "특별한 목적 없이 함께 시간을 보내다, 어울리다.",
+                            "nuance":  "공식적인 약속이나 활동 없이 그냥 같이 있는 것. \u0027meet up\u0027보다 더 캐주얼하고 목적 없이 어울리는 느낌이다. \u0027hang out with someone\u0027과 \u0027hang out at a place\u0027 두 형태 모두 자주 쓴다.",
+                            "example":  "We don\u0027t have to go anywhere — let\u0027s just **hang out** here. → 어디 안 가도 돼, 그냥 여기서 어울리자."
+                        },
+                        {
+                            "expression":  "in a nutshell",
+                            "dialogue":  "Rachel: OK Julie, let\u0027s start with your childhood, what was that like? / Julie: **In a nutshell**. . . / Rachel: Nah, uh, uh.",
+                            "speaker":  "Julie",
+                            "meaning":  "한마디로, 간단히 요약하자면.",
+                            "nuance":  "복잡한 내용을 짧게 요약할 때 씀. 발표·회의·대화 모두에서 자연스럽다. Rachel이 \u0027간단한 버전\u0027을 원하지 않아서 말을 끊는 장면이 이 표현의 아이러니를 보여준다.",
+                            "example":  "**In a nutshell**, the deal fell through because of budget issues. → 한마디로, 예산 문제로 거래가 무산됐어."
+                        },
+                        {
+                            "expression":  "cut it out",
+                            "dialogue":  "Hey, c\u0027mon, **cut it out**.",
+                            "speaker":  "Rachel",
+                            "meaning":  "그만해, 집어쳐. 성가시거나 짜증스러운 행동을 멈추라는 명령.",
+                            "nuance":  "\u0027Stop it\u0027보다 더 단호하거나 짜증이 담긴 어조. 친한 사이에서 가볍게 쓰기도 하고, 진지하게 말하면 경고가 된다. 어린이에게 어른이 쓰는 느낌도 있어서 맥락에 따라 강도가 달라진다.",
+                            "example":  "**Cut it out**, you two — stop bickering and eat. → 너희 둘 그만 좀 해, 티격태격 그만하고 먹어."
+                        },
+                        {
+                            "expression":  "somebody got some (last night)",
+                            "dialogue":  "[Ross is walking down the street, happily singing] Old Woman: Well, **somebody got some last night**.",
+                            "speaker":  "Old Woman",
+                            "meaning":  "어젯밤에 누군가 성관계를 가졌군. 성관계를 완곡하게 표현하는 속어.",
+                            "nuance":  "행복하거나 들뜬 사람을 보고 짐작할 때 쓴다. 직접적이지 않지만 의미는 명확한 속어. 캐주얼하고 약간 거친 표현이므로 공식 자리에서는 피할 것.",
+                            "example":  "Look at that smile — looks like **someone got some** last night. → 저 미소 봐, 어젯밤에 잘 됐나 보네."
+                        },
+                        {
+                            "expression":  "live a lie",
+                            "dialogue":  "You just reach a point where you can\u0027t **live a lie** anymore.",
+                            "speaker":  "Duncan",
+                            "meaning":  "자신의 진실·정체성·감정을 숨기고 거짓된 삶을 살다.",
+                            "nuance":  "자기 자신을 속이거나 타인에게 진실을 숨기며 살아가는 상황에 쓴다. 감정적이고 무거운 맥락에서 쓰이는 표현으로, 해소·고백의 직전 문장으로 자주 등장한다.",
+                            "example":  "After years of pretending to be happy, she couldn\u0027t **live a lie** anymore. → 몇 년 동안 행복한 척하다가 더 이상 거짓된 삶을 살 수 없었다."
+                        },
+                        {
+                            "expression":  "fit in (with someone)",
+                            "dialogue":  "All my friends are gay, I was just tryin\u0027 to **fit in**.",
+                            "speaker":  "Duncan",
+                            "meaning":  "(집단·환경에) 어울리다, 잘 맞다, 소속감을 갖다.",
+                            "nuance":  "사회적 압력이나 환경에 맞추려는 노력의 뉘앙스가 있다. \u0027belong\u0027보다 더 적극적으로 노력하는 느낌. \u0027I never quite fit in\u0027처럼 부정문으로도 자주 쓰인다.",
+                            "example":  "It took a few months, but she finally started to **fit in** with her new team. → 몇 달 걸렸지만 그녀는 새 팀에 드디어 어울리기 시작했다."
+                        },
+                        {
+                            "expression":  "put something off",
+                            "dialogue":  "Rachel: Maybe you should **put it off**. / Ross: No, no, I don\u0027t wanna **put it off**, I just—",
+                            "speaker":  "Rachel / Ross",
+                            "meaning":  "(어떤 일을) 미루다, 연기하다.",
+                            "nuance":  "\u0027postpone\u0027의 구어체. 귀찮거나 두렵거나 불편해서 일부러 미루는 뉘앙스가 강하다. \u0027procrastinate\u0027는 습관적 미루기, \u0027put off\u0027는 특정 일을 한 번 뒤로 미루는 것.",
+                            "example":  "Stop **putting off** the dentist — just go already. → 치과 그만 미루고 그냥 가."
+                        },
+                        {
+                            "expression":  "catch someone off guard",
+                            "dialogue":  "I\u0027d want you to, like, **catch me off guard**, you know, with like a really good kiss.",
+                            "speaker":  "Rachel",
+                            "meaning":  "상대가 예상치 못한 순간에 행동이나 말로 놀라게 하다.",
+                            "nuance":  "긍정·부정 맥락 모두 가능하다. 좋은 의미에서는 \u0027깜짝 놀라게 하다\u0027, 나쁜 의미에서는 \u0027허를 찌르다\u0027. \u0027be caught off guard\u0027(수동형)으로도 자주 쓴다.",
+                            "example":  "The sudden question **caught me off guard** and I didn\u0027t know what to say. → 갑작스러운 질문에 허를 찔려서 뭐라 말해야 할지 몰랐어."
+                        },
+                        {
+                            "expression":  "per chance (격식 과장 유머)",
+                            "dialogue":  "Are, uh, any of these cultures, **per chance**, in the tri-state area?",
+                            "speaker":  "Chandler",
+                            "meaning":  "\u0027혹시\u0027, \u0027어쩌면\u0027. 본래는 격식체지만 일부러 고풍스러운 말투를 써서 유머를 만드는 Chandler식 표현.",
+                            "nuance":  "자연스러운 일상어는 \u0027by any chance\u0027. 일상 대화에서 \u0027per chance\u0027를 쓰면 의도적으로 과장된 격식을 연기하는 유머가 된다. Chandler가 비꼬거나 풍자할 때 격식어를 과장하는 패턴의 전형.",
+                            "example":  "Would you, **per chance**, know the way to Carnegie Hall? → 혹시라도, 카네기 홀 가는 길을 알고 계십니까?"
+                        },
+                        {
+                            "expression":  "If I\u0027m going down, I\u0027m taking everybody with me",
+                            "dialogue":  "**If I\u0027m goin\u0027 down, I\u0027m takin\u0027 everybody with me.** [immediately reveals Joey was in a porno]",
+                            "speaker":  "Chandler",
+                            "meaning":  "\u0027나 혼자 망하면 다 같이 망한다.\u0027 자신이 불리해지면 다른 사람의 비밀도 폭로하겠다는 협박 또는 각오.",
+                            "nuance":  "원래는 진지한 위협이지만 여기선 코미디로 쓰임. 직장·정치·스캔들 등 다양한 상황에서 쓸 수 있다. 비슷한 표현: \u0027I\u0027m not going down alone.\u0027",
+                            "example":  "Fine, fire me. But **if I\u0027m going down, I\u0027m taking the whole team with me**. → 좋아, 나 자르세요. 근데 내가 망하면 팀 전체 같이 끌고 내려갈 거야."
+                        },
+                        {
+                            "expression":  "pretty darn [형용사]",
+                            "dialogue":  "If the first time doesn\u0027t go well, well then that\u0027s **pretty darn** hard to recover from.",
+                            "speaker":  "Rachel",
+                            "meaning":  "\u0027꽤\u0027, \u0027상당히\u0027. 강조 부사 \u0027pretty\u0027에 완곡한 욕 \u0027darn\u0027(= damn)을 결합해 강도를 높인 표현.",
+                            "nuance":  "\u0027darn\u0027은 \u0027damn\u0027의 순화 표현. \u0027very\u0027나 \u0027really\u0027보다 구어적이고 친근하다. \u0027pretty damn hard\u0027보다 덜 거칠게 강조하고 싶을 때 쓰며, 가벼운 감탄이나 불평에 자주 붙는다.",
+                            "example":  "That was **pretty darn** close — one more second and we\u0027d have missed it. → 그거 엄청 아슬아슬했어, 1초만 더 늦었어도 놓쳤을 거야."
+                        },
+                        {
+                            "expression":  "on some level",
+                            "dialogue":  "I guess **on some level** I always knew I was straight.",
+                            "speaker":  "Duncan",
+                            "meaning":  "\u0027어느 정도는\u0027, \u0027마음 한 구석에서는\u0027. 완전히 의식하지는 못했지만 막연히 알고 있었다는 뉘앙스.",
+                            "nuance":  "자기 인식·감정을 부드럽게 인정하거나 반쯤 인정할 때 씀. 100% 확신이 아닌 모호한 앎을 표현하며, 심리적·감정적 고백 맥락에서 자주 등장한다.",
+                            "example":  "**On some level**, I always knew the relationship wasn\u0027t working. → 어느 정도는, 그 관계가 잘 안 되고 있다는 걸 항상 알고 있었어."
+                        },
+                        {
+                            "expression":  "that saves us a conversation",
+                            "dialogue":  "Monica: You know, it still smells like monkey in there. / Julie: **That saves us a conversation.**",
+                            "speaker":  "Julie",
+                            "meaning":  "어색하게 꺼내야 할 민감한 화제를 상대가 먼저 언급해줘서 굳이 말을 꺼내지 않아도 됐을 때 쓰는 표현.",
+                            "nuance":  "직접 그 주제를 꺼내지 않으면서도 \u0027나도 알고 있었어\u0027를 암시하는 세련된 우회 표현. 어색한 상황을 유머로 가볍게 넘길 때 쓰며, 비원어민이 좀처럼 자연스럽게 쓰기 어려운 표현이다.",
+                            "example":  "A: You already heard I got promoted? B: It\u0027s all over the office. A: Well, **that saves us a conversation**. → A: 내 승진 소식 이미 들었겠네? B: 사무실 전체에 퍼졌어. A: 그럼 굳이 말 안 해도 됐네."
+                        }
+                    ]
+}

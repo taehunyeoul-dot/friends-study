@@ -1,0 +1,209 @@
+{
+    "id":  "s03e17",
+    "code":  "317",
+    "title":  "The One Without The Ski Trip",
+    "model":  "sonnet",
+    "cost_usd":  0.8321,
+    "expressions":  [
+                        {
+                            "expression":  "hit the road",
+                            "dialogue":  "Monica: Okay, let\u0027s go!! Let\u0027s **hit the road**!!",
+                            "speaker":  "Monica",
+                            "meaning":  "출발하다, 길을 나서다",
+                            "nuance":  "Very common in everyday spoken English for departing on a trip or simply leaving. Still widely used across all age groups.",
+                            "example":  "It\u0027s getting late—we should **hit the road** before traffic gets worse. → 늦어지고 있어—차 막히기 전에 이제 출발하자."
+                        },
+                        {
+                            "expression":  "get over (a breakup / relationship)",
+                            "dialogue":  "Joey: It\u0027s never taken me a week to get over a relationship. / Monica: It\u0027s never taken you more than a shower to **get over a relationship**.",
+                            "speaker":  "Monica",
+                            "meaning":  "(이별·실연·힘든 일에서) 회복하다, 극복하다",
+                            "nuance":  "Versatile—\u0027get over\u0027 works with breakups, failures, illnesses, and shocks. Extremely common in both casual and formal English.",
+                            "example":  "It took me months to **get over** that breakup. → 그 이별에서 회복하는 데 몇 달이 걸렸어."
+                        },
+                        {
+                            "expression":  "skedaddle",
+                            "dialogue":  "Phoebe: (handing Rachel a cup) Oh, hey, look, I found coffee! Okay, let\u0027s **skedaddle**.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "후다닥 자리를 뜨다",
+                            "nuance":  "Slightly old-fashioned or comedic; used in informal, friendly situations for a playful tone. Still heard today but dated enough to sound intentionally quirky.",
+                            "example":  "Class is almost over—let\u0027s **skedaddle** before the professor assigns more work. → 수업 거의 끝났다—교수님이 숙제 더 내기 전에 후다닥 나가자."
+                        },
+                        {
+                            "expression":  "your highness (sarcastic)",
+                            "dialogue":  "Rachel: Wait, I\u0027m not just gonna drink somebody\u0027s old coffee. / Phoebe: Okay, **your highness**.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "(비꼬아) \u0027고귀하신 분\u0027, \u0027까다로우신 분\u0027",
+                            "nuance":  "Sarcastic title for someone being overly fussy or demanding. Works naturally between close friends; can sound rude to strangers. Still used today.",
+                            "example":  "You need the coffee at exactly 65°C? Okay, **your highness**. → 커피가 딱 65도여야 한다고? 알겠어요, 귀하신 분."
+                        },
+                        {
+                            "expression":  "hang out",
+                            "dialogue":  "Joey: Well Ross was **hangin\u0027 out** over at our place, Rachel comes over to borrow some moisturiser from Chandler...",
+                            "speaker":  "Joey",
+                            "meaning":  "(친구들과) 어울리다, 별 목적 없이 함께 시간을 보내다",
+                            "nuance":  "One of the most common casual verbs for spending time with others without a specific plan. Universally used in American English today.",
+                            "example":  "We were just **hanging out** at the park all afternoon. → 우리 그냥 오후 내내 공원에서 놀았어."
+                        },
+                        {
+                            "expression":  "you should\u0027ve been there",
+                            "dialogue":  "Phoebe: Why? What happened now? / Joey: Yeah, you **shoulda been there** last night.",
+                            "speaker":  "Joey",
+                            "meaning":  "거기 있었어야 했는데 (네가 없어서 아쉬웠다 / 뭔가 대단한 일이 있었음을 암시)",
+                            "nuance":  "A fixed chunk signaling the listener missed something memorable or dramatic. The contracted \u0027shoulda\u0027 form is typical in casual speech. Still widely used.",
+                            "example":  "The finale was insane—**you should\u0027ve been there**! → 피날레 진짜 미쳤었는데—거기 있었어야 했어!"
+                        },
+                        {
+                            "expression":  "set ~ aside",
+                            "dialogue":  "Joey: Ross did ask us first, and we **set that night aside**.",
+                            "speaker":  "Joey",
+                            "meaning":  "~을 위해 시간·돈·자원 등을 미리 빼두다, 따로 확보해 두다",
+                            "nuance":  "Used when reserving time, money, or resources for a specific purpose in advance. Common in both everyday and professional contexts today.",
+                            "example":  "I\u0027ve **set aside** the whole weekend to help you move. → 이삿날 도와주려고 주말 내내 비워 뒀어."
+                        },
+                        {
+                            "expression":  "play by the rules",
+                            "dialogue":  "Rachel: I\u0027m asking you first, right?! I mean I\u0027m **playing by the rules**.",
+                            "speaker":  "Rachel",
+                            "meaning":  "규칙·약속대로 행동하다, 공정하게 따르다",
+                            "nuance":  "Emphasizes that one is following established norms or agreements, whether official or social. Can be used earnestly or with slight self-satisfaction. Still widely used.",
+                            "example":  "I gave you the first chance to respond—I\u0027m just **playing by the rules** here. → 나는 네가 먼저 할 기회를 줬어—그냥 규칙대로 한 거야."
+                        },
+                        {
+                            "expression":  "use humor as a defense mechanism",
+                            "dialogue":  "Chandler: When my parents got divorced is when I started **using humour as a defence mechanism**.",
+                            "speaker":  "Chandler",
+                            "meaning":  "힘든 상황을 유머로 모면하다, 불안을 농담으로 가리다",
+                            "nuance":  "A psychological concept used naturally in everyday speech to explain why someone deflects stress or discomfort with jokes. Still commonly used.",
+                            "example":  "She laughs off every serious conversation—she **uses humor as a defense mechanism**. → 그녀는 진지한 대화마다 웃어넘겨—유머로 자신을 방어하는 거야."
+                        },
+                        {
+                            "expression":  "feel bad about / feel bad for",
+                            "dialogue":  "Joey: Hey, does anybody else **feel bad about** Ross?",
+                            "speaker":  "Joey",
+                            "meaning":  "feel bad about: ~에 대해 죄책감·미안함을 느끼다 / feel bad for: ~가 안쓰럽다, 측은하다",
+                            "nuance":  "\u0027Feel bad about\u0027 targets one\u0027s own actions (guilt/regret); \u0027feel bad for\u0027 targets another person (sympathy). Both are extremely common in everyday spoken English.",
+                            "example":  "I really **feel bad for** her—she had no idea what was going on. → 그녀가 진짜 안쓰러워—무슨 일인지 전혀 몰랐잖아."
+                        },
+                        {
+                            "expression":  "mosey on",
+                            "dialogue":  "Ross: ...unless of course I\u0027m stepping on some toes here, in which case I can just **mosey on**, I\u0027ve got plenty of people to help on the Interstate.",
+                            "speaker":  "Ross",
+                            "meaning":  "천천히 (혹은 슬그머니) 자리를 뜨다",
+                            "nuance":  "Conveys a leisurely or casual departure; here Ross uses it with light sarcasm. Informal and slightly regional (U.S. Southern/Western), but widely understood. Still occasionally used.",
+                            "example":  "If you guys don\u0027t need me, I\u0027ll just **mosey on** home. → 필요한 사람이 없으면 나 슬그머니 집으로 가도 되겠다."
+                        },
+                        {
+                            "expression":  "sulk",
+                            "dialogue":  "Carol: So you can either **sulk** here for a half hour and then go pick them up, or save us both time and **sulk** in the car.",
+                            "speaker":  "Carol",
+                            "meaning":  "토라지다, 시무룩하게 있다, 삐지다",
+                            "nuance":  "Describes moodily staying silent or withdrawn after feeling wronged. Can describe children or adults, though applied to adults it carries a slightly childish connotation. Still widely used.",
+                            "example":  "Stop **sulking** and just tell me what\u0027s wrong. → 그만 삐지고 뭐가 문제인지 말해."
+                        },
+                        {
+                            "expression":  "put someone in the middle",
+                            "dialogue":  "Joey: Yeah, and not **put us in the middle**.",
+                            "speaker":  "Joey",
+                            "meaning":  "두 사람 사이에서 어느 편인지 선택하도록 강요하다, 제3자를 곤란하게 끼워 넣다",
+                            "nuance":  "Describes forcing a third person to take sides in a conflict. \u0027Don\u0027t put me in the middle\u0027 is one of the most common uses. Still widely used.",
+                            "example":  "My parents keep arguing and expect me to choose—please stop **putting me in the middle**. → 부모님이 계속 싸우면서 내가 편들기를 바래—제발 나를 중간에 끼우지 마."
+                        },
+                        {
+                            "expression":  "be civil",
+                            "dialogue":  "Phoebe: Can you **be civil**?",
+                            "speaker":  "Phoebe",
+                            "meaning":  "기본적인 예의를 지키다, 최소한의 예의 바른 태도를 유지하다",
+                            "nuance":  "Asks someone to maintain minimal polite behavior despite personal conflict. \u0027Keep it civil\u0027 and \u0027stay civil\u0027 are close variants. Still widely used.",
+                            "example":  "I know you two have history, but can you at least **be civil** at the dinner table? → 둘이 사이가 안 좋은 거 알지만, 저녁 식사 자리에서만큼은 예의 좀 지킬 수 있어?"
+                        },
+                        {
+                            "expression":  "skimp (on)",
+                            "dialogue":  "Ross: ...I got you the best one I could, \u0027cause that\u0027s not where you want to **skimp**.",
+                            "speaker":  "Ross",
+                            "meaning":  "~에 돈·노력을 아끼다, 충분히 투자하지 않다",
+                            "nuance":  "Usually negative—implies cutting corners on something important. \u0027Don\u0027t skimp on X\u0027 is a very common warning pattern. \u0027Skimp on quality/sleep/ingredients\u0027 are typical collocations. Still widely used.",
+                            "example":  "Don\u0027t **skimp on** sleep the night before a big presentation. → 중요한 발표 전날 밤에 잠을 아끼면 안 돼."
+                        },
+                        {
+                            "expression":  "stock up (on)",
+                            "dialogue":  "Monica: Rachel, the tampons here are only a penny. Let\u0027s **stock up**.",
+                            "speaker":  "Monica",
+                            "meaning":  "(물건을) 잔뜩 사두다, 미리 비축하다",
+                            "nuance":  "Used when buying more of something than immediately needed, often in preparation. \u0027Stock up on X before Y\u0027 is a very common pattern. Still widely used today.",
+                            "example":  "We should **stock up on** snacks before the road trip. → 장거리 드라이브 전에 간식을 잔뜩 사놔야 해."
+                        },
+                        {
+                            "expression":  "it\u0027s just that...",
+                            "dialogue":  "Chandler: Yes, yes, **it\u0027s just that** we ah, we kinda already made plans with Ross.",
+                            "speaker":  "Chandler",
+                            "meaning":  "사실은 ~이라서... (거절이나 불편한 설명 앞에 쓰는 완충 표현)",
+                            "nuance":  "A softening phrase before delivering disappointing or awkward news. Signals that what follows is a genuine explanation, not an excuse. Extremely common in polite refusals today.",
+                            "example":  "I\u0027d love to help, **it\u0027s just that** I\u0027m completely swamped this week. → 도와주고 싶은데, 사실 이번 주는 완전히 정신이 없어서."
+                        },
+                        {
+                            "expression":  "there you go",
+                            "dialogue":  "Monica: We\u0027re sorry honey. / Rachel: Oh, it\u0027s okay. (starts to leave) / Rachel: Oh, well okay. Well, **there you go**.",
+                            "speaker":  "Rachel",
+                            "meaning":  "(체념하며) \u0027그렇군\u0027, \u0027어쩔 수 없지\u0027 / 또는 \u0027봐봐, 그게 답이야\u0027",
+                            "nuance":  "Highly versatile: signals resigned acceptance, confirms a point one is making, or marks the completion of an action. Very common in both British and American English today.",
+                            "example":  "He cancelled again—**there you go**, that\u0027s your answer. → 또 취소했네—봐봐, 그게 답이야."
+                        },
+                        {
+                            "expression":  "figure out a way to ~",
+                            "dialogue":  "Phoebe: ...you have to **figure out a way** to be around each other.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "~할 방법을 찾다, 어떻게든 해결책을 마련하다",
+                            "nuance":  "The chunk \u0027figure out a way to ~\u0027 is especially natural for problem-solving scenarios. More informal than \u0027find a solution.\u0027 Extremely common in spoken English today.",
+                            "example":  "We need to **figure out a way to** finish this before the deadline. → 마감 전에 끝낼 방법을 찾아야 해."
+                        },
+                        {
+                            "expression":  "call it even",
+                            "dialogue":  "Ross: ...it came to about $112, but what the hell, just **call it an even** 110?",
+                            "speaker":  "Ross",
+                            "meaning":  "서로 없던 일로 하다, 비기다 / 금액을 반올림해 딱 맞게 정하다",
+                            "nuance":  "Used to settle a small debt or score without exact accounting—implies both parties are now square. \u0027Let\u0027s call it even\u0027 is the most common form. Still widely used.",
+                            "example":  "You paid last time, I paid this time—let\u0027s just **call it even**. → 지난번에 네가 냈고 이번엔 내가 냈으니까 그냥 없던 걸로 하자."
+                        },
+                        {
+                            "expression":  "brace yourself / brace yourselves",
+                            "dialogue":  "Chandler: Here we go. Okay, **brace yourselves**.",
+                            "speaker":  "Chandler",
+                            "meaning":  "각오해라, 마음의 준비를 해라 (충격적이거나 힘든 것이 올 때)",
+                            "nuance":  "A warning that something difficult, surprising, or dramatic is about to happen. \u0027Brace yourself for ~\u0027 and \u0027brace yourself, [something] is coming\u0027 are also common patterns. Extremely common today.",
+                            "example":  "**Brace yourself**—the boss wants to see everyone after lunch. → 각오해—점심 후에 사장님이 다들 보고 싶다고 해."
+                        },
+                        {
+                            "expression":  "might as well",
+                            "dialogue":  "Chandler: Well, then, I **might as well** offer to stay.",
+                            "speaker":  "Chandler",
+                            "meaning":  "어차피 ~하는 게 낫겠다, ~해도 무방하다 (소극적 동의)",
+                            "nuance":  "Expresses reluctant or unenthusiastic agreement—there\u0027s no strong reason not to do something. Different from \u0027should,\u0027 which implies obligation. Extremely common in everyday spoken English.",
+                            "example":  "I\u0027m already at the library—I **might as well** stay another hour and finish this. → 어차피 도서관에 왔으니 한 시간 더 있다가 끝내도 되겠다."
+                        },
+                        {
+                            "expression":  "you\u0027re one to talk",
+                            "dialogue":  "Carol: You slept with another woman? / Ross: Oh, **you\u0027re one to talk**.",
+                            "speaker":  "Ross",
+                            "meaning":  "당신이 할 말은 아니지, 남 말할 처지야?",
+                            "nuance":  "A defensive retort pointing out the other person\u0027s hypocrisy—they\u0027ve done the very thing they\u0027re criticizing. Slightly confrontational but natural between close friends. Still common today.",
+                            "example":  "You\u0027re calling me messy? **You\u0027re one to talk**—have you seen your room? → 나한테 지저분하다고? 남 말할 처지야—네 방은 봤어?"
+                        },
+                        {
+                            "expression":  "hit someone where it hurts",
+                            "dialogue":  "Rachel: Why would you even want to come Ross? You\u0027re a horrible skier. / Ross: Oh-oh, **hitting me where it hurts**, my ski skills.",
+                            "speaker":  "Ross",
+                            "meaning":  "상대방의 약점을 찌르다, 아픈 곳을 건드리다",
+                            "nuance":  "Describes targeting someone\u0027s most sensitive weakness—emotionally or professionally, not physically. Common in everyday conversational English today.",
+                            "example":  "Criticizing her cooking when she\u0027s already stressed really **hits her where it hurts**. → 이미 스트레스받는 상황에서 요리를 비판하는 건 진짜 아픈 곳을 찌르는 거야."
+                        },
+                        {
+                            "expression":  "step on someone\u0027s toes",
+                            "dialogue":  "Ross: ...unless of course I\u0027m **stepping on some toes** here, in which case I can just mosey on.",
+                            "speaker":  "Ross",
+                            "meaning":  "남의 영역을 침범하다, 의도치 않게 남의 계획이나 권위를 방해하다",
+                            "nuance":  "Used to politely check whether you\u0027re intruding on someone else\u0027s plans, authority, or feelings. Often used as a considerate preemptive question. Still widely used.",
+                            "example":  "I don\u0027t want to **step on your toes**, but I had a few ideas for improving the proposal. → 당신 영역을 침범하고 싶지는 않은데, 제안서를 개선할 아이디어가 몇 가지 있어요."
+                        }
+                    ]
+}

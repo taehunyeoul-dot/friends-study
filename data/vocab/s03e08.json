@@ -1,0 +1,209 @@
+{
+    "id":  "s03e08",
+    "code":  "308",
+    "title":  "The One With The Giant Poking Device",
+    "model":  "sonnet",
+    "cost_usd":  0.4253,
+    "expressions":  [
+                        {
+                            "expression":  "keep this to yourself",
+                            "dialogue":  "Rachel: Joey, you can\u0027t **keep this to yourself**, if you know about this, you have to tell him.\nJoey: It\u0027ll kill him. I mean it\u0027ll, it\u0027ll just kill him.",
+                            "speaker":  "Rachel",
+                            "meaning":  "비밀로 간직하다, 아무에게도 말하지 않다",
+                            "nuance":  "누군가에게 비밀을 지키도록 요청하거나 지키지 말라고 충고할 때 사용. \u0027You can\u0027t keep this to yourself\u0027처럼 부정형으로 쓰이면 \u0027혼자만 알고 있으면 안 된다\u0027는 의미가 강해진다.",
+                            "example":  "I know about the surprise party, but I\u0027m keeping it to myself. / 나는 깜짝 파티에 대해 알고 있지만 아무에게도 말 안 할 거야."
+                        },
+                        {
+                            "expression":  "It\u0027ll kill him",
+                            "dialogue":  "Rachel: Joey, you can\u0027t keep this to yourself, if you know about this, you have to tell him.\nJoey: **It\u0027ll kill him.** I mean it\u0027ll, it\u0027ll just kill him.",
+                            "speaker":  "Joey",
+                            "meaning":  "(비유적으로) 그에게 엄청난 충격이나 상처를 줄 것이다",
+                            "nuance":  "실제 죽음이 아니라 감정적 충격이나 고통을 과장해서 표현할 때 쓴다. \u0027That would kill me\u0027처럼 1인칭으로도 자주 쓰이며, 매우 구어적인 표현이다.",
+                            "example":  "Don\u0027t tell him she got promoted — it\u0027ll kill him. / 그녀가 승진했다는 말은 하지 마 — 엄청난 충격을 받을 거야."
+                        },
+                        {
+                            "expression":  "I\u0027m not judging",
+                            "dialogue":  "Ross: Joey, Homo Sapiens are people.\nJoey: Hey-hey, **I\u0027m not judging.**",
+                            "speaker":  "Joey",
+                            "meaning":  "판단하거나 비판하는 게 아니에요 (그냥 말하는 것뿐)",
+                            "nuance":  "자신의 발언이 비판적으로 들릴 수 있을 때 면책용으로 쓰는 표현. 유머러스한 상황에서 자주 등장하며, 황당한 말을 한 뒤 뻔뻔하게 쓰이기도 한다.",
+                            "example":  "You ate the whole pizza by yourself? I\u0027m not judging, just impressed. / 혼자 피자 다 먹었어? 판단하는 게 아니라, 그냥 대단하다고."
+                        },
+                        {
+                            "expression":  "it serves me right",
+                            "dialogue":  "Chandler: Y\u0027know **it serves me right** for buying that twelve pack of condoms. And now I can\u0027t even return them, because she choked on the receipt!",
+                            "speaker":  "Chandler",
+                            "meaning":  "당연한 결과야, 내가 자초한 일이야",
+                            "nuance":  "자신의 행동이 불러온 나쁜 결과를 스스로 인정할 때 쓴다. \u0027Serves you right\u0027라고 하면 \u0027꼴좋다, 당연하지\u0027라는 뜻으로 상대방에게도 쓸 수 있다.",
+                            "example":  "I didn\u0027t study and I failed. Serves me right. / 공부 안 했더니 떨어졌네. 당연한 결과지."
+                        },
+                        {
+                            "expression":  "bow out",
+                            "dialogue":  "Joey: All right, you\u0027re probably not gonna want to hear this but, if it was me, I would ah, **I would bow out.**\nChandler: What? What are you talking about?",
+                            "speaker":  "Joey",
+                            "meaning":  "(경쟁이나 관계에서) 자발적으로 깔끔하게 물러나다, 양보하다",
+                            "nuance":  "억지로 밀려나는 게 아니라 품위 있게 스스로 물러나는 것. 연인 관계, 경쟁, 비즈니스 등 다양한 상황에서 쓸 수 있으며 긍정적인 뉘앙스를 담고 있다.",
+                            "example":  "She clearly likes him more, so I decided to bow out gracefully. / 그녀가 분명히 그를 더 좋아하니까, 나는 깔끔하게 물러나기로 했어."
+                        },
+                        {
+                            "expression":  "stand in the way of",
+                            "dialogue":  "Joey: There\u0027s a chance they could make that work, I know I wouldn\u0027t want to be the guy who **stood in the way of that.**",
+                            "speaker":  "Joey",
+                            "meaning":  "~을 방해하다, ~의 앞길을 가로막다",
+                            "nuance":  "어떤 관계나 목표가 이루어지는 것을 막는 사람이나 요인을 가리킬 때 사용. \u0027Don\u0027t let anything stand in the way of your dreams\u0027처럼 긍정적 목표에도 쓸 수 있다.",
+                            "example":  "I won\u0027t stand in the way of your happiness. / 나는 네 행복을 방해하지 않을 거야."
+                        },
+                        {
+                            "expression":  "I don\u0027t wanna be the guy who...",
+                            "dialogue":  "Chandler: **I don\u0027t wanna be the guy that breaks up a family**, y\u0027know when my parents split up, it was because of that guy.",
+                            "speaker":  "Chandler",
+                            "meaning":  "~하는 사람이 되고 싶지 않다 (특정 역할이나 행동을 거부할 때)",
+                            "nuance":  "도덕적 이유나 자기 이미지 때문에 특정 행동을 거부할 때 쓰는 패턴. 자기 합리화나 설득의 맥락에서 쓰이며 상대방의 공감을 이끌어내는 효과가 있다.",
+                            "example":  "I don\u0027t wanna be the guy who shows up late to everything. / 항상 늦게 나타나는 사람이 되고 싶지 않아."
+                        },
+                        {
+                            "expression":  "be on the lookout for",
+                            "dialogue":  "Phoebe: Just **be on the look out** for anything that you can fall into, or that can fall on you... All right, just look out!",
+                            "speaker":  "Phoebe",
+                            "meaning":  "~을 주의해서 살피다, ~을 경계하다",
+                            "nuance":  "위험하거나 특정 상황을 주의 깊게 찾아볼 때 쓰는 표현. 경찰 방송이나 뉴스에서도 자주 등장하며, 일상 대화에서도 자연스럽게 쓸 수 있다.",
+                            "example":  "Be on the lookout for any signs of water damage after the storm. / 폭풍이 지나고 나면 물 피해 흔적이 있는지 주의 깊게 살펴봐."
+                        },
+                        {
+                            "expression":  "What\u0027d you do, [action]?",
+                            "dialogue":  "Ross: (noticing Ben\u0027s rain outfit) **What\u0027d you do, take him whaling?**",
+                            "speaker":  "Ross",
+                            "meaning":  "대체 뭘 한 거야? (예상치 못한 결과를 보고 놀라거나 빈정거릴 때)",
+                            "nuance":  "실제 대답을 기대하는 질문이 아니라 과장된 반응을 표현하는 수사적 질문. 뒤에 오는 행동이 상황과 어울리지 않을수록 유머 효과가 커진다.",
+                            "example":  "What\u0027d you do, run a marathon? You look completely wiped out. / 마라톤이라도 뛴 거야? 완전히 녹초가 된 것 같은데."
+                        },
+                        {
+                            "expression":  "I figured",
+                            "dialogue":  "Ross: It was your first time babysitting, **I figured** you did the best you could.",
+                            "speaker":  "Ross",
+                            "meaning":  "나는 ~라고 생각했어, 당연히 그럴 거라고 짐작했어",
+                            "nuance":  "\u0027I thought\u0027보다 더 구어적이고 캐주얼한 추론 표현. 논리적 근거 없이 직감이나 상황을 바탕으로 판단했을 때 자주 쓴다.",
+                            "example":  "You seemed tired, so I figured you\u0027d want to leave early. / 피곤해 보여서 일찍 가고 싶겠다고 생각했어."
+                        },
+                        {
+                            "expression":  "thread the needle",
+                            "dialogue":  "Joey: Okay, we\u0027re approaching the window. **Thread the needle. Thread the needle.**",
+                            "speaker":  "Joey",
+                            "meaning":  "좁은 공간을 정밀하게 통과하다; (비유적으로) 까다로운 상황을 조심스럽게 헤쳐나가다",
+                            "nuance":  "원래는 바늘귀에 실을 꿰는 행위에서 온 표현. 물리적으로 좁은 곳을 통과할 때도, 민감한 협상이나 복잡한 상황을 정교하게 처리할 때도 쓴다.",
+                            "example":  "The diplomat had to thread the needle between two conflicting demands. / 외교관은 두 상충하는 요구 사이에서 아슬아슬하게 줄타기를 해야 했다."
+                        },
+                        {
+                            "expression":  "Oh, like you don\u0027t already...",
+                            "dialogue":  "Ross: Thanks, Gunther. Can I get a napkin too?\nGunther: **Oh, like you don\u0027t already have everything.**",
+                            "speaker":  "Gunther",
+                            "meaning":  "마치 너는 이미 다 가진 것처럼, 뻔하지 않아? (질투나 빈정거림을 담은 표현)",
+                            "nuance":  "상대방이 이미 충분히 갖고 있거나 누리고 있는데도 더 원할 때 비꼬는 어조로 쓰는 표현. 가벼운 장난부터 진지한 불만 표출까지 상황에 따라 강도가 달라진다.",
+                            "example":  "Oh, like you don\u0027t already know the answer. / 마치 이미 답을 모르는 것처럼 굴지 마."
+                        },
+                        {
+                            "expression":  "let me get through it",
+                            "dialogue":  "Chandler: I have something I need to tell you, and **I want you to let me get through it**, because it\u0027s not gonna be easy.",
+                            "speaker":  "Chandler",
+                            "meaning":  "끝까지 말하게 해줘, 중간에 끊지 말고 다 들어줘",
+                            "nuance":  "\u0027Get through something\u0027은 힘든 것을 버텨내거나 완수하다는 의미. 감정적으로 어려운 이야기를 전달할 때 끊기지 않게 해달라고 부탁하는 표현이다.",
+                            "example":  "Just let me get through my apology without interrupting, please. / 제발 끼어들지 말고 내 사과 다 들어줘."
+                        },
+                        {
+                            "expression":  "wreck (someone/something)",
+                            "dialogue":  "Monica: **Oh my God, I wrecked your baby!!** (runs into the bedroom)",
+                            "speaker":  "Monica",
+                            "meaning":  "망가뜨리다, 완전히 못쓰게 만들다 (신체적·감정적 모두 가능)",
+                            "nuance":  "\u0027Ruin\u0027보다 더 강렬하고 즉각적인 파괴의 뉘앙스. 감정적으로도 \u0027You wrecked me\u0027(네가 나를 무너뜨렸어)처럼 쓸 수 있으며, 충격과 자책감이 클 때 어울린다.",
+                            "example":  "The breakup completely wrecked him for months. / 그 이별이 몇 달 동안 그를 완전히 무너뜨렸어."
+                        },
+                        {
+                            "expression":  "I was babbling",
+                            "dialogue":  "Chandler: Then don\u0027t leave me!\nJanice: What?\nChandler: Forget what I said, **I was babbling!** Pick me!",
+                            "speaker":  "Chandler",
+                            "meaning":  "횡설수설했어, 두서없이 말했어",
+                            "nuance":  "자신이 한 말이 논리 없이 마구 나온 것임을 인정하거나 취소할 때 사용. 당황하거나 감정이 앞서서 내뱉은 말을 수습하려 할 때 자주 쓴다.",
+                            "example":  "Sorry, I was just babbling — ignore what I said. / 미안, 그냥 횡설수설한 거야 — 방금 한 말은 무시해."
+                        },
+                        {
+                            "expression":  "Would you just...",
+                            "dialogue":  "Rachel: Phoebe, you\u0027re in pain, **would you just go to the dentist, just go.**",
+                            "speaker":  "Rachel",
+                            "meaning":  "제발 좀 ~해줄래? (답답함과 간절함이 섞인 촉구)",
+                            "nuance":  "상대방이 당연히 해야 할 일을 하지 않을 때 짜증과 걱정이 섞인 어조로 재촉하는 표현. 뒤에 \u0027just\u0027를 반복하면 강도가 높아진다.",
+                            "example":  "Would you just tell me the truth already? / 제발 그냥 솔직하게 말해줄래?"
+                        },
+                        {
+                            "expression":  "just happened to",
+                            "dialogue":  "Ross: You didn\u0027t kill anybody, these people **just happened to die** when you went to the dentist. It\u0027s just a coincidence.",
+                            "speaker":  "Ross",
+                            "meaning":  "우연히 ~하게 되다, 마침 ~한 일이 생기다",
+                            "nuance":  "어떤 사건이 우연의 일치임을 강조할 때 사용. 때로는 의도치 않은 일을 변명하거나 대수롭지 않게 넘기려 할 때도 쓴다. 긍정·부정 상황 모두 가능하다.",
+                            "example":  "I just happened to run into my ex at the airport. / 공항에서 우연히 전 남자친구를 만났어."
+                        },
+                        {
+                            "expression":  "take the focus off",
+                            "dialogue":  "Monica: Besides, **it takes the focus off the hat.**\nRachel: Right.",
+                            "speaker":  "Monica",
+                            "meaning":  "~에서 시선이나 주의를 다른 곳으로 분산시키다",
+                            "nuance":  "불편하거나 숨기고 싶은 것을 다른 것으로 주의를 돌릴 때 사용. 패션, 대화, 마케팅 등 다양한 상황에서 쓸 수 있다.",
+                            "example":  "Add a bold necklace — it takes the focus off the stain on your shirt. / 눈에 띄는 목걸이를 해봐 — 셔츠의 얼룩에서 시선이 분산될 거야."
+                        },
+                        {
+                            "expression":  "give X another chance",
+                            "dialogue":  "Janice: I\u0027ve got to give my marriage another chance.\nChandler: No you don\u0027t! I say you have to **give your divorce another chance.**",
+                            "speaker":  "Chandler (반전 버전)",
+                            "meaning":  "~에 다시 한 번 기회를 주다",
+                            "nuance":  "포기했던 것이나 관계를 다시 시도해볼 때 쓰는 표현. Chandler처럼 기존 표현의 단어를 바꿔 비틀면 유머나 반전 효과를 낼 수 있다.",
+                            "example":  "I know you had a rough time there, but give it another chance. / 거기서 힘들었던 거 알지만, 다시 한 번 기회를 줘봐."
+                        },
+                        {
+                            "expression":  "the thing is...",
+                            "dialogue":  "Joey: Oh God. Uh, okay, here\u0027s the thing, this is the thing, okay, **the thing is...**\nChandler: What is the thing?",
+                            "speaker":  "Joey",
+                            "meaning":  "있잖아, 사실은 말이야... (본론을 꺼내기 전에 뜸을 들이거나 망설일 때)",
+                            "nuance":  "말하기 불편하거나 복잡한 이야기를 꺼낼 때 쓰는 대화 도입 표현. 종종 나쁜 소식이나 반박이 뒤따르는 신호가 되기도 한다. \u0027Here\u0027s the thing\u0027으로도 많이 쓴다.",
+                            "example":  "I know you want me to come, but the thing is, I already made other plans. / 오길 원하는 거 알지만, 사실 이미 다른 약속이 있어."
+                        },
+                        {
+                            "expression":  "fall out of someone\u0027s head",
+                            "dialogue":  "Ross: He\u0027s leaving out \u0027e\u0027 and \u0027f.\u0027 It\u0027s like they just, I don\u0027t know, **fell out of his head.**",
+                            "speaker":  "Ross",
+                            "meaning":  "(기억이나 지식이) 머릿속에서 빠져나가다, 갑자기 잊어버리다",
+                            "nuance":  "알고 있던 것이 갑자기 생각나지 않거나 사라진 것처럼 느껴질 때 쓰는 구어적이고 시각적인 표현. 유머러스하거나 당황스러운 상황에 어울린다.",
+                            "example":  "I studied all night, but everything fell out of my head during the exam. / 밤새 공부했는데 시험 중에 다 머릿속에서 빠져나갔어."
+                        },
+                        {
+                            "expression":  "not worth mentioning",
+                            "dialogue":  "Monica: It\u0027s no big deal, **it\u0027s not even worth mentioning**, you see we all do it all the time.",
+                            "speaker":  "Monica",
+                            "meaning":  "언급할 가치도 없다, 별것 아니다",
+                            "nuance":  "진짜로 사소한 일을 가볍게 넘길 때도 쓰지만, Monica처럼 실제로는 중요한 일을 의도적으로 작게 만들려 할 때도 사용된다. 맥락을 파악하는 게 중요하다.",
+                            "example":  "It\u0027s just a tiny scratch — not worth mentioning. / 그냥 아주 작은 흠집이야 — 언급할 것도 없어."
+                        },
+                        {
+                            "expression":  "something serious",
+                            "dialogue":  "Joey: Girls love gum.\nChandler: That\u0027s a good idea, \u0027Dear Janice have a Hubba-Bubba birthday\u0027. I would like to get her **something serious.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "진지한 것, 의미 있는 것 (단순하거나 가벼운 것의 반대)",
+                            "nuance":  "선물이나 행동이 가볍지 않고 감정이나 진심이 담긴 것을 원할 때 사용. 관계의 진지함을 암시하는 표현으로도 쓰인다.",
+                            "example":  "I don\u0027t want to just send flowers — I want to do something serious to show how much I care. / 꽃만 보내기는 싫어 — 얼마나 신경 쓰는지 보여줄 의미 있는 일을 하고 싶어."
+                        },
+                        {
+                            "expression":  "I\u0027ve got a [question/problem/idea]",
+                            "dialogue":  "Joey: Hey-hey, Ross?\nRoss: Yeah.\nJoey: **I\u0027ve got a science question.**",
+                            "speaker":  "Joey",
+                            "meaning":  "~이 있어요, ~이 생겼어요 (질문·문제·아이디어 등을 꺼낼 때)",
+                            "nuance":  "\u0027I have a question\u0027보다 더 구어적이고 캐주얼한 표현. 공식적으로 제기하기보다 자연스럽게 말을 꺼낼 때 어울리며, 친근한 어투를 만들어준다.",
+                            "example":  "Hey, I\u0027ve got a quick question about tonight\u0027s plan. / 저기, 오늘 밤 계획에 대해 잠깐 물어볼 게 있어."
+                        },
+                        {
+                            "expression":  "I have a lot of experience in that area",
+                            "dialogue":  "Joey: Something this big and long is going to be difficult to maneuver, fortunately **I have a lot of experience in that area.**",
+                            "speaker":  "Joey",
+                            "meaning":  "그 분야에 경험이 많다 (맥락에 따라 이중적 의미로도 쓰임)",
+                            "nuance":  "\u0027In that area\u0027는 \u0027그 분야에서\u0027, \u0027그 부분에 있어서\u0027라는 뜻의 자연스러운 표현. Joey처럼 맥락에 따라 이중적 의미를 품기도 하지만, 일반적으로는 특정 분야의 경험이나 전문성을 나타낼 때 쓴다.",
+                            "example":  "She\u0027s the best person to ask — she has a lot of experience in that area. / 그녀에게 물어보는 게 최선이야 — 그 분야에 경험이 많거든."
+                        }
+                    ]
+}

@@ -1,0 +1,209 @@
+{
+    "id":  "s03e21",
+    "code":  "321",
+    "title":  "The One With A Chick. And A Duck",
+    "model":  "sonnet",
+    "cost_usd":  0.4423,
+    "expressions":  [
+                        {
+                            "expression":  "crumple like a piece of paper",
+                            "dialogue":  "Monica: Hi! Hey, Pete you\u0027re back! Hey, check this out. (She starts to skate over to him)\nPete: Wow! Skates!\nMonica: Wow! **You\u0027re a lot sturdier that Chandler. He crumpled like a piece of paper.** So how was your trip?",
+                            "speaker":  "Monica",
+                            "meaning":  "종이처럼 구겨지다 — 충격에 전혀 버티지 못하고 즉각 쓰러지거나 무너지다",
+                            "nuance":  "사람이 물리적 충격이나 심리적 타격에 순식간에 무너질 때 쓰는 비유적 표현. \u0027예상보다 훨씬 허약했다\u0027는 뉘앙스를 담아 유머러스하게 쓴다.",
+                            "example":  "He seemed tough, but the moment she said no, he crumpled like a piece of paper. · 겉으로는 강해 보였는데, 그녀가 거절하는 순간 종이처럼 무너져 버렸어."
+                        },
+                        {
+                            "expression":  "I would kill for ~",
+                            "dialogue":  "Monica: I mean this has been like my dream since I got my first Easy Bake Oven. **I mean I would kill for this job.** I mean I can totally do this job, and God knows I paid my dues. But Pete\u0027s just doing this because he has a crush on me.",
+                            "speaker":  "Monica",
+                            "meaning":  "~을 위해서라면 뭐든 할 수 있다 — 무언가를 극도로 원하거나 갈망할 때 쓰는 과장 표현",
+                            "nuance":  "문자 그대로가 아닌 강렬한 욕구를 나타내는 구어 과장법. 음식·잠·기회 등 다양한 상황에 자유롭게 쓸 수 있으며 일상에서 매우 흔하다.",
+                            "example":  "I would kill for a nap right now. · 지금 당장 낮잠 잘 수 있다면 뭐든 할 것 같아."
+                        },
+                        {
+                            "expression":  "pay one\u0027s dues",
+                            "dialogue":  "Monica: I mean I would kill for this job. I mean I can totally do this job, and **God knows I paid my dues.** (She removes her fake breasts) But Pete\u0027s just doing this because he has a crush on me.",
+                            "speaker":  "Monica",
+                            "meaning":  "당연히 받아야 할 것을 얻기 위해 충분한 고생과 노력을 기울이다",
+                            "nuance":  "어떤 분야에서 오랜 시간 힘든 과정을 버텨왔음을 강조할 때 쓴다. 자신의 자격이나 권리를 방어하는 맥락에서 자주 등장하며 약간의 억울함이 담겨있다.",
+                            "example":  "She\u0027s paid her dues — ten years of late nights before getting her own show. · 그녀는 충분히 고생했어 — 자기 쇼를 갖기까지 10년을 밤새워 일했으니까."
+                        },
+                        {
+                            "expression":  "have a crush on someone",
+                            "dialogue":  "Monica: I mean I can totally do this job, and God knows I paid my dues. ... **But Pete\u0027s just doing this because he has a crush on me.**\nRachel: And you\u0027re still not attracted to him at all?",
+                            "speaker":  "Monica",
+                            "meaning":  "누군가에게 (보통 은밀하게) 설레는 감정을 품다 — 짝사랑하다",
+                            "nuance":  "초기 단계의 가벼운 짝사랑이나 두근거림을 가리킨다. \u0027in love\u0027보다 가볍고, 상대방은 모르는 상황에 쓰는 경우가 많다.",
+                            "example":  "I think she has a crush on the new intern — she keeps finding reasons to walk past his desk. · 새 인턴한테 반한 것 같아 — 자꾸 그 자리 근처를 지나다닌다고."
+                        },
+                        {
+                            "expression":  "kick someone\u0027s ass",
+                            "dialogue":  "Monica: Can you believe he just offered me a restaurant?\n**Rachel: What a jerk! You want me to kick his ass?**\nMonica: I mean this has been like my dream since I got my first Easy Bake Oven...",
+                            "speaker":  "Rachel",
+                            "meaning":  "누군가를 혼내주거나 물리적으로 제압하겠다는 뜻",
+                            "nuance":  "욕설처럼 보이지만 친구들 사이에서는 \u0027내가 대신 나서줄게\u0027라는 유머러스한 위로의 표현으로 쓰인다. 문맥에 따라 진지한 위협이 되기도 하고 가벼운 농담이 되기도 한다.",
+                            "example":  "Don\u0027t worry about him — I\u0027ll kick his ass if he bothers you again. · 걱정 마, 또 건드리면 내가 혼내줄게."
+                        },
+                        {
+                            "expression":  "check this out",
+                            "dialogue":  "Pete: Hi!\nMonica: Hi! Hey, Pete you\u0027re back! **Hey, check this out.** (She starts to skate over to him)\nPete: Wow! Skates!",
+                            "speaker":  "Monica",
+                            "meaning":  "이것 좀 봐 / 이거 봐봐 — 인상적이거나 흥미로운 것을 상대방에게 주목시킬 때 쓰는 표현",
+                            "nuance":  "자신이 뭔가 잘하는 것을 보여주거나 흥미로운 것을 발견했을 때 상대의 시선을 끌기 위해 쓴다. 매우 캐주얼하고 친근한 표현.",
+                            "example":  "Hey, check this out — I just found a shortcut that saves twenty minutes. · 야, 이것 좀 봐 — 20분 단축되는 지름길 찾았어."
+                        },
+                        {
+                            "expression":  "finish off",
+                            "dialogue":  "Pete: Her name\u0027s Ann, she\u0027s a journalist. Ahh, we met on the plane. **She asked me if she could finish off my peanuts,** I thought she said something else, we had a big laugh.",
+                            "speaker":  "Pete",
+                            "meaning":  "남은 것을 (음식·음료 등을) 다 먹거나 소비해서 없애다",
+                            "nuance":  "남아 있는 음식이나 물건의 마지막 부분을 소비할 때 자연스럽게 쓰는 표현. 상대방 것을 먹을 때는 허락을 구하며 \u0027Can I finish off ~?\u0027 형태로 쓴다.",
+                            "example":  "Is anyone going to eat this? Can I finish off the rest of the fries? · 이거 아무도 안 먹어? 남은 감자튀김 내가 다 먹어도 돼?"
+                        },
+                        {
+                            "expression":  "get tired of ~ing",
+                            "dialogue":  "Pete: I was gonna tell you this over dinner, but I met somebody else. On my trip.\nMonica: Oh?\nPete: Her name\u0027s Ann, she\u0027s a journalist. ... **Yeah, I just, I mean I got, I got tired of waiting.**",
+                            "speaker":  "Pete",
+                            "meaning":  "~하는 것에 지치다 / 더 이상 참지 못하다 — 오래 기다리거나 해오던 것에 인내심이 바닥나다",
+                            "nuance":  "어떤 상황이 너무 오래 지속되어 지쳐서 포기하거나 다른 행동을 취할 때 쓴다. 뒤에 반드시 동명사(-ing)가 온다.",
+                            "example":  "I got tired of waiting for them to fix it, so I just did it myself. · 고쳐주길 기다리다 지쳐서 그냥 내가 직접 했어."
+                        },
+                        {
+                            "expression":  "go (off) gallivanting",
+                            "dialogue":  "Chandler: I\u0027m stuck here all day, and then you come in and spend two seconds with us and **then expect to go off gallivanting with your friends?** Well I don\u0027t think so mister!\nJoey: Hey!! I need to relax! Okay? I was working all day!",
+                            "speaker":  "Chandler",
+                            "meaning":  "책임은 내팽개치고 신나게 돌아다니며 놀다",
+                            "nuance":  "약간 구식(old-fashioned)이면서도 유머러스한 단어로, 누군가가 해야 할 일을 제쳐두고 즐기러 다닌다고 핀잔 줄 때 쓴다. \u0027go off gallivanting\u0027 형태로 자주 등장한다.",
+                            "example":  "You can\u0027t go gallivanting around all weekend when there\u0027s a deadline Monday. · 월요일에 마감인데 주말 내내 신나게 돌아다닐 수는 없잖아."
+                        },
+                        {
+                            "expression":  "stand to [verb]",
+                            "dialogue":  "Pete: Look, **the only who stands to get hurt is me. And I\u0027m okay with that.**\nMonica: You may be okay about getting hurt, but I am not okay with being the one who hurts you.",
+                            "speaker":  "Pete",
+                            "meaning":  "~하게 될 처지다 / ~할 가능성이 있다 — 특히 결과나 위험을 언급할 때 쓰임",
+                            "nuance":  "\u0027stand to [동사]\u0027는 어떤 결과를 경험할 위치에 있다는 뜻. 손해·이익·위험 등을 논의할 때 자주 등장하는 패턴이다.",
+                            "example":  "If this project fails, she stands to lose everything she\u0027s invested. · 이 프로젝트가 실패하면 그녀는 투자한 모든 것을 잃을 수도 있어."
+                        },
+                        {
+                            "expression":  "feel like I\u0027m talking to Lassie",
+                            "dialogue":  "Phoebe: (Shaking her head yes) No!\nMonica: What is it?! What about Pete?\nPhoebe: I don\u0027t know! (frantically points at Monica)\n**Monica: Okay, I feel like I\u0027m talking to Lassie.** All right, Phoebe would you just tell me!",
+                            "speaker":  "Monica",
+                            "meaning":  "래시(TV 명견)한테 말하는 것 같다 — 상대방이 직접 말하지 않고 암시만 해서 답답할 때 쓰는 유머러스한 비교 표현",
+                            "nuance":  "1950~90년대 미국 TV 시리즈 Lassie에서 개가 짖거나 행동으로 위험을 알리는 장면에서 유래. 누군가 말을 빙빙 돌리거나 힌트만 줄 때 답답함을 표현한다.",
+                            "example":  "Just say it directly — I feel like I\u0027m talking to Lassie here. · 그냥 직접 말해줘 — 나 지금 래시한테 말하는 기분이야."
+                        },
+                        {
+                            "expression":  "Is that so bad?",
+                            "dialogue":  "Monica: Pete.\nPete: Okay, I love you. Is that so bad?\nMonica: No, it\u0027s not bad. **It\u0027s not bad at all.** It\u0027s-it\u0027s really nice.",
+                            "speaker":  "Pete",
+                            "meaning":  "그게 그렇게 나쁜 건가요? — 자신의 감정이나 행동을 방어하거나 이해를 구하는 수사학적 질문",
+                            "nuance":  "뭔가를 고백하거나 인정한 직후 \u0027이게 뭐가 잘못이야?\u0027라는 뉘앙스로 쓴다. 약간의 취약함을 담은 자기 방어적 표현으로, 상대방의 공감을 유도한다.",
+                            "example":  "I just want to sleep in on Sundays. Is that so bad? · 일요일에 늦잠 자고 싶은 건데, 그게 그렇게 나쁜 거야?"
+                        },
+                        {
+                            "expression":  "Here it comes",
+                            "dialogue":  "Chandler: You don\u0027t think I get up when you get up?\n**Joey: Ohhh, here it comes.**\nChandler: Yes, here it comes! I\u0027m stuck here all day, and then you come in and spend two seconds with us...",
+                            "speaker":  "Joey",
+                            "meaning":  "아, 시작됐다 / 또 나왔다 — 예상했던 잔소리·불평·폭발이 드디어 터지려는 순간에 쓰는 표현",
+                            "nuance":  "상대방이 길게 늘어놓을 것이 예상될 때 살짝 한숨 쉬며 내뱉는 말. 피로감이나 체념이 담겨 있으며, 종종 아이러니하게 당사자 본인도 같이 외친다.",
+                            "example":  "She took a deep breath and I knew — oh boy, here it comes. · 그녀가 깊은 숨을 들이쉬었고, 나는 알았어 — 아, 또 시작이구나."
+                        },
+                        {
+                            "expression":  "have second thoughts",
+                            "dialogue":  "Chandler: If they can\u0027t find a home for her, they kill her! And I\u0027m not gonna let that happen to little Yasmine!\n**Joey: Okay, good, good, good, \u0027cause, good, \u0027cause I was kinda having second thoughts too.**",
+                            "speaker":  "Joey",
+                            "meaning":  "한번 내린 결정에 의구심이 생기다 / 다시 생각하게 되다",
+                            "nuance":  "\u0027kinda having second thoughts\u0027처럼 \u0027kinda\u0027를 붙이면 더 부드럽고 망설이는 뉘앙스가 된다. 완전히 번복한 게 아니라 슬슬 마음이 흔들리는 단계를 표현한다.",
+                            "example":  "I said yes to the job offer, but now I\u0027m having second thoughts about the commute. · 그 일 수락했는데, 이제 출퇴근 거리가 걱정이 되기 시작했어."
+                        },
+                        {
+                            "expression":  "cheer up",
+                            "dialogue":  "Chandler: **Okay, listen, you have to cheer up!** Okay? You should come out with Ross and me, I mean anything is better than sitting around here crying all day about Kate.",
+                            "speaker":  "Chandler",
+                            "meaning":  "기운 내 / 힘내 — 슬프거나 우울한 상대방을 격려하는 표현",
+                            "nuance":  "친구에게 쓰는 매우 일반적인 격려 표현. 지나치게 가볍게 쓰면 상대 감정을 무시하는 것처럼 들릴 수 있으므로 상황을 봐야 한다.",
+                            "example":  "Cheer up — the worst part is already over. · 기운 내 — 제일 힘든 부분은 이미 지나갔어."
+                        },
+                        {
+                            "expression":  "come with (me)",
+                            "dialogue":  "Ross: Of course I am. I just have to make a call.\n(after hospital)\nRachel: Okay, you\u0027d tell me the truth. Right?\nRoss: Rach, you can\u0027t look fat in an x-ray.\n(earlier)\n**Rachel: Oh wait, wait-wait, you\u0027re not gonna come with me?**\nRoss: (He thinks about it) Of course I am. I just have to make a call.",
+                            "speaker":  "Rachel",
+                            "meaning":  "나와 함께 가다 / 동행하다",
+                            "nuance":  "\u0027Come with me\u0027가 일반적이지만, 미국 구어에서는 \u0027me\u0027 없이 \u0027come with\u0027만 써도 완전히 자연스럽다. 동반을 요청하거나 함께 안 올 것 같아 확인할 때 쓴다.",
+                            "example":  "We\u0027re heading to the food truck — you should come with. · 우리 푸드트럭 가는데 — 너도 같이 가."
+                        },
+                        {
+                            "expression":  "not bad at all",
+                            "dialogue":  "Pete: Okay, I love you. Is that so bad?\n**Monica: No, it\u0027s not bad. It\u0027s not bad at all.** It\u0027s-it\u0027s really nice.\nPete: Look, the only who stands to get hurt is me.",
+                            "speaker":  "Monica",
+                            "meaning":  "전혀 나쁘지 않다 — 오히려 좋다는 뉘앙스를 담은 이중 부정 표현",
+                            "nuance":  "같은 말을 두 번 반복(\u0027it\u0027s not bad. It\u0027s not bad at all.\u0027)하면 처음엔 당황했다가 점점 받아들이는 심경 변화가 느껴진다. \u0027at all\u0027이 붙어 전면 부정을 강조한다.",
+                            "example":  "The hotel was tiny, but not uncomfortable at all. · 호텔은 작았지만 전혀 불편하지 않았어."
+                        },
+                        {
+                            "expression":  "you\u0027re so close",
+                            "dialogue":  "Monica: Okay, does it have to do with Pete\u0027s computer company?\nPhoebe: Oh, just go. You\u0027re never gonna get it!\n(earlier)\n**Phoebe: But you\u0027re so close! No!**\nMonica: Okay, I gotta go.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "거의 다 왔어 / 거의 맞혔어 — 정답에 가까이 왔거나 목표에 거의 도달했을 때 격려하는 표현",
+                            "nuance":  "추측 게임이나 목표 달성 상황에서 상대방이 포기하지 않도록 독려할 때 쓴다. 아이러니하게 점점 멀어지는 상황에서 비꼬는 뉘앙스로도 쓸 수 있다.",
+                            "example":  "Keep going — you\u0027re so close to finishing the whole chapter. · 계속해, 챕터 다 끝내는 거 거의 다 왔어."
+                        },
+                        {
+                            "expression":  "bring out one\u0027s eyes",
+                            "dialogue":  "Ross: (takes out two suits) This blue suit, or this brown one?\n**Joey: Well, the brown one brings out your eyes,** but your butt looks great in the blue one.\nRoss: Really? (Joey gives him a \u0027Like I would know\u0027 look)",
+                            "speaker":  "Joey",
+                            "meaning":  "\u0027~을 살리다, 돋보이게 하다\u0027 — 옷이나 색상이 눈 색깔, 피부 톤 같은 신체 특징을 더욱 두드러지게 만들다",
+                            "nuance":  "패션·뷰티 맥락에서 자주 쓰이는 표현. \u0027bring out your eyes / skin tone / hair\u0027 형태로 활용하며, 외모 칭찬 시 자주 등장한다.",
+                            "example":  "That green jacket really brings out your eyes. · 그 초록색 재킷 입으니까 눈이 훨씬 살아 보여."
+                        },
+                        {
+                            "expression":  "on one\u0027s own",
+                            "dialogue":  "Ross: Well, guess what? You\u0027re not my girlfriend anymore so...\nRachel: Oh I see, so this suit is making a point.\nRoss: Right.\n**Rachel: Now that you\u0027re on your own, you\u0027re free to look as stupid as you like.**",
+                            "speaker":  "Rachel",
+                            "meaning":  "혼자서 / 독립적으로 — 다른 사람의 제약이나 영향 없이 스스로 결정하는 상태",
+                            "nuance":  "독립·자유·자율적 결정을 나타낼 때 쓴다. 여기서는 \u0027더 이상 내 눈치 볼 필요 없으니\u0027라는 약간 비꼬는 뉘앙스로 사용되었다.",
+                            "example":  "Now that you\u0027re on your own, you can finally set your own schedule. · 이제 혼자니까 원하는 대로 일정을 짤 수 있어."
+                        },
+                        {
+                            "expression":  "nothing you can do about it",
+                            "dialogue":  "Rachel: Come on! I don\u0027t want you thinking of me like that any more!\n**Ross: Ahh, sorry, nothing you can do about it. It\u0027s one of my ah, rights as the ex-boyfriend.** (closes his eyes again) Oop, oh yeah!",
+                            "speaker":  "Ross",
+                            "meaning":  "어쩔 수 없어 / 네가 어떻게 할 수 있는 게 아니야",
+                            "nuance":  "놀리거나 장난칠 때 가볍게 쓰기도 하고, 진지하게 불가피한 상황을 설명할 때도 쓴다. \u0027There\u0027s nothing you can do about it\u0027의 줄임말로 구어에서 자주 등장한다.",
+                            "example":  "The flight\u0027s delayed — nothing you can do about it, so let\u0027s find somewhere to sit. · 비행기 연착됐어 — 어쩔 수 없으니까 그냥 앉을 곳 찾자."
+                        },
+                        {
+                            "expression":  "shut up for a second",
+                            "dialogue":  "Pete: Now, nooo! I\u0027m just excited about the restaurant, that\u0027s all.\nMonica: Pete.\nPete: Okay, I love you. Is that so bad?\n...\n**Monica: All right shut up for a second and let me just see something.** (She kisses him back on the lips) Oh, wow!",
+                            "speaker":  "Monica",
+                            "meaning":  "잠깐 조용히 해봐 — 상대방 말을 잠시 멈추게 하고 무언가를 생각하거나 시도하려 할 때 쓰는 직접적인 표현",
+                            "nuance":  "\u0027shut up\u0027 자체는 무례하게 들릴 수 있지만 \u0027for a second\u0027를 붙이면 잠깐만 멈춰달라는 다급하지만 가벼운 요청이 된다. 충동적인 순간에 자주 등장한다.",
+                            "example":  "Shut up for a second — did you hear that? · 잠깐 조용히 해봐 — 그 소리 들렸어?"
+                        },
+                        {
+                            "expression":  "make a big impression",
+                            "dialogue":  "Rachel: It\u0027s a very big deal, there\u0027s a lot of people there I have to meet.\n**Ross: And I\u0027m sure you\u0027re gonna make a big impression.** Hi! I\u0027m Rachel Green. It\u0027s nice to meet you. (He lifts his leg and imitates shaking hands with it)",
+                            "speaker":  "Ross",
+                            "meaning":  "강한 인상을 남기다 / 눈에 띄다 — 만남이나 자리에서 상대방에게 뚜렷하게 기억될 만한 인상을 주다",
+                            "nuance":  "긍정적으로는 \u0027좋은 첫인상을 남기다\u0027는 의미이나, 여기서는 Ross가 부상당한 Rachel을 보며 비꼬는 맥락으로 사용했다. 진지하게도, 아이러니하게도 쓸 수 있다.",
+                            "example":  "She made a big impression at the interview — they called her back the same day. · 그녀는 면접에서 강한 인상을 남겼어 — 당일에 다시 연락이 왔거든."
+                        },
+                        {
+                            "expression":  "You\u0027d tell me the truth, right?",
+                            "dialogue":  "(Ross and Rachel return from the hospital)\n**Rachel: Okay, you\u0027d tell me the truth. Right?**\nRoss: Rach, you can\u0027t look fat in an x-ray.\nRachel: Okay.",
+                            "speaker":  "Rachel",
+                            "meaning":  "나한테 솔직하게 말해줄 거지? — 상대방이 사실을 알려줄 것이라는 확인이나 안심을 구하는 표현",
+                            "nuance":  "\u0027Right?\u0027 부가의문 형태가 붙어 살짝 불안하거나 확신이 없는 취약한 뉘앙스를 준다. 외모·실수·중요한 결정에 대한 솔직한 평가가 필요한 상황에서 자주 쓰인다.",
+                            "example":  "If I had something in my teeth, you\u0027d tell me the truth, right? · 이에 뭐 끼어 있으면 솔직하게 말해줄 거지?"
+                        },
+                        {
+                            "expression":  "kinda look like ~",
+                            "dialogue":  "Chandler: (sporting a goatee) Hey.\n**Joey: Hey. Y\u0027know with that goatee you kinda look like Satan.**\nChandler: Oh, so that\u0027s why the priest threw holy water on me.",
+                            "speaker":  "Joey",
+                            "meaning":  "좀 ~처럼 생겼다 / ~와 비슷해 보이다 — 완전히 똑같다는 게 아니라 어느 정도 닮거나 비슷한 인상을 줄 때 쓰는 표현",
+                            "nuance":  "\u0027kinda\u0027(= kind of)를 붙여 단정을 완화한다. 외모에 대한 솔직한 비교를 부드럽게 전달할 때 유용하며, 농담이나 가벼운 놀림에 자주 등장한다.",
+                            "example":  "With that new haircut you kinda look like a young Brad Pitt. · 그 머리 하니까 젊은 브래드 피트 좀 닮았는데."
+                        }
+                    ]
+}

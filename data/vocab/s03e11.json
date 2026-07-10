@@ -1,0 +1,209 @@
+{
+    "id":  "s03e11",
+    "code":  "311",
+    "title":  "The One Where Chandler Can\u0027t Remember Which Sister",
+    "model":  "sonnet",
+    "cost_usd":  0.3419,
+    "expressions":  [
+                        {
+                            "expression":  "be my guest",
+                            "dialogue":  "Phoebe: (gets up) I\u0027ll go up there, I\u0027ll tell him to keep it down.\nMonica: All right, **be my guest**.\nRachel: Good luck.",
+                            "speaker":  "Monica",
+                            "meaning":  "원하는 대로 해도 좋다, 어서 하세요",
+                            "nuance":  "상대가 자신이 하지 못한 일을 하겠다고 나설 때 허락하는 표현. 때로 \u0027그러든지\u0027라는 살짝 비꼬는 뉘앙스도 있음.",
+                            "example":  "\"Can I take the last slice of pizza?\" \"**Be my guest**.\" → \"피자 마지막 조각 먹어도 돼요?\" \"물론이죠, 드세요.\""
+                        },
+                        {
+                            "expression":  "keep it down",
+                            "dialogue":  "Monica: I have like five times, but the guy is so charming...\nPhoebe: (gets up) I\u0027ll go up there, I\u0027ll tell him to **keep it down**.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "소음을 줄이다, 조용히 하다",
+                            "nuance":  "시끄럽게 구는 사람에게 소리나 행동을 줄여달라고 요청할 때. 공손하지만 단호한 어감.",
+                            "example":  "The neighbors were playing music at midnight, so I knocked on the wall and yelled, \"**Keep it down**!\" → 이웃이 자정에 음악을 틀어서 벽을 두드리며 \"조용히 해요!\"라고 소리쳤다."
+                        },
+                        {
+                            "expression":  "stick it out",
+                            "dialogue":  "Rachel: Oh, I wanna quit, but then I think I should **stick it out**, then I think why would such a person stay in such a demeaning job...",
+                            "speaker":  "Rachel",
+                            "meaning":  "힘든 상황에서도 끝까지 버티다, 견디다",
+                            "nuance":  "그만두고 싶은 마음이 있지만 참고 계속하는 것. 단순히 머무는 게 아니라 어려움을 감수하고 버틴다는 뉘앙스.",
+                            "example":  "The training was brutal, but she decided to **stick it out** until graduation. → 훈련이 혹독했지만, 그녀는 졸업할 때까지 버티기로 했다."
+                        },
+                        {
+                            "expression":  "pay one\u0027s dues",
+                            "dialogue":  "Rachel: I don\u0027t mind **paying my dues**, y\u0027know, it\u0027s just how much am I gonna learn about fashion by walking Mira, the arthritic seamstress, to the bathroom.",
+                            "speaker":  "Rachel",
+                            "meaning":  "성공하기 위해 힘든 밑바닥 과정을 감수하다",
+                            "nuance":  "단순히 기다리는 게 아니라, 자신이 속한 분야에서 실력을 쌓기 위해 마땅히 치러야 할 경험을 받아들이는 태도.",
+                            "example":  "Every great chef had to **pay their dues** washing dishes before getting to cook. → 모든 훌륭한 셰프도 요리하기 전에 설거지하는 과정을 거쳐야 했다."
+                        },
+                        {
+                            "expression":  "swoop in (out of nowhere)",
+                            "dialogue":  "Ross: Well, I\u0027m just saying, I mean why else would he just, y\u0027know, **swoop in** out of nowhere for no reason.",
+                            "speaker":  "Ross",
+                            "meaning":  "갑자기 나타나다, 불쑥 끼어들다",
+                            "nuance":  "마치 새가 급강하하듯 예상치 못하게 상황에 등장하는 것. 기회주의적이거나 의도가 있다는 의심을 내포할 때 자주 쓰임.",
+                            "example":  "Just when the project was about to fail, the CEO **swooped in** with a solution. → 프로젝트가 실패할 것 같던 바로 그때, CEO가 갑자기 나타나 해결책을 내놓았다."
+                        },
+                        {
+                            "expression":  "for no apparent reason",
+                            "dialogue":  "Ross: What, so this guy is helping you **for no apparent reason**?\nRachel: Uh-huh!\nRoss: And he\u0027s, he\u0027s a total stranger?",
+                            "speaker":  "Ross",
+                            "meaning":  "뚜렷한 이유 없이, 딱히 이유도 없이",
+                            "nuance":  "납득이 가지 않는 상황에서 의심이나 의구심을 드러낼 때 자주 쓰이는 표현.",
+                            "example":  "He started laughing **for no apparent reason**, which made everyone uncomfortable. → 그는 딱히 이유도 없이 웃기 시작했고, 모두를 불편하게 만들었다."
+                        },
+                        {
+                            "expression":  "end up ~ing",
+                            "dialogue":  "Joey: Man, I remember the first time I saw that girl Katherine, after we broke up...\nChandler: Yes, but you **ended up having sex** with both of them that afternoon.\nJoey: Sorry, I just, any excuse to tell that story y\u0027know...",
+                            "speaker":  "Chandler",
+                            "meaning":  "결국 ~하게 되다 (의도치 않게 또는 예상과 다르게)",
+                            "nuance":  "의도하지 않았거나 예상하지 못했던 결과에 이르렀을 때 씀. 경위보다 최종 결과를 강조.",
+                            "example":  "We planned to take the highway, but **ended up getting lost** on a back road for two hours. → 고속도로를 타려고 했는데, 결국 두 시간 동안 뒷길에서 길을 잃었다."
+                        },
+                        {
+                            "expression":  "tick (someone) off",
+                            "dialogue":  "Joey: Now look, listen, you got to be cool, \u0027cause my Grandma doesn\u0027t know about you two yet, and you do not want to **tick her off**. She was like the sixth person to spit on Mussolini\u0027s hanging body.",
+                            "speaker":  "Joey",
+                            "meaning":  "화나게 하다, 짜증나게 하다",
+                            "nuance":  "\"piss off\"보다 약한 구어체 표현. 상대를 화나게 하거나 성나게 하는 것. 주로 조심하라는 경고의 맥락에서 쓰임.",
+                            "example":  "Don\u0027t be late again — it really **ticks him off** when people don\u0027t respect his time. → 또 늦지 마 — 그 사람, 다른 사람이 자기 시간을 존중하지 않으면 정말 화내거든."
+                        },
+                        {
+                            "expression":  "jump the gun",
+                            "dialogue":  "Chandler: Look, I **may have jumped the gun** here. (she tries to kiss him, but he ducks it and moves away) Um, I just got out of a relationship and I\u0027m not really in a, in a commitment kind of place.",
+                            "speaker":  "Chandler",
+                            "meaning":  "섣부르게 행동하다, 너무 일찍/성급하게 나서다",
+                            "nuance":  "육상 경기에서 출발 신호 전에 뛰는 것에서 유래. 상황을 제대로 파악하지 않고 성급하게 행동했음을 인정할 때.",
+                            "example":  "I think I **jumped the gun** by buying concert tickets before confirming everyone could come. → 다들 올 수 있는지 확인하기 전에 콘서트 티켓을 사버린 건 너무 성급한 행동이었던 것 같아."
+                        },
+                        {
+                            "expression":  "let (someone) down easy",
+                            "dialogue":  "Ross: At least you know her name. You just go to the house and you ask for Mary-Angela, okay, when whichever one she is comes to the door, you take her for a walk, you **let her down easy**.",
+                            "speaker":  "Ross",
+                            "meaning":  "상대방을 배려하며 부드럽게 거절하다",
+                            "nuance":  "직접적으로 차거나 거절하지 않고 상대의 감정을 다치지 않게 조심스럽게 하는 것. \"let down\"(실망시키다)에 \"easy\"(부드럽게)가 붙은 형태.",
+                            "example":  "I knew he liked me, so I tried to **let him down easy** by saying I just wanted to stay friends. → 그가 나를 좋아하는 걸 알았기 때문에, 친구로 지내고 싶다고 부드럽게 거절하려 했다."
+                        },
+                        {
+                            "expression":  "get over yourself",
+                            "dialogue":  "Monica: I mean don\u0027t you trust her?\nRoss: Well, yeah!\nMonica: Then **get over yourself**! Grow up!\nRoss: (shyly) You grow up.",
+                            "speaker":  "Monica",
+                            "meaning":  "자만하지 마라, 자기중심적으로 굴지 마라",
+                            "nuance":  "누군가가 자기 자신을 지나치게 중요하게 여기거나 자기중심적으로 굴 때 쓰는 강한 구어 표현. 직설적이고 다소 공격적인 어감.",
+                            "example":  "You think everyone is staring at you? **Get over yourself** — nobody cares that much. → 모두가 너를 쳐다본다고 생각해? 자만하지 마 — 아무도 그렇게 신경 안 써."
+                        },
+                        {
+                            "expression":  "blow off (someone)",
+                            "dialogue":  "Ross: How do you think Joey\u0027s going to react when he finds out that you **blew off** his sister with a letter?\nChandler: Well, that\u0027s the part where you tell him that I moved to France.",
+                            "speaker":  "Ross",
+                            "meaning":  "사람을 무시하다, 무성의하게 퇴짜 놓다",
+                            "nuance":  "상대방을 진지하게 대하지 않고 무성의하게 거절하거나 약속을 지키지 않는 것. 격식 없는 구어 표현.",
+                            "example":  "She texted him three times, but he just **blew her off** without any explanation. → 그녀가 세 번이나 문자를 보냈지만, 그는 아무 설명도 없이 무시해버렸다."
+                        },
+                        {
+                            "expression":  "make stuff happen",
+                            "dialogue":  "Monica: Wait a minute, why don\u0027t you just call Mark. I mean, who says you have to sit here and wait for him, you\u0027ve got to **make stuff happen**.\nRoss: But, you, you don\u0027t want to seem too pushy.",
+                            "speaker":  "Monica",
+                            "meaning":  "직접 나서서 일이 되도록 하다, 능동적으로 행동하다",
+                            "nuance":  "수동적으로 기다리지 말고 직접 행동해서 원하는 결과를 만들어내라는 격려. \"things\" 대신 \"stuff\"를 써서 더 구어적인 느낌.",
+                            "example":  "Successful people don\u0027t wait for opportunities — they **make things happen**. → 성공한 사람들은 기회를 기다리지 않는다 — 직접 상황을 만들어낸다."
+                        },
+                        {
+                            "expression":  "on the receiving end (of)",
+                            "dialogue":  "Joey: Well, that is usually what I would do. But I just never thought you\u0027d be **on the receiving end of** it. How could you do this?!",
+                            "speaker":  "Joey",
+                            "meaning":  "~을 당하는 쪽에 있다, 결과를 받아들이는 입장에 있다",
+                            "nuance":  "어떤 행동이나 결과를 \"주는 쪽\"이 아닌 \"받는 쪽\"에 있다는 뜻. 주로 부정적인 상황에서 씀.",
+                            "example":  "As someone who has been **on the receiving end of** harsh criticism, I try to give feedback kindly. → 혹독한 비판을 당해본 사람으로서, 나는 피드백을 부드럽게 주려고 노력한다."
+                        },
+                        {
+                            "expression":  "I\u0027ve been there",
+                            "dialogue":  "Rachel: It\u0027s not funny, this is actually my job.\nGuy (Mark): Oh believe me, **I\u0027ve been there**. I had to sort mannequin heads at Mannequins Plus.",
+                            "speaker":  "Mark",
+                            "meaning":  "나도 그런 경험 있어, 나도 그 처지였던 적 있어",
+                            "nuance":  "상대방의 힘든 상황에 공감을 표현할 때 쓰는 매우 자연스러운 표현. 길게 설명하지 않아도 \"충분히 이해한다\"는 뜻을 전달.",
+                            "example":  "\"I\u0027m so stressed about this exam.\" \"**I\u0027ve been there** — just breathe and focus on what you know.\" → \"시험 때문에 너무 스트레스받아.\" \"나도 그런 적 있어 — 그냥 숨 쉬고 아는 것에 집중해.\""
+                        },
+                        {
+                            "expression":  "go out on a date",
+                            "dialogue":  "Monica: I mean you\u0027re **going out on a date** with the noisy guy upstairs?\nPhoebe: Well, he\u0027s very charming.\nMonica: I know, he\u0027s too charming...",
+                            "speaker":  "Monica",
+                            "meaning":  "데이트하러 나가다",
+                            "nuance":  "\"go out with someone\"이 \"~와 사귀다\"라는 뜻인 데 반해, \"go out on a date\"는 아직 관계가 확정되지 않은 한 번의 데이트를 하다는 뜻.",
+                            "example":  "\"Are you two together?\" \"No, we just **went out on a date** once.\" → \"너네 사귀어?\" \"아니, 그냥 한 번 데이트한 것뿐이야.\""
+                        },
+                        {
+                            "expression":  "eavesdrop",
+                            "dialogue":  "Phoebe: Ick, you were **eavesdropping**.\nRachel: **Eavesdropping**. Pheebs, the ceiling tiles were falling down.",
+                            "speaker":  "Phoebe / Rachel",
+                            "meaning":  "엿듣다, 몰래 듣다",
+                            "nuance":  "의도적으로 다른 사람의 대화를 몰래 듣는 것. Rachel의 경우처럼 의도치 않은 경우에도 쓸 수 있음.",
+                            "example":  "I wasn\u0027t trying to **eavesdrop**, but their argument was so loud I could hear every word. → 엿들으려던 게 아니었는데, 두 사람 싸우는 소리가 너무 커서 모든 말이 다 들렸다."
+                        },
+                        {
+                            "expression":  "I\u0027ll hold",
+                            "dialogue":  "Rachel: (on phone) Yeah, **I\u0027ll hold**. (to Monica and Ross) He left my number at work, but he was helping his niece with her report on the pioneers.",
+                            "speaker":  "Rachel",
+                            "meaning":  "(전화에서) 기다리겠다, 끊지 않고 있겠다",
+                            "nuance":  "전화 상대방이 \"잠깐만요(Can you hold?)\"라고 할 때 쓰는 가장 자연스러운 대답.",
+                            "example":  "\"Can you hold for just a moment?\" \"Of course, **I\u0027ll hold**.\" → \"잠깐만 기다려 주시겠어요?\" \"네, 기다리겠습니다.\""
+                        },
+                        {
+                            "expression":  "prep (someone) for (something)",
+                            "dialogue":  "Ross: (to Monica) Y\u0027know now he is going to **prep** her, y\u0027know **prep** her, as in what you do when you surgically remove the boyfriend!",
+                            "speaker":  "Ross",
+                            "meaning":  "~를 위해 준비시키다, 코치하다",
+                            "nuance":  "\"prepare\"의 구어 단축형. 특히 면접·시험·발표 등을 앞두고 집중 지도를 해주는 것. 여기서 Ross는 비꼬는 맥락으로 씀.",
+                            "example":  "His mentor spent an entire afternoon **prepping** him for the job interview. → 멘토가 오후 내내 그가 취업 면접을 잘 볼 수 있도록 준비를 도와줬다."
+                        },
+                        {
+                            "expression":  "get all + [adj]",
+                            "dialogue":  "Rachel: ...thank God Mark coached me, because once I started talking about the fall line, she **got all happy** and wouldn\u0027t shut up.",
+                            "speaker":  "Rachel",
+                            "meaning":  "갑자기/완전히 ~한 상태가 되다",
+                            "nuance":  "감정이나 상태가 갑자기 확 바뀌었을 때 쓰는 구어 표현. 변화의 급격함을 강조. \"get excited\", \"get weird\", \"get serious\" 등 다양한 형용사와 결합.",
+                            "example":  "We thought the pitch was going badly, but when we showed the demo, the investors **got all excited**. → 발표가 잘 안 되는 것 같았는데, 데모를 보여주자 투자자들이 갑자기 완전 흥분했다."
+                        },
+                        {
+                            "expression":  "wouldn\u0027t shut up",
+                            "dialogue":  "Rachel: ...once I started talking about the fall line, she got all happy and **wouldn\u0027t shut up**.",
+                            "speaker":  "Rachel",
+                            "meaning":  "말을 멈추지 않았다, 계속 지껄였다",
+                            "nuance":  "\"shut up\"(입 다물다)의 과거 거부형. 계속 말이 많았던 사람을 묘사할 때 씀. 성가심 혹은 놀라움의 뉘앙스로 쓸 수 있음.",
+                            "example":  "Once he started talking about his trip, he **wouldn\u0027t shut up** — we were there for two hours. → 그가 여행 이야기를 시작하자 말을 멈추지 않았다 — 우리는 두 시간이나 거기 있었다."
+                        },
+                        {
+                            "expression":  "screw up the punch line",
+                            "dialogue":  "Chandler: Okay, well he totally **screwed up the punch line**. Y\u0027know, it\u0027s supposed to be arrghh-eh og-errigh.",
+                            "speaker":  "Chandler",
+                            "meaning":  "농담의 핵심 대사를 망치다",
+                            "nuance":  "\"punch line\"은 농담에서 웃음을 유발하는 마지막 한 마디. \"screw up\"(망치다)과 결합해 농담을 제대로 전달하지 못했음을 표현.",
+                            "example":  "He tried to tell his dad\u0027s favorite joke but **screwed up the punch line** and nobody laughed. → 아버지가 제일 좋아하는 농담을 하려다가 핵심 대사를 망쳐서 아무도 웃지 않았다."
+                        },
+                        {
+                            "expression":  "fall for (someone)",
+                            "dialogue":  "Joey: She told me you said you could really **fall for** her. Now is that true? Or are you just gettin\u0027 over Janice by groping my sister.\nChandler: It\u0027s gotta be the first one.",
+                            "speaker":  "Joey",
+                            "meaning":  "~에게 빠지다, ~를 좋아하게 되다",
+                            "nuance":  "\"fall in love\"보다 더 초기 단계의 감정이나 가벼운 끌림에도 쓰임. 의도치 않게 감정이 생겨나는 뉘앙스.",
+                            "example":  "I didn\u0027t expect it, but I think I\u0027m starting to **fall for** my coworker. → 예상하지 못했는데, 나 동료한테 빠지기 시작하는 것 같아."
+                        },
+                        {
+                            "expression":  "How does that sound?",
+                            "dialogue":  "Mr. Kaplan: Well, I\u0027ve got a project for you that\u0027s a lot more related to fashion. **How does that sound?**\nRachel: Oh, that sounds great.",
+                            "speaker":  "Mr. Kaplan",
+                            "meaning":  "어때요? 어떻게 생각해요? (제안 후 상대 의견을 물을 때)",
+                            "nuance":  "제안이나 계획을 말한 뒤 상대방의 반응을 자연스럽게 묻는 표현. \"What do you think?\"보다 부드럽고 친근한 느낌. 뒤에 나올 내용이 별로여도 자주 씀.",
+                            "example":  "\"Let\u0027s wrap up early on Friday and go for drinks — **how does that sound?**\" \"Sounds perfect!\" → \"금요일에 일찍 마무리하고 술 한잔 하러 가는 거 어때?\" \"완벽한데!\""
+                        },
+                        {
+                            "expression":  "feel bad for (someone)",
+                            "dialogue":  "Chandler: Yeah, she was at Rockefeller Center skating with her husband, she looked so happy. I almost **feel bad for** whipping that kid\u0027s pretzel at them.",
+                            "speaker":  "Chandler",
+                            "meaning":  "~에게 미안한 마음이 들다, ~가 안쓰럽다",
+                            "nuance":  "죄책감과 동정심이 혼합된 감정을 표현. \"feel sorry for\"와 비슷하지만 더 구어적. \"almost\"와 함께 쓰여 자기 행동을 희화화하는 Chandler식 유머.",
+                            "example":  "I **feel bad for** people who have to work on holidays while everyone else is celebrating. → 다들 쉬는데 휴일에도 일해야 하는 사람들이 안쓰럽다."
+                        }
+                    ]
+}

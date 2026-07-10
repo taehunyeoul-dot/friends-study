@@ -1,0 +1,209 @@
+{
+    "id":  "s02e20",
+    "code":  "220",
+    "title":  "The One Where Old Yeller Dies",
+    "model":  "sonnet",
+    "cost_usd":  0.2263,
+    "expressions":  [
+                        {
+                            "expression":  "Watcha (doing / got there)",
+                            "dialogue":  "Phoebe: Hey. Watcha guys doin?\nRichard: Monica\u0027s making us watch Old Yeller.\n---\nRachel: Hey Phoebs, whatcha got there?\nPhoebe: Ok, Love Story, Brian\u0027s Song, and Terms of Endearment.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "\u0027What are you doing\u0027 또는 \u0027What have you got there\u0027의 구어 축약형",
+                            "nuance":  "격식 없는 일상 대화에서 자연스럽게 튀어나오는 표현으로, \u0027what are you\u0027를 거의 하나의 음절처럼 압축해 발음한다. 글로는 watcha / whatcha 두 가지로 표기한다.",
+                            "example":  "친구가 손에 뭔가를 들고 들어올 때 → \"Hey, whatcha got there?\""
+                        },
+                        {
+                            "expression":  "C\u0027mon (= Come on, 불신·설득)",
+                            "dialogue":  "Ross: What\u0027re you talkin\u0027 about?\nPhoebe: C\u0027mon, happy family gets a dog, frontier fun.\nRachel: That\u0027s not the end.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "\u0027진짜로?\u0027 \u0027말도 안 돼\u0027 또는 \u0027그러지 마\u0027 의 의미로 쓰이는 구어 표현",
+                            "nuance":  "상황에 따라 설득(\u0027C\u0027mon, just try it\u0027), 불신(\u0027C\u0027mon, you can\u0027t be serious\u0027), 재촉(\u0027C\u0027mon, let\u0027s go\u0027) 등 세 가지로 쓰인다. 이 장면에서는 불신 용법.",
+                            "example":  "친구가 그 영화 결말을 모른다고 할 때 → \"C\u0027mon, everyone knows how that movie ends!\""
+                        },
+                        {
+                            "expression":  "What\u0027re you talkin\u0027 about?",
+                            "dialogue":  "Phoebe: It\u0027s Old Yeller, it\u0027s a happy movie.\nRachel: What?\nRoss: What\u0027re you talkin\u0027 about?",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027무슨 소리야?\u0027 — 상대방 말에 황당함이나 강한 의문을 표현",
+                            "nuance":  "단순한 정보 요청이 아니라 \u0027그게 말이 돼?\u0027 라는 감정을 실어 쓴다. What are you talking about?의 구어 축약이며, 음절을 빠르게 흘리는 것이 포인트.",
+                            "example":  "친구가 오늘 시험 없다고 했는데 알고 보니 있을 때 → \"What\u0027re you talkin\u0027 about? The exam is TODAY.\""
+                        },
+                        {
+                            "expression":  "for the bizillionth time",
+                            "dialogue":  "Monica: Alright, for the bizillionth time, yes I see other women in the shower at the gym, and no I don\u0027t look.",
+                            "speaker":  "Monica",
+                            "meaning":  "\u0027수도 없이 많은 번째로\u0027 — 같은 말을 반복적으로 해야 하는 짜증을 과장해서 표현",
+                            "nuance":  "\u0027billion\u0027을 가상의 숫자 \u0027bizillion\u0027으로 만들어 과장을 극대화한 유머 표현. \u0027for the millionth time\u0027도 동일 패턴이다.",
+                            "example":  "동생이 또 같은 질문을 할 때 → \"For the bizillionth time, I already told you where the remote is!\""
+                        },
+                        {
+                            "expression":  "breath issues",
+                            "dialogue":  "Chandler: Yeah, Ross can\u0027t go so it\u0027s between my friend Eric Prower who has breath issues and Dan with the poking.",
+                            "speaker":  "Chandler",
+                            "meaning":  "입 냄새(bad breath)를 완곡하게 표현하는 말",
+                            "nuance":  "직접적인 \u0027bad breath\u0027 대신 \u0027issues\u0027를 붙여 부드럽게 돌려 말하는 전형적인 미국 완곡어법. \u0027have __ issues\u0027 패턴은 신체적·성격적 단점을 간접적으로 지칭할 때 폭넓게 쓰인다.",
+                            "example":  "팀원의 냄새 문제를 상사에게 살짝 알릴 때 → \"He\u0027s great at his job, but he has some breath issues we should probably address.\""
+                        },
+                        {
+                            "expression":  "minty fresh",
+                            "dialogue":  "Monica: C\u0027mon. Keeps his fingers to himself and he\u0027s always minty fresh.\nChandler: I don\u0027t know, Richard\u0027s really nice and everything...",
+                            "speaker":  "Monica",
+                            "meaning":  "입이 항상 상쾌하고 깨끗하다는 뜻; 입 냄새가 없다는 표현",
+                            "nuance":  "치약·껌 광고 언어에서 온 표현으로, 일상 대화에서는 가볍게 유머러스하게 쓴다. \u0027breath issues\u0027와 대조되는 긍정 표현이다.",
+                            "example":  "껌을 항상 가지고 다니는 친구를 칭찬할 때 → \"I love sitting next to you — you\u0027re always minty fresh.\""
+                        },
+                        {
+                            "expression":  "older than some people, but younger than some buildings",
+                            "dialogue":  "Chandler: I don\u0027t know, Richard\u0027s really nice and everything, uh, it\u0027s just that we don\u0027t know him really well, ya know, and plus he\u0027s, ya know, old [Monica gives him a glare] -er than some people, but, uh, younger than some buildings.",
+                            "speaker":  "Chandler",
+                            "meaning":  "상대방의 눈치를 보며 \u0027늙다\u0027는 말을 엉뚱하게 완화시키는 재치 있는 표현",
+                            "nuance":  "Chandler 특유의 당황해서 즉흥으로 말을 바꾸는 패턴. 망설임(ya know, uh)이 포함된 채 흘러가는 구조 자체가 개그 포인트다.",
+                            "example":  "교수님 나이를 실수로 꺼냈다가 수습할 때 → \"I mean, Professor Kim is... older than some students, but younger than the building we\u0027re sitting in.\""
+                        },
+                        {
+                            "expression":  "be about to",
+                            "dialogue":  "Richard: Uh, Phoebe, I don\u0027t think your mom would want you to see what\u0027s about to happen.\nPhoebe: What, what\u0027s about to happen?",
+                            "speaker":  "Richard / Phoebe",
+                            "meaning":  "\u0027막 ~하려 하다\u0027 — 아주 가까운 미래에 일어날 일을 나타냄",
+                            "nuance":  "will보다 시간적으로 훨씬 임박한 미래를 나타낸다. 드라마나 영화에서 긴장감을 조성할 때 자주 등장하며, 일상 대화에서도 \u0027I\u0027m about to eat\u0027처럼 바로 지금 할 행동을 표현한다.",
+                            "example":  "회의 시작 직전을 알릴 때 → \"The meeting is about to start, you should come in now.\""
+                        },
+                        {
+                            "expression":  "Could [X] BE any [Y]? (Chandler식 강조 의문)",
+                            "dialogue":  "Richard: Hey, you\u0027re gettin\u0027 better. I\u0027m gonna keep this by the way.\nRichard: [foosball] pass to the middle, lines it up and... BAM! Yes! Could that shot BE any prettier?",
+                            "speaker":  "Richard",
+                            "meaning":  "\u0027이보다 더 ~할 수 없다\u0027는 뜻의 수사 의문문; 극도의 감탄이나 반어를 표현",
+                            "nuance":  "Friends에서 Chandler가 즐겨 쓰는 구조로 널리 알려졌다. 감탄일 때는 긍정 형용사(prettier, more perfect), 비꼴 때는 부정 형용사(more obvious, more annoying)를 쓴다.",
+                            "example":  "친구가 완벽한 타이밍에 나타났을 때 → \"Could your timing BE any better?\""
+                        },
+                        {
+                            "expression":  "kick in",
+                            "dialogue":  "Richard: Nice moustache by the way. When puberty hits that thing\u0027s really gonna kick in.",
+                            "speaker":  "Richard",
+                            "meaning":  "\u0027(효과·작용이) 시작되다, 발동하다\u0027",
+                            "nuance":  "약이나 카페인이 효과를 내기 시작할 때, 냉방기가 작동하기 시작할 때처럼 어떤 것이 본격적으로 기능하기 시작하는 순간을 표현한다. 항상 자동사로 쓴다.",
+                            "example":  "커피를 마시고 30분 후에 → \"The caffeine finally kicked in — I feel so much more awake now.\""
+                        },
+                        {
+                            "expression":  "behind the times",
+                            "dialogue":  "Carol: Yeah, a woman I went to college with just became the first female blacksmith down there.\nRoss: Well, ya know, they\u0027re a little behind the times in Colonial Williamsburg.",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027시대에 뒤처지다, 구식이다\u0027",
+                            "nuance":  "기술·트렌드·사고방식이 현재 흐름을 따라가지 못함을 나타낸다. 사람에게도(\u0027He\u0027s a bit behind the times\u0027), 장소·조직에게도 쓸 수 있다.",
+                            "example":  "팩스만 쓰는 회사를 평가할 때 → \"That company is really behind the times — they don\u0027t even have email.\""
+                        },
+                        {
+                            "expression":  "sidestep a land mine",
+                            "dialogue":  "Joey: Figured if we both grew it, we\u0027d look like dorks.\nRoss: Yeah, you really sidestepped that land mine.",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027(잠재적인 실수나 문제를) 교묘히 피하다\u0027",
+                            "nuance":  "원래 전장의 지뢰를 비켜 가는 데서 온 비유로, 자칫 상황을 악화시킬 수 있는 결정이나 발언을 가까스로 피했을 때 쓴다. 종종 빈정거림을 담아 쓴다.",
+                            "example":  "상사 앞에서 실수를 가까스로 막았을 때 → \"You really sidestepped a land mine there — good save.\""
+                        },
+                        {
+                            "expression":  "hog (someone\u0027s time / the TV / the bathroom)",
+                            "dialogue":  "Chandler: Hey listen, don\u0027t be mad at him, it\u0027s our fault. I\u0027m sorry we\u0027ve been hoggin so much of his time.",
+                            "speaker":  "Chandler",
+                            "meaning":  "\u0027(시간·자원 등을) 독차지하다, 혼자 너무 많이 쓰다\u0027",
+                            "nuance":  "돼지(hog)처럼 욕심껏 차지한다는 이미지에서 나온 구어 표현. 의도적이지 않아도 결과적으로 너무 많이 차지했을 때 쓸 수 있다.",
+                            "example":  "룸메이트가 욕실을 오래 쓸 때 → \"Stop hogging the bathroom — other people need to get ready too.\""
+                        },
+                        {
+                            "expression":  "Not to sound too [X], but...",
+                            "dialogue":  "Monica: Not to sound too Florence Henderson but, dinner\u0027s on the table.\nRichard: Ok, just one more point.",
+                            "speaker":  "Monica",
+                            "meaning":  "\u0027~처럼 들리려는 건 아닌데, 그렇지만...\u0027 — 발언을 부드럽게 예방하는 헤징 표현",
+                            "nuance":  "말하고자 하는 내용이 상대방에게 잔소리·과잉·권위적으로 들릴까 봐 미리 쿠션을 까는 표현. \u0027Not to be rude, but...\u0027 / \u0027Not to alarm you, but...\u0027 등 동일 패턴이 많다.",
+                            "example":  "친구의 발표 준비가 걱정될 때 → \"Not to sound like your mom, but have you actually rehearsed that presentation?\""
+                        },
+                        {
+                            "expression":  "pull oneself up",
+                            "dialogue":  "Ross: Ok, we were sitting over there playing on the floor and he grabs the table and he pulls himself up. He pulled himself up. Standing man.",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027(무언가를 잡고) 몸을 일으켜 서다\u0027",
+                            "nuance":  "물리적으로 자신의 몸을 끌어올리는 행동 자체를 표현한다. 아기의 첫 기립처럼 능동적 노력이 담긴 뉘앙스. 비유적으로는 \u0027pull oneself up by the bootstraps(자수성가하다)\u0027도 있다.",
+                            "example":  "재활 중인 환자가 처음으로 혼자 일어섰을 때 → \"After weeks of therapy, he finally pulled himself up without any help.\""
+                        },
+                        {
+                            "expression":  "be sick of",
+                            "dialogue":  "Ross: I\u0027m so sick of missing stuff. Ya know, I want him for more than, than a day, I want him for a whole weekend.",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027~에 완전히 질리다, 더 이상 참을 수 없다\u0027",
+                            "nuance":  "\u0027be tired of\u0027보다 감정 강도가 훨씬 높다. 오래 쌓인 불만이 폭발하기 직전의 뉘앙스를 담는다. 뒤에 항상 명사 또는 동명사(-ing)가 온다.",
+                            "example":  "매일 야근이 반복될 때 → \"I\u0027m so sick of staying late — I need a vacation.\""
+                        },
+                        {
+                            "expression":  "keep + -ing (계속해서 ~하다)",
+                            "dialogue":  "Phoebe: It just kept getting worse and worse, it should have been called \u0027It\u0027s a sucky life and just when you think it can\u0027t suck any more it does.\u0027",
+                            "speaker":  "Phoebe",
+                            "meaning":  "\u0027계속해서 ~하다\u0027 — 반복 또는 지속되는 동작·상태를 나타냄",
+                            "nuance":  "\u0027kept + -ing\u0027은 단순 과거 반복이고, \u0027keeps + -ing\u0027은 현재까지 이어지는 반복이다. \u0027worse and worse\u0027처럼 비교급을 반복하면 점점 심해지는 강조 효과가 있다.",
+                            "example":  "수리한 차가 또 고장났을 때 → \"It just keeps breaking down — I think I need a new car.\""
+                        },
+                        {
+                            "expression":  "big deal",
+                            "dialogue":  "Monica: So what, he\u0027s a little older, big deal, I mean he\u0027s important to me.",
+                            "speaker":  "Monica",
+                            "meaning":  "\u0027별것도 아닌 일\u0027 — 누군가가 과잉 반응한다고 생각할 때 쓰는 표현",
+                            "nuance":  "단독으로 \u0027Big deal.\u0027이라고 하면 강한 빈정거림(\u0027그게 뭐 대수야?\u0027)이 된다. \u0027It\u0027s no big deal\u0027은 상대방을 안심시키는 겸손한 표현이다. 맥락이 어조를 결정한다.",
+                            "example":  "친구가 작은 실수를 크게 걱정할 때 → \"You\u0027re ten minutes late — it\u0027s not a big deal, we haven\u0027t ordered yet.\""
+                        },
+                        {
+                            "expression":  "What the hell",
+                            "dialogue":  "Ross: Ok, what the hell happened back there?\nRachel: I don\u0027t know, you tell me.",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027도대체 무슨 일이야?\u0027 — 당혹감이나 불쾌함을 담은 강조 의문",
+                            "nuance":  "\u0027what happened?\u0027에 \u0027the hell\u0027을 끼워 감정 강도를 높이는 구어 표현. 격식 없는 상황에서만 쓰고, 직장 등 공식 자리에서는 피한다.",
+                            "example":  "갑자기 앱이 충돌했을 때 → \"What the hell? I just saved everything and now it\u0027s gone.\""
+                        },
+                        {
+                            "expression":  "tough (= too bad, deal with it)",
+                            "dialogue":  "Ross: ...if you want to be with me you are gonna have to deal with that.\nRachel: Fine, I will.\nRoss: Good, \u0027cause I love you.\n---\nRoss: ...tough, \u0027cause you\u0027re gonna have to deal with that.",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027어쩔 수 없어, 감수해\u0027 — 상대방의 불편함에 대해 동정하지 않겠다는 단호한 표현",
+                            "nuance":  "단 한 마디 \u0027Tough.\u0027만으로도 \u0027그건 네 문제야\u0027라는 뉘앙스를 전달한다. 자신감 있게, 때로는 약간 차갑게 들릴 수 있는 직설 표현이다.",
+                            "example":  "팀원이 마감 날짜가 싫다고 불평할 때 → \"Tough — the client needs it by Friday and that\u0027s not changing.\""
+                        },
+                        {
+                            "expression":  "baked right in",
+                            "dialogue":  "Monica: So you can\u0027t lose, it\u0027s there in the title. Wonderfullness is baked right in.\nPhoebe: Please, I almost fell for that with Pride of the Yankees.",
+                            "speaker":  "Monica",
+                            "meaning":  "\u0027처음부터 내재되어 있다, 기본으로 포함되어 있다\u0027",
+                            "nuance":  "빵을 구울 때 재료가 안에 들어간다는 이미지에서 온 비유. 소프트웨어·서비스·디자인 등에서 기능이 별도 추가 없이 기본으로 포함된 경우에도 자주 쓴다.",
+                            "example":  "새 앱에 다크모드가 기본 탑재됐을 때 → \"Dark mode is baked right in — you don\u0027t have to install anything extra.\""
+                        },
+                        {
+                            "expression":  "see it coming",
+                            "dialogue":  "Richard: Uh, the guy was Lou Gehrig. Didn\u0027t you kinda see it coming?\nPhoebe: ...",
+                            "speaker":  "Richard",
+                            "meaning":  "\u0027(일어날 일을) 미리 예측하다, 낌새를 채다\u0027",
+                            "nuance":  "\u0027I saw that coming\u0027은 결과가 뻔했다는 뜻이고, \u0027I didn\u0027t see that coming\u0027은 전혀 예상 못 했다는 뜻이다. 부정형이 훨씬 자주 쓰이며 놀람을 표현한다.",
+                            "example":  "예상했던 실적 발표 결과를 들었을 때 → \"Honestly, I saw that coming — they\u0027ve been struggling all year.\""
+                        },
+                        {
+                            "expression":  "(one\u0027s) mind wanders",
+                            "dialogue":  "Ross: I think about stuff. Ya know, I mean, you\u0027re at work, you\u0027re assembling bones, your mind wanders.",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027생각이 딴 데로 흐르다, 공상에 잠기다\u0027",
+                            "nuance":  "집중하지 않고 생각이 다른 곳으로 떠내려가는 상태를 표현한다. 부정적이기보다는 자연스러운 인간의 상태를 묘사하는 중립적 표현이다.",
+                            "example":  "긴 회의 중 집중을 잃었을 때 → \"Sorry, what did you say? My mind was wandering.\""
+                        },
+                        {
+                            "expression":  "for starters",
+                            "dialogue":  "Ross: Well for starters, you may want to light it and lose the spatula.\n[Joey holding an unlit cigar and spatula, trying to look like Richard]",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027우선 첫 번째로, 일단\u0027 — 여러 이유나 단계 중 첫 번째를 소개할 때",
+                            "nuance":  "\u0027First of all\u0027보다 가볍고 구어적이다. 뒤에 \u0027and then...\u0027 \u0027also...\u0027 등으로 다음 포인트를 이어가는 흐름에 자연스럽게 쓴다.",
+                            "example":  "이사할 아파트의 문제점을 나열할 때 → \"For starters, the heating doesn\u0027t work — and that\u0027s just the beginning.\""
+                        },
+                        {
+                            "expression":  "end up (together / doing something / somewhere)",
+                            "dialogue":  "Ross: ...if you want to be with me you are gonna have to deal with that. Because I know that we\u0027re gonna end up together.\nRachel: Fine, I will.",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027결국 ~하게 되다, 마침내 ~의 상태가 되다\u0027",
+                            "nuance":  "계획 없이 또는 예상치 못하게 어떤 결과에 이르렀을 때 자주 쓴다. Ross처럼 확신을 담아 쓸 수도 있고, \u0027We ended up eating pizza again\u0027처럼 무계획적인 결과에도 쓴다.",
+                            "example":  "우연히 같은 팀이 됐을 때 → \"We ended up on the same project team — I guess it was meant to be.\""
+                        }
+                    ]
+}

@@ -1,0 +1,209 @@
+{
+    "id":  "s03e16",
+    "code":  "316",
+    "title":  "The One The Morning After",
+    "model":  "sonnet",
+    "cost_usd":  0.3896,
+    "expressions":  [
+                        {
+                            "expression":  "take a break (from ~)",
+                            "dialogue":  "Rachel: I cannot keep having this same fight with you Ross! Look, maybe we should **take a break**.\nRoss: Fine, you\u0027re right. Let\u0027s take a break, let\u0027s cool off...\nRachel: No. A break from us.\n[후에]\nRachel: We were on a **break**!\nRoss: That, for all I knew would could last forever. That to me is a break-up.",
+                            "speaker":  "Rachel / Ross",
+                            "meaning":  "관계나 상황에서 잠시 멈추다; 연인 사이에서는 \u0027잠깐 쉬어가자(일시 정지하자)\u0027는 뜻",
+                            "nuance":  "Ross는 \u0027break = break-up(이별)\u0027으로 이해했지만 Rachel은 일시 정지로 생각해 극적인 오해가 생긴다. 연인 관계 외에도 일·습관에서 \u0027잠시 쉬다\u0027는 뜻으로 자연스럽게 쓴다.",
+                            "example":  "I\u0027ve been stressing about the project for weeks. I need to take a break and clear my head. → 몇 주째 프로젝트 스트레스를 받았어. 잠깐 쉬면서 머리를 식혀야겠어."
+                        },
+                        {
+                            "expression":  "cool off",
+                            "dialogue":  "Ross: ...let\u0027s **cool off**, okay, let\u0027s get some frozen yoghurt, or something..\nRachel: No. A break from us.",
+                            "speaker":  "Ross",
+                            "meaning":  "흥분이나 화가 가라앉다; 감정을 식히다",
+                            "nuance":  "\u0027calm down\u0027보다 덜 직접적이고 부드러운 뉘앙스로, \u0027잠깐 각자 시간을 가지며 감정이 식기를 기다리자\u0027는 제안에 자주 쓴다.",
+                            "example":  "Let\u0027s take a walk and cool off before we say something we\u0027ll regret. → 후회할 말 하기 전에 산책하면서 좀 식히자."
+                        },
+                        {
+                            "expression":  "make up (with someone)",
+                            "dialogue":  "Joey: (Voice Over) We figured when we couldn\u0027t find you, you\u0027d gone home to **make up** with Rachel. Which is probably what you shoulda done.",
+                            "speaker":  "Joey",
+                            "meaning":  "싸운 뒤 화해하다",
+                            "nuance":  "\u0027make it up to someone(보상하다)\u0027과 구별 필요. \u0027make up\u0027만 쓰면 화해하다, \u0027make up with 사람\u0027처럼 대상을 붙일 수도 있다.",
+                            "example":  "After the argument, they finally made up and went out for dinner together. → 다툰 후 결국 화해하고 함께 저녁을 먹으러 갔다."
+                        },
+                        {
+                            "expression":  "try to reach someone",
+                            "dialogue":  "Rachel: (on answering machine) Hi, it\u0027s me. I\u0027ve been trying to **reach** you all night. I feel awful.",
+                            "speaker":  "Rachel",
+                            "meaning":  "누군가에게 연락을 취하려 하다",
+                            "nuance":  "\u0027contact\u0027보다 구어적이며, 전화·문자·이메일 등 여러 수단을 동원했으나 연결이 안 된 상황에 자연스럽다. \u0027get hold of someone\u0027과 비슷한 뉘앙스.",
+                            "example":  "I\u0027ve been trying to reach my professor all day but he\u0027s not picking up. → 교수님께 하루 종일 연락하려 했는데 전화를 안 받으셔."
+                        },
+                        {
+                            "expression":  "get back together",
+                            "dialogue":  "Rachel: (on answering machine) ...I don\u0027t want to **get back together** over a machine. So, I love you.",
+                            "speaker":  "Rachel",
+                            "meaning":  "헤어졌던 연인이 다시 사귀다; 관계를 재개하다",
+                            "nuance":  "\u0027over a machine\u0027은 \u0027기계(자동응답기)를 통해서\u0027라는 뜻으로, 직접 만나서 하고 싶다는 의미. \u0027get together\u0027가 처음 만남이라면 \u0027get back together\u0027는 재결합.",
+                            "example":  "They broke up last year but just got back together after months apart. → 작년에 헤어졌는데 몇 달 만에 다시 사귀기 시작했어."
+                        },
+                        {
+                            "expression":  "feel awful",
+                            "dialogue":  "Rachel: (on answering machine) I\u0027ve been trying to reach you all night. I **feel awful**. Please, Ross, you gotta know there is nothing between me and Mark.",
+                            "speaker":  "Rachel",
+                            "meaning":  "매우 미안하거나 죄책감을 느끼다; 감정적으로 몹시 괴롭다",
+                            "nuance":  "몸이 아플 때도 쓰지만 이 문맥처럼 \u0027너무 미안하다/마음이 괴롭다\u0027는 감정 표현으로도 자주 쓴다. \u0027feel terrible\u0027과 거의 동의어.",
+                            "example":  "I forgot her birthday completely. I feel awful about it. → 그녀 생일을 완전히 잊어버렸어. 정말 미안하고 괴로워."
+                        },
+                        {
+                            "expression":  "work on something (a relationship)",
+                            "dialogue":  "Ross: (on the phone) I\u0027ve been thinking, this is crazy, I mean don\u0027t, don\u0027t you think we can **work on this**?",
+                            "speaker":  "Ross",
+                            "meaning":  "문제·관계 등을 개선하기 위해 노력하다",
+                            "nuance":  "관계에 쓸 때는 \u0027포기하지 않고 함께 해결해 나가다\u0027는 의지의 뉘앙스. 단순히 \u0027fix(고치다)\u0027보다 과정과 지속적인 노력을 강조한다.",
+                            "example":  "We have our differences, but I think we can work on this if we\u0027re both willing. → 우리 사이에 차이가 있지만, 둘 다 노력한다면 개선할 수 있을 것 같아."
+                        },
+                        {
+                            "expression":  "be on board (with something)",
+                            "dialogue":  "Joey: Look, Ross look, I\u0027m **on board** about this totally honesty thing, I am, just not about stuff that\u0027s gonna get you in trouble.",
+                            "speaker":  "Joey",
+                            "meaning":  "어떤 아이디어나 계획에 동의하거나 지지하다",
+                            "nuance":  "배에 올라탔다는 이미지에서 온 표현. 팀·프로젝트·아이디어에 \u0027나도 찬성이야/같이 할게\u0027라는 뜻으로, 비즈니스 회의에서도 자주 쓰인다.",
+                            "example":  "Everyone\u0027s on board with the new schedule except for the marketing team. → 마케팅 팀 빼고는 다들 새 일정에 동의했어."
+                        },
+                        {
+                            "expression":  "That\u0027s what ~s are for",
+                            "dialogue":  "Chandler: All right look, if you absolutely have to tell her, at least wait until the timing\u0027s right. And **that\u0027s what deathbeds are for**.",
+                            "speaker":  "Chandler",
+                            "meaning":  "\u0027~은 바로 그럴 때(그 용도로) 쓰는 거야\u0027라는 뜻의 구문",
+                            "nuance":  "Chandler의 블랙 유머가 담긴 대사이지만, \u0027That\u0027s what X is/are for\u0027 구문 자체는 무언가의 용도나 존재 이유를 강조할 때 일상에서도 폭넓게 쓰인다.",
+                            "example":  "Don\u0027t worry about making mistakes — that\u0027s what practice is for. → 실수를 걱정하지 마, 연습이란 게 바로 그럴 때 있는 거잖아."
+                        },
+                        {
+                            "expression":  "think about the trail",
+                            "dialogue":  "Joey: All right, okay, now, we just have to make sure she doesn\u0027t find out some other way. Did you **think about the trail**?\nRoss: What trail?\nJoey: The trail from the woman you did it with to the woman you hope never finds out! You always have to think about the trail!",
+                            "speaker":  "Joey",
+                            "meaning":  "소문이 퍼질 수 있는 사람들의 연결 고리(경로)를 생각하다",
+                            "nuance":  "정보나 소문이 A→B→C로 전달되는 경로를 \u0027trail(흔적·경로)\u0027에 비유한 Joey식 표현. 비밀을 숨겨야 할 때 \u0027누가 누구에게 말할 수 있는지\u0027 추적하는 개념으로 쓰인다.",
+                            "example":  "Before you vent to your coworker, think about the trail — she\u0027s close with your manager. → 동료에게 털어놓기 전에 소문 경로를 생각해봐. 그 사람 팀장이랑 친하잖아."
+                        },
+                        {
+                            "expression":  "You dog!",
+                            "dialogue":  "Issac: **You dog!**\nRoss: Yes, I suppose I am a dog. But Issac, see I happen to have a girlfriend.",
+                            "speaker":  "Issac",
+                            "meaning":  "성적으로 대담한 행동을 한 남자에게 놀라움·감탄 반응으로 쓰는 표현",
+                            "nuance":  "부정적 의미의 \u0027개 같은 놈\u0027이 아니라, 친구의 연애·성적 일탈에 \u0027야, 이 녀석 봐라!\u0027는 뉘앙스. 1990년대 미국 구어에서 흔했으며 현재는 다소 구식이나 드라마·영화에 자주 등장한다.",
+                            "example":  "You asked her out the same day you met her? You dog! → 처음 만난 날 바로 데이트 신청했어? 이 녀석 봐라!"
+                        },
+                        {
+                            "expression":  "look out for each other",
+                            "dialogue":  "Issac: Aw, no problem dude. Y\u0027know we got to **look out for each other**. We\u0027re the same, you and me.",
+                            "speaker":  "Issac",
+                            "meaning":  "서로를 돌봐주다; 서로의 편이 되어 보호하다",
+                            "nuance":  "\u0027look out for\u0027는 \u0027경계하다\u0027와 \u0027돌보다\u0027 두 의미가 있다. 여기서는 비밀 유지로 서로를 보호한다는 남성 연대 뉘앙스로 쓰였다.",
+                            "example":  "We\u0027re a team — we look out for each other no matter what. → 우리는 한 팀이야. 무슨 일이 있어도 서로 챙기는 거야."
+                        },
+                        {
+                            "expression":  "have a lower/higher threshold of (pain)",
+                            "dialogue":  "Joey: Yeah, I think that women just have a **lower threshold of pain** than men, that\u0027s all. I mean, come on, it\u0027s just a little wax.",
+                            "speaker":  "Joey",
+                            "meaning":  "고통(또는 무언가)을 견디는 한계점이 낮다/높다",
+                            "nuance":  "\u0027threshold\u0027는 \u0027한계점·임계점\u0027으로, \u0027threshold of pain\u0027 외에도 \u0027stress threshold(스트레스 한계)\u0027, \u0027noise threshold(소음 인내 한계)\u0027 등으로 확장해 쓸 수 있다.",
+                            "example":  "She has a really high threshold for spicy food — she can handle anything. → 걔는 매운 음식 내성이 정말 강해서 뭐든 다 먹어."
+                        },
+                        {
+                            "expression":  "have a hell of a time (ironic/sarcastic)",
+                            "dialogue":  "Rachel: Well, you sure **had a hell of a time** at the wake!",
+                            "speaker":  "Rachel",
+                            "meaning":  "(반어적으로) 슬프거나 진지해야 할 상황에서 오히려 신나게 즐겼다고 비꼬는 표현",
+                            "nuance":  "\u0027have a hell of a time\u0027은 원래 \u0027엄청 즐거운 시간을 보내다\u0027는 뜻이지만, Rachel은 Ross가 \u0027관계의 장례식 날 밤(wake)\u0027에 다른 여자와 잠자리를 한 것을 꼬집는 반어로 썼다.",
+                            "example":  "So you forgot our anniversary and you sure had a hell of a time with your friends that night. → 우리 기념일 잊어버리고 그날 밤 친구들이랑 신나게 놀았겠네, 참."
+                        },
+                        {
+                            "expression":  "get out of ~ on a technicality",
+                            "dialogue":  "Rachel: You think you\u0027re gonna **get out of this on a technicality**?\nRoss: Look, I\u0027m not trying to get out of anything, okay. I thought our relationship was dead!",
+                            "speaker":  "Rachel",
+                            "meaning":  "사소한 논리적 허점이나 규정 구실로 책임에서 빠져나오려 하다",
+                            "nuance":  "법률 용어(\u0027technicality = 절차상의 기술적 이유\u0027)에서 나온 표현으로, 일상에서는 \u0027핑계·구실로 책임을 피하려 한다\u0027는 비난의 뉘앙스로 쓴다.",
+                            "example":  "He admitted the project failed but tried to get out of it on a technicality, claiming he wasn\u0027t officially in charge. → 프로젝트 실패를 인정하면서도 공식 담당자가 아니었다는 논리로 책임을 피하려 했어."
+                        },
+                        {
+                            "expression":  "neither here nor there",
+                            "dialogue":  "Ross: You\u0027re the one that bailed on us. You\u0027re the one that ran when things got just a little rough!\nRachel: That\u0027s....\nRoss: That\u0027s what?!\nRachel: That is **neither here nor there**.",
+                            "speaker":  "Rachel",
+                            "meaning":  "지금 논의와 관련 없다; 핵심에서 벗어난 얘기다",
+                            "nuance":  "논점을 피하거나 특정 주제를 현재 대화에서 제외시킬 때 쓰는 표현. Rachel이 Ross의 반격을 인정하기 싫어 주제를 돌리는 데서 그 회피적 뉘앙스가 잘 드러난다.",
+                            "example":  "Whether the idea was originally mine is neither here nor there — what matters is whether it works. → 아이디어가 원래 내 것인지는 중요하지 않아. 효과가 있는지가 핵심이지."
+                        },
+                        {
+                            "expression":  "fight for (someone/something)",
+                            "dialogue":  "Ross: Now we\u0027re in a tough spot again, Rach. What do you want to do? Do you wanna **fight for us**? Or, do you wanna bail?",
+                            "speaker":  "Ross",
+                            "meaning":  "포기하지 않고 (관계·목표 등을) 지키기 위해 싸우다; 끝까지 노력하다",
+                            "nuance":  "연인 관계에서 \u0027fight for us/our relationship\u0027은 \u0027우리를 지키기 위해 싸우다\u0027는 강한 의지 표현. 직장·꿈·신념 등에도 폭넓게 쓰인다.",
+                            "example":  "She wasn\u0027t ready to give up. She decided to fight for her position at the company. → 그녀는 포기하지 않기로 했다. 회사에서 자신의 자리를 지키기 위해 싸우기로."
+                        },
+                        {
+                            "expression":  "bail (on someone/something)",
+                            "dialogue":  "Ross: ...you\u0027re the one that **bailed on us**. You\u0027re the one that ran when things got just a little rough!",
+                            "speaker":  "Ross",
+                            "meaning":  "어렵거나 불편한 상황에서 갑자기 떠나버리다; 약속·관계를 저버리다",
+                            "nuance":  "\u0027bail out\u0027은 \u0027위기에서 구해주다\u0027이지만 \u0027bail on someone\u0027은 그 반대로 \u0027상대를 버리고 떠나다\u0027의 부정적 의미. 구어에서 매우 흔하게 쓰인다.",
+                            "example":  "He said he\u0027d come to the party but bailed on us at the last minute. → 파티에 온다고 했다가 마지막 순간에 그냥 빠져버렸어."
+                        },
+                        {
+                            "expression":  "throw away (something good)",
+                            "dialogue":  "Ross: I just can\u0027t see us **throwing away** something we know is so damn good. Rachel, I love you so much.",
+                            "speaker":  "Ross",
+                            "meaning":  "가치 있는 것을 낭비하거나 무의미하게 포기하다",
+                            "nuance":  "쓰레기를 버리듯 소중한 것을 아깝게 날리다는 이미지. \u0027waste\u0027보다 더 아깝고 안타깝다는 감정이 실린다.",
+                            "example":  "Don\u0027t throw away five years of friendship over one misunderstanding. → 한 번의 오해로 5년 우정을 날려버리지 마."
+                        },
+                        {
+                            "expression":  "work past something",
+                            "dialogue":  "Ross: Look, there\u0027s got to be a way we can **work past this**. Okay, I can\u0027t imagine my life without you.",
+                            "speaker":  "Ross",
+                            "meaning":  "문제나 장애물을 극복하고 앞으로 나아가다",
+                            "nuance":  "\u0027work through(깊이 파고들어 해결하다)\u0027와 비슷하지만, \u0027work past\u0027는 그 문제를 \u0027넘어서다\u0027는 뉘앙스가 강하다. 관계, 트라우마, 갈등 극복에 자주 쓰인다.",
+                            "example":  "It took a while, but they were able to work past the betrayal and rebuild trust. → 시간이 걸렸지만, 그들은 배신을 딛고 신뢰를 다시 쌓을 수 있었다."
+                        },
+                        {
+                            "expression":  "make it all go away",
+                            "dialogue":  "Rachel: No Ross!! You can\u0027t just kiss me and think you\u0027re gonna **make it all go away**, okay? It doesn\u0027t work that way.",
+                            "speaker":  "Rachel",
+                            "meaning":  "문제·감정·상처를 없애버리다; 없었던 것처럼 만들다",
+                            "nuance":  "상대방이 쉬운 방법(사과·키스 등)으로 심각한 문제를 해결하려 할 때 \u0027그렇게 간단히 해결될 문제가 아니다\u0027라는 반박에 자주 쓰인다.",
+                            "example":  "Saying sorry doesn\u0027t just make it all go away. You need to show you\u0027ve actually changed. → 미안하다는 말 한마디로 다 해결되는 게 아니야. 정말 달라졌다는 걸 보여줘야 해."
+                        },
+                        {
+                            "expression":  "it doesn\u0027t work that way",
+                            "dialogue":  "Rachel: You can\u0027t just kiss me and think you\u0027re gonna make it all go away, okay? **It doesn\u0027t work that way**. It doesn\u0027t just make it better.",
+                            "speaker":  "Rachel",
+                            "meaning":  "그런 식으로는 되지 않는다; 그게 그렇게 단순하지 않다",
+                            "nuance":  "상대방의 단순한 해결책이나 논리에 \u0027현실은 그렇게 돌아가지 않아\u0027라고 반박할 때 쓰는 만능 표현. 다양한 상황에 바로 적용할 수 있다.",
+                            "example":  "You can\u0027t just apologize and expect everything to go back to normal. It doesn\u0027t work that way. → 사과 한 번 하고 다 원래대로 돌아가길 바라는 건 아니지? 그렇게 되는 게 아니거든."
+                        },
+                        {
+                            "expression":  "can\u0027t stop ~ing",
+                            "dialogue":  "Rachel: ...it doesn\u0027t matter what you say, or what you do, Ross. I just **can\u0027t stop picturing** [you] with her, I can\u0027t...",
+                            "speaker":  "Rachel",
+                            "meaning":  "~하는 것을 멈출 수 없다; 의지와 상관없이 자꾸만 ~하게 되다",
+                            "nuance":  "의지와 무관하게 머릿속에서 반복되는 이미지나 감정을 표현할 때 쓴다. \u0027picture(그려지다)\u0027, \u0027think about\u0027, \u0027replay\u0027 등과의 조합이 특히 자연스럽다.",
+                            "example":  "I can\u0027t stop thinking about what she said. It keeps replaying in my head. → 그녀가 한 말이 자꾸 머릿속에 맴돌아. 멈출 수가 없어."
+                        },
+                        {
+                            "expression":  "jeopardize something",
+                            "dialogue":  "Rachel: And yet she was worth **jeopardising** our relationship!!",
+                            "speaker":  "Rachel",
+                            "meaning":  "소중한 것을 위험에 빠뜨리다; 망칠 위험을 감수하다",
+                            "nuance":  "\u0027risk\u0027보다 더 격식 있고 감정적 무게감이 있는 단어. 관계(relationship), 경력(career), 명성(reputation)처럼 잃으면 안 되는 것과 주로 함께 쓰인다.",
+                            "example":  "One careless post on social media could jeopardize your entire career. → SNS에 부주의한 게시물 하나가 커리어 전체를 위험에 빠뜨릴 수 있어."
+                        },
+                        {
+                            "expression":  "self-involved",
+                            "dialogue":  "Monica: Hey. It\u0027s three in the morning. They don\u0027t know that I\u0027ve come home yet. You notice how neither one of them are wondering where I am.\nPhoebe: Yeah, y\u0027know, **people can be so self-involved**.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "자기 자신에게만 몰두해 있다; 자기중심적이다",
+                            "nuance":  "\u0027selfish(이기적인)\u0027보다 순하지만, 다른 사람의 감정이나 상황에 무관심하다는 뜻을 담고 있다. 직접 비난보다 살짝 거리를 두고 관찰하는 어조로 쓸 때 자연스럽다.",
+                            "example":  "He never asks how you\u0027re doing. He\u0027s so self-involved it\u0027s exhausting. → 걘 네가 어떻게 지내는지 절대 안 물어봐. 워낙 자기 생각만 해서 같이 있으면 지쳐."
+                        }
+                    ]
+}

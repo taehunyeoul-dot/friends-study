@@ -1,0 +1,209 @@
+{
+    "id":  "s03e14",
+    "code":  "314",
+    "title":  "The One With Phoebe\u0027s Ex-Partner",
+    "model":  "sonnet",
+    "cost_usd":  0.3578,
+    "expressions":  [
+                        {
+                            "expression":  "pretty much",
+                            "dialogue":  "Well, that\u0027s **pretty much** all I\u0027m looking for from these people.",
+                            "speaker":  "Chandler",
+                            "meaning":  "거의, 대부분 — 완전히는 아니지만 거의 그렇다는 뜻",
+                            "nuance":  "강한 단언을 살짝 부드럽게 만드는 부사. \u0027basically\u0027와 비슷하지만 더 구어적이고 가볍게 들린다.",
+                            "example":  "A: Do you understand the assignment? B: **Pretty much**, yeah. / A: 과제 이해했어? B: 거의, 응."
+                        },
+                        {
+                            "expression":  "let this be a lesson (to all of you)",
+                            "dialogue":  "Well okay, **let this be a lesson** to all of you, all right.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "이 일을 교훈으로 삼아라 — 경험에서 배우라고 경고하거나 훈계할 때 쓰는 표현",
+                            "nuance":  "약간 과장되거나 유머러스한 어조로도 쓰임. 진지하게 쓰면 훈계처럼 들릴 수 있다.",
+                            "example":  "I burned the pasta again. **Let this be a lesson** — never multitask while cooking. / 파스타를 또 태웠어. 이걸 교훈으로 삼아 — 요리하면서 딴짓하지 마."
+                        },
+                        {
+                            "expression":  "nothing can penetrate [something]",
+                            "dialogue":  "Very cold, hard, unyielding, y\u0027know **nothing**, **nothing can penetrate** this icy exterior.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "아무것도 뚫지 못한다 — 마음의 벽이 너무 단단해서 어떤 것도 영향을 줄 수 없다는 뜻",
+                            "nuance":  "비유적 표현으로, 감정적으로 닫혀 있거나 강한 의지를 표현할 때 사용. 과장된 유머로도 쓰인다.",
+                            "example":  "She\u0027s been through so much that **nothing can penetrate** her calm anymore. / 그녀는 너무 많은 걸 겪어서 이제 어떤 것도 그녀의 침착함을 흔들 수 없다."
+                        },
+                        {
+                            "expression":  "This is the part where you [do X]",
+                            "dialogue":  "**This is the part where you say your name.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "지금 네가 [X]를 할 차례야 — 상대방이 다음에 해야 할 행동을 간접적으로 유도하는 표현",
+                            "nuance":  "마치 대본을 읽는 것처럼 상황을 메타적으로 표현. 유머러스하거나 가볍게 상대에게 힌트를 줄 때 사용.",
+                            "example":  "You\u0027ve been talking for ten minutes. **This is the part where you ask me how I\u0027m doing.** / 너 10분째 얘기하고 있잖아. 이제 내가 어떻게 지내는지 물어볼 차례야."
+                        },
+                        {
+                            "expression":  "I guess this is goodbye then",
+                            "dialogue":  "Oh well that\u0027s great, so **I guess this is ah, this is goodbye then**. Huh?",
+                            "speaker":  "Ross",
+                            "meaning":  "이제 작별인사를 해야 할 것 같네 — 상황의 논리적 귀결로서 어색하게 작별을 고하는 표현",
+                            "nuance":  "\u0027then\u0027이 붙으면 상황의 귀결을 수용하는 뉘앙스. Ross는 진심이 아니라 Mark를 내보내고 싶어 냉담하게 쓰는 것이라 아이러니하게 들림.",
+                            "example":  "She didn\u0027t respond to any of my texts. **I guess this is goodbye then.** / 그녀가 내 문자에 하나도 답장을 안 했어. 이제 끝인 것 같네."
+                        },
+                        {
+                            "expression":  "must have hurt [someone] pretty bad",
+                            "dialogue":  "Wow, **she must have hurt you pretty bad**, huh?",
+                            "speaker":  "Monica",
+                            "meaning":  "많이 상처받았겠구나 — 과거의 일로 상대가 깊이 상처받았을 거라고 추측하는 표현",
+                            "nuance":  "\u0027must have + p.p.\u0027는 과거에 대한 강한 추측. \u0027pretty bad\u0027가 강도를 더함. 공감을 표현하는 맥락에서 자주 쓰임.",
+                            "example":  "You never talk about your ex. **He must have hurt you pretty bad.** / 전 남자친구 얘기를 한 번도 안 하네. 많이 상처받은 것 같아."
+                        },
+                        {
+                            "expression":  "by any chance",
+                            "dialogue":  "I ah, I know it\u0027s a longshot. But, **by any chance** did she find that funny?",
+                            "speaker":  "Joey",
+                            "meaning":  "혹시라도 — 가능성이 낮지만 그럴 수도 있는지 조심스럽게 물어볼 때 쓰는 표현",
+                            "nuance":  "질문을 부드럽게 만드는 공손한 표현. 부정적인 답변을 예상하면서도 가능성을 열어두는 어조.",
+                            "example":  "**By any chance**, did you find a set of keys near the front desk? / 혹시 프런트 데스크 근처에서 열쇠 한 묶음을 발견하셨나요?"
+                        },
+                        {
+                            "expression":  "it came up",
+                            "dialogue":  "Joey: Heard about the leg burnin\u0027 huh? Chandler: **It came up.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "그 얘기가 나왔어 — 대화 중에 어떤 주제가 자연스럽게 언급되었다는 뜻",
+                            "nuance":  "구체적인 설명 없이 \u0027그냥 나왔어\u0027라는 의미. 직접적으로 말하기 불편한 주제를 가볍게 넘길 때 유용.",
+                            "example":  "A: Did you tell her I got fired? B: I didn\u0027t plan to, but **it came up**. / A: 내가 해고됐다고 그녀한테 말했어? B: 그럴 생각 없었는데 얘기가 그렇게 흘러갔어."
+                        },
+                        {
+                            "expression":  "a longshot",
+                            "dialogue":  "I ah, I know **it\u0027s a longshot**. But, by any chance did she find that funny?",
+                            "speaker":  "Joey",
+                            "meaning":  "가능성이 낮은 일 — 성공 가능성이 희박하지만 시도해볼 만한 일",
+                            "nuance":  "경마에서 유래. 이길 확률이 낮은 말에 거는 것처럼, 성공을 크게 기대하지 않지만 시도하는 상황에서 사용.",
+                            "example":  "Applying for that job is **a longshot**, but you should try anyway. / 그 일자리에 지원하는 게 가능성은 낮지만, 어쨌든 해봐야 해."
+                        },
+                        {
+                            "expression":  "nod off",
+                            "dialogue":  "**Nodded off!!** Ross you were snoring.",
+                            "speaker":  "Rachel",
+                            "meaning":  "깜빡 졸다, 잠들다 — 의도치 않게 잠에 빠져드는 것",
+                            "nuance":  "주로 지루하거나 피곤한 상황에서 잠깐 잠드는 것을 가리킴. \u0027fall asleep\u0027보다 더 가볍고 의도치 않은 느낌.",
+                            "example":  "I **nodded off** during the meeting and missed the whole presentation. / 회의 중에 깜빡 졸아서 발표를 다 놓쳤어."
+                        },
+                        {
+                            "expression":  "what is it this time?",
+                            "dialogue":  "You\u0027ve had to work late every night for the past two weeks, **what is it this time?**",
+                            "speaker":  "Ross",
+                            "meaning":  "이번엔 또 뭔데? — 같은 상황이 반복될 때 지쳐서 묻는 표현",
+                            "nuance":  "\u0027this time\u0027이 핵심. 이전에도 같은 일이 반복됐다는 불만과 피로감이 담겨 있음. 다소 퉁명스럽게 들릴 수 있음.",
+                            "example":  "You\u0027re canceling again? **What is it this time?** / 또 취소하는 거야? 이번엔 또 무슨 일인데?"
+                        },
+                        {
+                            "expression":  "slip away (from someone)",
+                            "dialogue":  "I feel like lately, I feel like **you\u0027re slipping away from me**.",
+                            "speaker":  "Ross",
+                            "meaning":  "서서히 멀어지다 — 점점 관계나 연결이 희미해지는 감각",
+                            "nuance":  "갑작스러운 이별이 아니라 서서히, 알아채기 어렵게 멀어지는 과정을 표현. 감정적이고 은유적인 표현.",
+                            "example":  "After she started her new job, I felt like she was **slipping away from me**. / 그녀가 새 직장을 시작한 후로 점점 멀어지는 느낌이 들었어."
+                        },
+                        {
+                            "expression":  "this whole other [X]",
+                            "dialogue":  "With this new job, and all these new people, and **you\u0027ve got this whole other life going on**.",
+                            "speaker":  "Ross",
+                            "meaning":  "완전히 별개의 [X] — 자신이 전혀 모르는, 완전히 분리된 세계나 삶이 있다는 뜻",
+                            "nuance":  "\u0027whole other\u0027는 \u0027completely different and separate\u0027의 강조 표현. 배제감이나 낯섦의 뉘앙스를 담고 있음.",
+                            "example":  "Since moving to the new city, she seems to have **this whole other life** I know nothing about. / 새 도시로 이사 간 뒤로 그녀는 내가 전혀 모르는 완전히 다른 삶을 사는 것 같아."
+                        },
+                        {
+                            "expression":  "get used to it",
+                            "dialogue":  "It\u0027s just like anything else, **you just have to get used to it**.",
+                            "speaker":  "Ginger",
+                            "meaning":  "익숙해지다, 적응하다 — 처음엔 낯설지만 시간이 지나면 자연스러워진다는 뜻",
+                            "nuance":  "위안이나 조언으로 쓰이기도 하고, 체념의 뉘앙스로 쓰이기도 함. \u0027you just have to\u0027가 붙으면 선택의 여지가 없다는 느낌.",
+                            "example":  "The commute is brutal at first, but **you just have to get used to it**. / 처음엔 출퇴근이 힘들지만, 그냥 익숙해지는 수밖에 없어."
+                        },
+                        {
+                            "expression":  "go nuts (over something)",
+                            "dialogue":  "I played Smelly Cat for the people at my old ad agency, **they went nuts**.",
+                            "speaker":  "Leslie",
+                            "meaning":  "열광하다 — 무언가에 극도로 흥분하거나 열정적으로 반응하다",
+                            "nuance":  "긍정적 맥락에서는 \u0027열광하다\u0027, 부정적 맥락에서는 \u0027미치다/화내다\u0027로도 쓰임. 여기서는 긍정적 열광.",
+                            "example":  "When they announced the reunion tour, fans **went nuts** on social media. / 재결합 투어를 발표하자 팬들이 소셜 미디어에서 열광했어."
+                        },
+                        {
+                            "expression":  "What\u0027s it gonna be?",
+                            "dialogue":  "So **what\u0027s it gonna be?**",
+                            "speaker":  "Phoebe",
+                            "meaning":  "어떻게 할 거야? — 두 가지 선택지 중 결정을 촉구하는 직접적인 표현",
+                            "nuance":  "두 가지 선택지를 제시한 뒤 결정을 요구할 때 쓰임. 다소 단호하고 압박감이 있어 ultimatum 상황에서 자주 등장.",
+                            "example":  "You can either come with us or stay home. **What\u0027s it gonna be?** / 우리랑 같이 갈 수도 있고 집에 있을 수도 있어. 어떻게 할 거야?"
+                        },
+                        {
+                            "expression":  "life\u0027s gonna hand you [things]",
+                            "dialogue":  "Y\u0027know **life\u0027s gonna hand you** all kinds of stuff, y\u0027know you learn your little lessons and hopefully you grow.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "인생이 온갖 것들을 가져다 줄 것이다 — 삶이 예기치 않은 경험과 도전을 준다는 뜻",
+                            "nuance":  "\u0027hand someone something\u0027은 \u0027건네주다\u0027의 의미. 인생을 의인화한 표현. 긍정·부정 모두 포함한 철학적 어조로 쓰임.",
+                            "example":  "**Life is gonna hand you** some tough moments, but that\u0027s how you figure out who you are. / 인생이 힘든 순간들을 가져다 줄 거야, 하지만 그게 네 자신을 알아가는 방법이야."
+                        },
+                        {
+                            "expression":  "you bet",
+                            "dialogue":  "Mark: So, see ya on Saturday. Rachel: Yeah, **you bet**.",
+                            "speaker":  "Rachel",
+                            "meaning":  "물론이죠, 당연하죠 — 확신에 차게 동의하거나 확인할 때 쓰는 표현",
+                            "nuance":  "\u0027Of course\u0027보다 캐주얼하고 친근한 어감. 상대의 제안이나 질문에 긍정적으로 반응할 때 자연스럽게 쓰임.",
+                            "example":  "A: Will you be there by eight? B: **You bet**. / A: 8시까지 올 수 있어? B: 당연하죠."
+                        },
+                        {
+                            "expression":  "I wish (ironic deflation)",
+                            "dialogue":  "Monica: You gave her food poisoning!? Joey: **I wish**. No.",
+                            "speaker":  "Joey",
+                            "meaning":  "그랬으면 좋겠다 (그보다 더 나쁜 일이 있었다는 뜻) — 현실은 더 나쁘다는 걸 암시하는 반어적 표현",
+                            "nuance":  "상대가 나쁜 상황을 추측했을 때 \u0027그게 차라리 나았을 텐데\u0027라는 뜻. 더 심각한 사실을 꺼내기 직전의 타이밍 장치로 쓰임.",
+                            "example":  "A: Did you just miss the bus? B: **I wish**. I missed the last train of the night. / A: 버스 놓친 거야? B: 그랬으면 좋겠다. 막차를 놓쳤어."
+                        },
+                        {
+                            "expression":  "get sick of",
+                            "dialogue":  "Yeah, but, I don\u0027t do that anymore. I **got kinda sick of it**, and then I couldn\u0027t come up with anything good, so they fired me.",
+                            "speaker":  "Leslie",
+                            "meaning":  "~에 질리다, 지겹다 — 반복이나 과다 노출로 인해 싫증이 나다",
+                            "nuance":  "\u0027tired of\u0027보다 더 강한 느낌. 신체적·감정적 혐오감까지 포함. \u0027kinda\u0027가 붙으면 약간 부드러워짐.",
+                            "example":  "I **got sick of** eating the same lunch every day and decided to try something new. / 매일 같은 점심을 먹는 게 지겨워져서 새로운 걸 먹기로 했어."
+                        },
+                        {
+                            "expression":  "make a ton of money",
+                            "dialogue":  "What? Why not? **You could make a ton of money.**",
+                            "speaker":  "Leslie",
+                            "meaning":  "엄청난 돈을 벌다 — 매우 큰 금액을 벌 수 있다는 뜻",
+                            "nuance":  "\u0027ton\u0027은 \u0027매우 많은 양\u0027을 뜻하는 비유. \u0027a lot of money\u0027보다 강조된 구어 표현. 금전적 동기를 설득할 때 자주 등장.",
+                            "example":  "If you freelance in that field, you could **make a ton of money** working from home. / 그 분야에서 프리랜서로 일하면 집에서 엄청난 돈을 벌 수 있어."
+                        },
+                        {
+                            "expression":  "be in [something] for the money",
+                            "dialogue":  "Okay, well if **I was in this for the money**, I\u0027d be a millionaire by now, y\u0027know.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "돈을 목적으로 [이 일을] 하다 — 금전적 이익이 동기임을 표현",
+                            "nuance":  "보통 부정형(\u0027I\u0027m not in this for the money\u0027)으로 써서 순수한 동기를 강조할 때 사용. 긍정형이면 노골적인 물질주의를 드러냄.",
+                            "example":  "I\u0027m not **in this for the money** — I genuinely want to help people. / 저는 돈 때문에 이 일을 하는 게 아니에요 — 진심으로 사람들을 돕고 싶어서예요."
+                        },
+                        {
+                            "expression":  "get out of [one\u0027s] head",
+                            "dialogue":  "You just **got to get out of that jingle head** sweetie.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "그 [X] 마인드에서 벗어나다 — 특정 사고방식이나 틀에서 탈피하다",
+                            "nuance":  "맥락에 따라 어떤 마인드셋이든 넣을 수 있음. 상대의 고착된 사고를 바꾸라고 촉구할 때 사용. 친근하지만 약간 단호한 어조.",
+                            "example":  "Stop overthinking and **get out of your own head**. Just make the decision. / 그만 생각 과잉하고 너 자신의 생각에서 좀 벗어나. 그냥 결정해."
+                        },
+                        {
+                            "expression":  "burn out",
+                            "dialogue":  "Oh hey, but that\u0027s sad about you though, what happened? **Burn out? Burn all out**, did ya?",
+                            "speaker":  "Ross",
+                            "meaning":  "번아웃이 오다, 탈진하다 — 과도한 업무나 스트레스로 에너지가 완전히 소진되다",
+                            "nuance":  "Ross는 여기서 반어적으로 과장되게 사용. 일반적으로는 진지하게 과부하 상황을 묘사할 때 씀. 명사(\u0027burnout\u0027)로도 많이 쓰임.",
+                            "example":  "After six months without a day off, she completely **burned out** and had to take a leave of absence. / 하루도 쉬지 않고 6개월을 일한 후 그녀는 완전히 번아웃이 와서 휴가를 내야 했어."
+                        },
+                        {
+                            "expression":  "abandon someone to do X",
+                            "dialogue":  "Actually I said **she abandoned me to write jingles**.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "~을 하러 누군가를 버리고 떠나다 — 더 이익이 되는 목적을 위해 중요한 관계를 저버리다",
+                            "nuance":  "\u0027abandon\u0027은 강한 단어로 배신감을 내포함. \u0027to write jingles\u0027처럼 이유를 붙이면 버려진 이유가 얼마나 사소하게 느껴지는지 더 강조됨.",
+                            "example":  "He **abandoned his bandmates to sign a solo deal** and never looked back. / 그는 솔로 계약을 맺기 위해 밴드 멤버들을 버리고 돌아보지 않았어."
+                        }
+                    ]
+}

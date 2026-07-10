@@ -1,0 +1,209 @@
+{
+    "id":  "s02e24",
+    "code":  "224",
+    "title":  "The One With Barry and Mindy\u0027s Wedding",
+    "model":  "sonnet",
+    "cost_usd":  0.3639,
+    "expressions":  [
+                        {
+                            "expression":  "suck it up",
+                            "dialogue":  "Ross: Well, hey. You\u0027re an actor, I say you just **suck it up** and do it.",
+                            "speaker":  "Ross",
+                            "meaning":  "불편함이나 두려움을 참고 그냥 해내다",
+                            "nuance":  "힘든 상황을 감수하고 행동하라는 직접적인 격려. 가까운 사이에서는 자연스럽지만, 상대의 감정을 무시하는 것처럼 들릴 수 있어 관계와 상황을 봐 가며 써야 함.",
+                            "example":  "발표 전에 잔뜩 긴장해서 꾸물거리는 친구에게 → \"Look, we all get nervous. Just suck it up and get on stage.\""
+                        },
+                        {
+                            "expression":  "Over my dead body",
+                            "dialogue":  "Joey: (looks at Ross) / Ross: **Over my dead body!** / Joey: (looks at Chandler) / Chandler: And I\u0027ll be using his dead body as a shield.",
+                            "speaker":  "Ross",
+                            "meaning":  "절대 안 돼, 내가 죽기 전엔 그런 일 없다",
+                            "nuance":  "극단적인 거부감을 유머러스하게 표현하는 관용구. 실제 죽음과 무관하며, 장난스러운 상황과 진지한 거부 모두에 씀. Chandler의 즉석 드립처럼 이 표현을 발판으로 농담이 이어지기도 함.",
+                            "example":  "남동생이 내 차를 파티에 몰고 가겠다고 함 → \"You\u0027re taking my car to a frat party? Over my dead body.\""
+                        },
+                        {
+                            "expression":  "tense up",
+                            "dialogue":  "Monica: Joey, maybe you\u0027re just not used to kissing men, maybe you just **tensed up** a little — maybe that\u0027s what you need to work on.",
+                            "speaker":  "Monica",
+                            "meaning":  "긴장으로 몸(또는 마음)이 굳어지다",
+                            "nuance":  "신체적으로 근육이 경직되거나 심리적으로 긴장하는 것 모두에 씀. \u0027freeze up\u0027(완전히 얼어버림)보다는 가볍고, 자연스러운 반응으로 묘사할 때 적합.",
+                            "example":  "처음 하는 운전에서 핸들을 너무 꽉 잡음 → \"Try not to tense up — relax your grip on the wheel.\""
+                        },
+                        {
+                            "expression":  "get a little action",
+                            "dialogue":  "Phoebe: Ooh! Someone\u0027s wearing the same clothes they had on last night. Someone **get a little action**?",
+                            "speaker":  "Phoebe",
+                            "meaning":  "이성과 로맨틱하거나 성적인 만남을 가지다",
+                            "nuance":  "친한 친구들 사이에서 쓰는 가벼운 속어. 직접적인 표현보다 완곡하지만, 공식적인 자리나 처음 보는 사람에게는 부적절함.",
+                            "example":  "친구가 엄청 기분 좋아 보이고 외박을 한 것 같음 → \"You seem suspiciously happy this morning. Did you get a little action last night?\""
+                        },
+                        {
+                            "expression":  "stay up all night",
+                            "dialogue":  "Chandler: Well, we haven\u0027t exactly met — we just **stayed up all night** talking on the internet.",
+                            "speaker":  "Chandler",
+                            "meaning":  "밤을 새다, 자지 않고 밤 내내 깨어 있다",
+                            "nuance":  "\u0027pull an all-nighter\u0027가 주로 공부·업무에 쓰인다면, \u0027stay up all night\u0027은 이유에 상관없이 밤새 깨어 있었다는 사실 자체를 서술할 때 폭넓게 씀.",
+                            "example":  "연애 초기 설레는 통화가 새벽까지 이어짐 → \"We stayed up all night talking — I didn\u0027t even realize it was 4 a.m.\""
+                        },
+                        {
+                            "expression":  "get defensive",
+                            "dialogue":  "Chandler: You know how sometimes I tend to get a little **defensive** and quippy... Well, she totally called me on it. She said, \u0027Cut it out, get real\u0027, and I did.",
+                            "speaker":  "Chandler",
+                            "meaning":  "방어적이 되다, 비판에 날을 세우다",
+                            "nuance":  "피드백이나 지적을 받을 때 반사적으로 자신을 보호하려는 태도. \u0027quippy\u0027(농담으로 방어)와 자주 짝지어 쓰여 감정을 유머로 회피하는 패턴을 묘사함.",
+                            "example":  "피드백을 주면 항상 반박부터 하는 동료에 대해 → \"Every time I give him feedback, he gets defensive instead of actually listening.\""
+                        },
+                        {
+                            "expression":  "cut it out",
+                            "dialogue":  "Chandler: She said, \u0027**Cut it out**, get real\u0027, and I did.",
+                            "speaker":  "Chandler (인터넷 친구의 말을 인용)",
+                            "meaning":  "그만해, 그런 짓 좀 그쳐",
+                            "nuance":  "\u0027stop it\u0027보다 강하고 직접적인 표현. 반복되는 행동이나 태도에 진지하게, 또는 약간 짜증스럽게 제동을 걸 때 씀.",
+                            "example":  "동생이 계속 장난을 침 → \"Cut it out — I\u0027m actually trying to concentrate.\""
+                        },
+                        {
+                            "expression":  "get real",
+                            "dialogue":  "Chandler: She said, \u0027Cut it out, **get real**\u0027, and I did.",
+                            "speaker":  "Chandler (인터넷 친구의 말을 인용)",
+                            "meaning":  "현실을 직시해, 솔직해져라",
+                            "nuance":  "상대가 허세를 부리거나 비현실적인 태도를 보일 때 직접적으로 촉구하는 말. 약간 도전적인 뉘앙스가 있어 친한 사이에서 더 자연스러움.",
+                            "example":  "준비도 없이 스타트업을 하겠다는 친구에게 → \"Get real — you can\u0027t launch a startup with zero savings and zero experience.\""
+                        },
+                        {
+                            "expression":  "freak someone out",
+                            "dialogue":  "Phoebe: All right, stop it, you\u0027re **freaking me out**.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "(누군가를) 불안하게 하다, 소름 돋게 하다",
+                            "nuance":  "예상치 못한 행동이나 말이 심리적 불편함을 줄 때 씀. \u0027scare\u0027보다 구어적이고, 무서움보다는 낯설거나 이상한 것에 대한 반응에 더 잘 어울림.",
+                            "example":  "갑자기 말없이 빤히 쳐다보는 사람 → \"Stop staring at me like that — you\u0027re freaking me out.\""
+                        },
+                        {
+                            "expression":  "live in the moment",
+                            "dialogue":  "Monica: We\u0027re **living in the moment**. God, it is so nice for once to not have to get all hung up on \u0027Where is this going?\u0027",
+                            "speaker":  "Monica",
+                            "meaning":  "미래 걱정 없이 지금 이 순간에 집중하며 즐기다",
+                            "nuance":  "관계·여행·일상 등 다양한 맥락에서 씀. 계획이나 결과에 집착하지 않고 현재를 즐기자는 태도를 표현하며, 긍정적이지만 때로는 변화를 회피하는 핑계로도 쓰임.",
+                            "example":  "연애 초기에 너무 미래를 걱정하는 친구에게 → \"Just live in the moment — you don\u0027t need to figure everything out on the first date.\""
+                        },
+                        {
+                            "expression":  "Where is this going?",
+                            "dialogue":  "Monica: It is so nice for once to not have to get all hung up on \u0027**Where is this going?**\u0027",
+                            "speaker":  "Monica",
+                            "meaning":  "이 관계(또는 상황)가 어디로 향하고 있어?",
+                            "nuance":  "특히 연애에서 진지한 방향성을 물을 때 씀. Monica처럼 인용 형태로 써서 그 불안감 자체를 묘사하는 방식으로도 자주 등장함.",
+                            "example":  "몇 달째 만나는 사람에게 대화를 꺼냄 → \"I finally had to ask him — where is this going? We\u0027ve been seeing each other for four months.\""
+                        },
+                        {
+                            "expression":  "couldn\u0027t be more + 형용사",
+                            "dialogue":  "Rachel: Afraid to ask him? / Monica: **Could not be more terrified.**",
+                            "speaker":  "Monica",
+                            "meaning":  "이보다 더 ~할 수 없다 (최상급 강조)",
+                            "nuance":  "도치된 구조로 감정을 극적으로 강조하는 패턴. 부정적 감정(terrified, nervous)뿐 아니라 긍정적 감정(excited, proud)에도 자유롭게 씀. 짧게 독립절로 쓰는 게 특히 구어적.",
+                            "example":  "기다리던 여행 전날 밤 → \"I couldn\u0027t be more excited — I\u0027ve been looking forward to this for months.\""
+                        },
+                        {
+                            "expression":  "no pressure",
+                            "dialogue":  "Monica: Hey, you know I got a question for ya. Just a little thing, **no pressure**.",
+                            "speaker":  "Monica",
+                            "meaning":  "부담 갖지 마, 강요하는 게 아니야",
+                            "nuance":  "민감한 주제나 부탁을 꺼내기 전에 상대방을 안심시키는 표현. 역설적으로 \u0027이건 사실 중요한 질문이야\u0027라는 신호로 읽힐 수도 있음.",
+                            "example":  "친구에게 이사 도움을 부탁하며 → \"Could you help me move on Saturday? No pressure if you have other plans.\""
+                        },
+                        {
+                            "expression":  "kick yourself",
+                            "dialogue":  "Phoebe: If you don\u0027t meet her now, you\u0027re gonna be **kicking yourself** when you\u0027re 80 — which is hard to do, and that\u0027s how you break a hip.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "자책하다, 후회하다",
+                            "nuance":  "기회를 놓쳤을 때의 강렬한 후회를 강조하는 표현. \u0027you\u0027ll kick yourself\u0027처럼 미래형으로 써서 경고하는 패턴이 특히 자주 씀.",
+                            "example":  "한정판 티켓을 망설이는 친구에게 → \"Buy it now — you\u0027ll kick yourself if it sells out and you missed it.\""
+                        },
+                        {
+                            "expression":  "have the guts to",
+                            "dialogue":  "Best Man: It\u0027s not a lot of women who would\u0027ve **had the guts** to come back here tonight.",
+                            "speaker":  "Best Man",
+                            "meaning":  "~할 용기·배짱이 있다",
+                            "nuance":  "\u0027courage\u0027보다 구어적이고 강렬한 표현. 쉽지 않은 행동을 해낸 것을 칭찬할 때, 혹은 반어적으로 무모함을 지적할 때도 씀.",
+                            "example":  "상사에게 직접 반대 의견을 낸 동료를 보고 → \"I can\u0027t believe you actually had the guts to say that to his face.\""
+                        },
+                        {
+                            "expression":  "up and about",
+                            "dialogue":  "Mrs. Wineburg: Well, it\u0027s wonderful to have you **up and about** again, dear.",
+                            "speaker":  "Mrs. Wineburg",
+                            "meaning":  "회복해서 다시 활동하다, 일어나서 정상적으로 돌아다니다",
+                            "nuance":  "병이나 힘든 일을 겪은 후 회복해 다시 활동 중임을 묘사하는 따뜻한 표현. 어른들이 많이 쓰며 격려와 안도의 뉘앙스가 있음.",
+                            "example":  "수술 후 빠르게 회복한 친구에게 → \"It\u0027s so good to see you up and about — I was really worried about you.\""
+                        },
+                        {
+                            "expression":  "make it through",
+                            "dialogue":  "Rachel: (at the microphone) I promised myself that I would **make it through** at least one of your weddings.",
+                            "speaker":  "Rachel",
+                            "meaning":  "힘들거나 어려운 상황을 버텨내다, 끝까지 해내다",
+                            "nuance":  "\u0027survive\u0027와 비슷하지만 더 구어적. 감정적으로 힘들거나 지루하거나 고통스러운 상황을 끝까지 완수했을 때 씀.",
+                            "example":  "긴 장례식을 겨우 감정 억누르며 마침 → \"I barely made it through the eulogy without crying.\""
+                        },
+                        {
+                            "expression":  "in all seriousness",
+                            "dialogue":  "Best Man: Now, **in all seriousness**, it\u0027s not a lot of women who would\u0027ve had the guts to come back here tonight.",
+                            "speaker":  "Best Man",
+                            "meaning":  "진지하게 말하자면, 농담은 그만하고 진심으로",
+                            "nuance":  "가벼운 분위기나 농담 이후에 진지한 발언으로 전환할 때 씀. \u0027seriously though\u0027와 거의 같지만 약간 더 격식 있는 느낌.",
+                            "example":  "웃기는 건배사를 치고 나서 진심을 전할 때 → \"But in all seriousness — you\u0027re one of the most talented people I know.\""
+                        },
+                        {
+                            "expression":  "a watched pot never boils",
+                            "dialogue":  "Phoebe: It\u0027s like a watched pot, you know — if you keep looking at it then the door is never gonna boil.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "기다린다고 빨리 오는 게 아니다, 조급하게 지켜봐도 더 늦게 느껴진다",
+                            "nuance":  "기다리는 것을 조급하게 지켜보는 사람에게 쓰는 속담. Phoebe가 \u0027문이 끓는다\u0027고 잘못 적용하는 것이 웃음 포인트이지만, 속담 자체는 그대로 씀.",
+                            "example":  "답장을 기다리며 폰만 바라보는 친구에게 → \"Stop refreshing your inbox every five seconds — a watched pot never boils.\""
+                        },
+                        {
+                            "expression":  "life\u0027s just that kind",
+                            "dialogue":  "Ross: (seeing the beautiful woman walk in) Yeah, \u0027cause **life\u0027s just that kind**.",
+                            "speaker":  "Ross",
+                            "meaning":  "현실이 그렇게 잘 풀리진 않지 (반어법)",
+                            "nuance":  "좋은 일이 너무 쉽게 일어날 것 같을 때 내뱉는 냉소적 빈정거림. 뒤에 \u0027(not)\u0027이 생략된 구조로, \u0027that kind\u0027를 강하게 내뱉으면 빈정거리는 뉘앙스가 살아남.",
+                            "example":  "우연히 이상형이 바로 옆집으로 이사 옴 → \"Oh sure, she\u0027s perfect and single and lives next door. Life\u0027s just that kind.\""
+                        },
+                        {
+                            "expression":  "walk down the aisle",
+                            "dialogue":  "Rachel: I can not believe I have to **walk down the aisle** in front of 200 people looking like something you drink when you\u0027re nauseous.",
+                            "speaker":  "Rachel",
+                            "meaning":  "결혼식 통로를 걸어 내려가다; (비유) 결혼하다",
+                            "nuance":  "결혼식 본식에서 신부나 들러리가 통로를 걷는 구체적 장면을 묘사하는 동시에, \u0027결혼하다\u0027의 비유적 표현으로도 자주 쓰임.",
+                            "example":  "오랜 커플이 드디어 결혼 소식을 알렸음 → \"After eight years together, she\u0027s finally going to walk down the aisle.\""
+                        },
+                        {
+                            "expression":  "in person",
+                            "dialogue":  "Chandler: Hey, look, Phoebe — I wanted to meet her **in person** too, okay, but she\u0027s married.",
+                            "speaker":  "Chandler",
+                            "meaning":  "직접 만나서, 대면으로",
+                            "nuance":  "온라인·전화·문자가 아닌 실제 만남을 강조할 때 씀. \u0027face to face\u0027와 거의 같지만 더 일상적. 1990년대 인터넷 초기에 특히 부각된 표현이지만 지금도 그대로 씀.",
+                            "example":  "온라인으로만 알던 사람을 드디어 만나게 됨 → \"We\u0027ve been talking for months online, but I\u0027m finally going to meet her in person next week.\""
+                        },
+                        {
+                            "expression":  "I\u0027m afraid I might just be",
+                            "dialogue":  "Phoebe: Are you the cutest? / Chandler: **I\u0027m afraid I might just be.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "그런 것 같기도 해 (겸손한 척하며 인정하는 유머)",
+                            "nuance":  "\u0027I\u0027m afraid\u0027(유감이지만)와 \u0027might just\u0027(아마도)를 결합해, 칭찬을 우쭐하지 않은 척하면서 수락하는 익살스러운 패턴. 진지한 상황에서 쓰면 어색함.",
+                            "example":  "친구들이 내가 파티에서 제일 재미있었다고 함 → \"I\u0027m afraid I might just be the life of every party.\""
+                        },
+                        {
+                            "expression":  "if I have to",
+                            "dialogue":  "Richard: Monica, I don\u0027t wanna lose you, so if I have to do it all over again, then I will. / Monica: And if you hadn\u0027t said \u0027**if I have to**\u0027 like seventeen times, then I\u0027d be saying \u0027okay, let\u0027s do it.\u0027",
+                            "speaker":  "Richard / Monica",
+                            "meaning":  "해야 한다면 하겠지만 (마지못해 수락하는 뉘앙스)",
+                            "nuance":  "진심으로 원하지 않지만 상황상 받아들이겠다는 뜻을 드러냄. Monica의 대사처럼, 이 표현을 반복하면 상대에게 마지못해 동의한다는 신호를 보낼 수 있으니 주의.",
+                            "example":  "원하지 않는 야근을 억지로 수락하며 → \"I\u0027ll stay and finish the report if I have to, but I really hope it can wait until tomorrow.\""
+                        },
+                        {
+                            "expression":  "I guess we just keep dancing",
+                            "dialogue":  "Monica: So what now? / Richard: **I guess we just keep dancing.**",
+                            "speaker":  "Richard",
+                            "meaning":  "딱히 해결책 없이 그냥 지금처럼 계속 가는 거지",
+                            "nuance":  "어려운 결정이나 불확실한 상황에서 결론 없이 현상을 유지하는 것을 비유적으로 표현. 실제 춤을 추는 장면에서 관계의 메타포로 이중 의미로 쓰인 대사이며, \u0027keep + -ing\u0027 패턴 자체도 \u0027계속 ~하다\u0027로 폭넓게 씀.",
+                            "example":  "팀이 방향을 정하지 못하고 회의가 끝남 → \"We don\u0027t have an answer yet — I guess we just keep dancing until something becomes clear.\""
+                        }
+                    ]
+}

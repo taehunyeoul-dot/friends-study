@@ -1,0 +1,209 @@
+{
+    "id":  "s03e09",
+    "code":  "309",
+    "title":  "The One With The Football",
+    "model":  "sonnet",
+    "cost_usd":  0.3103,
+    "expressions":  [
+                        {
+                            "expression":  "get a little [X] going",
+                            "dialogue":  "Joey: \"Hey, who wants to ah, throw the ball around a little, maybe get a little three on three going?\"",
+                            "speaker":  "Joey",
+                            "meaning":  "뭔가를 즉흥적·가볍게 시작하거나 조직하다",
+                            "nuance":  "\"start\"보다 훨씬 캐주얼하고 유도적인 느낌. 억지로 권유하는 게 아니라 \"어때, 한번 해볼까?\"라는 분위기를 만들 때 쓴다. 뒤에 게임·활동·대화 등 뭐든 올 수 있다.",
+                            "example":  "It\u0027s a slow afternoon — want to get a little card game going? / 오후가 한가한데 카드 게임이나 한판 해볼까?"
+                        },
+                        {
+                            "expression":  "take your mind off [something]",
+                            "dialogue":  "Joey: \"if you play, you get some fresh air, maybe it\u0027ll take your mind off Janice, and if you don\u0027t play, everyone will be mad at you\"",
+                            "speaker":  "Joey",
+                            "meaning":  "걱정이나 슬픔에서 주의를 돌리게 해주다, 딴 생각을 하게 만들다",
+                            "nuance":  "실연이나 스트레스를 받는 사람에게 쓰는 위로의 표현. \"forget about it\"이 강제적 망각이라면 이건 자연스럽게 주의를 돌리는 느낌. \"get over\"를 돕는 수단으로 제안할 때 자주 쓰인다.",
+                            "example":  "Let\u0027s go for a run — it\u0027ll take your mind off the argument. / 달리기하러 가자, 싸운 거 잊는 데 도움 될 거야."
+                        },
+                        {
+                            "expression":  "it got kind of competitive",
+                            "dialogue":  "Monica: \"Ross and I were always captains, and um, it got kind\u0027ve competitive and one year, Geller Bowl VI, I accidentally broke Ross\u0027s nose.\"",
+                            "speaker":  "Monica",
+                            "meaning":  "점점 치열해졌다, 경쟁이 과열됐다",
+                            "nuance":  "\"kind of\"로 실제로는 폭발적으로 치열했던 상황을 부드럽게 완곡화하는 전형적인 미국식 표현. 코 부러질 정도의 싸움을 \"좀 경쟁적이 됐어\"라고 표현하는 아이러니가 웃음 포인트.",
+                            "example":  "We started playing chess casually, but it got kind of competitive fast. / 그냥 가볍게 체스를 두기 시작했는데 금방 꽤 치열해졌어."
+                        },
+                        {
+                            "expression":  "by the way",
+                            "dialogue":  "Monica: \"And just keep running. To score the winning touchdown, by the way.\" Ross: \"Whoa, you did not win the game, the touchdown didn\u0027t count\"",
+                            "speaker":  "Monica",
+                            "meaning":  "그런데 참고로 말하자면, 덧붙이자면 — 대화 중 관련 정보나 강조를 추가할 때",
+                            "nuance":  "단순한 추가 정보가 아니라 여기서는 Ross의 말을 선제적으로 반박하거나 자신의 업적을 강조하는 무기로 쓰인다. 문장 끝에 붙이면 여운처럼 강조 효과가 생긴다.",
+                            "example":  "He never showed up, and he didn\u0027t even call, by the way. / 그는 나타나지도 않았어, 전화도 안 했고 — 그건 그렇고."
+                        },
+                        {
+                            "expression":  "go long",
+                            "dialogue":  "Ross: \"You, you go long.\" Rachel: \"Wait, how long?\" Ross: \"Until we start to look very small.\"",
+                            "speaker":  "Ross",
+                            "meaning":  "미식축구에서 멀리 달려가라; 일상에서는 저 멀리 가 있어라",
+                            "nuance":  "원래 미식축구 용어지만 Ross는 사실 Rachel을 자리에서 치우려고 쓴 것. Rachel이 뜻을 모르는 장면이 코믹하다. 일상에서 \"저 멀리 있어\"의 의미로도 사용 가능.",
+                            "example":  "You go long and I\u0027ll throw it as far as I can. / 네가 멀리 뛰어가면 내가 최대한 멀리 던질게."
+                        },
+                        {
+                            "expression":  "stick around",
+                            "dialogue":  "Chandler and Joey (to Margha): \"Yeah! Why don\u0027t you stick around. You can sit right there.\"",
+                            "speaker":  "Chandler / Joey",
+                            "meaning":  "자리를 뜨지 말고 있다, 머무르다",
+                            "nuance":  "\"stay\"보다 더 캐주얼하고 친근한 권유. 누군가가 떠나려 할 때 붙잡거나, 자연스럽게 머물도록 유도할 때 쓴다. 여기서는 두 남자가 여자에게 들이대는 포인트가 웃음 요소.",
+                            "example":  "Stick around after class — I have something to tell you. / 수업 끝나고 좀 있어봐, 할 말이 있어."
+                        },
+                        {
+                            "expression":  "I\u0027ll let you have her",
+                            "dialogue":  "Joey: \"I\u0027ll let you have her.\" Chandler: \"Thanks. What, let me have her?! What do you mean? Like if you didn\u0027t I wouldn\u0027t have a shot?\" Joey: \"Well I don\u0027t like to say it out loud, but, yeah!\"",
+                            "speaker":  "Joey",
+                            "meaning":  "내가 기회를 양보해줄게, 네가 해봐도 돼 — 마치 자신이 허락권자인 것처럼 쓰는 오만한 표현",
+                            "nuance":  "Joey가 마치 여자를 \"소유\"한 것처럼 Chandler에게 \"허락\"하는 자세가 핵심. Chandler의 반응(\"내가 허락이 필요해?!\")이 이 뉘앙스를 완벽하게 해체해 웃음을 만든다.",
+                            "example":  "I wasn\u0027t going to ask her out anyway, so I let my friend have a shot. / 어차피 고백할 생각 없었으니까 친구한테 기회를 줬지."
+                        },
+                        {
+                            "expression":  "cut to the chase",
+                            "dialogue":  "Ross: \"Okay, y\u0027know what, let\u0027s just cut to the chase here. Okay? Heidi, which of my boys do you like?\"",
+                            "speaker":  "Ross",
+                            "meaning":  "불필요한 말 없이 핵심으로 바로 가다, 단도직입적으로 말하다",
+                            "nuance":  "영화에서 긴 장면 대신 \"추격(chase) 장면으로 바로 넘어가다\"에서 유래. 시간이 없거나 지루한 전제를 다 생략하고 싶을 때 쓴다. 여기서 Ross는 Joey와 Chandler의 신경전을 한 번에 끝내려 한다.",
+                            "example":  "Let\u0027s cut to the chase — do you want the job or not? / 단도직입적으로 말하자, 일 할 거야 말 거야?"
+                        },
+                        {
+                            "expression":  "Bring it on!",
+                            "dialogue":  "Monica: \"Oh, then bring it on! Oh, unless of course you\u0027re afraid you might lose to a bunch of girls.\"",
+                            "speaker":  "Monica",
+                            "meaning":  "어디 한번 해봐라, 도전 받아들이겠어 — 자신감 있는 맞받아치기",
+                            "nuance":  "상대의 도전이나 위협을 당당하게 받아들일 때 쓴다. \"let\u0027s do this\"보다 더 전투적이고 도발적인 뉘앙스. Monica가 뒤에 여자에게 지는 게 두렵지 않냐고 도발하는 것과 세트.",
+                            "example":  "You think your team can beat us? Bring it on. / 너네 팀이 우릴 이길 수 있다고? 어디 한번 해봐."
+                        },
+                        {
+                            "expression":  "keep your head in the game",
+                            "dialogue":  "Monica: \"Come on Mon, let\u0027s go! Come on, it\u0027s time to get serious, huddle up. Joey, keep your head in the game.\" Joey: \"It\u0027s hard, y\u0027know, his huddle is closer to Dutch girl.\"",
+                            "speaker":  "Monica",
+                            "meaning":  "집중해라, 딴 데 정신 팔지 마라",
+                            "nuance":  "스포츠에서 나왔지만 일이나 공부 등 어디서든 쓴다. Joey가 네덜란드 여자에게 한눈파는 걸 Monica가 잡는 장면에서 표현의 의미가 시각적으로 완벽하게 드러난다.",
+                            "example":  "Stop checking your phone and keep your head in the game. / 폰 좀 그만 보고 집중해."
+                        },
+                        {
+                            "expression":  "take care of the rest",
+                            "dialogue":  "Monica: \"All right, you just make sure that Chandler catches the ball, I\u0027ll take care of the rest.\"",
+                            "speaker":  "Monica",
+                            "meaning":  "나머지는 내가 다 처리하겠다, 나머지를 담당하다",
+                            "nuance":  "역할을 분담할 때 자신감 있게 쓰는 표현. \"rest\"가 얼마나 큰지 굳이 설명하지 않는 게 포인트 — 책임을 당당히 가져가는 뉘앙스. Monica가 Chandler를 tackle하려는 계획을 숨기며 말하는 것이 아이러니.",
+                            "example":  "You handle the client call and I\u0027ll take care of the rest. / 네가 고객 전화 맡고 나머지는 내가 다 처리할게."
+                        },
+                        {
+                            "expression":  "Nice going. (sarcastic)",
+                            "dialogue":  "Joey: \"Nice going. You just saved yourself a couple months of sex.\" (after Chandler bragged obnoxiously and Margha walked away)",
+                            "speaker":  "Joey",
+                            "meaning":  "참 잘도 했다 — 실수나 자충수를 비꼬는 표현",
+                            "nuance":  "문자 그대로는 칭찬이지만 억양과 상황에 따라 완전히 반어적으로 쓰인다. 상대가 스스로 망쳤을 때 쓰는 건조한 비판. Joey의 \"couple months of sex\" 계산이 이 장면의 하이라이트.",
+                            "example":  "Nice going — you just told our surprise plan to the birthday girl. / 참 잘도 했다, 방금 생일 주인공한테 서프라이즈 계획 말해버렸네."
+                        },
+                        {
+                            "expression":  "fish [something] out",
+                            "dialogue":  "Monica: \"When Mom and Dad drove you to the hospital to get your nose fixed, I swam into the lake and fished it out.\" (referring to the Geller Cup trophy)",
+                            "speaker":  "Monica",
+                            "meaning":  "물속이나 어딘가에서 뭔가를 건져내다, 뒤져서 꺼내다",
+                            "nuance":  "물속에서 꺼낼 때도 쓰고, 가방·주머니에서 뒤져 꺼낼 때도 씀 (\"she fished her keys out of her bag\"). 상당한 노력이 들어간 행동을 가볍게 표현할 때 효과적.",
+                            "example":  "She fished her phone out of her giant bag and finally answered. / 그녀는 큰 가방을 뒤져 겨우 폰을 꺼내 받았어."
+                        },
+                        {
+                            "expression":  "I win! You suck! I rule all!",
+                            "dialogue":  "Chandler: \"You hear that! That is her chose, mister I\u0027ll let you have her! I win! You suck! I rule all! A mini-wave in celebration of me!!\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "나 이겼어! 넌 최악이야! 내가 최고야! — 과장된 승리 세레모니 및 trash talk",
+                            "nuance":  "\"suck\"은 \"최악이다\", \"rule\"은 속어로 \"최고다\"의 의미. 둘 다 매우 구어적. Chandler가 작은 승리에 과하게 반응하는 게 캐릭터의 핵심이고, 이 때문에 Margha가 바로 마음을 돌린다.",
+                            "example":  "We beat the other team 5-0! We rule! You guys suck! / 우리가 5-0으로 이겼어! 우리가 최고야! 너네 최악이야!"
+                        },
+                        {
+                            "expression":  "shallow and a dork",
+                            "dialogue":  "Margha: \"I\u0027m now thinking I would like to change my answer to, no one. ... I now find you shallow and um, a dork.\" Chandler: \"Wh-what?\"",
+                            "speaker":  "Margha",
+                            "meaning":  "shallow = 표면적인 것만 신경 쓰는, 속 없는; dork = 사회적으로 어색하고 촌스러운 사람",
+                            "nuance":  "Margha가 외국인 특유의 담담한 직설로 말하는 게 웃음 포인트. \"um\"으로 잠깐 멈추는 것이 더 치명적인 느낌. \"dork\"은 친구 사이에서 애정을 담아 쓸 수도 있는 부드러운 표현.",
+                            "example":  "Don\u0027t be such a dork — just say hi to her. / 그렇게 찐따같이 굴지 말고 그냥 인사나 해."
+                        },
+                        {
+                            "expression":  "it makes a stronger statement",
+                            "dialogue":  "Joey: \"I think it makes a stronger statement if I ask for it myself, y\u0027know.\" Chandler: \"What, let me have her?! ... like if you didn\u0027t I wouldn\u0027t have a shot?\"",
+                            "speaker":  "Joey",
+                            "meaning":  "더 강한 인상을 준다, 더 확실하게 무언가를 전달한다",
+                            "nuance":  "Joey가 번호를 직접 따는 것을 \"더 강한 선언\"이라 표현하는 게 웃기다 — 과장된 자기 확신의 언어. 실제로는 진지하게 논쟁이나 행동의 효과를 설명할 때 자주 쓴다.",
+                            "example":  "A handwritten apology makes a stronger statement than a text. / 손으로 쓴 사과가 문자보다 더 진심이 담긴 느낌을 줘."
+                        },
+                        {
+                            "expression":  "we all have our strengths",
+                            "dialogue":  "Joey: \"Don\u0027t feel bad man, we all have our strengths. You\u0027re better with numbers and stuff.\" Chandler: \"Math!! You\u0027re giving me math!\"",
+                            "speaker":  "Joey",
+                            "meaning":  "누구나 잘하는 게 따로 있다 — 표면상 위로이지만 실제론 열등함을 인정하게 만드는 표현",
+                            "nuance":  "일반적으로는 진심 어린 격려 표현이지만 여기서 Joey는 Chandler가 여자한테는 소질 없다는 걸 완곡하게 말하려 쓴다. \"Math\"라는 Chandler의 반응이 이 표현의 아이러니를 완벽하게 보여줌.",
+                            "example":  "We all have our strengths — you may not be fast, but your technique is perfect. / 누구나 잘하는 게 있어, 네가 빠르진 않지만 기술이 완벽하잖아."
+                        },
+                        {
+                            "expression":  "lousy",
+                            "dialogue":  "Monica: \"All right people listen, just think about every lousy date that you ever had, okay, every guy who kept on the TV while you\u0027re making out...\"",
+                            "speaker":  "Monica",
+                            "meaning":  "형편없는, 최악의, 엉망인",
+                            "nuance":  "\"bad\"나 \"terrible\"보다 더 감정적이고 쓴맛이 담긴 구어 표현. \"lousy day\", \"lousy excuse\", \"lousy weather\" 등 다양하게 결합해 쓸 수 있다. 불쾌함과 실망감이 동시에 담긴 단어.",
+                            "example":  "I had a lousy day — missed the train, forgot my lunch, and bombed the meeting. / 오늘 최악의 하루였어 — 기차 놓치고, 점심 두고 오고, 회의도 망쳤어."
+                        },
+                        {
+                            "expression":  "the clock is ticking",
+                            "dialogue":  "Ross: \"Save the breakthroughs for therapy, okay. The clock is ticking. We have no time, and we are losing, we are losing to girls.\"",
+                            "speaker":  "Ross",
+                            "meaning":  "시간이 촉박하다, 시간이 없다, 데드라인이 다가오고 있다",
+                            "nuance":  "문자 그대로 경기 시계가 가고 있다는 뜻도 되고, 비유적으로 시간 압박을 강조하는 표현이기도 하다. \"we are losing to girls\"와 결합해 Ross의 절박함이 두 배가 된다.",
+                            "example":  "The clock is ticking — we need a decision before the client calls back. / 시간이 없어, 고객이 다시 전화하기 전에 결정해야 해."
+                        },
+                        {
+                            "expression":  "I don\u0027t like to say it out loud",
+                            "dialogue":  "Joey: \"Well I don\u0027t like to say it out loud, but, yeah!\" (admitting Chandler wouldn\u0027t have a shot with Margha without Joey\u0027s permission)",
+                            "speaker":  "Joey",
+                            "meaning":  "말로 하기가 껄끄럽다, 소리 내어 인정하고 싶지 않다",
+                            "nuance":  "이미 알고 있지만 공개적으로 인정하면 더 실감 나거나 불편해질 때 쓰는 전치 표현. Joey 입장에선 Chandler가 별로라고 직접 말하는 게 잔인하니까 이 말로 완충하는 것.",
+                            "example":  "I don\u0027t like to say it out loud, but I think we\u0027re definitely lost. / 인정하기 싫지만, 우리 완전히 길 잃은 것 같아."
+                        },
+                        {
+                            "expression":  "Don\u0027t say that I don\u0027t have goals!",
+                            "dialogue":  "Chandler: \"I wanted to wear my bathrobe and eat peanut clusters all day. I wanted to start drinking in the morning. Don\u0027t say that I don\u0027t have goals!\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "목표가 없다고 하지 마라 — 최악의 자기 파괴적 계획을 \"목표\"라고 방어하는 자기비하 유머",
+                            "nuance":  "Chandler 유머의 정수. \"goal\"이라는 단어를 긍정적 의도와 완전히 다른 상황에 적용하는 아이러니. 실연 후 자포자기 상태를 코믹하게 보여주는 장면.",
+                            "example":  "I\u0027m planning to finish an entire season today. Don\u0027t say I don\u0027t have goals. / 오늘 시즌 하나 다 볼 계획이야. 목표 없다고 하지 마."
+                        },
+                        {
+                            "expression":  "I\u0027ve been preparing for that my entire life",
+                            "dialogue":  "Joey: \"forget about it. Prepare to feel very bad about yourself.\" Chandler: \"Hey! Well, I\u0027ve been preparing for that my entire life! Or something about you that\u0027s mean!\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "평생 그 준비를 해왔다 — 기분 나쁘게 만들겠다는 위협에 오히려 공감하는 자기비하 유머",
+                            "nuance":  "상대의 위협을 역으로 자기 비하로 받아치는 Chandler의 핵심 개그 패턴. 끝에 \"Or something about you that\u0027s mean!\"을 덧붙이며 정작 반격 멘트를 못 찾는 모습이 이 장면의 완성.",
+                            "example":  "\"Prepare to be embarrassed.\" \"Honestly, I\u0027ve been preparing for that my entire life.\" / \"창피할 준비나 해.\" \"솔직히 그건 평생 준비해왔어.\""
+                        },
+                        {
+                            "expression":  "blame it on [something]",
+                            "dialogue":  "Monica: \"Just once I wanna beat when you can\u0027t blame it on the broken nose, the buzzer, or the fact that you thought you were getting mono.\"",
+                            "speaker":  "Monica",
+                            "meaning":  "~탓으로 돌리다, ~를 핑계로 대다",
+                            "nuance":  "패배나 실패의 원인을 남이나 외부 요인에 돌릴 때 쓴다. Monica가 Ross의 핑계 목록(코, 버저, 모노뉴클레오시스)을 나열하는 장면이 긴 경쟁의 역사를 압축해서 보여준다.",
+                            "example":  "Every time he loses, he blames it on the referee. / 그는 질 때마다 심판 탓을 해."
+                        },
+                        {
+                            "expression":  "when [someone] is hungry enough, they\u0027ll come in",
+                            "dialogue":  "Joey: \"When they\u0027re hungry enough, they\u0027ll come in.\" (about Monica and Ross still fighting outside in the dark)",
+                            "speaker":  "Joey",
+                            "meaning":  "필요가 생기면 알아서 온다, 궁하면 스스로 해결책을 찾는다",
+                            "nuance":  "걱정하는 사람을 무심하게 안심시키는 Joey의 실용주의적 철학. 사람을 마치 굶은 동물처럼 비유하는 게 웃기다. \"내버려 두면 돼\"의 더 재치 있는 표현.",
+                            "example":  "Don\u0027t force the kids to practice — when they\u0027re interested enough, they\u0027ll ask. / 아이들한테 억지로 연습 시키지 마, 관심 생기면 알아서 물어볼 거야."
+                        },
+                        {
+                            "expression":  "drift apart",
+                            "dialogue":  "Joey: \"Chandler, you have to start getting over her.\" — implied context: Chandler and Janice broke up and he has drifted from his usual self. (Note: \"drift apart\" is implied through Chandler\u0027s withdrawal behavior throughout the episode.)",
+                            "speaker":  "Joey",
+                            "meaning":  "서서히 멀어지다, 관계나 상태에서 자연스럽게 소원해지다",
+                            "nuance":  "갑작스러운 단절이 아니라 시간이 지나면서 자연스럽게 멀어지는 과정을 묘사한다. 연인뿐 아니라 친구 관계에도 쓰인다. Chandler가 실연 후 모든 활동에서 스스로를 고립시키는 상태를 가장 잘 표현하는 단어.",
+                            "example":  "After college, we just drifted apart — nobody really decided to stop being friends. / 졸업 후엔 그냥 서로 멀어졌어, 아무도 일부러 연락을 끊은 건 아닌데."
+                        }
+                    ]
+}

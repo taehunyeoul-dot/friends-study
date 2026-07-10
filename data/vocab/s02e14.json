@@ -1,0 +1,209 @@
+{
+    "id":  "s02e14",
+    "code":  "214",
+    "title":  "The One With the Prom Video",
+    "model":  "sonnet",
+    "cost_usd":  0.3068,
+    "expressions":  [
+                        {
+                            "expression":  "Hold on a second",
+                            "dialogue":  "Joey: Hey.\nChandler: Hey. **Hold on a second.** [shoots a goal] Huh?",
+                            "speaker":  "Chandler",
+                            "meaning":  "잠깐 기다려, 잠시만 (wait briefly before I respond or act)",
+                            "nuance":  "대화 중 자연스럽게 상대를 잠시 멈추게 할 때 쓰는 가장 무난한 표현. \"Wait a moment\"보다 훨씬 구어적이고, 긴박하지 않은 캐주얼한 상황에 잘 맞음.",
+                            "example":  "Hold on a second — I need to grab my keys before we leave. 예 잠깐만, 나가기 전에 열쇠 챙겨야 해."
+                        },
+                        {
+                            "expression":  "always being there for me",
+                            "dialogue":  "Joey: Hey, this is a little extra somethin\u0027 for uh, ya know, **always bein\u0027 there for me**.",
+                            "speaker":  "Joey",
+                            "meaning":  "항상 내 곁에서 힘이 되어줘서 (for always being a source of emotional support and presence)",
+                            "nuance":  "단순한 물리적 존재가 아니라 정서적 지지와 신뢰를 표현하는 깊은 우정의 언어. 감사 인사나 고백에 쓰면 감동적인 무게감을 줌.",
+                            "example":  "I don\u0027t know what I\u0027d do without you — thank you for always being there for me. 예 네가 없었으면 어쩔 뻔했어, 항상 내 곁에 있어줘서 고마워."
+                        },
+                        {
+                            "expression":  "it goes with everything",
+                            "dialogue":  "Joey: no no, that\u0027s the beauty part, **it goes with everything**. You put this on, you\u0027re good to go.",
+                            "speaker":  "Joey",
+                            "meaning":  "어디에나 잘 어울린다, 무엇과도 매칭된다 (pairs/matches with any outfit or situation)",
+                            "nuance":  "옷, 액세서리, 음식 등이 다양한 상황에 두루 맞을 때 쓰는 실용적인 표현. 쇼핑할 때나 뭔가를 추천할 때 자주 등장함.",
+                            "example":  "Just get the black sneakers — they go with everything. 예 그냥 검정 스니커즈 사, 뭐든지 다 어울리거든."
+                        },
+                        {
+                            "expression":  "you\u0027re good to go",
+                            "dialogue":  "Joey: **You put this on, you\u0027re good to go.**",
+                            "speaker":  "Joey",
+                            "meaning":  "준비 완료야, 이제 가도 돼 (everything is ready/set, you\u0027re all set to proceed)",
+                            "nuance":  "어떤 준비나 절차가 끝났을 때 알려주는 실용적이고 활기찬 표현. 공항, 직장, 게임 등 다양한 상황에서 일상적으로 쓰임.",
+                            "example":  "Your account is verified — you\u0027re good to go. 예 계정 인증 완료됐어, 이제 사용하면 돼."
+                        },
+                        {
+                            "expression":  "be back on track",
+                            "dialogue":  "Chandler: Well, it\u0027ll probably slow it down at first but, once I get used to the extra weight, **I\u0027ll be back on track**.",
+                            "speaker":  "Chandler",
+                            "meaning":  "다시 제 궤도로 돌아오다 (return to the normal/intended course after a disruption)",
+                            "nuance":  "일, 관계, 건강 등이 잠시 틀어졌다가 다시 정상으로 돌아올 때 씀. 비즈니스 회의에서도 자주 등장하는 표현으로 포멀~캐주얼 두루 사용 가능.",
+                            "example":  "After two weeks of rest, I finally feel like I\u0027m back on track. 예 2주 쉬고 나서 드디어 다시 정상 궤도로 돌아온 것 같아."
+                        },
+                        {
+                            "expression":  "that\u0027s your call",
+                            "dialogue":  "Interviewer: Don\u0027t, I like it dirty.\nMonica: **That\u0027s your call.**",
+                            "speaker":  "Monica",
+                            "meaning":  "그건 당신이 결정할 일이에요 (it\u0027s up to you to decide, your choice entirely)",
+                            "nuance":  "상대방의 결정권을 인정하거나, 본인은 더 이상 관여하지 않겠다는 뉘앙스. 상황에 따라 냉소적이거나 중립적으로도 들릴 수 있음.",
+                            "example":  "I think you should apologize, but ultimately that\u0027s your call. 예 사과하는 게 좋을 것 같지만, 결국 네가 결정할 일이야."
+                        },
+                        {
+                            "expression":  "I\u0027m outa here",
+                            "dialogue":  "Interviewer: You gonna slice them up real nice?\nMonica: Actually, I was gonna do them jullienne. Interviewer: Aaaahhhhhhh.\nMonica: **I\u0027m outa here.** [Monica leaves]",
+                            "speaker":  "Monica",
+                            "meaning":  "나 간다, 여기서 나간다 (I\u0027m leaving right now — with finality or indignation)",
+                            "nuance":  "\"I\u0027m out of here\"의 축약 구어체. 황당하거나 불쾌한 상황에서 즉각 자리를 뜰 때 쓰며, 강한 감정이 실림. 화날 때뿐 아니라 가볍게도 씀.",
+                            "example":  "This party is dead. I\u0027m outa here. 예 파티 분위기 별로다. 나 간다."
+                        },
+                        {
+                            "expression":  "can I take a message",
+                            "dialogue":  "Ross: Y-ello. No, Rachel\u0027s not here right now, **can I take a message**?",
+                            "speaker":  "Ross",
+                            "meaning":  "메시지 남겨드릴까요? (shall I pass along a message since the person isn\u0027t available?)",
+                            "nuance":  "전화에서 상대방이 자리를 비웠을 때 쓰는 고전적인 표현. 이메일·문자 시대에도 여전히 쓰이며, 비즈니스 상황에서 필수 표현.",
+                            "example":  "She\u0027s in a meeting right now — can I take a message? 예 지금 회의 중인데, 메모 남겨드릴까요?"
+                        },
+                        {
+                            "expression":  "hang in there",
+                            "dialogue":  "Ross: Wha, OK, now how do you know that?\nPhoebe: Because she\u0027s your lobster.\nChandler: Oh, she\u0027s goin\u0027 somewhere.\nPhoebe: **Hang in there**, it\u0027s gonna happen.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "버텨, 포기하지 마 (keep holding on, don\u0027t give up — encouragement)",
+                            "nuance":  "힘들어하는 상대를 격려할 때 쓰는 따뜻하고 공감적인 표현. \"Fighting\"보다 더 자연스럽고, 상황이 곧 나아질 거라는 희망을 담음.",
+                            "example":  "Job hunting is brutal, but hang in there — something will come through. 예 구직 정말 힘들지만, 버텨봐. 뭔가 될 거야."
+                        },
+                        {
+                            "expression":  "make rent",
+                            "dialogue":  "Phoebe: So, do you have any other possibilities?\nMonica: Oh yeah, well **there\u0027s the possibility that I won\u0027t make rent**.",
+                            "speaker":  "Monica",
+                            "meaning":  "월세를 감당하다 / 내지 못하다 (to earn enough to pay the rent — often used in the negative)",
+                            "nuance":  "\"pay rent\"보다 더 절박하고 생활밀착형 표현. \"can barely make rent\"처럼 쓰면 생계 압박을 강하게 표현할 수 있음.",
+                            "example":  "With freelance work slowing down, I\u0027m not sure I can make rent this month. 예 프리랜서 일이 줄어서 이번 달 월세를 낼 수 있을지 모르겠어."
+                        },
+                        {
+                            "expression":  "the man\u0027s got a point / she\u0027s got a point",
+                            "dialogue":  "Ross: Oh OK. Well then why don\u0027t you borrow it from mom and dad?\nChandler: **Ya know, the man\u0027s got a point.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "그 사람 말이 맞아, 그 말도 일리 있어 (he/she makes a valid argument)",
+                            "nuance":  "제3자의 의견에 동의할 때 쓰는 표현. \"You\u0027re right\"보다 더 캐주얼하고 약간 유머러스한 어감. \"she\u0027s got a point\"으로도 자주 씀.",
+                            "example":  "She\u0027s got a point — we should\u0027ve started planning earlier. 예 그녀 말이 맞아, 우리 더 일찍 계획을 세웠어야 했어."
+                        },
+                        {
+                            "expression":  "God forbid (sarcastic)",
+                            "dialogue":  "Mr. Geller: Well, we didn\u0027t want to disturb them.\nMonica: **Oh, God forbid.**",
+                            "speaker":  "Monica",
+                            "meaning":  "그랬다간 큰일 나지 (used sarcastically: heaven forbid that should happen — implying something trivial is being treated as catastrophic)",
+                            "nuance":  "원래는 진지한 기도 표현이지만 현대 구어에서는 주로 비꼬는 용도. 누군가가 사소한 것을 과장할 때 냉소적으로 쓰면 딱 맞음.",
+                            "example":  "God forbid he ever admits he\u0027s wrong. 예 그 사람이 자기가 틀렸다고 인정이라도 하면 큰일 나지."
+                        },
+                        {
+                            "expression":  "back off",
+                            "dialogue":  "Ross: how long has he been talking to her. It\u0027s like, **back off buddy** she\u0027s a waitress not a geisha.",
+                            "speaker":  "Ross",
+                            "meaning":  "물러서, 그만 좀 해 (stop hovering/pressuring, give space)",
+                            "nuance":  "누군가의 과도한 접근이나 개입을 직접적으로 막을 때 쓰는 표현. 친구 사이 장난으로도, 진지한 경고로도 쓰임. 강도 조절이 중요함.",
+                            "example":  "Hey, back off — she said she\u0027s not interested. 예 야, 그만해 — 그녀가 관심 없다고 했잖아."
+                        },
+                        {
+                            "expression":  "fall for someone",
+                            "dialogue":  "Rachel: I **fell for you** and I get clobbered. You then fall for me and I again, somehow, get clobbered.",
+                            "speaker":  "Rachel",
+                            "meaning":  "누군가에게 (감정적으로) 빠지다, 사랑에 빠지다 (to develop romantic feelings, often unintentionally)",
+                            "nuance":  "\"fall in love with\"보다 더 갑작스럽고 의도하지 않은 감정의 뉘앙스. 내가 조절할 수 없이 빠져버렸다는 취약함이 담겨 있음.",
+                            "example":  "I didn\u0027t mean for it to happen, but I totally fell for my coworker. 예 그럴 생각 없었는데, 완전히 직장 동료에게 빠져버렸어."
+                        },
+                        {
+                            "expression":  "get clobbered",
+                            "dialogue":  "Rachel: I fell for you and **I get clobbered**. You then fall for me and I again, somehow, **get clobbered**.",
+                            "speaker":  "Rachel",
+                            "meaning":  "심하게 상처받다, 된통 당하다 (to be badly hurt, beaten, or defeated — emotionally or literally)",
+                            "nuance":  "원래 \"심하게 얻어맞다\"는 뜻이지만 감정적 피해에도 씀. 억울함과 피해의식이 강하게 실리는 표현으로, 단순한 hurt보다 훨씬 강렬함.",
+                            "example":  "Every time I opened up to him, I got clobbered. 예 그에게 마음을 열 때마다 나만 크게 상처받았어."
+                        },
+                        {
+                            "expression":  "that\u0027s my bad",
+                            "dialogue":  "Chandler: [Throws a basketball to Joey. Joey doesn\u0027t move and the ball takes out a lamp]\n**OK, that\u0027s my bad.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "그건 내 실수야, 내 잘못이야 (that was my fault/mistake — casual admission)",
+                            "nuance":  "90년대에 유행하기 시작해 지금도 젊은 층에서 활발히 쓰이는 표현. \"I\u0027m sorry\"보다 자책 없이 가볍게 실수를 인정하는 어감.",
+                            "example":  "I sent the meeting invite to the wrong person — that\u0027s my bad. 예 회의 초대장을 잘못된 사람한테 보냈어, 내 실수야."
+                        },
+                        {
+                            "expression":  "Get out! (expression of disbelief/surprise)",
+                            "dialogue":  "Chandler: Well this one\u0027s for you.\nJoey: **Get out.**\nChandler: No, I can\u0027t. No no, listen...",
+                            "speaker":  "Joey",
+                            "meaning":  "설마! 말도 안 돼! (No way! I can\u0027t believe it! — pure surprise, not an actual command to leave)",
+                            "nuance":  "\"Get out of here\"의 축약으로, 믿기 어려운 좋은 소식에 쓰는 감탄사. 위협이나 명령과 전혀 다른 맥락이므로 억양과 상황으로 구별해야 함.",
+                            "example":  "He got into Harvard? Get out! 예 그 사람이 하버드에 붙었다고? 말도 안 돼!"
+                        },
+                        {
+                            "expression":  "take a chill pill",
+                            "dialogue":  "Rachel: Oh, the guys are here.\nRoy: He\u0027ll be here OK, **take a chill pill**.",
+                            "speaker":  "Roy",
+                            "meaning":  "진정해, 좀 쉬어 (calm down, relax — stop stressing)",
+                            "nuance":  "90년대에 크게 유행했던 표현으로 지금은 약간 촌스럽거나 레트로한 느낌. 오히려 그 때문에 유머러스하게 쓰임. 현대에는 \"chill out\"이 더 자연스러움.",
+                            "example":  "Take a chill pill — the results don\u0027t come out until Friday. 예 좀 진정해, 결과는 금요일에나 나와."
+                        },
+                        {
+                            "expression":  "Atta boy",
+                            "dialogue":  "Mr. Geller: Of course she would, you\u0027re a college man.\nRoss: I don\u0027t know.\nMr. Geller: Well, c\u0027mon. Don\u0027t ya want to find out?\nRoss: OK. Hold my board.\nMr. Geller: **Atta boy.**",
+                            "speaker":  "Mr. Geller",
+                            "meaning":  "잘했어! 그렇지, 그거야! (That\u0027s the spirit! Good for you! — enthusiastic encouragement)",
+                            "nuance":  "\"That a boy\" (= That\u0027s a good boy)에서 온 표현으로, 용기 있는 결정이나 행동에 대한 격려. 약간 가부장적 뉘앙스가 있어 맥락 파악이 필요함.",
+                            "example":  "You finally asked her out? Atta boy! 예 드디어 그녀에게 고백했어? 잘했어!"
+                        },
+                        {
+                            "expression":  "the camera adds ten pounds",
+                            "dialogue":  "Joey: Some girl ate Monica.\nMonica: Shut up, **the camera adds ten pounds**.\nChandler: Ahh, so how many cameras are actually on you?",
+                            "speaker":  "Monica",
+                            "meaning":  "카메라는 살쪄 보이게 한다 (cameras make people appear heavier/larger than they actually are)",
+                            "nuance":  "사진이나 영상에서 실물보다 뚱뚱해 보이는 현상에 대한 고전적인 변명/위안 표현. 문화적으로 잘 알려진 관용구로 굳어져 있음.",
+                            "example":  "Trust me, the camera adds ten pounds — you look way better in person. 예 믿어, 카메라가 살쪄 보이게 하거든. 실제로는 훨씬 나아 보여."
+                        },
+                        {
+                            "expression":  "check it out",
+                            "dialogue":  "Joey: And it\u0027s engraved too, **check it out**.\nChandler: [reads] To my best bud.",
+                            "speaker":  "Joey",
+                            "meaning":  "이거 봐봐, 확인해봐 (look at this, take a look at something interesting/cool)",
+                            "nuance":  "자랑하거나 흥미로운 것을 보여줄 때 쓰는 캐주얼하고 신나는 표현. \"Look at this\"보다 더 활기차고 친근한 어감.",
+                            "example":  "I finally set up my home studio — check it out! 예 드디어 홈 스튜디오 꾸몄어, 봐봐!"
+                        },
+                        {
+                            "expression":  "this close",
+                            "dialogue":  "Ross: I don\u0027t get it, I mean, two months ago Rachel and I were like, **this close**. Right now, what, I\u0027m takin messages from guys she meets at the movies?",
+                            "speaker":  "Ross",
+                            "meaning":  "이 정도로 가까웠어 / 거의 다 됐었는데 (we were nearly there — in a relationship, goal, or proximity; often with a finger gesture)",
+                            "nuance":  "보통 엄지와 검지로 작은 간격을 만드는 제스처와 함께 씀. 관계나 목표에 거의 다 도달했을 때, 또는 아슬아슬하게 놓쳤을 때 쓰는 표현.",
+                            "example":  "We were this close to closing the deal, and then they backed out. 예 계약이 거의 다 됐었는데 그들이 빠져나갔어."
+                        },
+                        {
+                            "expression":  "you should have just said so",
+                            "dialogue":  "Joey: If you hated the bracelet so much, Chandler, **you should have just said so**.",
+                            "speaker":  "Joey",
+                            "meaning":  "그냥 말했으면 됐잖아 (you should have told me directly instead of hiding your feelings)",
+                            "nuance":  "상대가 솔직하지 않아서 문제가 생겼을 때 하는 말. 약간 서운하거나 실망한 어감이 담기며, 직접 소통을 촉구하는 표현.",
+                            "example":  "If the deadline was too tight, you should have just said so from the start. 예 마감이 너무 촉박했으면 처음부터 말했으면 됐잖아."
+                        },
+                        {
+                            "expression":  "I don\u0027t get it",
+                            "dialogue":  "Ross: **I don\u0027t get it**, I mean, two months ago Rachel and I were like, this close. Right now, what, I\u0027m takin messages from guys she meets at the movies?",
+                            "speaker":  "Ross",
+                            "meaning":  "이해가 안 돼, 도저히 모르겠어 (I can\u0027t make sense of this — expressing frustration or confusion)",
+                            "nuance":  "\"I don\u0027t understand\"보다 더 감정적이고 답답한 느낌. 단순한 정보 부족이 아니라 상황 자체가 납득이 안 갈 때 쓰는 표현.",
+                            "example":  "I don\u0027t get it — we studied the same way, but she scored so much higher. 예 이해가 안 돼, 같은 방식으로 공부했는데 그녀가 훨씬 높게 나왔잖아."
+                        },
+                        {
+                            "expression":  "that\u0027s what it\u0027s there for",
+                            "dialogue":  "Mr. Geller: She dips into her savings, **that\u0027s what it\u0027s there for**. She\u0027s gonna be fine.",
+                            "speaker":  "Mr. Geller",
+                            "meaning":  "그게 바로 그 용도야, 그 때 쓰라고 있는 거잖아 (that\u0027s exactly the purpose it serves — use it when needed)",
+                            "nuance":  "돈, 비상금, 도구, 제도 등이 있는 이유를 강조할 때 씀. 쓰기를 망설이는 상대를 안심시키거나 독려하는 어감.",
+                            "example":  "Use your vacation days — that\u0027s what they\u0027re there for. 예 연차 써, 그 때 쓰라고 있는 거잖아."
+                        }
+                    ]
+}

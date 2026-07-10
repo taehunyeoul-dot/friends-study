@@ -1,0 +1,209 @@
+{
+    "id":  "s03e22",
+    "code":  "322",
+    "title":  "The One With The Screamer",
+    "model":  "sonnet",
+    "cost_usd":  0.3021,
+    "expressions":  [
+                        {
+                            "expression":  "on hold",
+                            "dialogue":  "Rachel: Oh, Phoebe, are you still **on hold**? I was supposed to call my Dad back like two hours ago.",
+                            "speaker":  "Rachel",
+                            "meaning":  "전화 연결을 기다리며 대기 중인 상태",
+                            "nuance":  "고객센터 등에 전화했을 때 상담원 연결을 기다리는 상황. \u0027put someone on hold\u0027(잠깐 기다려)로도 일상 대화에서 자주 쓰임.",
+                            "example":  "I\u0027ve been on hold for 30 minutes — no one\u0027s picking up. / 30분째 대기 중인데 아무도 안 받아."
+                        },
+                        {
+                            "expression":  "That\u0027s what they want me to do",
+                            "dialogue":  "Phoebe: No! Rachel, **that\u0027s what they want me to do**. My warranty expires tomorrow, if I don\u0027t get through, they\u0027re not gonna fix my crappy, broken phone for free!",
+                            "speaker":  "Phoebe",
+                            "meaning":  "그게 바로 그들이 원하는 거야 (그러니까 절대 안 해)",
+                            "nuance":  "압박에 굴복하지 않겠다는 저항 심리를 표현. 사소한 상황을 전략적 대결로 과장할 때 유머 효과를 낼 수 있음.",
+                            "example":  "Don\u0027t apologize first — that\u0027s exactly what they want you to do. / 먼저 사과하지 마, 그게 걔네가 원하는 거잖아."
+                        },
+                        {
+                            "expression":  "It\u0027s us versus them",
+                            "dialogue":  "Phoebe: We cannot let them win! **It\u0027s us versus them!**",
+                            "speaker":  "Phoebe",
+                            "meaning":  "우리 대 그들의 싸움이야, 우리가 질 수 없어",
+                            "nuance":  "사소한 일을 큰 전쟁처럼 표현하는 과장법. 경쟁 심리를 유머러스하게 드러낼 때 씀. \u0027us vs. them\u0027이라고도 씀.",
+                            "example":  "This negotiation is us versus them — we can\u0027t back down now. / 이번 협상은 우리 대 그들의 싸움이야, 지금 물러설 수 없어."
+                        },
+                        {
+                            "expression":  "double-check",
+                            "dialogue":  "Joey: Uh, listen I gotta **double check** for tickets tonight. Who-who got what?",
+                            "speaker":  "Joey",
+                            "meaning":  "다시 한번 확인하다",
+                            "nuance":  "단순히 \u0027check\u0027하는 것보다 더 꼼꼼히 재차 확인한다는 뉘앙스. 실수를 막으려는 신중함을 내포.",
+                            "example":  "Let me double-check the address before we leave. / 출발 전에 주소 한 번 더 확인할게."
+                        },
+                        {
+                            "expression":  "plus one",
+                            "dialogue":  "Rachel: I meant, **me plus one**! Joey: Okay.",
+                            "speaker":  "Rachel",
+                            "meaning":  "나 포함 두 명, 동반자 1명 추가",
+                            "nuance":  "파티·행사 초대에서 동반자를 뜻하는 표현. \u0027bring a plus one\u0027(동반자를 데려오다), \u0027Who\u0027s your plus one?\u0027(누구 데려와?) 형태로 자주 씀.",
+                            "example":  "The wedding invite says I can bring a plus one — want to come? / 결혼식 초대장에 동반자 한 명 데려와도 된대, 같이 갈래?"
+                        },
+                        {
+                            "expression":  "It\u0027s never gonna happen",
+                            "dialogue":  "Monica: Joey, what are you doing?! **It\u0027s never gonna happen**, she\u0027s seeing somebody.",
+                            "speaker":  "Monica",
+                            "meaning":  "그건 절대 일어나지 않을 거야, 가능성 없어",
+                            "nuance":  "누군가의 희망이나 계획을 단호하게 부정하는 표현. \u0027gonna\u0027는 \u0027going to\u0027의 구어적 축약으로 친한 사이에서 자연스러움.",
+                            "example":  "You\u0027ve been waiting for that promotion for two years — it\u0027s never gonna happen. / 2년째 그 승진을 기다리고 있잖아, 절대 안 될 거야."
+                        },
+                        {
+                            "expression":  "seeing somebody",
+                            "dialogue":  "Monica: Joey, what are you doing?! It\u0027s never gonna happen, **she\u0027s seeing somebody**.",
+                            "speaker":  "Monica",
+                            "meaning":  "누군가와 사귀고 있다, 연애 중이다",
+                            "nuance":  "\u0027dating someone\u0027보다 덜 공식적이고 관계가 아직 진행 중임을 암시하는 뉘앙스. \u0027Are you seeing anyone?\u0027(요즘 만나는 사람 있어?)처럼 씀.",
+                            "example":  "I heard she\u0027s seeing somebody from work. / 걔 직장 동료랑 만나고 있다고 하던데."
+                        },
+                        {
+                            "expression":  "bad news",
+                            "dialogue":  "Ross: I mean really mean. I think he\u0027s **baaad news**!",
+                            "speaker":  "Ross",
+                            "meaning":  "문제를 일으킬 것 같은 사람, 가까이하면 안 되는 사람",
+                            "nuance":  "사람에 대해 \u0027He\u0027s bad news\u0027라고 하면 그 사람과 엮이면 안 된다는 경고. \u0027baaad\u0027처럼 늘여서 발음하면 강조 효과.",
+                            "example":  "Stay away from him — everyone knows he\u0027s bad news. / 걔 멀리해, 문제 있는 사람이라는 거 다 알잖아."
+                        },
+                        {
+                            "expression":  "I sure know how to pick \u0027em",
+                            "dialogue":  "Kate: Yep! **I sure know how to pick \u0027em**, huh?",
+                            "speaker":  "Kate",
+                            "meaning":  "나 정말 사람 보는 눈이 없어 (항상 이런 사람만 골라)",
+                            "nuance":  "반어적 자기 비하 표현. 나쁜 선택을 반복했을 때 씀. \u0027\u0027em\u0027은 \u0027them\u0027의 축약. \u0027sure\u0027로 반어적 강조.",
+                            "example":  "He turned out to be a liar too. I sure know how to pick \u0027em. / 걔도 결국 거짓말쟁이였어. 난 정말 사람 보는 눈이 없어."
+                        },
+                        {
+                            "expression":  "pass out",
+                            "dialogue":  "Joey: ...and-and I wanna say good bye. (She **passes out** and slumps against his shoulder.)",
+                            "speaker":  "(무대 지문 / Joey의 상황)",
+                            "meaning":  "갑자기 쓰러지다, 의식을 잃다 (술·피로 등으로)",
+                            "nuance":  "의학적 \u0027faint\u0027보다 구어적. 술에 취해 그대로 잠들어 버리거나 피로·충격으로 쓰러지는 경우에 자연스럽게 씀.",
+                            "example":  "She had a few too many drinks and passed out on the couch. / 술을 좀 많이 마셔서 소파에서 그냥 쓰러졌어."
+                        },
+                        {
+                            "expression":  "stay up all night",
+                            "dialogue":  "Joey: Yeah? And we **stayed up all night** talking, and now we\u0027re like totally crazy about each other!",
+                            "speaker":  "Joey",
+                            "meaning":  "밤새 잠을 안 자다",
+                            "nuance":  "\u0027all night\u0027으로 밤 전체를 강조. 뒤에 \u0027-ing\u0027를 붙여 무엇을 하며 밤샜는지 이어 씀. 열정이나 깊은 유대감을 암시.",
+                            "example":  "We stayed up all night catching up — it felt like no time had passed. / 밤새 밀린 얘기 하다 보니 시간이 전혀 안 간 것 같았어."
+                        },
+                        {
+                            "expression":  "crazy about each other",
+                            "dialogue":  "Joey: And we stayed up all night talking, and now we\u0027re like **totally crazy about each other**!",
+                            "speaker":  "Joey",
+                            "meaning":  "서로에게 완전히 빠져 있다, 열렬히 좋아한다",
+                            "nuance":  "\u0027crazy about someone\u0027은 누군가에게 열정적으로 빠진 상태. \u0027totally\u0027와 \u0027like\u0027는 강조·캐주얼한 느낌을 더함.",
+                            "example":  "You can totally tell they\u0027re crazy about each other just from the way they look at each other. / 둘이 서로 쳐다보는 눈빛만 봐도 완전히 빠져있다는 게 티 나."
+                        },
+                        {
+                            "expression":  "you had the night",
+                            "dialogue":  "Monica: **Joey, you had the night!**",
+                            "speaker":  "Monica",
+                            "meaning":  "바로 그 특별한 밤을 보낸 거야! (두 사람이 서로 감정을 확인하는 결정적인 밤)",
+                            "nuance":  "정관사 \u0027the\u0027를 붙여 단 하나의 결정적 사건으로 격상시키는 표현. \u0027the talk\u0027, \u0027the moment\u0027처럼 그 순간이 특별함을 강조.",
+                            "example":  "We talked on the roof until sunrise. I think we had the night. / 해 뜰 때까지 옥상에서 얘기했어. 그게 바로 그 밤이었던 것 같아."
+                        },
+                        {
+                            "expression":  "connect (with someone)",
+                            "dialogue":  "Joey: Yeah, I-I walked her home, and it was amazing how much **we connected**, y\u0027know?",
+                            "speaker":  "Joey",
+                            "meaning":  "(감정적으로) 통하다, 깊은 유대감을 느끼다",
+                            "nuance":  "단순한 만남이 아닌 정서적·지적 교감을 뜻함. \u0027connect with someone\u0027이 자연스러운 형태로, 직업·SNS의 \u0027연결\u0027과 구별됨.",
+                            "example":  "I rarely connect with people this quickly, but with her it felt instant. / 이렇게 빨리 통하는 경우가 드문데, 그녀와는 바로 통하는 느낌이었어."
+                        },
+                        {
+                            "expression":  "blow someone off",
+                            "dialogue":  "Joey: Well so, **how come you blew me off**? Y\u0027know? How come you were with him?",
+                            "speaker":  "Joey",
+                            "meaning":  "누군가를 무시하다, 냉대하다, 차버리다",
+                            "nuance":  "약속을 어기거나 상대방을 의도적으로 차갑게 대할 때 씀. 꽤 직접적이고 약간 거친 표현이지만 친한 사이에서는 자연스러움.",
+                            "example":  "She blew me off at the last minute and didn\u0027t even text. / 걔 마지막 순간에 나 무시하고 문자도 안 보냈어."
+                        },
+                        {
+                            "expression":  "snap",
+                            "dialogue":  "Ross: ...someone just cut in front of him, I think he\u0027s **gonna snap**.",
+                            "speaker":  "Ross",
+                            "meaning":  "갑자기 폭발하다, 참을성이 한계에 달해 터지다",
+                            "nuance":  "평소에는 참다가 어느 순간 갑자기 폭발하는 것을 표현. \u0027snap at someone\u0027은 갑자기 날카롭게 화를 내다.",
+                            "example":  "If he keeps interrupting me, I\u0027m going to snap. / 계속 끼어들면 나 폭발할 거야."
+                        },
+                        {
+                            "expression":  "this is killing me",
+                            "dialogue":  "Joey: Well can you at least stay to the end of the play? I mean, I\u0027ll go to the airport with ya, I-I wanna say good bye. I gotta say it quick **\u0027cause this is killing me**.",
+                            "speaker":  "Joey",
+                            "meaning":  "이 상황이 너무 힘들어, 감정적으로 고통스럽다",
+                            "nuance":  "물리적 죽음이 아닌 감정적 고통을 과장되게 표현. \u0027You\u0027re killing me\u0027라고 하면 \u0027네가 나를 너무 힘들게 해\u0027.",
+                            "example":  "Watching her walk away and not saying anything — it was killing me. / 그녀가 떠나는 걸 보면서 아무 말도 못 하는 게 너무 힘들었어."
+                        },
+                        {
+                            "expression":  "look someone up",
+                            "dialogue":  "Joey: ...you tell your great-great-granddaughter to **look me up**, because Adrienne, baby, I\u0027m gonna want to meet her.",
+                            "speaker":  "Joey",
+                            "meaning":  "(나중에) 연락하다, 찾아오다",
+                            "nuance":  "\u0027look up\u0027은 원래 정보를 검색한다는 뜻이지만 사람에게 쓰면 \u0027연락하다/찾아오다\u0027. 오랜만에 또는 나중에 만나고 싶을 때 씀.",
+                            "example":  "If you\u0027re ever in Chicago, look me up — I\u0027ll show you around. / 시카고 오게 되면 연락해, 내가 구경시켜 줄게."
+                        },
+                        {
+                            "expression":  "step away from",
+                            "dialogue":  "Chandler: **Step away from the duck.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "~에서 물러나라, ~로부터 떨어져",
+                            "nuance":  "경찰·범죄 드라마의 명령 어투를 일상 상황에 써서 유머 효과를 냄. 진지하고 권위적인 어조가 코믹하게 대비됨.",
+                            "example":  "Step away from the fridge — you just ate dinner. / 냉장고에서 멀어져, 방금 저녁 먹었잖아."
+                        },
+                        {
+                            "expression":  "not going out anymore",
+                            "dialogue":  "Tommy: Well, I guess **we\u0027re not going out anymore**. Whaa!!!",
+                            "speaker":  "Tommy",
+                            "meaning":  "더 이상 사귀지 않는다",
+                            "nuance":  "\u0027going out (with someone)\u0027은 데이트하다/사귀다. \u0027not ~ anymore\u0027를 붙여 관계 종료를 표현. 여기서는 자신이 폭발하고 나서 바로 이 말을 하는 것이 아이러니.",
+                            "example":  "After that argument, I figured we probably weren\u0027t going out anymore. / 그 싸움 이후로 우리 더는 사귀는 게 아닌가 싶었어."
+                        },
+                        {
+                            "expression":  "in case",
+                            "dialogue":  "Joey: I\u0027m gonna put this can right here **in case** you have to hurl.",
+                            "speaker":  "Joey",
+                            "meaning":  "~할 경우를 대비해서",
+                            "nuance":  "미래의 불확실한 상황에 대한 대비를 나타냄. \u0027just in case\u0027로 더 자주 씀. 뒤에 주어 + 동사 또는 명사가 옴.",
+                            "example":  "Bring a jacket just in case it gets cold later. / 나중에 추워질 수도 있으니까 재킷 챙겨."
+                        },
+                        {
+                            "expression":  "hurl",
+                            "dialogue":  "Joey: I\u0027m gonna put this can right here in case you have to **hurl**.",
+                            "speaker":  "Joey",
+                            "meaning":  "구토하다 (속어)",
+                            "nuance":  "\u0027throw up\u0027, \u0027vomit\u0027보다 훨씬 구어적이고 거친 느낌. 친한 사이의 비격식 상황에서 씀. 심한 메스꺼움을 강조하는 뉘앙스.",
+                            "example":  "The car ride was so bumpy I thought I was going to hurl. / 차가 너무 덜컹거려서 토할 것 같았어."
+                        },
+                        {
+                            "expression":  "I don\u0027t get you",
+                            "dialogue":  "Joey: **I, I don\u0027t get you.** I mean first, you hate me. Then you sleep with me. Then you want nothing to do with me, now you want me again.",
+                            "speaker":  "Joey",
+                            "meaning":  "너를 이해할 수가 없어",
+                            "nuance":  "\u0027I don\u0027t understand you\u0027의 구어적 표현. 상대방의 행동이 일관성 없거나 납득이 안 갈 때 씀. \u0027get\u0027은 \u0027이해하다\u0027의 비격식 표현.",
+                            "example":  "I don\u0027t get you — you said you wanted this, and now you\u0027re backing out? / 네가 이해 안 돼, 원한다고 해놓고 이제 와서 빠져?"
+                        },
+                        {
+                            "expression":  "I wasn\u0027t going to say anything, but...",
+                            "dialogue":  "Ross: Look. Look, **I wasn\u0027t going to say anything to you, but**... All right, I don\u0027t think you should be seeing Tommy anymore.",
+                            "speaker":  "Ross",
+                            "meaning":  "말 안 하려고 했는데... (민감한 말을 꺼내기 전 주저하는 전형적인 서두)",
+                            "nuance":  "본인이 끼어들기 싫지만 중요한 말을 해야 할 때 쓰는 전형적인 도입 표현. 상대방의 주의를 집중시키는 효과도 있음.",
+                            "example":  "I wasn\u0027t going to say anything, but your presentation had a few numbers wrong. / 말 안 하려 했는데, 발표에 수치가 몇 개 틀렸어."
+                        },
+                        {
+                            "expression":  "that didn\u0027t really work out too well for you, did it",
+                            "dialogue":  "Tommy: Oh, you **thought**, huh? Yeah, well **that didn\u0027t really work out too well for you** did you idiot!! What are you?! A moron!!",
+                            "speaker":  "Tommy",
+                            "meaning":  "그거 별로 잘 되진 않았네, 그렇지? (상대의 판단이 틀렸음을 비꼬는 표현)",
+                            "nuance":  "상대방의 잘못된 선택이나 행동이 실패로 끝났을 때 비꼬듯 하는 말. \u0027work out\u0027은 \u0027결과가 좋게 되다\u0027는 뜻. 부드럽게 쓰면 공감, 날카롭게 쓰면 비꼼.",
+                            "example":  "You thought skipping every practice was fine? Yeah, that didn\u0027t really work out for you, did it. / 연습 다 빠져도 된다고 생각했어? 그거 별로 안 통했네."
+                        }
+                    ]
+}

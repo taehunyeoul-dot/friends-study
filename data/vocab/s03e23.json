@@ -1,0 +1,209 @@
+{
+    "id":  "s03e23",
+    "code":  "323",
+    "title":  "The One With Ross\u0027s Thing",
+    "model":  "sonnet",
+    "cost_usd":  0.5165,
+    "expressions":  [
+                        {
+                            "expression":  "play the field",
+                            "dialogue":  "Rachel: Two dates in one day? That\u0027s so unlike you.\nPhoebe: I know, I know! I\u0027m like **playing the field**. Y\u0027know? Like, juggling two guys, I\u0027m sowing my wild oats.\nJoey: So Pheebs, do they know about each other?",
+                            "speaker":  "Phoebe",
+                            "meaning":  "특정 한 사람에게 정착하지 않고 여러 사람을 동시에 가볍게 만나는 것",
+                            "nuance":  "연애 맥락에서만 쓰이며 자유분방하고 경쾌한 뉘앙스. 나쁜 의도 없이 \u0027아직 한 사람을 정하지 않겠다\u0027는 가벼운 선언처럼 들림.",
+                            "example":  "I just got out of a long relationship, so I\u0027m playing the field for a while. → 진지한 연애가 막 끝났으니 당분간 여러 사람 만나볼 생각이야."
+                        },
+                        {
+                            "expression":  "sow (one\u0027s) wild oats",
+                            "dialogue":  "Rachel: Two dates in one day? That\u0027s so unlike you.\nPhoebe: I know, I know! I\u0027m like playing the field. Y\u0027know? Like, juggling two guys, I\u0027m **sowing my wild oats**. Y\u0027know? This kind\u0027ve like oat-sowin\u0027, field-playin\u0027 juggler.\nJoey: So Pheebs, do they know about each other?",
+                            "speaker":  "Phoebe",
+                            "meaning":  "정착하기 전 젊을 때 자유롭게 다양한 경험(특히 연애·모험)을 즐기는 것",
+                            "nuance":  "약간 구식 표현이지만 유머러스하게 여전히 자주 쓰임. 어른들이 \u0027그 나이엔 실컷 즐겨야지\u0027라고 할 때의 뉘앙스를 담고 있어 긍정적이면서도 약간 허풍스러운 느낌.",
+                            "example":  "He spent his mid-twenties sowing his wild oats before finally settling down. → 그는 마침내 정착하기 전에 20대 중반을 마음껏 즐기며 보냈어."
+                        },
+                        {
+                            "expression":  "juggle (people / tasks)",
+                            "dialogue":  "Rachel: Two dates in one day? That\u0027s so unlike you.\nPhoebe: I know, I know! I\u0027m like playing the field. Y\u0027know? Like, **juggling** two guys, I\u0027m sowing my wild oats.\nJoey: So Pheebs, do they know about each other?",
+                            "speaker":  "Phoebe",
+                            "meaning":  "두 가지 이상의 일이나 관계를 동시에 힘겹게 소화하다",
+                            "nuance":  "저글링(공 돌리기)에서 온 비유로, 연애뿐 아니라 업무·일정 관리에도 폭넓게 쓰임. 항상 \u0027아슬아슬하게 유지하고 있다\u0027는 긴장감이 깔려 있음.",
+                            "example":  "She\u0027s been juggling a full-time job and two freelance projects all month. → 그녀는 한 달 내내 풀타임 직장과 프리랜서 프로젝트 두 개를 동시에 소화하고 있어."
+                        },
+                        {
+                            "expression":  "We need to talk.",
+                            "dialogue":  "Monica: I just checked my messages, and he said that when he gets back from Atlanta, **we need to talk**.\nRachel: And?\nMonica: Well that\u0027s it. People never say \u0027We need to talk\u0027 unless it\u0027s something bad.",
+                            "speaker":  "Monica (Pete의 메시지 인용)",
+                            "meaning":  "진지하거나 불편한 대화가 필요하다는 신호를 보내는 전형적 표현",
+                            "nuance":  "이 네 단어만 들어도 즉각적으로 긴장하게 만드는 표현. 연애·직장·가족 맥락을 가리지 않고 쓰이며, 듣는 사람은 거의 항상 최악의 상황을 상상함.",
+                            "example":  "My manager pulled me aside and said \u0027We need to talk.\u0027 I couldn\u0027t focus for the rest of the day. → 매니저가 나를 옆으로 부르며 \u0027할 얘기가 있어\u0027라고 했어. 그 뒤로 종일 집중이 안 됐어."
+                        },
+                        {
+                            "expression":  "be on call",
+                            "dialogue":  "Phoebe: Okay. (watches him leave)\nVince: Look, I gotta go. I\u0027m **on call** tonight. (kisses her) See you Saturday.\nRachel: Wow, he\u0027s cute, Pheebs! But I thought you just started dating that Kindergarten teacher.",
+                            "speaker":  "Vince",
+                            "meaning":  "언제든 호출받으면 바로 출동·근무해야 하는 대기 상태에 있다",
+                            "nuance":  "의사·소방관·IT 엔지니어 등 비상 연락 체계가 있는 직종에서 씀. 약속 자리에서 일찍 자리를 떠야 할 때의 흔한 이유가 되기도 함.",
+                            "example":  "I can\u0027t come to the party — I\u0027m on call this weekend and might get paged any time. → 파티에 못 가 — 이번 주말 당직이라 언제 연락이 올지 몰라."
+                        },
+                        {
+                            "expression":  "run-of-the-mill",
+                            "dialogue":  "Dr. Rhodes: Well that\u0027s not a third nipple.\nRoss: Th-th-that\u0027s all it is, a third nipple. Y\u0027know? Just your **run-of-the-mill** third nipple. Y\u0027know? You can take it off. Just slice that baby right off!\nDr. Rhodes: First of all, it\u0027s on your ass.",
+                            "speaker":  "Ross",
+                            "meaning":  "특별할 것 없이 아주 평범한, 보통 수준의",
+                            "nuance":  "형용사로만 쓰이며 항상 명사 앞에 위치. 약간 낮춰보는 뉘앙스가 있음. Ross가 황당한 상황에서 이 표현을 쓴다는 점이 역설적 유머를 만들어냄.",
+                            "example":  "It\u0027s not a run-of-the-mill coffee shop — they roast their own beans and brew everything to order. → 그냥 평범한 카페가 아니야 — 원두를 직접 볶고 모든 걸 주문 즉시 내려줘."
+                        },
+                        {
+                            "expression":  "lop off",
+                            "dialogue":  "Ross: And the worst thing is, without being able to identify it, he was reluctant to remove it.\nChandler: Y\u0027know what? You should go to my guy, because when I went in there with my third nipple. He just **lopped it right off**. Y\u0027know? So I guess I\u0027m lucky.\nRoss: At least they knew what yours was. Y\u0027know, yours had a name.",
+                            "speaker":  "Chandler",
+                            "meaning":  "잘라내다, 단번에 제거하다",
+                            "nuance":  "원래 나뭇가지를 자르는 데 쓰는 말이지만, 외과적 제거나 무언가를 신속히 처리할 때 구어적으로 씀. \u0027right off\u0027를 붙이면 망설임 없이 즉시 처리했다는 강조가 됨.",
+                            "example":  "The dermatologist lopped off the cyst in about thirty seconds — it was surprisingly quick. → 피부과 의사가 30초 만에 낭종을 잘라냈어 — 놀랍도록 빨랐어."
+                        },
+                        {
+                            "expression":  "be stumped",
+                            "dialogue":  "Dr. Rhodes: Thank you so much for coming on such a short notice. Ladies and gentlemen, I\u0027ve been practicing medicine for twenty-three years, and I\u0027m **stumped**.\nAll: Whoa. (they all lean in to get a closer look, Ross isn\u0027t pleased)",
+                            "speaker":  "Dr. Rhodes",
+                            "meaning":  "완전히 당황하거나 해결책을 찾지 못해 막혀 있는 상태",
+                            "nuance":  "전문가가 쓰면 더욱 극적인 효과를 냄. 퀴즈·수수께끼·디버깅 등 어려운 문제 앞에서도 자주 쓰임. \u0027totally stumped\u0027처럼 강조 부사와 잘 어울림.",
+                            "example":  "The entire tech support team has been stumped by this error for three days. → 기술 지원 팀 전체가 3일째 이 오류 앞에서 막혀 있어."
+                        },
+                        {
+                            "expression":  "on short notice",
+                            "dialogue":  "Dr. Rhodes: Thank you so much for coming **on such short notice**. Ladies and gentlemen, I\u0027ve been practicing medicine for twenty-three years, and I\u0027m stumped.\nAll: Whoa. (they all lean in to get a closer look)",
+                            "speaker":  "Dr. Rhodes",
+                            "meaning":  "사전 예고 없이 급하게, 짧은 준비 시간만 주고 요청받아",
+                            "nuance":  "\u0027on such short notice\u0027는 감사나 사과의 의미를 더 강조한 형태. 미팅 초대·이벤트 참석·긴급 부탁 등 다양한 상황에서 두루 쓰임.",
+                            "example":  "Thanks for covering my shift on such short notice — I really owe you one. → 이렇게 급하게 내 시프트 대신해줘서 고마워 — 진짜 신세졌다."
+                        },
+                        {
+                            "expression":  "make a difference",
+                            "dialogue":  "Jason: ...and I know I\u0027ll never miss doing it, but I gotta tell you, it\u0027s pretty cool knowing that you\u0027re **making a difference** in a kid\u0027s life.\nPhoebe: That is so great! Oh, I... (sees that a parked car has caught on fire)\nPhoebe: Oh my God!",
+                            "speaker":  "Jason",
+                            "meaning":  "누군가의 삶이나 상황에 의미 있는 긍정적 변화를 만들어내다",
+                            "nuance":  "교육·봉사·사회활동 맥락에서 특히 자주 등장. 거창한 변화가 아니라 개인적 수준의 영향에도 쓰이며, 진심 어린 따뜻한 어조를 가짐.",
+                            "example":  "Even small acts of kindness can make a difference in someone\u0027s day. → 작은 친절도 누군가의 하루에 의미 있는 변화를 만들 수 있어."
+                        },
+                        {
+                            "expression":  "open up to (someone)",
+                            "dialogue":  "Phoebe: Umm, I don\u0027t think we should see each other anymore.\nVince: I\u0027m sorry, it\u0027s just that I thought we had something pretty special here. And I-I felt like you were someone I could finally **open up to**, and... there\u0027s so much in me I have to share with you yet.\nPhoebe: Oh my God, I didn\u0027t...",
+                            "speaker":  "Vince",
+                            "meaning":  "누군가에게 마음을 열고 자신의 감정이나 내면을 솔직하게 털어놓다",
+                            "nuance":  "\u0027open up\u0027 단독으로도 쓰이지만 \u0027to someone\u0027을 붙여 상대를 명시함. 신뢰가 전제되어야 가능한 행동을 표현하며, 감성적이고 취약한 순간에 자연스럽게 나오는 표현.",
+                            "example":  "He doesn\u0027t usually talk about his feelings, but he slowly started to open up to her. → 그는 평소에 감정 얘기를 잘 안 하는데, 서서히 그녀에게 마음을 열기 시작했어."
+                        },
+                        {
+                            "expression":  "give yourself a break",
+                            "dialogue":  "Phoebe: I\u0027m sorry, I\u0027m just, I\u0027m terrible, I\u0027m a terrible person. I\u0027m terrible.\nVince: Phoebe, relax, it\u0027s okay. I mean we never said this was exclusive.\nJason: Yeah, and neither did we. **Give yourself a break**.",
+                            "speaker":  "Jason",
+                            "meaning":  "스스로에게 너무 가혹하게 굴지 말고 자책을 멈춰라",
+                            "nuance":  "\u0027Give me a break!\u0027(말도 안 돼!)와 완전히 다른 뜻이므로 주의. 이 표현은 위로·격려 맥락에서만 쓰이며, 지나친 자기비판을 멈추도록 부드럽게 상기시켜줌.",
+                            "example":  "You made one mistake on the test — give yourself a break, nobody\u0027s perfect. → 시험에서 실수 한 번 한 거잖아 — 자책하지 마, 완벽한 사람은 없어."
+                        },
+                        {
+                            "expression":  "(It\u0027s) none of my business.",
+                            "dialogue":  "Jason: You haven\u0027t?\nVince: You have?\nPhoebe: Well, **this is none of my business**. (starts to walk away)\nJason: (to Phoebe) I-I can\u0027t believe this!",
+                            "speaker":  "Phoebe",
+                            "meaning":  "내가 끼어들 일이 아니다, 남의 일이다",
+                            "nuance":  "불편한 상황에서 빠져나가거나 타인의 사생활에 개입하지 않겠다는 의사 표현. 자신이 원인이 된 상황에서 Phoebe가 \u0027남의 일\u0027처럼 도망가는 것이 이 장면의 웃음 포인트.",
+                            "example":  "I saw them arguing outside but I didn\u0027t say anything — it\u0027s none of my business. → 그들이 밖에서 싸우는 걸 봤지만 아무 말도 안 했어 — 내가 끼어들 일이 아니니까."
+                        },
+                        {
+                            "expression":  "go with (someone / something)",
+                            "dialogue":  "Phoebe: Well, Vince is great, y\u0027know \u0027cause he\u0027s like a guy, guy. Y\u0027know? He\u0027s so burly.\nJoey: Okay, good, so there you go. **Go with** Vince.\nPhoebe: Yeah, but Jason\u0027s really sensitive.",
+                            "speaker":  "Joey",
+                            "meaning":  "어떤 선택지나 사람을 고르다, ~로 결정하다",
+                            "nuance":  "\u0027choose\u0027보다 훨씬 가볍고 즉흥적인 어감. 선택지를 놓고 고민하는 상대방의 결정을 빠르게 끝내도록 유도할 때 매우 자연스럽게 쓰임.",
+                            "example":  "I was torn between two laptops, but in the end I went with the lighter one. → 두 노트북 사이에서 고민하다가 결국 더 가벼운 걸로 결정했어."
+                        },
+                        {
+                            "expression":  "be crazy about (someone / something)",
+                            "dialogue":  "Ross: She-she can\u0027t just rush into this.\nMonica: I\u0027m-I\u0027m **crazy about** Pete, and I know that we want the same things, and when I thought about saying yes, it made me really happy.\nRachel: Oh my God. (starting to cry)",
+                            "speaker":  "Monica",
+                            "meaning":  "누군가나 무언가에 완전히 빠져 있는, 열렬히 좋아하는",
+                            "nuance":  "\u0027I love him\u0027보다 더 즉흥적이고 감성적. 오래 쌓인 감정보다 현재의 설렘과 열정을 강조함. 사람뿐 아니라 음식·취미·물건에도 사용 가능.",
+                            "example":  "I\u0027m absolutely crazy about this new ramen place — I\u0027ve been there four times already. → 이 새 라멘 가게에 완전히 빠졌어 — 벌써 네 번 갔어."
+                        },
+                        {
+                            "expression":  "(way) out of (one\u0027s) league",
+                            "dialogue":  "Guru Saj: Hello, I am Guru Saj— (sees the duck) Whoa!!\nGuru Saj: (to Joey) That\u0027s supposed to be a duck right? \u0027Cause otherwise, **this is waaay out of my league**.\nJoey: Yeah, yeah. He\u0027s got a, he\u0027s got a really bad cough.",
+                            "speaker":  "Guru Saj",
+                            "meaning":  "자신의 능력·수준·전문 분야를 훨씬 벗어나는 것; 연애에서는 상대가 자신보다 훨씬 매력적임을 뜻하기도 함",
+                            "nuance":  "이 장면에서는 \u0027내 실력 밖의 문제\u0027라는 의미로 쓰였지만, 연애에서 \u0027She\u0027s way out of my league\u0027(그녀는 나랑 수준이 안 맞아)처럼도 매우 자주 사용. \u0027way\u0027를 붙이면 그 격차가 매우 크다는 강조.",
+                            "example":  "I want to apply, but honestly that senior position is way out of my league right now. → 지원하고 싶은데, 솔직히 그 시니어 포지션은 지금 내 수준을 훨씬 벗어나 있어."
+                        },
+                        {
+                            "expression":  "be reluctant to (do something)",
+                            "dialogue":  "Ross: Well, I don\u0027t know what it is. It\u0027s some sort of skin... abnormality. And the worst thing is, without being able to identify it, he was **reluctant to** remove it.\nChandler: Y\u0027know what? You should go to my guy.\nRoss: At least they knew what yours was. Y\u0027know, yours had a name.",
+                            "speaker":  "Ross (의사의 말을 인용)",
+                            "meaning":  "무언가를 하기를 꺼리는, 망설이는",
+                            "nuance":  "\u0027refuse to\u0027(완전히 거부)보다 부드럽고, \u0027hesitant to\u0027와 유사하지만 좀 더 격식체. 완전한 거부는 아니지만 소극적인 태도임을 나타낼 때 씀.",
+                            "example":  "She was reluctant to speak up in the meeting, even though she had a great idea. → 그녀는 좋은 아이디어가 있었음에도 회의에서 발언하기를 꺼렸어."
+                        },
+                        {
+                            "expression":  "rush into (something)",
+                            "dialogue":  "Rachel: Oh please, what do you know! You married a lesbian!\nRoss: Monica\u0027s right. We\u0027re talking about getting married here. Okay? She-she can\u0027t just **rush into** this.\nMonica: I\u0027m-I\u0027m crazy about Pete, and I know that we want the same things.",
+                            "speaker":  "Ross",
+                            "meaning":  "충분히 생각하지 않고 서둘러 무언가를 결정하거나 시작하다",
+                            "nuance":  "결혼·투자·이직 등 중요한 결정을 앞두고 신중함을 촉구할 때 자주 씀. \u0027don\u0027t rush into it\u0027의 형태로 충고할 때 특히 많이 등장.",
+                            "example":  "Don\u0027t rush into signing the contract — take a few days to think it over. → 계약서 서명을 서두르지 마 — 며칠 더 생각해봐."
+                        },
+                        {
+                            "expression":  "What\u0027s up?",
+                            "dialogue":  "Phoebe: Wow! I didn\u0027t know you guys actually used those (fire poles).\nVince: So, **what\u0027s up**?\nPhoebe: Umm, wow. This-this isn\u0027t gonna be easy. Umm, I don\u0027t think we should see each other anymore.",
+                            "speaker":  "Vince",
+                            "meaning":  "무슨 일이야? / 어쩐 일이야? (상황 파악이나 용건을 묻는 가벼운 표현)",
+                            "nuance":  "가장 캐주얼한 인사 중 하나. 단순 안부 인사(\u0027어떻게 지내?\u0027)로도 쓰이고, 상대방이 찾아온 용건을 묻는 \u0027What do you need?\u0027의 캐주얼 버전으로도 쓰임. 1990년대부터 폭발적으로 대중화됨.",
+                            "example":  "Hey, you\u0027ve been staring at your screen for an hour. What\u0027s up? → 야, 한 시간째 화면만 보고 있네. 무슨 일 있어?"
+                        },
+                        {
+                            "expression":  "conquer the [world / field]",
+                            "dialogue":  "Pete: And I feel like I\u0027ve **conquered the business world**, and I feel like I\u0027ve conquered the intellectual world, and now I-I have the most beautiful woman in the world.\nMonica: Wow.\nPete: There\u0027s one thing missing.",
+                            "speaker":  "Pete",
+                            "meaning":  "어떤 분야에서 압도적으로 성공을 거두다, 정복하다",
+                            "nuance":  "실제 전쟁이 아닌 직업·스포츠·학문 등의 영역에 비유적으로 쓰이는 과장된 표현. 야망 있고 자신감 넘치는 사람이 자신의 성취를 묘사할 때 쓸 법한 어투.",
+                            "example":  "After conquering the local startup scene, she\u0027s ready to take on the global market. → 현지 스타트업 씬을 정복한 후, 그녀는 글로벌 시장에 도전할 준비가 됐어."
+                        },
+                        {
+                            "expression":  "It\u0027s no big deal.",
+                            "dialogue":  "Chandler: Whoa!!!\nRoss: Come on you guys, **it\u0027s no big deal**! (He turns around and shows them his thing.)\nChandler: Whoa-heeeiiiiii-iiiii-ah!! (sees it) Huh.",
+                            "speaker":  "Ross",
+                            "meaning":  "별거 아니야, 심각하게 생각할 필요 없어",
+                            "nuance":  "상대방을 안심시키거나 민망한 요청을 가볍게 포장할 때 쓰임. 실제로는 대수로운 일인 경우에 써서 역설적 유머를 만들기도 함 — 이 장면이 정확히 그 예시.",
+                            "example":  "Oh, don\u0027t thank me — it\u0027s no big deal, I was heading that way anyway. → 감사 인사는 됐어 — 별거 아니야, 어차피 그쪽으로 가는 길이었어."
+                        },
+                        {
+                            "expression":  "How\u0027d it go?",
+                            "dialogue":  "Joey: (going over to Ross) Well?!\nChandler: (joining them) Okay, **how\u0027d it go** at the doctor\u0027s?\nRoss: Well, he said there\u0027s definitely nothing to worry about, it\u0027s totally benign.",
+                            "speaker":  "Chandler",
+                            "meaning":  "어떻게 됐어? (기대·긴장되는 일이나 경험 후 결과를 물을 때)",
+                            "nuance":  "\u0027How did it go?\u0027의 구어 단축형. 면접·진찰·발표·데이트 등 결과가 궁금한 일 이후에 자연스럽게 쓰임. 일상 영어에서 이미 \u0027how did it go?\u0027보다 \u0027how\u0027d it go?\u0027가 훨씬 흔함.",
+                            "example":  "How\u0027d it go with your job interview this morning? You seemed nervous at breakfast. → 오늘 아침 면접 어떻게 됐어? 아침에 긴장해 보이던데."
+                        },
+                        {
+                            "expression":  "in the long run",
+                            "dialogue":  "Phoebe: Yeah, I like Vince a lot, but it\u0027s just Jason\u0027s so sensitive, y\u0027know?\nPhoebe: And **in the long run**, I think sensitive is just better than having just like a really, really, really nice butt.\nPhoebe: Jason! Definitely Jason! Okay, wish me luck!",
+                            "speaker":  "Phoebe",
+                            "meaning":  "장기적으로 보면, 결국에는",
+                            "nuance":  "단기적 손해나 어려움이 있더라도 시간이 지나면 더 나은 결과가 온다는 의미. 결정을 합리화하거나 신중한 선택을 권유할 때 자주 씀. 항상 문장 앞이나 뒤에 붙는 부사구로 쓰임.",
+                            "example":  "Eating healthy is hard at first, but it pays off in the long run. → 처음에는 건강하게 먹기 힘들지만, 장기적으로 보면 반드시 보답이 와."
+                        },
+                        {
+                            "expression":  "We never said this was exclusive.",
+                            "dialogue":  "Phoebe: I\u0027m sorry, I\u0027m just, I\u0027m terrible, I\u0027m a terrible person. I\u0027m terrible.\nVince: Phoebe, relax, it\u0027s okay. I mean **we never said this was exclusive**.\nJason: Yeah, and neither did we. Give yourself a break.",
+                            "speaker":  "Vince",
+                            "meaning":  "서로에게만 만나기로 약속한 적이 없다 = 아직 독점적인 관계가 아니다",
+                            "nuance":  "현대 데이팅 문화의 핵심 개념인 \u0027exclusive dating\u0027 여부를 표현. 관계가 공식화되기 전까지는 다른 사람을 만나도 문제없다는 인식을 담고 있음. \u0027exclusive relationship\u0027과 세트로 이해해야 자연스럽게 쓸 수 있음.",
+                            "example":  "We\u0027ve only been on three dates — I didn\u0027t think we were exclusive yet. → 겨우 세 번 만난 거잖아 — 우리가 아직 서로만 만나는 사이라고는 생각 안 했어."
+                        },
+                        {
+                            "expression":  "I gotta tell you, ...",
+                            "dialogue":  "Jason: ...and I know I\u0027ll never miss doing it, but **I gotta tell you**, it\u0027s pretty cool knowing that you\u0027re making a difference in a kid\u0027s life.\nPhoebe: That is so great! Oh, I...\nPhoebe: (sees that a parked car has caught on fire) Oh my God!",
+                            "speaker":  "Jason",
+                            "meaning":  "(강조 부사구) 솔직히 말하면, 진짜로 말하는데",
+                            "nuance":  "뒤에 오는 말에 무게와 진정성을 부여하는 구어 강조 표현. \u0027I have to say\u0027 또는 \u0027honestly\u0027와 비슷하지만 훨씬 캐주얼하고 친구 사이 대화에서 가장 자연스러움.",
+                            "example":  "I gotta tell you, that was the most boring meeting I\u0027ve sat through in years. → 솔직히 말하는데, 몇 년 만에 앉아 본 회의 중에 가장 지루했어."
+                        }
+                    ]
+}

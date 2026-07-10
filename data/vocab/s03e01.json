@@ -1,0 +1,209 @@
+{
+    "id":  "s03e01",
+    "code":  "301",
+    "title":  "The One With the Princess Leia Fantasy",
+    "model":  "sonnet",
+    "cost_usd":  0.3481,
+    "expressions":  [
+                        {
+                            "expression":  "No way!",
+                            "dialogue":  "Ross: \"I have to say Tupolo Honey by Van Morrison.\"\nRachel: \"**No way!** The most romantic song ever is The Way We Were.\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "말도 안 돼! / 절대 아니야!",
+                            "nuance":  "강한 부정이나 놀라움을 표현하는 구어체. \"That\u0027s impossible\"보다 훨씬 감정적이고 자연스러우며, 반박할 때도 흥분했을 때도 씀.",
+                            "example":  "\"She quit her job to travel the world.\" \"**No way!** She just bought a house!\" → 말도 안 돼! 집 산 지 얼마나 됐다고!"
+                        },
+                        {
+                            "expression":  "in a row",
+                            "dialogue":  "Rachel: \"No, it\u0027s been three nights **in a row**.\"\nRoss: \"Yeah, she finally stopped crying yesterday...\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "연속으로, 내리",
+                            "nuance":  "같은 일이 중단 없이 반복될 때 씀. 횟수·기간 뒤에 붙이며 \"consecutive\"보다 훨씬 구어적.",
+                            "example":  "\"I\u0027ve worked overtime five days **in a row** — I\u0027m exhausted.\" → 5일 연속 야근을 했더니 너무 지쳐."
+                        },
+                        {
+                            "expression":  "That explains it.",
+                            "dialogue":  "Ross: \"...she found one of Richard\u0027s cigar butts out on the terrace.\"\nPhoebe: \"Oh, okay **that explains it**. I got a call at two in the morning...\"",
+                            "speaker":  "Phoebe",
+                            "meaning":  "그래서 그랬구나 / 이제 이해가 된다",
+                            "nuance":  "이전까지 납득 안 되던 상황이 갑자기 설명될 때 쓰는 짧고 자연스러운 반응. 단독으로도, 문장 앞에 붙여도 씀.",
+                            "example":  "\"The office Wi-Fi has been down since noon.\" \"Oh, **that explains it** — I kept getting error messages.\" → 그래서 그랬구나, 계속 오류가 떴잖아."
+                        },
+                        {
+                            "expression":  "Like there\u0027s any way I could ever do that.",
+                            "dialogue":  "Joey: \"Hey, you made pancakes?\"\nChandler: \"Yeah, **like there\u0027s any way I could ever do that**.\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "내가 그럴 리가 있나 (자기 비하 혹은 빈정댐)",
+                            "nuance":  "\"Like + [불가능한 상황]\" 구조로 빈정대는 사르카즘. 진심 대신 이 표현으로 \u0027당연히 아니지\u0027를 유머러스하게 전달함.",
+                            "example":  "\"Did you actually read the 300-page manual?\" \"Yeah, **like there\u0027s any way I\u0027d ever do that**.\" → 내가 그럴 리가 있나 (비꼬며)."
+                        },
+                        {
+                            "expression":  "hang out (with someone)",
+                            "dialogue":  "Chandler: \"Here\u0027s a thought. Why don\u0027t you stay home from work today and just **hang out** with me.\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "같이 어울려 시간을 보내다, 놀다",
+                            "nuance":  "특별한 목적 없이 편하게 함께 있는 것. \"spend time with\"보다 훨씬 캐주얼하며 친한 사이에서 씀.",
+                            "example":  "\"We should **hang out** sometime — it\u0027s been forever.\" → 오랜만에 같이 놀자, 너무 오래됐다."
+                        },
+                        {
+                            "expression":  "go out with someone",
+                            "dialogue":  "Chandler: \"I can not believe that I am **going out with** someone that is getting divorced. I\u0027m such a grown up.\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "~와 사귀다, 연애하다",
+                            "nuance":  "\"date someone\"의 더 구어적인 표현. 진지한 연애 관계를 뜻하며 \"go on a date with\"(한 번의 데이트)와 다름.",
+                            "example":  "\"How long have you been **going out with** him?\" \"About six months.\" → 그 사람이랑 사귄 지 얼마나 됐어? 한 6개월요."
+                        },
+                        {
+                            "expression":  "I\u0027m such a grown-up.",
+                            "dialogue":  "Chandler: \"I can not believe that I am going out with someone that is getting divorced. **I\u0027m such a grown up.**\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "나도 이제 어른 다 됐네 (자조 혹은 반쯤 자랑)",
+                            "nuance":  "성인스러운 상황을 맞닥뜨렸을 때 놀라며 쓰는 표현. 진짜 자랑이기보다 \u0027이런 어른 같은 일을 내가 하고 있네\u0027라는 어이없음이 섞임.",
+                            "example":  "\"I actually went to bed before midnight on a Friday.\" \"Wow, **I\u0027m such a grown-up** now.\" → 금요일 밤에 자정 전에 잠들다니, 이제 진짜 어른이 다 됐네."
+                        },
+                        {
+                            "expression":  "quit yanking me / yank someone",
+                            "dialogue":  "Joey: \"Come on, **quit yankin\u0027 me**.\"\nChandler: \"I\u0027m not yanking you.\"\nJoey: \"This is Janice.\"",
+                            "speaker":  "Joey",
+                            "meaning":  "놀리지 마 / 뻥치지 마",
+                            "nuance":  "\"yank someone\u0027s chain\"에서 온 표현으로 \"pull someone\u0027s leg\"와 같은 의미. 상대가 농담이나 거짓말로 속인다고 의심할 때 씀.",
+                            "example":  "\"I got tickets to the sold-out concert.\" \"Stop **yanking me** — those were impossible to get!\" → 뻥치지 마, 그 티켓 구하는 게 얼마나 힘든데!"
+                        },
+                        {
+                            "expression":  "job one",
+                            "dialogue":  "Monica: \"It\u0027s some of Richard\u0027s hair! What do I do with this?\"\nRoss: \"**Getting it away from me would be job one.**\"",
+                            "speaker":  "Ross",
+                            "meaning":  "최우선 과제, 제일 먼저 해야 할 일",
+                            "nuance":  "여러 할 일 중 가장 급한 것을 강조하는 표현. 유머러스하게도, 진지한 업무 맥락에서도 모두 씀.",
+                            "example":  "\"**Job one** before the demo is making sure the login doesn\u0027t crash.\" → 데모 전에 제일 먼저 할 일은 로그인 오류 잡는 거야."
+                        },
+                        {
+                            "expression":  "What are you, the [noun]?",
+                            "dialogue":  "Phoebe: \"Maybe, because you told him not to.\"\nMonica: \"**What are you the memory woman?**\"",
+                            "speaker":  "Monica",
+                            "meaning":  "넌 뭐야, [역할]이야? (빈정대거나 당황해서)",
+                            "nuance":  "상대가 특정 능력이 지나치게 뛰어나다고 느낄 때 비꼬는 패턴. 짜증과 가벼운 유머가 섞인 표현.",
+                            "example":  "\"You\u0027re yawning — did you sleep less than seven hours?\" \"**What are you, my doctor?**\" → 넌 뭐야, 내 주치의야?"
+                        },
+                        {
+                            "expression":  "We\u0027ll call that Plan B.",
+                            "dialogue":  "Ross: \"I say we just all be adult about it and accept her.\"\nJoey: \"Yeah, **we\u0027ll call that Plan B**. All right? Who\u0027s first?\"",
+                            "speaker":  "Joey",
+                            "meaning":  "그건 차선책으로 남겨두자 (지금 당장은 안 함)",
+                            "nuance":  "상대의 제안을 직접 거절하지 않고 슬쩍 뒤로 미루는 표현. 정중하지만 속뜻은 \u0027그 방법은 빼고 생각하자\u0027임.",
+                            "example":  "\"We could always just cancel the event.\" \"Sure, **we\u0027ll call that Plan B**.\" → 행사 취소는 최후의 수단으로 남겨두자."
+                        },
+                        {
+                            "expression":  "you gotta have [something]",
+                            "dialogue":  "Ross: \"No.\"\nRachel: \"Ross, **come on you gotta have one!**\"\nRoss: \"Nope.\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "하나쯤은 분명히 있을 거잖아 / 없을 리 없어",
+                            "nuance":  "\"gotta\"는 \"got to\"의 구어체로 \"must\"에 해당. 상대가 숨기거나 없다고 할 때 설득·압박할 때 씀.",
+                            "example":  "\"Come on, **you gotta have** a go-to karaoke song.\" → 노래방 애창곡 하나쯤은 있을 거잖아!"
+                        },
+                        {
+                            "expression":  "It\u0027s huge.",
+                            "dialogue":  "Phoebe: \"**It\u0027s huge.** Yeah, that\u0027s the moment when she stopped being a princess, and became, like, a woman, you know.\"",
+                            "speaker":  "Phoebe",
+                            "meaning":  "엄청난 일이야 / 정말 크게 중요해",
+                            "nuance":  "어떤 사건·사실이 매우 중요하거나 의미 있다는 걸 강조. \"It\u0027s a big deal\"과 비슷하며 흥분해서 강조할 때 씀.",
+                            "example":  "\"We finally landed the overseas contract.\" \"**That\u0027s huge** — that\u0027s been in the works for two years!\" → 엄청난 거잖아, 2년이나 공들인 건데!"
+                        },
+                        {
+                            "expression":  "missing out (on something)",
+                            "dialogue":  "Rachel: \"**You\u0027re missing out on so much**, Ross. I mean, the bonding and the sharing, you know.\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "좋은 걸 놓치고 있는 거야",
+                            "nuance":  "상대가 좋은 경험·기회를 모른 채 포기하고 있을 때 씀. \"You don\u0027t know what you\u0027re missing\"과 같은 맥락.",
+                            "example":  "\"I\u0027ve never tried camping.\" \"You\u0027re seriously **missing out** — it\u0027s the best way to recharge.\" → 진짜 손해야, 캠핑이 얼마나 재충전이 되는데."
+                        },
+                        {
+                            "expression":  "pretty much",
+                            "dialogue":  "Ross: \"So what, you tell each other everything?\"\nRachel: \"**Pretty much.**\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "거의 그렇지 / 대체로 맞아",
+                            "nuance":  "\"yes\"보다 덜 단정적인 동의. \u0027완전히는 아니지만 거의\u0027라는 뉘앙스. 일상 대화에서 가장 많이 쓰이는 표현 중 하나.",
+                            "example":  "\"Is everything ready for the launch?\" \"**Pretty much** — just waiting on one approval.\" → 거의 다 됐어, 승인 하나만 기다리는 중이야."
+                        },
+                        {
+                            "expression":  "it\u0027s (still) worth mentioning",
+                            "dialogue":  "Rachel: \"Uh, honey, yeah that was with Carol.\"\nRoss: \"I know, but **it\u0027s still worth mentioning**, I think.\"",
+                            "speaker":  "Ross",
+                            "meaning":  "그래도 언급할 가치는 있어",
+                            "nuance":  "직접 관련이 없더라도 굳이 말하고 싶을 때 쓰는 유머러스한 자기 변호. 자랑이나 재확인하고 싶을 때도 씀.",
+                            "example":  "\"That project was like three jobs ago.\" \"Still, **I think it\u0027s worth mentioning** on the resume.\" → 그래도 이력서에 언급할 만하다고 생각해."
+                        },
+                        {
+                            "expression":  "You\u0027re taking a big leap there.",
+                            "dialogue":  "Janice: \"...something about you wanting to rip your arm off and throw it at me.\"\nJoey: \"And you got a \u0027hate\u0027 from that?! **You\u0027re taking a big leap there...**\"",
+                            "speaker":  "Joey",
+                            "meaning":  "거기서 너무 큰 비약을 하는 거 아니야?",
+                            "nuance":  "상대의 논리적 비약이나 과도한 해석을 지적할 때. \"That\u0027s a stretch\"와 유사하며 반박을 부드럽게 표현함.",
+                            "example":  "\"He didn\u0027t laugh at my joke — I think he hates me.\" \"**That\u0027s a big leap** from one awkward moment.\" → 한 번 어색했다고 미워한다는 건 너무 비약 아니야?"
+                        },
+                        {
+                            "expression":  "quality time",
+                            "dialogue":  "Janice: \"So, this is my idea: you and me spending some **quality time** together. For Chandler!\"",
+                            "speaker":  "Janice",
+                            "meaning":  "의미 있고 충실한 시간",
+                            "nuance":  "단순히 함께 있는 게 아니라 서로에게 집중하며 의미 있게 보내는 시간. 가족·연인·친구 어느 관계에서도 씀.",
+                            "example":  "\"We should plan some **quality time** together this weekend, phones off.\" → 이번 주말엔 폰 끄고 제대로 알찬 시간 보내자."
+                        },
+                        {
+                            "expression":  "I\u0027m in.",
+                            "dialogue":  "Janice: \"...you and me spending some quality time together. For Chandler!\"\nJoey: \"**Okay. I\u0027m in.**\"",
+                            "speaker":  "Joey",
+                            "meaning":  "나 할게 / 낄게 / 동참할게",
+                            "nuance":  "제안·계획에 즉각적으로 동의하고 참여하겠다는 표현. 망설이다가 결심했을 때도 씀. 매우 구어적.",
+                            "example":  "\"We\u0027re doing a late-night ramen run.\" \"**I\u0027m in** — give me five minutes.\" → 나도 낄게, 5분만 줘."
+                        },
+                        {
+                            "expression":  "give it a shot",
+                            "dialogue":  "Chandler: \"Well, you know, I appreciate you **giving it a shot**.\"\nJoey: \"I\u0027m sorry man, I tried, I really did.\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "시도해보다, 한번 해보다",
+                            "nuance":  "결과와 상관없이 노력 자체를 인정하는 표현. \"try\"보다 더 구어적이고 친근하며 부담 없이 도전할 때 씀.",
+                            "example":  "\"I\u0027ve never made bread before, but I\u0027ll **give it a shot**.\" → 빵은 한 번도 만든 적 없지만 한번 해볼게."
+                        },
+                        {
+                            "expression":  "run into someone",
+                            "dialogue":  "Joey: \"Hey, Chandler, we stopped by the coffee shop and **ran into** Ross.\"\nChandler: \"Oh God!\"",
+                            "speaker":  "Joey",
+                            "meaning":  "~를 우연히 마주치다",
+                            "nuance":  "계획 없이 우연히 만났을 때만 씀. \"bump into\"와 동의어. 약속해서 만난 경우에는 절대 쓰지 않음.",
+                            "example":  "\"I **ran into** my old college roommate at the airport — hadn\u0027t seen him in years.\" → 공항에서 대학교 룸메이트를 우연히 만났어, 몇 년 만에."
+                        },
+                        {
+                            "expression":  "if it makes you feel any better",
+                            "dialogue":  "Joey: \"**Hey, if it makes you feel any better**, I do it too.\"\nChandler: \"Really?\"",
+                            "speaker":  "Joey",
+                            "meaning":  "위안이 될지 모르겠지만 / 그나마 위로가 될까 싶어서",
+                            "nuance":  "상대가 당혹스럽거나 불편한 상황일 때 공감으로 위로하는 표현. 뒤에 오는 말이 오히려 더 충격적인 경우 웃음 포인트가 되기도 함.",
+                            "example":  "\"**If it makes you feel any better**, I totally blanked on his name too.\" → 위안이 될지 모르겠지만, 나도 그 사람 이름이 완전히 생각 안 났어."
+                        },
+                        {
+                            "expression":  "You don\u0027t wanna know.",
+                            "dialogue":  "Monica: \"How\u0027s Richard doing?\"\nMr. Geller: \"**You don\u0027t wanna know.**\"\nMonica: \"No, I really, really do.\"",
+                            "speaker":  "Mr. Geller",
+                            "meaning":  "모르는 게 나을 거야 / 알면 불편해질걸",
+                            "nuance":  "정보가 듣는 사람을 놀라게 하거나 불편하게 할 것이라 미리 경고하는 표현. 역설적으로 상대의 호기심을 더 자극하는 효과가 있음.",
+                            "example":  "\"How bad was the commute this morning?\" \"Trust me, **you don\u0027t wanna know**.\" → 믿어, 모르는 게 나을 거야."
+                        },
+                        {
+                            "expression":  "You\u0027re not just saying that, are you?",
+                            "dialogue":  "Mr. Geller: \"He\u0027s doing terrible!\"\nMonica: \"**You\u0027re not just saying that are you?**\"\nMr. Geller: \"No, the man is a mess.\"",
+                            "speaker":  "Monica",
+                            "meaning":  "그냥 하는 말 아니지? / 진심으로 하는 말이야?",
+                            "nuance":  "상대가 자신을 기분 좋게 하려고 빈말을 하는 건 아닌지 확인할 때. 칭찬이나 위로를 들은 후 반신반의할 때 자주 씀.",
+                            "example":  "\"Honestly, that was one of the best presentations I\u0027ve ever seen.\" \"**You\u0027re not just saying that, are you?**\" → 그냥 하는 말 아니지, 진심이야?"
+                        },
+                        {
+                            "expression":  "freak someone out",
+                            "dialogue":  "Mrs. Geller (in Ross\u0027s imagination): \"Come on sweetie, **you\u0027re like, freaking me out** here.\"",
+                            "speaker":  "Mrs. Geller (Ross의 상상 속)",
+                            "meaning":  "누군가를 당황하게 하다 / 소름 돋게 하다 / 불안하게 만들다",
+                            "nuance":  "\"freak out\"(자신이 당황하다)과 구별. \"freak someone out\"은 타동사로 상대를 불안하거나 이상하게 만드는 것. 무섭거나 기이한 상황 모두에 씀.",
+                            "example":  "\"Stop reading over my shoulder like that — you\u0027re **freaking me out**.\" → 그렇게 뒤에서 몰래 읽지 마, 소름 돋잖아."
+                        }
+                    ]
+}

@@ -1,0 +1,209 @@
+{
+    "id":  "s03e13",
+    "code":  "313",
+    "title":  "The One Where Monica and Richard Are Friends",
+    "model":  "sonnet",
+    "cost_usd":  0.4,
+    "expressions":  [
+                        {
+                            "expression":  "help someone out",
+                            "dialogue":  "Monica: Y\u0027know in a weird way, you have too much power. Look, you\u0027re gonna have to help me out here, \u0027cause I only have three.",
+                            "speaker":  "Monica",
+                            "meaning":  "누군가를 (어려운 상황에서) 도와주다",
+                            "nuance":  "\u0027help me\u0027보다 구어적이고 부탁이 더 부드럽게 들림. \u0027here\u0027를 붙이면 \u0027지금 이 상황에서\u0027라는 긴박감이 더해짐. 상점 직원, 친구, 낯선 사람에게도 자연스럽게 씀.",
+                            "example":  "I forgot my wallet — could you help me out just this once? + 지갑을 깜빡했어 — 이번 한 번만 좀 도와줄 수 있어?"
+                        },
+                        {
+                            "expression":  "run into someone",
+                            "dialogue":  "Rachel: Somebody got in late last night.\nMonica: Yeah well, I ran into Richard.",
+                            "speaker":  "Monica",
+                            "meaning":  "우연히 누군가와 마주치다",
+                            "nuance":  "계획 없이 우연히 만났을 때만 씀. 만나러 찾아간 경우에는 쓰면 어색함. \u0027bump into\u0027와 거의 같은 뜻이지만 \u0027run into\u0027가 더 일상적으로 쓰임.",
+                            "example":  "I ran into my old professor at the grocery store — we ended up talking for an hour. + 마트에서 옛 교수님을 우연히 만났는데 한 시간이나 얘기하게 됐어."
+                        },
+                        {
+                            "expression":  "it\u0027s too soon",
+                            "dialogue":  "Richard: Look, just friends, I won\u0027t grope you. I promise.\nMonica: No, I just I think that it\u0027s too soon.\nRichard: No it\u0027s not too soon, I had lunch at eleven.",
+                            "speaker":  "Monica / Richard",
+                            "meaning":  "아직 때가 아니다, 감정적으로 아직 준비가 안 됐다",
+                            "nuance":  "감정적 상처나 관계가 아직 정리되지 않았을 때 씀. Richard는 일부러 \u0027시간\u0027으로 오해하는 척 농담. 이처럼 \u0027too soon\u0027은 감정적 맥락과 시간적 맥락 둘 다에 쓸 수 있어 말장난이 가능함.",
+                            "example":  "I can\u0027t start dating again — it\u0027s still too soon after the breakup. + 아직 연애를 시작할 수가 없어 — 헤어진 지 얼마 안 됐어."
+                        },
+                        {
+                            "expression":  "make a deal with someone",
+                            "dialogue":  "Rachel: I\u0027ll make a deal with you all right? For every night that you\u0027re asleep before I get home from work, I will wake you up in a way that\u0027s proved very popular in the past.",
+                            "speaker":  "Rachel",
+                            "meaning":  "거래를 제안하다, 조건을 달아 합의하다",
+                            "nuance":  "공식 계약이 아닌 개인 간 비공식 합의에도 씀. \u0027Let me make you a deal\u0027이나 \u0027How about a deal?\u0027도 같은 맥락. 협상의 언어지만 친근한 상황에서도 자주 씀.",
+                            "example":  "Let\u0027s make a deal — I\u0027ll cook if you do the dishes every night this week. + 거래하자 — 이번 주 내내 내가 요리하면 네가 설거지해."
+                        },
+                        {
+                            "expression":  "proved very popular (in the past)",
+                            "dialogue":  "Rachel: I\u0027ll make a deal with you all right? For every night that you\u0027re asleep before I get home from work, I will wake you up in a way that\u0027s proved very popular in the past.",
+                            "speaker":  "Rachel",
+                            "meaning":  "과거에 매우 좋아했던 방식으로 (성적 암시를 격식체로 에둘러 표현하는 완곡어법)",
+                            "nuance":  "직접 말하는 대신 뉴스·보고서 같은 격식체 문장을 써서 친밀한 내용을 암시하는 유머. 이런 격식체+은밀한 내용 조합이 영어 유머의 핵심 패턴 중 하나. \u0027proved\u0027는 현재완료 과거 용법.",
+                            "example":  "He proposed in a way that\u0027s proved very popular in rom-coms — on one knee, in the rain. + 그는 로맨틱 코미디에서 늘 먹히는 방식으로 청혼했어 — 비 오는 날 한쪽 무릎을 꿇고."
+                        },
+                        {
+                            "expression":  "get over someone",
+                            "dialogue":  "Chandler: Well, she spent the last six months getting over him, and now she\u0027s celebrating that by going on a date with him.\n...\nMonica: Getting over you is the hardest thing that I have ever had to do.",
+                            "speaker":  "Chandler / Monica",
+                            "meaning":  "누군가(전 연인)에 대한 감정을 극복하다, 잊다",
+                            "nuance":  "연인뿐 아니라 상실·실망·충격도 get over할 수 있음. \u0027I\u0027m over it\u0027(이미 극복)과 \u0027I\u0027m getting over it\u0027(극복 중)을 구분해야 함. 진행 중인 상태는 현재분사(-ing)로 쓰는 게 자연스러움.",
+                            "example":  "It took me two full years to get over my first breakup. + 첫 이별을 극복하는 데 꼬박 2년이 걸렸어."
+                        },
+                        {
+                            "expression":  "there\u0027s no such thing as X",
+                            "dialogue":  "Monica: We ah, talked for a little while, and then um, we went out for an innocent burger.\nPhoebe: Oh, there\u0027s no such thing as an innocent burger.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "X 같은 건 없다, X는 존재하지 않는다 (상대의 포장을 꼬집어 반박할 때)",
+                            "nuance":  "상대가 뭔가를 \u0027아무것도 아닌 척\u0027 포장할 때 정면으로 반박하는 표현. Monica가 \u0027innocent\u0027를 붙여 순수한 만남인 척하자 Phoebe가 그 허구를 찌름. 격언처럼 쓰이기도 함(\u0027There\u0027s no such thing as a free lunch\u0027).",
+                            "example":  "There\u0027s no such thing as a quick trip to IKEA — you always end up buying more than you planned. + 이케아에 잠깐 들렀다 오는 건 없어 — 항상 계획보다 더 많이 사게 돼 있거든."
+                        },
+                        {
+                            "expression":  "to top it off",
+                            "dialogue":  "Monica: I had to work two shifts, and then to top it off, I lost one of my fake boobs in a grill fire.",
+                            "speaker":  "Monica",
+                            "meaning":  "설상가상으로, 엎친 데 덮친 격으로 (나쁜 일의 연속에 결정타를 추가할 때)",
+                            "nuance":  "항상 나쁜 일의 연속 마지막에 \u0027최악의 한 방\u0027으로 씀. 좋은 일에 쓰면 어색함. 문장 앞에 위치하는 게 일반적이고, 뒤에 오는 내용이 가장 황당하거나 심한 사건.",
+                            "example":  "I missed the train, spilled coffee on my shirt, and to top it off, my presentation crashed mid-meeting. + 기차를 놓치고, 셔츠에 커피를 쏟았는데, 설상가상으로 발표 중간에 파일이 망가졌어."
+                        },
+                        {
+                            "expression":  "pick up (상황이 나아지다)",
+                            "dialogue":  "Monica: (sarcastically) Yeah, right.\nRachel: I\u0027m sorry, I was just thinking your day could still pick up.",
+                            "speaker":  "Rachel",
+                            "meaning":  "(상황, 기분, 기세 등이) 나아지다, 회복되다",
+                            "nuance":  "경제, 날씨, 기분, 사업 등 \u0027상태가 개선되다\u0027는 맥락에서 두루 씀. \u0027Things will pick up\u0027이 위로할 때 쓰는 전형적인 표현. 사람을 주어로 하면 \u0027기운 내다\u0027는 뜻으로도 씀.",
+                            "example":  "Sales were slow all winter, but they always pick up in spring. + 겨울 내내 매출이 부진했는데, 봄이 되면 항상 살아나더라고."
+                        },
+                        {
+                            "expression":  "no wonder",
+                            "dialogue":  "Chandler: No, actually Laurie\u0027s a boy.\nJoey: No wonder Rachel had to read this so many times.",
+                            "speaker":  "Joey",
+                            "meaning":  "어쩐지, 그럴 만도 하다 (새 정보를 듣고 \u0027아, 그래서 그랬구나\u0027 하는 반응)",
+                            "nuance":  "\u0027No wonder + 주어 + 동사\u0027 구조. 빈정댈 때도, 진심으로 납득할 때도 씀. Joey는 Laurie가 남자라는 걸 알고서 Rachel이 왜 반복해서 읽었는지 \u0027이해\u0027하는 척 엉뚱한 결론을 냄.",
+                            "example":  "She trained six days a week for a year. No wonder she won the marathon. + 그녀는 1년 동안 주 6일 훈련했대. 어쩐지 마라톤을 우승하더라."
+                        },
+                        {
+                            "expression":  "on the loose",
+                            "dialogue":  "Phoebe: Please, right now, no, every time I see him it\u0027s like \u0027Is it on the loose?\u0027 \u0027Is it watching me?\u0027",
+                            "speaker":  "Phoebe",
+                            "meaning":  "풀려서 돌아다니는, (억제되지 않고) 자유롭게 나와 있는",
+                            "nuance":  "원래는 도주 중인 사람이나 동물에 씀(\u0027a bear on the loose\u0027). 여기서는 완곡어법으로 신체 부위가 \u0027노출된\u0027 상황에 사용. 뉴스에서 자주 나오는 표현이라 알아두면 유용함.",
+                            "example":  "Authorities warned residents that a wild boar is on the loose near the hiking trail. + 당국은 등산로 근처에 멧돼지 한 마리가 돌아다니고 있다고 주민들에게 경고했다."
+                        },
+                        {
+                            "expression":  "put something out there",
+                            "dialogue":  "Robert: Why does this keep happening to me? Is it something I\u0027m putting out there? Is this my fault?",
+                            "speaker":  "Robert",
+                            "meaning":  "어떤 에너지·신호·인상을 (무의식적으로) 밖으로 발산하다",
+                            "nuance":  "사람이 풍기는 분위기나 인상을 가리킬 때 씀. 의도적으로 말이나 의견을 공개할 때도 씀(\u0027I\u0027m just putting it out there — I think you\u0027re wrong\u0027). \u0027vibe\u0027와 비슷한 맥락.",
+                            "example":  "I don\u0027t know what I\u0027m putting out there, but strangers always ask me for directions. + 내가 무슨 인상을 주는 건지 모르겠는데, 낯선 사람들이 항상 나한테 길을 물어봐."
+                        },
+                        {
+                            "expression":  "here we go again",
+                            "dialogue":  "Robert: Oh God! Here we go again. Why does this keep happening to me?",
+                            "speaker":  "Robert",
+                            "meaning":  "또 시작이네, 또 이러는구나 (반복되는 불쾌한 상황에 대한 체념·짜증)",
+                            "nuance":  "주로 좋지 않은 일이 반복될 때 씀. \u0027Oh god\u0027 같은 감탄사를 앞에 붙이면 더 강한 짜증을 표현. 단독으로도 문장이 됨.",
+                            "example":  "Here we go again — he\u0027s an hour late and hasn\u0027t texted. + 또 이러네 — 한 시간이나 늦으면서 문자 한 통도 없어."
+                        },
+                        {
+                            "expression":  "put the mouse back in the house",
+                            "dialogue":  "Gunther: (to Robert) Hey buddy, this is a family place, put the mouse back in the house.",
+                            "speaker":  "Gunther",
+                            "meaning":  "노출된 남성 성기를 바지 안으로 집어넣다 (유머러스한 속어·완곡표현)",
+                            "nuance":  "직접 말하기 민망한 상황을 운율을 살린 속어로 돌려 말하는 표현. 매우 구어적이고 저속함. 이런 \u0027동물+장소\u0027 비유 패턴을 알아두면 유사한 속어를 만났을 때 맥락을 이해하는 데 도움이 됨.",
+                            "example":  "Sir, this is a children\u0027s park — you might want to put the mouse back in the house before you walk around. + 선생님, 여기는 어린이 공원이에요 — 돌아다니시기 전에 바지 좀 단속하시는 게 좋을 것 같아요."
+                        },
+                        {
+                            "expression":  "coming out (이중 의미 농담)",
+                            "dialogue":  "Chandler: Robert\u0027s coming out.\nRoss: What, what do you mean, what? Is he gay?\nChandler: No. He.....he\u0027s coming out of his shorts.",
+                            "speaker":  "Chandler",
+                            "meaning":  "(물리적으로) 밖으로 나오다 / (관용적으로) 커밍아웃하다 — 두 가지 의미를 동시에 이용한 misdirection 농담",
+                            "nuance":  "\u0027Come out\u0027 자체는 단순히 \u0027나오다\u0027이지만 \u0027come out (of the closet)\u0027은 성소수자임을 밝히는 것. Chandler는 Ross가 두 번째 의미로 이해하도록 유도한 뒤 첫 번째 의미로 정정함. 이런 다의어를 이용한 misdirection이 영미권 유머의 핵심 패턴.",
+                            "example":  "My secret\u0027s coming out whether I like it or not — too many people already know. + 좋든 싫든 내 비밀이 드러날 것 같아 — 이미 너무 많은 사람이 알고 있거든."
+                        },
+                        {
+                            "expression":  "like an eclipse",
+                            "dialogue":  "Ross: Well, I suppose we just try to not look directly at it.\nChandler: Like an eclipse.",
+                            "speaker":  "Chandler",
+                            "meaning":  "직접 눈을 맞추면 안 되는 것처럼 (눈길이 가지만 봐서는 안 되는 상황에 대한 즉흥 비유)",
+                            "nuance":  "일식을 직접 보면 눈이 상하는 것에 빗대어, \u0027쳐다보기 민망하지만 자꾸 눈이 가는 것\u0027을 가리키는 즉흥 비유. 이런 즉흥 비유 한 단어가 punchline이 됨. \u0027treat it like an eclipse\u0027 형태로도 씀.",
+                            "example":  "When he walked in with that haircut, we all agreed — treat it like an eclipse, don\u0027t look directly. + 그가 그 머리 모양으로 들어왔을 때 우리는 모두 동의했어 — 일식처럼 취급하기로, 직접 쳐다보지 말자고."
+                        },
+                        {
+                            "expression":  "the whole ~ thing",
+                            "dialogue":  "Monica: (on the phone) It\u0027s hard this whole platonic thing. (listens) It\u0027s a word!",
+                            "speaker":  "Monica",
+                            "meaning":  "~ 관계·상황 전체 (복잡한 상태를 뭉뚱그려 가리킬 때)",
+                            "nuance":  "\u0027The whole X thing\u0027 구조는 X를 명확히 정의하기 귀찮거나, X가 복잡한 상황을 간단히 퉁칠 때 씀. 약간 불만스럽거나 당혹스러운 뉘앙스가 담겨 있음. \u0027this whole long-distance thing\u0027, \u0027the whole job search thing\u0027 등으로 응용.",
+                            "example":  "I\u0027m exhausted by the whole wedding planning thing — can we just elope? + 결혼 준비 전체에 진짜 지쳤어 — 그냥 우리 둘이서만 결혼하면 안 돼?"
+                        },
+                        {
+                            "expression":  "I\u0027m just asking as a friend",
+                            "dialogue":  "Monica: Did you like her? And I\u0027m just asking as a friend, because I am totally fine with this.",
+                            "speaker":  "Monica",
+                            "meaning":  "친구로서 물어보는 거야 (감정이 있지만 없는 척하며 정보를 캐낼 때 쓰는 패턴)",
+                            "nuance":  "사실 신경이 쓰이는데 아무렇지 않은 척 정보를 얻으려 할 때 쓰는 표현. 듣는 사람은 보통 의도를 꿰뚫어봄. \u0027not that I care, but...\u0027, \u0027purely out of curiosity...\u0027와 같은 패턴.",
+                            "example":  "Not that it matters to me at all — I\u0027m just asking as a friend — but did he mention my name? + 전혀 상관없는데 — 그냥 친구로서 물어보는 거야 — 그가 내 이름 얘기했어?"
+                        },
+                        {
+                            "expression":  "be back where we were",
+                            "dialogue":  "Richard: Y\u0027know we\u0027re back where we were. Honey, I would love to do all that, but nothing\u0027s changed.",
+                            "speaker":  "Richard",
+                            "meaning":  "다시 원점으로 돌아오다, 처음과 달라진 게 없다",
+                            "nuance":  "\u0027Back to square one\u0027과 비슷하지만 더 감정적인 관계 맥락에서 씀. 상황이 제자리를 맴돌 때 체념·안타까움의 감정과 함께 씀.",
+                            "example":  "After months of negotiation, both sides walked out — we\u0027re back where we were in January. + 몇 달간의 협상 끝에 양측이 자리를 떴어 — 1월과 달라진 게 없는 상태야."
+                        },
+                        {
+                            "expression":  "burst into flames",
+                            "dialogue":  "Chandler: (to Robert) So ah, isn\u0027t it a bit cold out for shorts?\nRobert: Well, I\u0027m from California.\nChandler: Right, right. Sometimes you guys just burst into flames.",
+                            "speaker":  "Chandler",
+                            "meaning":  "자연발화하다 (직역); 여기서는 \u0027캘리포니아 사람은 추위를 못 견딘다\u0027는 것을 과장해 비꼬는 표현",
+                            "nuance":  "Chandler의 전형적 냉소 패턴: 상대의 말을 논리적으로 받아 극단적으로 과장해 비꼼. 실생활에서 \u0027I\u0027m so embarrassed I could burst into flames\u0027처럼 강렬한 감정을 과장할 때도 씀.",
+                            "example":  "She\u0027s so passionate about her team that she practically bursts into flames every time they lose. + 그녀는 자기 팀에 대한 열정이 너무 강해서 질 때마다 거의 불이 붙을 것 같아."
+                        },
+                        {
+                            "expression":  "the man is showing [X]",
+                            "dialogue":  "Chandler: He.....he\u0027s coming out of his shorts. The man is showing brain.\nRoss: Are you sure? (goes to check) Yeah, yeah, yeah!",
+                            "speaker":  "Chandler",
+                            "meaning":  "신체 일부가 옷 밖으로 드러나 보이다 (여기서 \u0027brain\u0027은 남성 성기 일부를 가리키는 속어)",
+                            "nuance":  "\u0027showing + 신체 부위\u0027는 \u0027옷 사이로 ~이 보이다\u0027는 뜻. \u0027showing skin\u0027, \u0027showing cleavage\u0027 등이 표준적 표현. \u0027brain\u0027은 여기서 Chandler가 만들어낸 완곡어법 슬랭으로, 실제로는 거의 안 씀.",
+                            "example":  "You might want to fix your collar — you\u0027re showing a bit more skin than you intended. + 옷깃 좀 고쳐 — 의도한 것보다 살이 더 보이고 있어."
+                        },
+                        {
+                            "expression":  "talk in code",
+                            "dialogue":  "Joey: All right I\u0027ll talk in code. (to Ross and Chandler) Remember when the kid sees those two blanks in the hallway?",
+                            "speaker":  "Joey",
+                            "meaning":  "암호로 말하다, 남이 못 알아듣도록 대체 단어를 써서 말하다",
+                            "nuance":  "비밀을 지키기 위해 직접 말하지 않고 대체어를 쓰는 것. Joey는 \u0027blank\u0027를 넣어 스포일러를 피하려 하지만 Rachel이 금방 알아챔. \u0027speak in code\u0027, \u0027use code words\u0027도 같은 뜻.",
+                            "example":  "The kids were right there, so we had to talk in code about the surprise party. + 아이들이 바로 옆에 있어서 깜짝 파티에 대해 암호로 얘기해야 했어."
+                        },
+                        {
+                            "expression":  "crack someone\u0027s code",
+                            "dialogue":  "Joey: All right I\u0027ll talk in code... (later)\nChandler: I can\u0027t believe she cracked your code!",
+                            "speaker":  "Chandler",
+                            "meaning":  "누군가의 암호·패턴을 해독하다, 상대의 의도나 습관을 간파하다",
+                            "nuance":  "원래는 암호 해독이지만 구어에서 \u0027상대의 행동 패턴이나 의도를 꿰뚫어보다\u0027는 뜻으로 씀. Rachel이 Joey의 엉터리 코드를 너무 쉽게 알아채서 Chandler가 어이없어하는 장면.",
+                            "example":  "It took me months to crack her code — she says \u0027I\u0027m fine\u0027 when she\u0027s definitely not fine. + 그녀의 패턴을 파악하는 데 몇 달이 걸렸어 — 전혀 괜찮지 않을 때 \u0027괜찮아\u0027라고 하거든."
+                        },
+                        {
+                            "expression":  "exclusive friends",
+                            "dialogue":  "Monica: What if we\u0027re friends who don\u0027t see other people?\nRichard: You mean like exclusive friends?\nMonica: Why not?!",
+                            "speaker":  "Monica / Richard",
+                            "meaning":  "\u0027서로만 만나는 친구\u0027 (사귀는 것처럼 행동하면서 공식 연인이라 부르기 싫어 만들어낸 완곡표현)",
+                            "nuance":  "Monica가 관계로 돌아가고 싶지만 인정하기 싫어서 만들어낸 조어. Richard는 비꼬듯 반복함. 관계를 직접 명명하는 걸 피하고 싶을 때 이런 식의 에두르기가 등장함. \u0027friends with benefits\u0027와 비슷한 계열의 euphemism.",
+                            "example":  "So are we exclusive friends now, or what exactly is this? + 그럼 이제 우리 서로만 만나는 친구인 거야, 아니면 정확히 어떤 사이야?"
+                        },
+                        {
+                            "expression":  "jock stuff",
+                            "dialogue":  "Phoebe: I met this really cute guy in the park and he like y\u0027know, jogs, and blades, and swims, and so y\u0027know we made a deal that he\u0027s going to teach me all sorts of jock stuff.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "운동을 즐기는 사람(jock)에 관련된 것들, 스포츠맨 활동",
+                            "nuance":  "\u0027Jock\u0027은 스포츠를 즐기는 사람(주로 남성)을 가리키는 구어로, 약간 비하적이거나 농담 섞인 뉘앙스가 있지만 Phoebe는 순진하게 씀. \u0027nerd stuff\u0027, \u0027girly stuff\u0027, \u0027kid stuff\u0027처럼 \u0027~와 관련된 것들\u0027이라는 패턴으로 응용 가능.",
+                            "example":  "I never cared about jock stuff in high school — I was way more into theater and art. + 고등학교 때는 스포츠맨 문화에 전혀 관심 없었어 — 연극이랑 미술에 훨씬 더 빠져 있었거든."
+                        }
+                    ]
+}

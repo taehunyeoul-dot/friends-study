@@ -1,0 +1,209 @@
+{
+    "id":  "s02e21",
+    "code":  "221",
+    "title":  "The One With the Two Bullies",
+    "model":  "sonnet",
+    "cost_usd":  0.3113,
+    "expressions":  [
+                        {
+                            "expression":  "chicken out",
+                            "dialogue":  "No because **I chickened out** the last time when I tried to meet him.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "겁을 먹고 하려던 일을 포기하다",
+                            "nuance":  "두려움 때문에 계획했던 일을 실행하지 못할 때 쓰는 구어적 표현. 자신이나 타인의 소심함을 가볍게 놀리는 뉘앙스가 있다.",
+                            "example":  "I was going to ask her out, but I chickened out at the last second. → 고백하려고 했는데 마지막 순간에 겁먹고 포기했어."
+                        },
+                        {
+                            "expression":  "I\u0027m (so) beat",
+                            "dialogue":  "Man, **I am so beat**.",
+                            "speaker":  "Chandler",
+                            "meaning":  "완전히 지쳤다, 녹초가 됐다",
+                            "nuance":  "구어체에서 \u0027exhausted\u0027보다 캐주얼하고 직접적인 표현. 신체적 피로뿐 아니라 정신적 피로에도 쓸 수 있다.",
+                            "example":  "After that three-hour meeting, I\u0027m so beat I can barely keep my eyes open. → 세 시간짜리 회의 끝에 완전히 녹초야. 눈도 못 뜨겠어."
+                        },
+                        {
+                            "expression":  "hang out",
+                            "dialogue":  "Hey, you just wanna forget about racquetball and **hang out here**?",
+                            "speaker":  "Chandler",
+                            "meaning":  "특별한 목적 없이 편하게 시간을 보내다",
+                            "nuance":  "친구들 사이에서 가장 자주 쓰이는 표현 중 하나. \u0027meet up\u0027보다 더 느긋하고 계획 없는 뉘앙스를 담는다.",
+                            "example":  "We didn\u0027t end up going to the game. We just hung out at Mike\u0027s place all afternoon. → 결국 경기는 못 갔고 오후 내내 마이크 집에서 그냥 놀았어."
+                        },
+                        {
+                            "expression":  "go for [adjective/quality]",
+                            "dialogue":  "No actually, **I was just going for colorful**.",
+                            "speaker":  "Chandler",
+                            "meaning":  "~한 효과나 느낌을 의도적으로 노리다",
+                            "nuance":  "\u0027I was trying to be funny\u0027보다 더 구체적인 의도를 드러내는 표현. 유머, 패션, 예술 등 다양한 맥락에서 자연스럽게 쓰인다.",
+                            "example":  "The director wasn\u0027t going for realistic—he was going for dreamlike. → 감독은 사실적인 느낌을 노린 게 아니라 몽환적인 분위기를 의도했어."
+                        },
+                        {
+                            "expression":  "What\u0027s with [someone/something]?",
+                            "dialogue":  "**What\u0027s with this guy?**",
+                            "speaker":  "Big Bully",
+                            "meaning":  "저 사람 왜 저래? / 저게 뭐야?",
+                            "nuance":  "누군가의 이상한 행동이나 태도에 의아함을 표현하는 구어체. 약간 짜증스럽거나 어이없다는 뉘앙스가 섞여 있다.",
+                            "example":  "What\u0027s with her today? She\u0027s been acting weird ever since lunch. → 걔 오늘 왜 저래? 점심 먹고 나서부터 계속 이상하게 굴잖아."
+                        },
+                        {
+                            "expression":  "be on the same page",
+                            "dialogue":  "No, **just wanna make sure we\u0027re on the same page**.",
+                            "speaker":  "Chandler",
+                            "meaning":  "서로 같은 이해나 인식을 공유하고 있다",
+                            "nuance":  "오해를 방지하거나 확인할 때 쓰이는 표현. Chandler는 불량배들과 상황을 아이러니하게 \u0027확인\u0027하는 용도로 쓴다.",
+                            "example":  "Before we start the project, let\u0027s make sure we\u0027re all on the same page about the timeline. → 프로젝트 시작 전에, 일정에 대해 다 같이 이해가 맞는지 확인하자."
+                        },
+                        {
+                            "expression":  "it bit",
+                            "dialogue":  "**It bit.** It was a 50\u0027s theme restaurant.",
+                            "speaker":  "Monica",
+                            "meaning":  "최악이었다, 형편없었다",
+                            "nuance":  "\u0027It sucked\u0027의 1990년대 구어체 동의어. 현재는 sucked가 더 일반적이지만 같은 상황에서 자연스럽게 이해된다.",
+                            "example":  "The concert was supposed to be amazing, but honestly? It bit. The sound was terrible. → 콘서트가 엄청날 거라 했는데, 솔직히? 최악이었어. 음향이 엉망이었거든."
+                        },
+                        {
+                            "expression":  "not know the first thing about [something]",
+                            "dialogue":  "Monica, what are you talking about? **You don\u0027t know the first thing about the stock market.**",
+                            "speaker":  "Rachel",
+                            "meaning":  "~에 대해 아무것도 모르다, 기본도 모르다",
+                            "nuance":  "\u0027know nothing\u0027보다 강조된 표현으로, 어떤 분야에 완전히 무지하다는 것을 직접적으로 지적할 때 쓴다. 약간 비판적인 어조.",
+                            "example":  "He\u0027s trying to fix his own car, but he doesn\u0027t know the first thing about engines. → 그는 직접 차를 고치려 하는데, 엔진에 대해 아무것도 몰라."
+                        },
+                        {
+                            "expression":  "here we go",
+                            "dialogue":  "Oh God, **here we go.** For the first time in my life I\u0027m gonna say \u0027Hi birthfather\u0027.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "자, 시작이다 / (드디어/또) 시작되는구나",
+                            "nuance":  "긴장되거나 어려운 상황을 앞두고 스스로 다짐하거나 체념하듯 말할 때 쓴다. 맥락에 따라 설렘·불안·체념 등 다양한 감정을 담을 수 있다.",
+                            "example":  "Deep breath. Here we go. → 숨 한번 크게 쉬고. 자, 간다."
+                        },
+                        {
+                            "expression":  "get the hell off / out",
+                            "dialogue":  "Ok, **get the hell off** my leg you yippity piece of crap.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "당장 꺼져 / 떨어져 (강조형)",
+                            "nuance":  "\u0027hell\u0027이 강조어로 삽입된 구조. \u0027get off\u0027보다 훨씬 강한 분노나 절박함을 나타낸다. 격식 없는 상황에서만 사용 가능.",
+                            "example":  "Get the hell out of my office! → 당장 내 사무실에서 꺼져!"
+                        },
+                        {
+                            "expression":  "I\u0027ve had enough of this",
+                            "dialogue":  "Alright, that\u0027s it. **I\u0027ve had enough of this**, alright.",
+                            "speaker":  "Ross",
+                            "meaning":  "이제 더는 못 참겠다, 진절머리가 난다",
+                            "nuance":  "오랜 인내 끝에 폭발하거나 결단을 내릴 때 쓰는 표현. \u0027That\u0027s it\u0027과 함께 자주 등장한다.",
+                            "example":  "I\u0027ve had enough of his excuses. I\u0027m not covering for him anymore. → 그의 변명은 이제 신물이 나. 더 이상 그를 위해 변명해주지 않을 거야."
+                        },
+                        {
+                            "expression":  "let\u0027s take this outside",
+                            "dialogue":  "Alright, **let\u0027s take this outside.**",
+                            "speaker":  "Big Bully",
+                            "meaning":  "밖에서 한판 붙자 (싸움 도발)",
+                            "nuance":  "공개적인 장소에서의 충돌을 피하고 밖에서 해결하자고 할 때 쓰는 전형적인 표현. 영화와 드라마에서 싸움 도발의 클리셰로 자주 등장한다.",
+                            "example":  "The argument got heated, and one of them said, \u0027You wanna handle this? Let\u0027s take it outside.\u0027 → 말다툼이 격해지자 한 명이 말했다. \u0027이거 해결하고 싶어? 밖에서 하자.\u0027  "
+                        },
+                        {
+                            "expression":  "you had to ask",
+                            "dialogue":  "**You had to ask.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "그걸 물어봐야 했어? (물어봐서 이 꼴이 됐잖아)",
+                            "nuance":  "위험하거나 어리석은 질문을 한 결과가 바로 나타날 때 체념하듯 하는 말. 한국어로 \u0027괜히 물어봤다\u0027는 뉘앙스.",
+                            "example":  "\u0027Why is everyone staring at us?\u0027 \u0027You had to ask.\u0027 Just then, the fire alarm went off. → \u0027왜 다들 우리 쳐다보는 거야?\u0027 \u0027괜히 물어봤어.\u0027 그 순간 화재경보기가 울렸다."
+                        },
+                        {
+                            "expression":  "stand up to [someone]",
+                            "dialogue":  "I say you and I go back down there and **stand up to those guys**.",
+                            "speaker":  "Ross",
+                            "meaning":  "~에 맞서다, 굴하지 않고 대항하다",
+                            "nuance":  "강자나 위협적인 상대에게 물러서지 않고 맞설 때 쓰는 표현. 용기 있는 행동을 묘사할 때 긍정적인 뉘앙스로 많이 쓰인다.",
+                            "example":  "It took a lot of courage for her to stand up to her boss in front of everyone. → 모든 사람 앞에서 상사에게 맞서는 건 엄청난 용기가 필요했다."
+                        },
+                        {
+                            "expression":  "hang on a second",
+                            "dialogue":  "Alright, **hang on a second** there, Custer.",
+                            "speaker":  "Chandler",
+                            "meaning":  "잠깐만, 잠시 기다려",
+                            "nuance":  "\u0027wait\u0027보다 더 구어적이고 자연스러운 표현. 상대를 멈추게 하거나 생각할 시간이 필요할 때 쓴다. \u0027Custer\u0027는 유머러스한 별명으로 덧붙인 것.",
+                            "example":  "Hang on a second—did you just say you quit your job? → 잠깐만, 방금 직장 그만뒀다고 했어?"
+                        },
+                        {
+                            "expression":  "rite of passage",
+                            "dialogue":  "maybe that\u0027s just something every man has to go through once in his life, ya know, like a **right of passage** or somethin\u0027.",
+                            "speaker":  "Ross",
+                            "meaning":  "통과의례, 인생에서 한 번쯤 겪어야 하는 경험",
+                            "nuance":  "원래 \u0027rite of passage\u0027가 맞지만 Ross는 \u0027right of passage\u0027로 잘못 말한다—캐릭터의 자연스러운 실수. 어떤 나이나 단계에서 필수적으로 거치는 경험을 묘사한다.",
+                            "example":  "Getting your heart broken for the first time is practically a rite of passage. → 처음으로 실연을 당하는 건 사실상 통과의례야."
+                        },
+                        {
+                            "expression":  "come to terms with [something]",
+                            "dialogue":  "Hey, **I\u0027ve come to terms with it**, you have to too.",
+                            "speaker":  "Monica",
+                            "meaning":  "~을 받아들이다 (힘든 현실과 화해하다)",
+                            "nuance":  "단순히 \u0027accept\u0027보다 감정적인 과정을 거쳐 받아들이게 됐다는 뉘앙스. 슬픔·상실·실패 등 부정적인 상황에 주로 쓰인다.",
+                            "example":  "It took him years to come to terms with his father\u0027s death. → 그가 아버지의 죽음을 받아들이는 데 몇 년이 걸렸다."
+                        },
+                        {
+                            "expression":  "be expecting [someone] back any minute (now)",
+                            "dialogue":  "He left four years ago so **we\u0027re expecting him back any minute now.**",
+                            "speaker":  "Mrs. Buffay",
+                            "meaning":  "(비꼬아서) 언제든 돌아올 것처럼 기다리고 있다",
+                            "nuance":  "문자 그대로는 \u0027곧 돌아올 것 같다\u0027는 뜻이지만, 4년째 돌아오지 않는 남편에 대한 씁쓸한 사르카즘으로 쓰인다. 영어 풍자 표현의 전형적인 활용.",
+                            "example":  "He said he\u0027d be right back, and that was an hour ago. I\u0027m sure he\u0027ll be back any minute now. → 금방 돌아온다고 했는데 한 시간이 지났어. 이제 곧 오겠지, 분명히. (비꼼)"
+                        },
+                        {
+                            "expression":  "I don\u0027t know what to do with that",
+                            "dialogue":  "**I don\u0027t know what to do with that.**",
+                            "speaker":  "Phoebe",
+                            "meaning":  "그 정보를 어떻게 받아들여야 할지 모르겠다",
+                            "nuance":  "예상치 못한 정보나 감당하기 어려운 내용을 들었을 때 어떻게 반응해야 할지 모를 때 쓴다. 당혹감, 어이없음, 혹은 억제된 감동을 나타낼 수 있다.",
+                            "example":  "\u0027He said he still thinks about her every day.\u0027 \u0027Yeah... I don\u0027t know what to do with that.\u0027 → \u0027아직도 매일 그녀 생각을 한대.\u0027 \u0027그래... 그걸 어떻게 받아들여야 할지 모르겠네.\u0027"
+                        },
+                        {
+                            "expression":  "stand one\u0027s ground",
+                            "dialogue":  "Yes, we\u0027re **standing our ground**...apparently.",
+                            "speaker":  "Chandler",
+                            "meaning":  "자신의 입장이나 자리를 고수하다, 물러서지 않다",
+                            "nuance":  "압박을 받아도 입장을 양보하지 않는다는 의미. Chandler는 자신도 모르게 상황에 끌려갔다는 자조(\u0027apparently\u0027)를 얹어 웃음을 유발한다.",
+                            "example":  "Even when everyone disagreed with her, she stood her ground and turned out to be right. → 모두가 반대했을 때도 그녀는 입장을 굽히지 않았고, 결국 옳은 것으로 드러났다."
+                        },
+                        {
+                            "expression":  "give it to [someone]",
+                            "dialogue":  "Man you really, bing, **gave it to** old Mr. Clean back there.",
+                            "speaker":  "Little Bully",
+                            "meaning":  "(상대방을) 제대로 혼내줬다, 한 방 먹였다",
+                            "nuance":  "싸움에서 상대를 이겼거나 논쟁에서 압도한 상황을 묘사하는 구어적 표현. \u0027Mr. Clean\u0027은 대머리 남자를 유머러스하게 부르는 별명.",
+                            "example":  "Did you see that? She really gave it to him in the argument. He had nothing to say back. → 봤어? 논쟁에서 그녀가 그를 제대로 눌렀어. 그는 아무 말도 못했어."
+                        },
+                        {
+                            "expression":  "don\u0027t do that to yourself",
+                            "dialogue":  "**Don\u0027t do that to yourself.** Any one of us could have tripped over that little girl\u0027s jump-rope.",
+                            "speaker":  "Big Bully",
+                            "meaning":  "자책하지 마, 스스로 너무 괴롭히지 마",
+                            "nuance":  "상대방이 자책하거나 죄책감을 느낄 때 위로하는 표현. \u0027Don\u0027t blame yourself\u0027보다 더 자연스럽고 구어적이다.",
+                            "example":  "\u0027I keep thinking I should have called him that night.\u0027 \u0027Hey, don\u0027t do that to yourself. You couldn\u0027t have known.\u0027 → \u0027그날 밤 그에게 전화했어야 했는데.\u0027 \u0027야, 자책하지 마. 알 수 없었잖아.\u0027"
+                        },
+                        {
+                            "expression":  "get out before [something] goes down",
+                            "dialogue":  "my motto is **get out before they go down**.",
+                            "speaker":  "Monica",
+                            "meaning":  "떨어지기 전에 빠져나오다, 손해 보기 전에 발을 빼다",
+                            "nuance":  "주식 투자에서 나온 말이지만 관계나 프로젝트 등 다양한 상황에 적용 가능하다. 직관적인 생활 철학처럼 들린다.",
+                            "example":  "I sold all my shares last week. My motto: get out before they go down. → 지난 주에 주식 다 팔았어. 내 원칙: 떨어지기 전에 빠져나와야 해."
+                        },
+                        {
+                            "expression":  "almost as good as new",
+                            "dialogue":  "I want you to know that he\u0027ll be returned to you, **almost as good as new**, within 24 hours.",
+                            "speaker":  "Joey",
+                            "meaning":  "거의 새것이나 다름없이 / (아이러니) 상당히 다쳤지만 그래도 멀쩡하다는 식으로",
+                            "nuance":  "원래는 수리나 세탁 후 상태가 좋다는 표현이지만, 여기서는 귀를 다쳐 8바늘이나 꿰맨 개를 \u0027거의 새것\u0027이라고 표현해 아이러니한 웃음을 자아낸다.",
+                            "example":  "The mechanic said it\u0027s almost as good as new—right before telling me it needs four more parts. → 정비사가 거의 새것이나 다름없다고 했어—부품 네 개가 더 필요하다고 말하기 직전에."
+                        },
+                        {
+                            "expression":  "on behalf of everyone",
+                            "dialogue":  "**On behalf of everyone**, I\u0027d just like to say behuh.",
+                            "speaker":  "Ross",
+                            "meaning":  "모두를 대표하여",
+                            "nuance":  "공식적인 발표나 연설에서 쓰이는 격식체 표현인데, Ross는 이를 Phoebe의 황당한 징조 이야기에 과장되게 사용해 유머를 만든다. 아이러니로도 자주 활용된다.",
+                            "example":  "On behalf of everyone here, I\u0027d like to thank you for all your hard work this year. → 여기 있는 모두를 대표해, 올 한 해 수고하신 것에 감사드립니다."
+                        }
+                    ]
+}

@@ -1,0 +1,209 @@
+{
+    "id":  "s03e15",
+    "code":  "315",
+    "title":  "The One Where Ross and Rachel Take A Break",
+    "model":  "sonnet",
+    "cost_usd":  0.3238,
+    "expressions":  [
+                        {
+                            "expression":  "totally gets me",
+                            "dialogue":  "Phoebe: he doesn\u0027t speak any English, but according to his translator, he totally gets me.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "나를 완전히 이해한다",
+                            "nuance":  "\"get someone\"은 언어 이해가 아니라 그 사람의 감성·유머·성격을 깊이 공감한다는 뜻. \"totally\"와 함께 쓰면 확신과 기쁨이 담긴 비격식 구어체.",
+                            "example":  "I love talking to her — she totally gets me. → 그녀랑 얘기하는 게 너무 좋아, 나를 완전히 이해해."
+                        },
+                        {
+                            "expression":  "gawk at",
+                            "dialogue":  "Joey: Yeah, are you just going down there to gawk at that hot girl with the belly button ring again?\nChandler: Yeah! You wanna come?",
+                            "speaker":  "Joey → Chandler",
+                            "meaning":  "노골적으로/뚫어지게 쳐다보다",
+                            "nuance":  "단순히 보는 것(stare)과 달리 입이 벌어질 것처럼 어리석게 빤히 바라보는 행동. 살짝 민망하거나 유치한 행동을 가리킬 때 씀.",
+                            "example":  "Stop gawking at your phone and pay attention. → 폰 그만 멍하니 들여다보고 집중해."
+                        },
+                        {
+                            "expression":  "having second thoughts about ~",
+                            "dialogue":  "Joey: Y\u0027know what, we\u0027re having second thoughts about our copying needs. And we\u0027ll need a little more time to think about it.",
+                            "speaker":  "Joey (Issac를 피하려는 핑계로)",
+                            "meaning":  "~에 대해 다시 생각하게 되다, 망설이다",
+                            "nuance":  "원래 결정이나 의도를 재고할 때 쓰는 표현. 여기서 Joey는 빤히 들키는 거짓말의 구실로 씀 — 드라마 전체에서 가장 민망한 변명 중 하나.",
+                            "example":  "I was going to quit, but now I\u0027m having second thoughts. → 그만두려 했는데 이제 다시 생각하게 됐어."
+                        },
+                        {
+                            "expression":  "got a crush on someone",
+                            "dialogue":  "Issac: Chloe, switch with me, there\u0027s some guys here that got a crush on you.\nChandler: (to Joey) Okay, that hurt us.",
+                            "speaker":  "Issac → Chandler",
+                            "meaning":  "~에게 반하다, 짝사랑하다",
+                            "nuance":  "\"crush\"는 가볍고 한쪽만인 설레는 감정. \"have a crush on\"의 구어형 \"got a crush on\"은 더 입에 척 붙음. 성인에게도 쓰지만 순수하고 약간 유치한 감정의 뉘앙스가 있음.",
+                            "example":  "I think he\u0027s got a crush on her — he mentions her name constantly. → 걔 그 여자한테 반한 것 같아. 맨날 이름 들먹이거든."
+                        },
+                        {
+                            "expression":  "that hurt (us)",
+                            "dialogue":  "Issac: there\u0027s some guys here that got a crush on you.\nChandler: (to Joey) Okay, that hurt us.",
+                            "speaker":  "Chandler",
+                            "meaning":  "그거 좀 창피했다 / 자존심에 상처가 됐다",
+                            "nuance":  "신체적 고통이 아닌 자존심·감정 상처에 \"hurt\"를 씀. \"us\"로 Joey까지 묶어 둘 다 민망함을 공유하는 유머. 짧고 건조한 자조(self-deprecating) 표현.",
+                            "example":  "She laughed when I mispronounced her name. That hurt. → 이름 잘못 발음했더니 웃더라. 좀 상처받았어."
+                        },
+                        {
+                            "expression":  "split off",
+                            "dialogue":  "Phoebe: could you come and be the translator\u0027s date? So that when it\u0027s time for our alone time, you two could split off.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "그룹에서 따로 빠지다, 둘씩 나뉘다",
+                            "nuance":  "그룹이나 쌍이 서로 다른 방향으로 나뉠 때 쓰는 구어 표현. \"separate\"보다 자연스럽고 캐주얼하며, 계획된 분리를 가리킬 때 잘 맞음.",
+                            "example":  "Let\u0027s all walk together and split off when we reach the park. → 같이 걷다가 공원 도착하면 각자 흩어지자."
+                        },
+                        {
+                            "expression":  "kinda cute like really kinda cute, or kinda cute like ~?",
+                            "dialogue":  "Phoebe: He\u0027s really kinda cute.\nMonica: Yeah, well kinda cute, like really kinda cute, or kinda cute like your friend Spackel Back Larry?",
+                            "speaker":  "Monica",
+                            "meaning":  "\"꽤 귀엽다\"의 정도를 반복으로 구분하는 패턴",
+                            "nuance":  "\"kinda\"는 \"kind of\"의 구어 단축형으로 정도를 낮추거나 유보하는 느낌. 같은 표현을 반복하면서 의미를 층위별로 나누는 영어의 재치 있는 방식.",
+                            "example":  "He\u0027s kinda cute, but like really kinda cute, or just... kinda cute? → 좀 귀엽긴 한데, 진짜 귀여운 건지, 아니면 그냥 그런 건지?"
+                        },
+                        {
+                            "expression":  "Vividly. (단독 강조 답변)",
+                            "dialogue":  "Joey: Hey, remember when she brought up that thing about the three of us?\nChandler: Yes. Vividly.",
+                            "speaker":  "Chandler",
+                            "meaning":  "생생히, 선명히 기억한다",
+                            "nuance":  "\"Yes\"만 해도 될 것을 \"Vividly\"로 끊어서 기억이 얼마나 강렬한지 강조. 한 단어로 감정 전체를 전달하는 건조한 유머. 충격적이거나 잊히지 않는 기억을 말할 때 씀.",
+                            "example":  "Do you remember the first time you failed a test? — Vividly. → 처음 시험에서 떨어졌을 때 기억해? — 너무 생생히."
+                        },
+                        {
+                            "expression":  "good call",
+                            "dialogue":  "Joey: Probably want the first thing to be, never open your eyes.\nChandler: Yeah. Good call, nice one.",
+                            "speaker":  "Chandler",
+                            "meaning":  "좋은 판단이야, 잘 짚었어",
+                            "nuance":  "스포츠 심판 판정에서 온 표현이지만 일상에서 누군가의 아이디어·결정을 칭찬할 때 폭넓게 씀. \"Nice one\"과 함께 쓰면 더 강한 동의.",
+                            "example":  "Bringing an umbrella was a good call — it rained all afternoon. → 우산 챙긴 거 잘했다. 오후 내내 비 왔잖아."
+                        },
+                        {
+                            "expression":  "this is the extent of my knowledge (on the subject)",
+                            "dialogue":  "Monica: All right ah, Ross, this is the extent of my knowledge on the subject. (holds up a notepad) Call Rachel.",
+                            "speaker":  "Monica",
+                            "meaning":  "이 주제에 대해 내가 아는 건 이게 전부야",
+                            "nuance":  "\"That\u0027s all I know\"보다 약간 격식 있는 어투(\"on the subject\")를 일부러 섞어 유머를 냄. 자신이 모른다는 걸 재치 있게 선언할 때 씀.",
+                            "example":  "That\u0027s the extent of my knowledge on wine — it\u0027s either red or white. → 와인에 대한 내 지식은 그게 전부야. 그냥 레드 아니면 화이트."
+                        },
+                        {
+                            "expression":  "have so much to deal with",
+                            "dialogue":  "Rachel: No-no-no, no, honey please, I\u0027ve got, I\u0027ve just have so much to deal with.",
+                            "speaker":  "Rachel",
+                            "meaning":  "처리해야 할 일이 너무 많다",
+                            "nuance":  "\"deal with\"는 문제·상황·사람을 감당하고 처리한다는 뜻. \"handle\"보다 더 자연스러운 구어체이며, 힘들고 벅찬 상황을 버텨낸다는 뉘앙스가 있음.",
+                            "example":  "I can\u0027t talk right now — I\u0027ve got too much to deal with at the office. → 지금 통화 못 해. 사무실 일이 너무 많아서."
+                        },
+                        {
+                            "expression":  "come up with ~",
+                            "dialogue":  "Chandler: just in case, maybe we should come up with a set of ground rules.\nJoey: Yeah, for sure.",
+                            "speaker":  "Chandler",
+                            "meaning":  "(아이디어·계획·해결책을) 생각해내다",
+                            "nuance":  "\"think of\"보다 구어적이며, 즉흥적으로 아이디어를 떠올릴 때 자주 씀. \"come up with a plan / an excuse / a solution\" 형태로 자주 등장.",
+                            "example":  "We need to come up with a better excuse than that. → 그것보다 더 나은 핑계를 생각해내야 해."
+                        },
+                        {
+                            "expression":  "flip for it",
+                            "dialogue":  "Chandler: Well ah, y\u0027know we could flip for it.\nJoey: Yeah, I guess, but what\u0027s like heads and what\u0027s tails?\nChandler: Well if you don\u0027t know that, then I don\u0027t want to do this with you.",
+                            "speaker":  "Chandler → Joey",
+                            "meaning":  "동전 던지기로 결정하다",
+                            "nuance":  "\"flip a coin\"을 줄인 구어체. 둘 중 하나를 정해야 할 때 즉흥적으로 제안하는 표현. Joey의 대답이 이 에피소드의 최고 개그 중 하나.",
+                            "example":  "We can\u0027t agree on where to eat — let\u0027s just flip for it. → 어디 먹을지 못 정하겠으면 그냥 동전 던지자."
+                        },
+                        {
+                            "expression":  "that whole ~ thing is a myth",
+                            "dialogue":  "Chandler: Y\u0027know that whole swimming thing is a myth.\nJoey: Yeah, tell that to my Uncle Lenny.\nChandler: Why? What happened to him?\nJoey: Nothing, he just really believes in that.",
+                            "speaker":  "Chandler → Joey",
+                            "meaning":  "~에 대한 그 속설은 사실이 아니야",
+                            "nuance":  "\"that whole ~ thing\"은 특정 믿음·관습을 가볍게 일반화하는 구어 패턴. \"myth\"는 널리 퍼진 거짓 통념을 뜻함. 약간 회의적이고 지적인 어조.",
+                            "example":  "That whole \u00278 glasses of water a day\u0027 thing is apparently a myth. → 하루 물 8잔 마셔야 한다는 거 사실 근거 없는 속설이래."
+                        },
+                        {
+                            "expression":  "pick up the phone",
+                            "dialogue":  "Chandler: Hey, this isn\u0027t like swimming after you eat, pick up the phone!!\nRoss: Oh come on, we just had this huge fight, don\u0027t I have to wait a while?",
+                            "speaker":  "Chandler (망설이는 Ross를 재촉)",
+                            "meaning":  "전화기를 들다 → 전화를 걸다",
+                            "nuance":  "수화기를 들어 올리는 동작에서 온 표현이지만 스마트폰 시대에도 여전히 자연스럽게 씀. \"call\"보다 행동을 촉구하는 느낌이 강해 재촉·설득할 때 잘 어울림.",
+                            "example":  "Just pick up the phone and apologize — it\u0027s not that hard. → 그냥 전화해서 사과해. 별거 아니잖아."
+                        },
+                        {
+                            "expression":  "work it out",
+                            "dialogue":  "Chandler: Hey, no way! Come on, this is you guys, call her and work it out.\nRoss: Oh come on, we just had this huge fight, don\u0027t I have to wait a while?",
+                            "speaker":  "Chandler",
+                            "meaning":  "(문제·갈등을) 해결하다, 잘 풀다",
+                            "nuance":  "\"solve\"보다 훨씬 구어적이며 관계·갈등 상황에 특히 자주 씀. \"work out\"(운동하다)과 혼동 주의 — \"work it out\"처럼 목적어 \"it\"이 붙으면 문제 해결의 뜻.",
+                            "example":  "They had a big fight, but I think they\u0027ll work it out eventually. → 크게 싸웠지만 결국 잘 해결할 것 같아."
+                        },
+                        {
+                            "expression":  "take a break (from us)",
+                            "dialogue":  "Rachel: Look, maybe we should take a break.\nRoss: Okay, okay, fine— let\u0027s take a break, let\u0027s cool off, let\u0027s get some frozen yogurt...\nRachel: No. A break from us.",
+                            "speaker":  "Rachel → Ross",
+                            "meaning":  "(관계를) 잠시 멈추다, 우리 쉬자",
+                            "nuance":  "이 에피소드 제목이자 프렌즈 최고의 명장면. Ross는 \"break\"를 잠깐 쉬자는 뜻으로 오해하지만 Rachel은 관계를 중단하자는 뜻. 이후 시즌 내내 \"We were on a break!\"로 반복됨 — 문맥이 의미를 완전히 바꾸는 대표 사례.",
+                            "example":  "I think we need to take a break and figure out what we both want. → 우리 잠시 쉬면서 각자 뭘 원하는지 생각해봐야 할 것 같아."
+                        },
+                        {
+                            "expression":  "you\u0027re making this too hard",
+                            "dialogue":  "Rachel: I cannot keep having this same fight over and over again, Ross. You\u0027re making this too hard.\nRoss: Oh, I\u0027m making this too hard. Okay, what do you want me to do?",
+                            "speaker":  "Rachel",
+                            "meaning":  "네가 이걸 너무 힘들게 만들고 있어",
+                            "nuance":  "상대방의 태도가 상황을 불필요하게 복잡하고 어렵게 만든다고 느낄 때 쓰는 표현. 감정적으로 지치고 답답할 때 나오는 말로, 비난보다는 하소연에 가까운 톤.",
+                            "example":  "You\u0027re making this too hard — just say yes or no. → 너무 복잡하게 생각하지 마. 그냥 예 아니오만 해."
+                        },
+                        {
+                            "expression":  "cool off",
+                            "dialogue":  "Ross: Okay, okay, fine, you\u0027re right. Let\u0027s take a break, let\u0027s cool off, okay, let\u0027s get some frozen yogurt...\nRachel: No. A break from us.",
+                            "speaker":  "Ross",
+                            "meaning":  "(감정·열기를) 식히다, 진정하다",
+                            "nuance":  "화가 나거나 감정이 격해진 상황에서 잠시 거리를 두고 진정하자는 뜻. \"calm down\"보다 부드럽고 자연스러운 제안형 표현. 혼자 진정하거나 상대에게 권유할 때 모두 씀.",
+                            "example":  "Let\u0027s cool off before we say something we\u0027ll regret. → 후회할 말 하기 전에 좀 진정하자."
+                        },
+                        {
+                            "expression":  "come over",
+                            "dialogue":  "Mark: All right, all right, I\u0027m coming over, and I\u0027m bringing Chinese food.\nRachel: Oh, yeah, I\u0027m not hungry.\nMark: It\u0027s for me.",
+                            "speaker":  "Mark → Rachel",
+                            "meaning":  "(누군가의 집에) 오다, 들르다",
+                            "nuance":  "상대방이 있는 장소로 방문할 때 쓰는 대표적 구어 표현. \"visit\"보다 훨씬 캐주얼하고 미국 일상 대화에서 가장 자주 나오는 표현 중 하나. 초대·즉흥 방문 모두에 씀.",
+                            "example":  "Do you want to come over for dinner on Friday? → 금요일에 저녁 먹으러 우리 집에 올래?"
+                        },
+                        {
+                            "expression":  "I figure ~",
+                            "dialogue":  "Phoebe: Oh!! That\u0027s my new thing. I figure bodies at peace, make peace.\nMonica: Wow! You might just get the first Nobel prize in rubbing.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "내 생각엔 ~야, ~라고 본다",
+                            "nuance":  "\"I think\"와 비슷하지만 더 구어적이며 자신만의 논리·추론을 바탕으로 한 결론을 내릴 때 씀. Phoebe의 독특한 세계관을 설명할 때 딱 맞는 표현.",
+                            "example":  "I figure if I study an hour a day, I\u0027ll be fluent within a year. → 하루 한 시간씩 공부하면 1년 안에 유창해질 거라고 봐."
+                        },
+                        {
+                            "expression":  "be here all night",
+                            "dialogue":  "Rachel: Honey, I\u0027m so sorry, but it looks like I\u0027m gonna be here all night.\nRoss: Well do you, oh how about I come up there?",
+                            "speaker":  "Rachel",
+                            "meaning":  "밤새 여기 있을 것 같다 (= 야근하다)",
+                            "nuance":  "\"야근\"이라는 단어 없이 \"밤새 여기 있겠다\"로 상황을 설명하는 미국식 구어 패턴. \"looks like\"와 함께 써서 아직 확정은 아니지만 그럴 것 같다는 뉘앙스를 더함.",
+                            "example":  "There\u0027s still so much left to do — I\u0027m gonna be here all night. → 할 게 너무 많아 남아서. 밤새 여기 있어야 할 것 같아."
+                        },
+                        {
+                            "expression":  "hang out",
+                            "dialogue":  "Chandler: What time is it now?\nJoey: 4:30.\nChandler: Yeah all right, so we\u0027ll hang out.",
+                            "speaker":  "Chandler",
+                            "meaning":  "(별 목적 없이) 어울리며 시간을 보내다",
+                            "nuance":  "\"spend time together\"의 캐주얼 버전. 특별한 계획 없이 함께 있거나 놀 때 씀. 친구 사이에서 매우 빈번하며, 격식 있는 자리에서는 쓰지 않음.",
+                            "example":  "We don\u0027t need a plan — we can just hang out at my place. → 계획 없어도 돼. 그냥 우리 집에서 놀자."
+                        },
+                        {
+                            "expression":  "I\u0027m tired of ~ing",
+                            "dialogue":  "Ross: I\u0027m tired of having a relationship with your answering machine! Okay, I don\u0027t know what to do anymore.\nRachel: Well neither do I!",
+                            "speaker":  "Ross",
+                            "meaning":  "~하는 것에 지쳤다",
+                            "nuance":  "단순 피로가 아니라 반복되는 상황에 감정적으로 지쳐 더는 감내하기 힘들다는 뜻. \"sick of\"보다 약간 점잖고, \"-ing\" 또는 명사가 뒤에 옴. 감정 폭발 직전의 톤.",
+                            "example":  "I\u0027m tired of being the only one who makes an effort. → 나만 노력하는 것에 지쳤어."
+                        },
+                        {
+                            "expression":  "You don\u0027t have to ~. You just have to ~.",
+                            "dialogue":  "Chloe: (to sad Ross) You don\u0027t have to smile. You just have to dance.\nRoss: (reluctantly starts dancing)",
+                            "speaker":  "Chloe",
+                            "meaning":  "~할 필요는 없어. 그냥 ~만 하면 돼.",
+                            "nuance":  "상대의 부담을 줄여주면서 딱 하나만 요청하는 부드러운 패턴. \"just\"가 핵심어로 요구를 최소화해 주는 역할. 위로하거나 행동을 유도할 때 자주 씀.",
+                            "example":  "You don\u0027t have to be perfect. You just have to show up. → 완벽할 필요 없어. 그냥 나타나기만 하면 돼."
+                        }
+                    ]
+}

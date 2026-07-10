@@ -1,0 +1,209 @@
+{
+    "id":  "s03e19",
+    "code":  "319",
+    "title":  "The One With The Tiny T-shirt",
+    "model":  "sonnet",
+    "cost_usd":  0.367,
+    "expressions":  [
+                        {
+                            "expression":  "have a crush on someone",
+                            "dialogue":  "I\u0027ve kinda of had this ah, this **crush** on you.",
+                            "speaker":  "Mark",
+                            "meaning":  "누군가에게 설레는 감정을 품다, 짝사랑하다",
+                            "nuance":  "\u0027like\u0027보다 감정 강도가 세고 \u0027love\u0027보다 가벼운 두근거림을 뜻한다. 1990년대부터 현재까지 일상적으로 쓰이는 표현이다.",
+                            "example":  "I think I have a crush on my new coworker. → 나 새로 온 동료한테 설레는 것 같아."
+                        },
+                        {
+                            "expression":  "ask someone out",
+                            "dialogue":  "I\u0027d really like to **ask you out** sometime.",
+                            "speaker":  "Mark",
+                            "meaning":  "누군가에게 데이트를 신청하다",
+                            "nuance":  "\u0027Do you want to go out with me?\u0027보다 자연스럽고 간결하다. 현재도 동일하게 사용되는 필수 표현이다.",
+                            "example":  "He finally asked her out after months of hesitation. → 그는 몇 달을 망설이다 드디어 그녀에게 데이트를 신청했다."
+                        },
+                        {
+                            "expression":  "I was wondering if you\u0027d like to ~",
+                            "dialogue":  "(In his head) **I was wondering if you\u0027d like to** go to a movie with me sometime.",
+                            "speaker":  "Gunther",
+                            "meaning":  "~하고 싶으실지 여쭤보고 싶었는데요 (정중한 제안·요청)",
+                            "nuance":  "\u0027Do you want to ~?\u0027보다 훨씬 부드럽고 정중한 요청 표현이다. 데이트 신청이나 공손한 부탁에 자주 쓰이며 격식·비격식 상황 모두 사용 가능하다.",
+                            "example":  "I was wondering if you\u0027d like to join us for dinner tonight. → 오늘 저녁 식사 같이 하실 수 있을까 해서요."
+                        },
+                        {
+                            "expression":  "in one\u0027s head (internal monologue)",
+                            "dialogue":  "(**In his head**) Say Rachel, I was wondering if you\u0027d like to go to a movie with me sometime.",
+                            "speaker":  "Gunther",
+                            "meaning":  "속으로, 마음속에서 (실제로 말하지 않고 생각만 하는 상태)",
+                            "nuance":  "\u0027in my head\u0027는 \u0027머릿속으로만 생각한 것\u0027을 뜻한다. 상상이나 내적 독백을 묘사할 때 쓰며, 실제 발화와 구분하는 표현이다.",
+                            "example":  "I had the whole conversation planned in my head, but when I saw her I couldn\u0027t say a word. → 대화를 머릿속으로 다 계획해뒀는데, 막상 그녀를 보니 한마디도 못 했어."
+                        },
+                        {
+                            "expression":  "pretty much",
+                            "dialogue":  "voice recognition is gonna be **pretty much** standard on any computer you buy",
+                            "speaker":  "Pete",
+                            "meaning":  "거의, 대체로, 사실상",
+                            "nuance":  "100%는 아니지만 거의 그렇다는 의미의 구어체 부사로, 일상 대화에서 매우 자주 등장한다. 현재도 동일하게 쓰인다.",
+                            "example":  "I\u0027m pretty much done with the project. Just need to review it once more. → 프로젝트 거의 다 끝났어. 한 번만 더 검토하면 돼."
+                        },
+                        {
+                            "expression":  "drive someone crazy",
+                            "dialogue":  "I mean it\u0027s **driving me crazy**.",
+                            "speaker":  "Monica",
+                            "meaning":  "~가 나를 미치게 한다, 너무 답답하거나 짜증스럽다",
+                            "nuance":  "화가 나거나 이해할 수 없는 상황을 강조하는 과장 표현이다. 부정적 감정 외에 \u0027헷갈려 죽겠다\u0027는 뉘앙스로도 쓴다.",
+                            "example":  "This bug is driving me crazy. I\u0027ve been on it for two hours. → 이 버그 때문에 미치겠어. 두 시간째 붙잡고 있어."
+                        },
+                        {
+                            "expression":  "not attracted to someone (at all)",
+                            "dialogue":  "I\u0027m **not attracted to him** at all!!",
+                            "speaker":  "Monica",
+                            "meaning":  "(성적·감정적으로) 전혀 끌리지 않는다",
+                            "nuance":  "외모뿐 아니라 감정적 끌림 전반을 포괄하는 표현이다. \u0027at all\u0027을 붙이면 \u0027전혀\u0027라는 강조가 더해진다.",
+                            "example":  "He\u0027s a great person, but I\u0027m just not attracted to him at all. → 좋은 사람인데, 그냥 전혀 끌리질 않아."
+                        },
+                        {
+                            "expression":  "when it comes to ~",
+                            "dialogue":  "She\u0027s so brilliantly incisive **when it comes to** deconstructing the psyche of the American middle class.",
+                            "speaker":  "Kate",
+                            "meaning":  "~에 관해서는, ~에 있어서",
+                            "nuance":  "특정 주제·분야로 화제를 좁힐 때 쓰는 연결 표현이다. 격식·비격식 상황 모두에서 사용 가능하다.",
+                            "example":  "When it comes to cooking Korean food, nobody beats my mom. → 한식 요리에 있어서는 우리 엄마를 당할 사람이 없어."
+                        },
+                        {
+                            "expression":  "Forget about it",
+                            "dialogue":  "**Forget about it.** She rocks!",
+                            "speaker":  "Joey",
+                            "meaning":  "말할 것도 없지, 두말하면 잔소리지 (= 당연히 최고야)",
+                            "nuance":  "이탈리아계 뉴욕 영어에서 온 표현으로, 맥락에 따라 \u0027당연하지\u0027 또는 \u0027말도 안 돼\u0027의 뜻으로 쓰인다. 현재도 쓰이지만 뉴욕 색깔이 강한 느낌이다.",
+                            "example":  "Best ramen in the city? Forget about it. → 이 도시 최고의 라멘? 말할 것도 없지."
+                        },
+                        {
+                            "expression":  "someone/something rocks",
+                            "dialogue":  "Forget about it. She **rocks**!",
+                            "speaker":  "Joey",
+                            "meaning":  "~은 최고야, 진짜 대단해",
+                            "nuance":  "1990년대 미국 청소년 문화에서 유행한 슬랭이다. 현재도 구어에서 쓰이지만 약간 레트로한 느낌이 있다.",
+                            "example":  "This band rocks! I can\u0027t believe I never heard them before. → 이 밴드 진짜 최고야! 지금까지 어떻게 몰랐지."
+                        },
+                        {
+                            "expression":  "cheat on someone",
+                            "dialogue":  "like I\u0027d be **cheating on Ross** or something",
+                            "speaker":  "Rachel",
+                            "meaning":  "(연인에게) 바람을 피우다",
+                            "nuance":  "연인 관계에서의 불성실한 행동을 뜻하는 필수 표현이다. 문장 끝의 \u0027or something\u0027은 확신이 없거나 표현을 부드럽게 할 때 붙인다.",
+                            "example":  "She felt guilty even though she\u0027d done nothing wrong — like she was cheating on him. → 아무 잘못도 안 했는데도 그에게 바람 피우는 것 같은 죄책감을 느꼈다."
+                        },
+                        {
+                            "expression":  "have it coming",
+                            "dialogue":  "Oh, well, I guess I **had that one coming**.",
+                            "speaker":  "Rachel",
+                            "meaning":  "자업자득이다, 당해도 싸다, 마땅히 받아야 할 결과다",
+                            "nuance":  "자신이 한 행동의 결과로 나쁜 일이 일어났을 때 인정하는 표현이다. \u0027You had it coming\u0027 형태로 상대에게 쓰기도 한다.",
+                            "example":  "He got fired for showing up late every day. He had it coming. → 매일 지각하다 해고됐어. 자업자득이지."
+                        },
+                        {
+                            "expression":  "the fog has lifted",
+                            "dialogue":  "maybe the crazy **fog has lifted** and she realises that life without me sucks.",
+                            "speaker":  "Ross",
+                            "meaning":  "혼란스럽거나 감정에 휩쓸린 상태에서 벗어나다, 정신이 들다",
+                            "nuance":  "감정적 혼란·집착을 \u0027안개(fog)\u0027에 비유한 관용 표현이다. 구어보다 약간 문학적이며, 현재도 \u0027the fog lifted\u0027 형태로 쓰인다.",
+                            "example":  "A month after the breakup, the fog finally lifted and I realized I was better off. → 헤어지고 한 달이 지나서야 안개가 걷히듯 내가 더 나아졌다는 걸 깨달았다."
+                        },
+                        {
+                            "expression":  "sucks",
+                            "dialogue":  "she realises that life without me.... a-**sucks**.",
+                            "speaker":  "Ross",
+                            "meaning":  "형편없다, 최악이다",
+                            "nuance":  "1980년대부터 쓰이기 시작해 90년대에 폭발적으로 확산된 속어다. 현재 가장 자주 쓰이는 부정 표현 중 하나지만 격식적인 상황에서는 피해야 한다.",
+                            "example":  "Traffic on Monday morning really sucks. → 월요일 아침 교통 상황은 진짜 최악이야."
+                        },
+                        {
+                            "expression":  "Bullets have left guns slower (비교 과장법)",
+                            "dialogue":  "You slept with somebody three hours after you thought you broke up. **Bullets have left guns slower!**",
+                            "speaker":  "Chandler",
+                            "meaning":  "총알도 저보다는 느리게 나갔을 거야 — 놀라울 만큼 빨리 행동했음을 과장하는 표현",
+                            "nuance":  "어떤 일이 믿기 어려울 정도로 빠르게 일어났을 때 쓰는 비교 과장법(hyperbole)이다. \u0027X don\u0027t/doesn\u0027t happen slower than Y\u0027 구조로 응용 가능하다.",
+                            "example":  "He got a new girlfriend a week after the breakup. Bullets have left guns slower. → 헤어진 지 일주일 만에 새 여자친구가 생겼대. 총알도 저보다는 느리게 나갔겠다."
+                        },
+                        {
+                            "expression":  "move on",
+                            "dialogue":  "She\u0027s **moving on**!",
+                            "speaker":  "Chandler",
+                            "meaning":  "(이별·과거·슬픔에서) 앞으로 나아가다, 새 출발하다",
+                            "nuance":  "이별 후 상대가 새 관계를 시작하거나 회복해나가는 것을 표현할 때 쓴다. 매우 일상적이고 현재도 동일하게 사용된다.",
+                            "example":  "You need to move on. Dwelling on the past won\u0027t help. → 이제 앞으로 나아가야 해. 과거에 머물러 있어 봤자 도움이 안 돼."
+                        },
+                        {
+                            "expression":  "for the wrong reasons",
+                            "dialogue":  "I\u0027m doing this **for the wrong reasons**, y\u0027know?",
+                            "speaker":  "Rachel",
+                            "meaning":  "잘못된 동기로, 바르지 않은 이유로",
+                            "nuance":  "\u0027for the right reasons\u0027와 짝을 이루는 표현이다. 행동의 동기가 순수하지 않음을 스스로 인정할 때 쓴다.",
+                            "example":  "I don\u0027t want to apologize just to end the argument — that would be doing it for the wrong reasons. → 싸움을 끝내려고 사과하고 싶진 않아. 그건 잘못된 이유로 하는 거잖아."
+                        },
+                        {
+                            "expression":  "Fair, schmair! (X, schm-X 패턴)",
+                            "dialogue":  "**Fair, schmair!** Y\u0027know?",
+                            "speaker":  "Mark",
+                            "meaning":  "\u0027공평하다고? 그게 무슨 상관이야!\u0027 — 상대방의 말을 유머러스하게 일축하는 표현",
+                            "nuance":  "유대계 미국인 영어(Yiddish)에서 온 패턴으로, 앞 단어의 첫 음절을 \u0027schm-\u0027으로 바꿔 그 개념을 무력화한다. 현재는 다소 구식이거나 코믹한 느낌이다.",
+                            "example":  "Rules, schmules! Just eat the cake. → 규칙이고 뭐고! 그냥 케이크나 먹어."
+                        },
+                        {
+                            "expression":  "in a place (in my life) where ~",
+                            "dialogue":  "right now I\u0027m just **in a place in my life** where I need to focus on me.",
+                            "speaker":  "Monica",
+                            "meaning":  "지금 내 삶의 어느 지점에서, 지금 나는 ~한 상황에 있다",
+                            "nuance":  "현재의 감정 상태나 삶의 단계를 완곡하게 설명하는 표현이다. 주로 거절이나 변명을 부드럽게 전달할 때 등장한다.",
+                            "example":  "I\u0027m just not in a place where I can commit to a relationship right now. → 지금은 관계에 헌신할 수 있는 상황이 아니야."
+                        },
+                        {
+                            "expression":  "feel like ~ing",
+                            "dialogue":  "you ah, **feel like getting** a cup of coffee?",
+                            "speaker":  "Joey",
+                            "meaning":  "~하고 싶다, ~하는 게 내키다",
+                            "nuance":  "\u0027want to\u0027보다 훨씬 가볍고 즉흥적인 느낌이다. 제안이나 권유할 때 부담 없이 쓸 수 있는 표현이다.",
+                            "example":  "Do you feel like grabbing lunch? → 점심이나 먹으러 갈까?"
+                        },
+                        {
+                            "expression":  "come out wrong",
+                            "dialogue":  "I **don\u0027t want this to come out wrong**, but",
+                            "speaker":  "Monica",
+                            "meaning":  "(말이) 이상하게 들리다, 의도와 다르게 전달되다",
+                            "nuance":  "솔직하거나 민감한 말을 꺼내기 전에 오해를 미리 방지하는 완충 표현이다. \u0027I don\u0027t want this to come out wrong, but...\u0027 형태로 자주 쓰인다.",
+                            "example":  "I don\u0027t want this to come out wrong, but I think your plan needs more work. → 이상하게 들릴 수 있는데, 네 계획에 보완이 좀 더 필요할 것 같아."
+                        },
+                        {
+                            "expression":  "keep track of",
+                            "dialogue":  "That\u0027s so Monica can **keep track**.",
+                            "speaker":  "Rachel",
+                            "meaning":  "~을 빠짐없이 파악하고 있다, 놓치지 않고 관리하다",
+                            "nuance":  "물건, 정보, 상황 등을 지속적으로 확인·관리하는 것을 표현한다. 활용 범위가 넓고 매우 일상적이다.",
+                            "example":  "I use an app to keep track of my expenses. → 앱으로 지출을 관리해."
+                        },
+                        {
+                            "expression":  "out of your mind",
+                            "dialogue":  "Ohh, **you\u0027re out of your mind**.",
+                            "speaker":  "Joey",
+                            "meaning":  "제정신이 아니다, 말도 안 된다",
+                            "nuance":  "\u0027You\u0027re crazy\u0027의 구어 표현이다. 상대방의 말이나 행동이 황당하거나 믿기 어려울 때 반응으로 쓴다.",
+                            "example":  "You paid $500 for that? Are you out of your mind? → 그거 500달러 줬다고? 제정신이야?"
+                        },
+                        {
+                            "expression":  "have done nothing but ~",
+                            "dialogue":  "you have **nothing but** talk about her for the last 48 hours!",
+                            "speaker":  "Chandler",
+                            "meaning":  "~밖에 안 했다, ~만 줄곧 해왔다",
+                            "nuance":  "특정 행동을 쉬지 않고 계속했음을 강조하는 표현이다. \u0027have done nothing but + 동사원형\u0027 패턴으로 쓰인다.",
+                            "example":  "She\u0027s done nothing but complain since she got here. → 그녀는 여기 온 이후로 불평만 늘어놓았어."
+                        },
+                        {
+                            "expression":  "pull someone\u0027s pigtails",
+                            "dialogue":  "you\u0027d be **pulling her pigtails** and pushing her down now!",
+                            "speaker":  "Chandler",
+                            "meaning":  "좋아하는 상대에게 일부러 짓궂게 굴다 (어린아이 같은 짝사랑 방식)",
+                            "nuance":  "어릴 때 좋아하는 여자애 머리카락을 당기는 행동에서 유래한 비유다. 성인에게 쓰면 \u0027사실은 좋아서 그러는 거 아니야?\u0027라는 뉘앙스가 담긴다.",
+                            "example":  "Stop being mean to her all the time. You\u0027re basically pulling her pigtails. → 그렇게 맨날 짓궂게 굴지 마. 사실 좋아서 그러는 거잖아."
+                        }
+                    ]
+}

@@ -1,0 +1,209 @@
+{
+    "id":  "s02e11",
+    "code":  "211",
+    "title":  "The One With the Lesbian Wedding",
+    "model":  "sonnet",
+    "cost_usd":  0.3038,
+    "expressions":  [
+                        {
+                            "expression":  "it hit me",
+                            "dialogue":  "\"It really **hit me** last night. I\u0027m gonna be on Days of our Lives.\"",
+                            "speaker":  "Joey",
+                            "meaning":  "어떤 사실이 갑자기 강하게 실감되다, 뒤늦게 깨닫다",
+                            "nuance":  "단순한 \u0027I realized\u0027보다 감정적 충격이 동반된 깨달음. 시간 차를 두고 뒤늦게 온다는 뉘앙스가 강함. 지금도 일상에서 매우 자주 씀.",
+                            "example":  "I was in the shower when it **hit me** — I had completely forgotten his birthday. → 샤워하다가 갑자기 실감이 왔어 — 그의 생일을 완전히 잊고 있었다는 걸."
+                        },
+                        {
+                            "expression":  "seeing as",
+                            "dialogue":  "\"which is really cool, **seeing as** I\u0027ve never catered before\"",
+                            "speaker":  "Monica",
+                            "meaning":  "~인 걸 감안하면, ~이니까 (because / given that의 구어체)",
+                            "nuance":  "since보다 가볍고 구어적. 약간 방어적이거나 상황을 설명할 때 자주 씀. 지금도 일상 대화에서 흔하게 등장.",
+                            "example":  "That\u0027s actually impressive, **seeing as** you\u0027ve only been coding for six months. → 코딩 시작한 지 6개월밖에 안 됐다는 걸 감안하면 사실 대단한 거야."
+                        },
+                        {
+                            "expression":  "smell-the-fart acting",
+                            "dialogue":  "\"she taught me all about how to work the cameras, and **smell-the-fart acting**.\"",
+                            "speaker":  "Joey",
+                            "meaning":  "대사를 떠올리는 척하며 진지한 표정으로 멈추는 과장된 연기 스타일 (Joey가 창안한 표현)",
+                            "nuance":  "Joey가 만든 허구적 용어지만 실제로 드라마틱 포즈를 비꼬는 말로 지금도 쓰임. 연기 비평이나 유머 맥락에서 가끔 등장.",
+                            "example":  "Every time he forgot his line, he just did the **smell-the-fart** pause and stared into the distance. → 대사를 잊을 때마다 그는 그냥 방귀 냄새 맡는 표정으로 허공을 응시했어."
+                        },
+                        {
+                            "expression":  "uptight",
+                            "dialogue":  "\"I can\u0027t believe you\u0027re so **uptight** about your mom comin\u0027.\"",
+                            "speaker":  "Joey",
+                            "meaning":  "지나치게 긴장하거나 경직된, 별거 아닌 것에 과민 반응하는",
+                            "nuance":  "상대가 과도하게 스트레스를 받는다고 가볍게 비판할 때 씀. \u0027tense\u0027보다 더 구어적이고 비판적 뉘앙스. 지금도 흔히 쓰임.",
+                            "example":  "Don\u0027t be so **uptight** — it\u0027s just a casual dinner, not a performance review. → 그렇게 긴장하지 마, 편한 저녁 식사지 업무 평가가 아니잖아."
+                        },
+                        {
+                            "expression":  "revel in",
+                            "dialogue":  "\"What would it say about me if I couldn\u0027t **revel in** your joy? I\u0027m revelling baby, believe me!\"",
+                            "speaker":  "Ross",
+                            "meaning":  "무언가를 매우 즐기다, 기쁨에 흠뻑 빠지다",
+                            "nuance":  "다소 격식체·문학적 표현. Ross는 여기서 반어적으로 씀. 지금도 쓰이지만 일상보다는 글이나 연설에 가까운 뉘앙스.",
+                            "example":  "She absolutely **revels in** the attention she gets when she walks into a room. → 그녀는 방에 들어설 때 받는 시선을 정말 즐겨."
+                        },
+                        {
+                            "expression":  "have issues with",
+                            "dialogue":  "\"I realize that you **have issues with** Carol and Susan, and I feel for you, I do.\"",
+                            "speaker":  "Monica",
+                            "meaning":  "~에 대해 감정적 문제나 갈등을 갖고 있다",
+                            "nuance":  "1990년대 심리치료 언어가 일상화된 표현. \u0027have a problem with\u0027보다 더 심리적·감정적 뉘앙스. 지금도 쓰이지만 살짝 90년대 느낌이 있음.",
+                            "example":  "She clearly **has issues with** her manager but won\u0027t talk about it directly. → 그녀는 분명히 매니저에 대한 감정적 앙금이 있는데 직접 말하진 않아."
+                        },
+                        {
+                            "expression":  "drop a bomb on someone",
+                            "dialogue":  "\"you just come in here, and **drop this bomb** on me, before you even tell Daddy.\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "충격적이거나 예상치 못한 소식을 갑자기 알리다",
+                            "nuance":  "\u0027drop a bombshell\u0027도 같은 뜻으로 쓰임. 감정적으로 당황스러운 상황에 씀. 지금도 매우 흔하게 쓰임.",
+                            "example":  "He **dropped a bomb** on the team by announcing he was leaving the company. → 그가 회사를 떠난다고 발표하며 팀에 폭탄을 투하했어."
+                        },
+                        {
+                            "expression":  "talk someone out of something",
+                            "dialogue":  "\"You want me to **talk you out of** it?\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "누군가를 설득해 어떤 것을 하지 않도록 막다",
+                            "nuance":  "반대인 \u0027talk someone into\u0027와 세트로 알아두면 좋음. 구어적이고 자주 쓰임. 지금도 매우 흔함.",
+                            "example":  "I almost quit the program, but my advisor **talked me out of** it. → 거의 프로그램을 그만둘 뻔했는데 지도교수가 말려서 못 그랬어."
+                        },
+                        {
+                            "expression":  "call off",
+                            "dialogue":  "\"I think we\u0027re **calling off** the wedding.\"",
+                            "speaker":  "Carol",
+                            "meaning":  "이미 계획된 것을 취소하다",
+                            "nuance":  "\u0027cancel\u0027보다 구어적이며 이미 준비·진행 중인 것(결혼, 파업, 약속 등)에 씀. 지금도 매우 흔하게 쓰임.",
+                            "example":  "They **called off** the meeting because half the team was out sick. → 팀 절반이 아파서 회의를 취소했어."
+                        },
+                        {
+                            "expression":  "be over something",
+                            "dialogue":  "\"Ross, I thought you were **over** this.\"",
+                            "speaker":  "Monica",
+                            "meaning":  "감정적으로 극복하다, 더 이상 신경 쓰지 않다",
+                            "nuance":  "이별, 과거 상처, 이미 지난 일 등에 씀. 치료 언어에서 왔지만 지금은 매우 일상적. \u0027Are you over it yet?\u0027처럼 단독으로도 씀.",
+                            "example":  "I thought he was **over** the rejection, but he brought it up again. → 거절당한 걸 극복한 줄 알았는데 또 꺼내더라고."
+                        },
+                        {
+                            "expression":  "worth a shot",
+                            "dialogue":  "\"[to Joey] **Worth a shot**, huh?\"",
+                            "speaker":  "Mr. Adelman",
+                            "meaning":  "시도해볼 만하다, 밑져야 본전이다",
+                            "nuance":  "결과가 어떻든 한번 해볼 만하다는 가벼운 뉘앙스. 실패를 각오하고 시도할 때 씀. 지금도 매우 자주 쓰임.",
+                            "example":  "I\u0027m not sure they\u0027ll say yes, but it\u0027s **worth a shot** to ask for a raise. → 승낙할지 모르겠지만 연봉 인상을 요청해볼 만은 해."
+                        },
+                        {
+                            "expression":  "unfinished business",
+                            "dialogue":  "\"I mean, she obviously has some kind of **unfinished business**.\"",
+                            "speaker":  "Phoebe",
+                            "meaning":  "아직 해결되지 않은 일, 마무리되지 않은 것",
+                            "nuance":  "원래 비즈니스 용어였지만 감정·관계·삶의 과제에 비유적으로도 씀. 영적·심리적 맥락에서도 자주 등장. 지금도 흔히 씀.",
+                            "example":  "He went back to his hometown feeling like he still had **unfinished business** there. → 그는 아직 해결하지 못한 일이 있다는 느낌에 고향으로 돌아갔어."
+                        },
+                        {
+                            "expression":  "cut into",
+                            "dialogue":  "\"you did **cut into** my busy day of sitting\"",
+                            "speaker":  "Mr. Adelman",
+                            "meaning":  "누군가의 시간이나 활동을 방해하다, 끊어먹다",
+                            "nuance":  "여기선 Mr. Adelman이 \u0027busy day of sitting\u0027이라는 농담과 함께 써서 유머를 만듦. \u0027cut into my time/schedule\u0027 형태로 지금도 씀.",
+                            "example":  "Sorry to **cut into** your lunch break, but can we talk for a few minutes? → 점심시간에 끼어들어서 미안한데 잠깐 얘기할 수 있어?"
+                        },
+                        {
+                            "expression":  "the hell with someone/something",
+                            "dialogue":  "\"if George and Adelaide can\u0027t accept that, then **the hell with them**.\"",
+                            "speaker":  "Ross",
+                            "meaning":  "~는 신경 꺼, ~따위는 상관없어 (강한 무시·거절의 표현)",
+                            "nuance":  "\u0027to hell with\u0027도 같은 뜻. 격식체에는 맞지 않지만 드라마·일상에서 감정이 고조될 때 자주 씀. 경미한 욕설 포함.",
+                            "example":  "**The hell with** the criticism — just submit the work and see what happens. → 비판 따위 신경 꺼 — 그냥 제출하고 뭔 일이 생기나 봐."
+                        },
+                        {
+                            "expression":  "make eyes at someone",
+                            "dialogue":  "\"three other girls **made eyes at** me over the buffet.\"",
+                            "speaker":  "Mrs. Green",
+                            "meaning":  "눈빛으로 추파를 던지다, 시선으로 낭만적 관심을 표현하다",
+                            "nuance":  "약간 구식 표현이라 나이 든 캐릭터에 자연스러움. 지금은 \u0027flirt with\u0027 또는 \u0027give someone the eye\u0027가 더 흔하게 쓰임.",
+                            "example":  "The guy at the next table kept **making eyes at** her the whole evening. → 옆 테이블 남자가 저녁 내내 그녀에게 눈빛으로 추파를 던졌어."
+                        },
+                        {
+                            "expression":  "couldn\u0027t help but",
+                            "dialogue":  "\"I **couldn\u0027t help but** overhear what you just said.\"",
+                            "speaker":  "wedding guest (woman)",
+                            "meaning":  "~하지 않을 수 없었다, 어쩔 수 없이 ~했다",
+                            "nuance":  "자신의 행동을 정중하게 사과하거나 설명할 때 씀. \u0027overhear\u0027와 특히 자주 짝을 이룸. 지금도 일상에서 자주 씀.",
+                            "example":  "I **couldn\u0027t help but** laugh when he tripped over his own feet mid-sentence. → 말하다가 자기 발에 걸려 넘어지는 거 보고 웃지 않을 수 없었어."
+                        },
+                        {
+                            "expression":  "move on (with one\u0027s life)",
+                            "dialogue":  "\"it\u0027s time for you to forget about Rose, **move on with your life**.\"",
+                            "speaker":  "woman at wedding",
+                            "meaning":  "과거에 집착하지 않고 앞으로 나아가다",
+                            "nuance":  "\u0027get over it\u0027보다 미래지향적 뉘앙스. 이별·상실·실패 후 회복을 권유할 때 씀. 지금도 매우 흔하게 쓰임.",
+                            "example":  "Losing the contract was tough, but it\u0027s time to **move on** and focus on the next opportunity. → 계약을 잃은 건 힘들었지만 이제 앞으로 나아가서 다음 기회에 집중할 때야."
+                        },
+                        {
+                            "expression":  "pretty much",
+                            "dialogue":  "\"Is it a living room? Is it a restaurant? Who can tell? But I guess that\u0027s the fun.\" / Rachel: \"**Pretty much**.\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "거의, 대체로, 그런 셈이지",
+                            "nuance":  "완전한 동의는 아니지만 대략 맞다는 뉘앙스. 단독 대답으로도, 문장 안에서도 씀. 지금도 매우 흔하게 쓰임.",
+                            "example":  "Is the report done? — **Pretty much**, I just need to add the conclusion. → 보고서 다 됐어? — 거의, 결론만 추가하면 돼."
+                        },
+                        {
+                            "expression":  "be stuck doing something",
+                            "dialogue":  "\"How come I\u0027m **stuck** dicing, when he gets to ball the melon?\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "하기 싫은 일을 어쩔 수 없이 해야 하는 상황에 처하다",
+                            "nuance":  "불만이나 억울함을 표현할 때 씀. \u0027stuck with\u0027는 원치 않는 것을 떠맡았을 때, \u0027stuck doing\u0027은 하기 싫은 행동에 씀. 지금도 매우 흔함.",
+                            "example":  "I ended up **stuck** doing all the data entry while everyone else went to lunch. → 다들 점심 먹으러 간 사이에 나만 데이터 입력을 다 하는 신세가 됐어."
+                        },
+                        {
+                            "expression":  "feel for someone",
+                            "dialogue":  "\"I realize that you have issues with Carol and Susan, and I **feel for** you, I do.\"",
+                            "speaker":  "Monica",
+                            "meaning":  "~의 처지가 안타깝다, 진심으로 공감하다",
+                            "nuance":  "\u0027I feel sorry for\u0027는 동정, \u0027I feel for\u0027는 감정 이입에 가까운 뉘앙스. 더 따뜻하고 진정성 있는 표현. 지금도 씀.",
+                            "example":  "I really **feel for** anyone who had to work from home with young kids during the pandemic. → 팬데믹 때 어린 아이들과 집에서 일해야 했던 사람들이 진심으로 안타까워."
+                        },
+                        {
+                            "expression":  "as in",
+                            "dialogue":  "\"**As in**, \u0027I now pronounce you wife and wife\u0027 married?\"",
+                            "speaker":  "Ross",
+                            "meaning":  "즉, 구체적으로 말하면 (믿기 어려운 사실을 예시로 되물을 때)",
+                            "nuance":  "믿기 어렵거나 확인하고 싶은 상황을 구체적 예시로 되묻는 구어체. \u0027You mean...?\u0027와 유사. 지금도 매우 흔하게 씀.",
+                            "example":  "You quit? **As in**, packed your things and walked out the door? → 그만뒀다고? 즉, 짐 싸서 그냥 나온 거야?"
+                        },
+                        {
+                            "expression":  "I don\u0027t get it",
+                            "dialogue":  "\"**I don\u0027t get it**. They already live together, why do they need to get married?\"",
+                            "speaker":  "Ross",
+                            "meaning":  "이해가 안 된다, 납득이 가지 않는다",
+                            "nuance":  "\u0027I don\u0027t understand\u0027의 구어체. 단순한 이해 부족뿐 아니라 납득이 안 된다는 뉘앙스도 포함. 지금도 매우 흔하게 씀.",
+                            "example":  "**I don\u0027t get it** — why would anyone pay extra for slower shipping? → 이해가 안 가 — 왜 더 느린 배송에 추가 요금을 내는 거야?"
+                        },
+                        {
+                            "expression":  "give someone away",
+                            "dialogue":  "\"They\u0027re supposed to **give me away** and everything.\"",
+                            "speaker":  "Carol",
+                            "meaning":  "결혼식에서 신부를 신랑에게 인도하다 (전통적으로 아버지의 역할)",
+                            "nuance":  "전통 결혼식 관행에서 나온 표현. 지금은 성별 무관하게 쓰이기도 함. 별개로 \u0027give away a secret\u0027(비밀 누설)이라는 뜻도 있으니 맥락 확인 중요.",
+                            "example":  "Her older brother **gave her away** at the ceremony since her father had passed. → 아버지가 돌아가셔서 오빠가 결혼식에서 그녀를 신랑에게 인도했어."
+                        },
+                        {
+                            "expression":  "come together",
+                            "dialogue":  "\"nothing makes God happier than when two people, any two people, **come together** in love.\"",
+                            "speaker":  "Minister",
+                            "meaning":  "하나로 모이다, 연합하다, 힘을 합치다",
+                            "nuance":  "결혼식 등 공식 맥락에서는 격식체로, 일반 맥락에서는 협력이나 화합을 강조할 때 씀. 비틀즈 노래로도 유명. 지금도 씀.",
+                            "example":  "The entire neighborhood **came together** to support the family after the fire. → 화재 이후 동네 전체가 그 가족을 돕기 위해 힘을 합쳤어."
+                        },
+                        {
+                            "expression":  "in my day",
+                            "dialogue":  "\"**In my day**, divorce was not an option.\"",
+                            "speaker":  "Phoebe (Mrs. Adelman\u0027s voice)",
+                            "meaning":  "내가 젊었을 때에는, 예전 그 시절에는",
+                            "nuance":  "나이 든 사람이 과거를 현재와 비교할 때 씀. 때로는 보수적 관점, 때로는 향수를 표현. 유머로도 자주 쓰임. 지금도 씀.",
+                            "example":  "**In my day**, you had to go to the library just to look up a single fact. → 우리 때는 사실 하나 찾으려고 도서관에 가야 했어."
+                        }
+                    ]
+}

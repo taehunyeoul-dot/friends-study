@@ -1,0 +1,209 @@
+{
+    "id":  "s02e17",
+    "code":  "217",
+    "title":  "The One Where Eddie Moves In",
+    "model":  "sonnet",
+    "cost_usd":  0.4858,
+    "expressions":  [
+                        {
+                            "expression":  "Get out.",
+                            "dialogue":  "Joey: Huh? So whaddya think? Casa de Joey. Huh? I decorated it myself.\nRoss: Get out.\nAll: No.",
+                            "speaker":  "Ross",
+                            "meaning":  "말도 안 돼! / 설마! — 상대방의 말에 놀라거나 믿기 어려울 때 나오는 감탄사. 물리적으로 나가라는 뜻이 아님.",
+                            "nuance":  "\"No way!\" 또는 \"You\u0027re kidding!\"과 같은 뉘앙스로, 놀람과 불신을 동시에 표현한다. 지금도 일상 구어에서 자주 쓰인다.",
+                            "example":  "\"I won the lottery.\" \"Get out! Are you serious?\" — \"나 복권 당첨됐어.\" \"말도 안 돼! 진짜야?\""
+                        },
+                        {
+                            "expression":  "[Noun] it is.",
+                            "dialogue":  "Monica: Wow Joey, this is, uhh...\nJoey: Art.\nMonica: Art it is.",
+                            "speaker":  "Monica",
+                            "meaning":  "그래, [명사]이네. — 상대방이 정의한 것을 온전히 납득하지 못하더라도 건조하게 수용하며 동의하는 표현.",
+                            "nuance":  "아이러니나 유머가 담길 때가 많다. 상대방의 주장을 그대로 돌려주는 패턴으로, 지금도 쓰인다. 한국어 \u0027그래, 그거로 하자\u0027와 달리 약간의 체념이나 냉소가 섞이는 경우가 많다.",
+                            "example":  "\"Let\u0027s call it a \u0027creative disagreement.\u0027\" \"Creative disagreement it is.\" — \"그냥 \u0027창의적 의견 충돌\u0027이라고 하자.\" \"그래, 창의적 의견 충돌이네.\""
+                        },
+                        {
+                            "expression":  "have a ball",
+                            "dialogue":  "Chandler: Yeah well, I hear the place looks great.\nJoey: Ahh, forget about it, I\u0027m havin\u0027 a ball.",
+                            "speaker":  "Joey",
+                            "meaning":  "신나게 즐기다, 대단히 즐거운 시간을 보내다.",
+                            "nuance":  "파티, 여행, 새로운 생활 등 즐거운 경험을 묘사할 때 쓴다. 여전히 쓰이지만 약간 클래식한 느낌이 있어 어른스럽거나 레트로한 뉘앙스를 줄 수 있다.",
+                            "example":  "\"How was the weekend trip?\" \"We had a ball — highly recommend that place.\" — \"주말 여행 어땠어?\" \"완전 신났어, 강력 추천해.\""
+                        },
+                        {
+                            "expression":  "Forget about it.",
+                            "dialogue":  "Chandler: Yeah well, I hear the place looks great.\nJoey: Ahh, forget about it, I\u0027m havin\u0027 a ball.",
+                            "speaker":  "Joey",
+                            "meaning":  "이 맥락에서는 \u0027말할 것도 없지, 더 말할 필요도 없이 (좋아)\u0027의 뜻. 하지만 문맥에 따라 \u0027그건 신경 꺼\u0027, \u0027말도 안 돼(감탄)\u0027, \u0027물론이지\u0027 등 의미가 완전히 달라진다.",
+                            "nuance":  "뉴욕·이탈리아계 미국인 슬랭으로, 글자 그대로 \u0027잊어버려\u0027가 아닌 경우가 훨씬 많다. 감탄할 때, 제안을 거절할 때, 상황을 일축할 때 각각 다르게 쓰이는 것이 핵심.",
+                            "example":  "\"Was the pasta good?\" \"Forget about it — best I\u0027ve ever had.\" — \"파스타 맛있었어?\" \"말할 것도 없지, 내 인생 최고였어.\""
+                        },
+                        {
+                            "expression":  "I got it.",
+                            "dialogue":  "Ross: Well uh, it\u0027s cause he had a thing with, wi-, with the thing.\nJoey: Right, I go-, I got it.",
+                            "speaker":  "Joey",
+                            "meaning":  "알겠어, 이해했어 — 굳이 끝까지 설명하지 않아도 맥락을 파악했다는 뜻.",
+                            "nuance":  "상대방이 말을 다 끝내기도 전에 이미 알아들었다는 신호로 쓴다. 때로는 \u0027알았다고, 그만해도 돼\u0027처럼 약간 퉁명스럽게 느껴질 수도 있다.",
+                            "example":  "\"You don\u0027t need to use too much, just a little—\" \"I got it, I got it.\" — \"너무 많이 쓸 필요 없어, 조금만—\" \"알겠다고, 알겠어.\""
+                        },
+                        {
+                            "expression":  "freak out",
+                            "dialogue":  "Phoebe: Anyway, OK, now promise you won\u0027t like, freak out and say how great this is until I\u0027m done, OK.\nAll: OK.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "흥분하다, 과잉반응하다 — 충격적이거나 흥분되는 상황에서 감정을 폭발시키는 것. 긍정적·부정적 상황 모두 가능.",
+                            "nuance":  "한국어 \u0027난리 치다\u0027와 가장 가까운 표현. 좋은 소식에 흥분하는 것도, 나쁜 소식에 패닉하는 것도 모두 \u0027freak out\u0027이다. 지금도 매우 흔하게 쓰인다.",
+                            "example":  "\"Don\u0027t freak out, but I accidentally deleted the file.\" — \"흥분하지 말고, 근데 실수로 파일 삭제했어.\""
+                        },
+                        {
+                            "expression":  "take it from the top",
+                            "dialogue":  "Phoebe: [singing] Smelly cat, smell-ly cat, what are they feeding you?\nProducer: Alrighty. From the top.\nPhoebe: OK. [singing] Smelly cat, smell-ly cat...",
+                            "speaker":  "Producer",
+                            "meaning":  "처음부터 다시 시작하자 — 음악이나 공연에서 맨 처음 마디부터 다시 하자는 뜻.",
+                            "nuance":  "원래 음악·공연 용어이지만 일반 대화에서도 \u0027처음부터 다시 해보자\u0027는 의미로 확장되어 쓰인다. \u0027from the top\u0027 단독으로 쓰거나 \u0027let\u0027s take it from the top\u0027 형태로도 쓴다.",
+                            "example":  "\"I got confused halfway through the explanation. Can we take it from the top?\" — \"설명 중간에 헷갈렸어. 처음부터 다시 해줄 수 있어?\""
+                        },
+                        {
+                            "expression":  "Tough noogies.",
+                            "dialogue":  "Monica: I wanna watch Entertainment Tonight.\nRoss: Tough noogies, we\u0027re watching Predators of the Serengetti.",
+                            "speaker":  "Ross",
+                            "meaning":  "안됐지만 어쩔 수 없어, 그건 네 문제야 — \u0027Tough luck\u0027의 유치하고 장난스러운 버전.",
+                            "nuance":  "어린아이처럼 구는 상황이나 형제자매 간의 말다툼에서 나오는 표현. \u0027Tough luck\u0027이나 \u0027Too bad\u0027보다 훨씬 더 유치한 뉘앙스라, 의도적으로 어린아이처럼 굴 때 씀.",
+                            "example":  "\"I wanted the last slice of pizza.\" \"Tough noogies — I got here first.\" — \"피자 마지막 조각 내가 원했는데.\" \"안됐지만 내가 먼저 왔어.\""
+                        },
+                        {
+                            "expression":  "get sucked into",
+                            "dialogue":  "Ross: [childish voice] Mi-mi-mii.\nRachel: [sarcastically] I\u0027ve never wanted you more.\n...\nRachel: Now I\u0027m mommy in this little play? Alright look, I refuse to get sucked into this like, weird little Geller dimension thing OK.",
+                            "speaker":  "Rachel",
+                            "meaning":  "원하지 않는데도 어떤 상황에 끌려 들어가다, 휘말리다.",
+                            "nuance":  "진공청소기에 빨려들 듯 상황에 빠져드는 이미지의 표현. 드라마, 갈등, 논쟁 등 부정적인 상황에서 주로 쓰인다. 지금도 매우 흔하게 쓰인다.",
+                            "example":  "\"I swore I wouldn\u0027t get sucked into another argument, and yet here I am.\" — \"다신 그런 싸움에 휘말리지 않겠다고 했는데, 결국 이꼴이 됐네.\""
+                        },
+                        {
+                            "expression":  "in a [설명] kind of way",
+                            "dialogue":  "Ross: Why did you hate me?\nMonica: Because, you were mean to me... I mean I, I, loved you in a \u0027you\u0027re my brother so I have to\u0027 kind of way, but basically, yeah, I hated your guts.",
+                            "speaker":  "Monica",
+                            "meaning":  "~한 식으로, ~한 방식으로 — 감정이나 상황을 정확히 표현하기 어려울 때 그 성질을 부드럽게 수식하는 완충 표현.",
+                            "nuance":  "\u0027in a [표현] kind of way\u0027는 직접 말하기 애매하거나 완충이 필요할 때 쓰는 패턴. 한국어로는 \u0027그런 식의\u0027나 \u0027그런 의미에서\u0027에 해당하며, 일상 구어에서 매우 자주 등장한다.",
+                            "example":  "\"I miss the old job, in a \u0027it was familiar\u0027 kind of way.\" — \"옛날 직장이 그립긴 해, 익숙했다는 그런 의미에서.\""
+                        },
+                        {
+                            "expression":  "just gonna have to [동사]",
+                            "dialogue":  "Rachel: Look, Chandler, he has moved on, OK, you have to too.\nRoss: You\u0027re just gonna have to accept the fact that you\u0027re just friends now, OK.",
+                            "speaker":  "Ross",
+                            "meaning":  "어쩔 수 없이 ~해야 해, 그냥 ~할 수밖에 없어 — 달갑지 않은 현실을 받아들이거나 어떤 행동을 해야 한다는 것을 강조.",
+                            "nuance":  "\u0027gonna have to\u0027는 \u0027going to have to\u0027의 구어 축약. 상대방에게 힘든 현실을 받아들이라고 부드럽지만 단호하게 말할 때 자주 쓰인다. 한국어의 \u0027~할 수밖에\u0027와 뉘앙스가 유사하다.",
+                            "example":  "\"You\u0027re just gonna have to be patient — results take time.\" — \"그냥 기다릴 수밖에 없어, 결과가 나오려면 시간이 걸려.\""
+                        },
+                        {
+                            "expression":  "piss someone off",
+                            "dialogue":  "Monica: Yeah. You\u0027re just gonna have to stop pissing me off.\nRoss: I can do that.",
+                            "speaker":  "Monica",
+                            "meaning":  "누군가를 짜증나게 하다, 열받게 하다.",
+                            "nuance":  "\u0027annoy\u0027보다 강도가 높은 구어 표현이지만, 일상 대화에서 매우 흔하게 쓰인다. 친한 사이에서는 유머처럼 쓰일 수도 있다. 지금도 널리 쓰인다.",
+                            "example":  "\"Stop pissing me off with your last-minute changes.\" — \"막판에 자꾸 바꿔서 나를 열받게 하지 마.\""
+                        },
+                        {
+                            "expression":  "What\u0027s with [명사]?",
+                            "dialogue":  "Joey: You know it\u0027s funny you should mention that \u0027cause I was thinkin\u0027... what\u0027s with the boxes?\nChandler: Oh, uhh, actually I uh, have some news.",
+                            "speaker":  "Joey",
+                            "meaning":  "왜 이게 있어? / 이게 무슨 상황이야? — 뭔가 평소와 다르거나 이상한 것을 발견했을 때 묻는 표현.",
+                            "nuance":  "\u0027What\u0027s with + 명사\u0027는 설명이 필요한 상황이나 사람의 태도를 캐주얼하게 물을 때 쓰는 패턴. 지금도 매우 흔하게 쓰인다.",
+                            "example":  "\"What\u0027s with the long face? Did something happen?\" — \"왜 그렇게 우울한 표정이야? 무슨 일 있어?\""
+                        },
+                        {
+                            "expression":  "in that [절]",
+                            "dialogue":  "Joey: Oh, now it\u0027s a spare room?\nChandler: Well yeah, in that it\u0027s not being used and I... have it to spare.",
+                            "speaker":  "Chandler",
+                            "meaning":  "~라는 의미에서, ~하다는 점에서 — 자신의 주장이나 표현을 구체적으로 부연 설명하거나 근거를 댈 때 쓰는 접속 표현.",
+                            "nuance":  "\u0027in the sense that\u0027 또는 \u0027because\u0027와 유사하게 쓰인다. 약간 격식체 느낌이 있지만 구어에서도 쓰이며, 한국어 \u0027~라는 의미에서\u0027에 해당한다.",
+                            "example":  "\"It was a good day, in that nothing went wrong.\" — \"아무 일도 없었다는 점에서는 좋은 하루였어.\""
+                        },
+                        {
+                            "expression":  "I couldn\u0027t be happier.",
+                            "dialogue":  "Joey: So how you two gettin\u0027 along?\nChandler: Oh, I couldn\u0027t be happier.",
+                            "speaker":  "Chandler",
+                            "meaning":  "이보다 더 행복할 수 없어 — 더할 나위 없이 기쁘고 만족스럽다는 최상급 표현.",
+                            "nuance":  "\u0027couldn\u0027t be + 비교급\u0027은 \u0027이보다 더 ~할 수 없다\u0027는 뜻의 구어 패턴. \u0027I couldn\u0027t be more excited / proud / pleased\u0027 등으로 응용 가능하며, 지금도 자주 쓰인다.",
+                            "example":  "\"We couldn\u0027t be happier with how the event turned out.\" — \"행사가 이렇게 잘 된 것에 이보다 더 기쁠 수가 없어.\""
+                        },
+                        {
+                            "expression":  "run like the wind",
+                            "dialogue":  "Chandler: See, this is the brilliance of the show. I say always keep them running. All the time, running. Run. Run Yasmine, run like the wind.",
+                            "speaker":  "Chandler",
+                            "meaning":  "바람처럼 달리다 — 매우 빠르게 달리다.",
+                            "nuance":  "과장된 속도를 표현하는 관용구. 유머러스하거나 과장된 맥락에서 자주 쓰이며, 실제로도 빠른 움직임을 묘사할 때 쓴다. 지금도 쓰인다.",
+                            "example":  "\"When the dog got off the leash, it ran like the wind and disappeared around the corner.\" — \"개가 줄에서 풀리자 바람처럼 달려 모퉁이 너머로 사라졌어.\""
+                        },
+                        {
+                            "expression":  "That was my first clue.",
+                            "dialogue":  "Phoebe: Well, OK, the record company sent over this piece of paper for me to sign, saying that it\u0027s OK for someone else to sing for me. That was my first clue.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "그게 첫 번째 단서였어 — 당연히 눈치챘어야 했는데 이제야 깨달았다는 아이러니컬한 표현.",
+                            "nuance":  "\u0027(Gee,) that was my first clue\u0027처럼 반어적으로 쓰여, \u0027그 뻔한 신호를 이제야 알아챘다\u0027는 자조적 뉘앙스를 준다. 지금도 쓰이며, 자책이나 유머의 맥락에서 자주 등장한다.",
+                            "example":  "\"He canceled three times in a row. That was my first clue he wasn\u0027t interested.\" — \"그가 세 번 연속 약속을 취소했어. 그게 관심 없다는 첫 번째 단서였어.\""
+                        },
+                        {
+                            "expression":  "This/That\u0027s the brilliance of [it/X].",
+                            "dialogue":  "Joey: Naa, you\u0027re just sayin\u0027 that \u0027cause you\u0027re in love with Yasmine Blepe.\nChandler: How could anyone not be in love with Yasmine Blepe?\nChandler: See, this is the brilliance of the show. I say always keep them running.",
+                            "speaker":  "Chandler",
+                            "meaning":  "그게 바로 [X의] 묘미야 / 핵심이야 — 어떤 것의 가장 독창적이거나 매력적인 부분을 강조할 때 쓰는 표현.",
+                            "nuance":  "상대방이 이해하지 못하는 매력 포인트를 설명할 때, 또는 역설적이고 단순한 것의 강점을 부각할 때 자주 쓰인다. 유머러스하거나 약간 과장된 맥락에서도 잘 어울린다.",
+                            "example":  "\"The app looks almost too simple.\" \"That\u0027s the brilliance of it — anyone can use it.\" — \"그 앱이 너무 단순해 보여.\" \"그게 바로 묘미야, 누구나 쓸 수 있잖아.\""
+                        },
+                        {
+                            "expression":  "have the right look",
+                            "dialogue":  "Rachel: OK, Phoebs. But what about you?\nPhoebe: Well I have a video, you have to pay attention. No, this voice woman, she\u0027s so talented but, according to the producer people, they said she doesn\u0027t have like the right look or something.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "외모가 어떤 역할이나 자리에 딱 맞다 / 적합한 이미지를 갖추다.",
+                            "nuance":  "연예계, 광고, 미디어 등에서 외모 적합성을 이야기할 때 쓰는 표현. \u0027look\u0027을 명사로 써서 외모·이미지를 나타내는 구어적 용법이며, 지금도 업계 용어로 자주 쓰인다.",
+                            "example":  "\"She has the talent, but the casting director said she doesn\u0027t have the right look for the role.\" — \"실력은 있는데 캐스팅 디렉터가 그 역할에 외모가 맞지 않는다고 했어.\""
+                        },
+                        {
+                            "expression":  "move on",
+                            "dialogue":  "Ross: And he\u0027s happy, he\u0027s, he\u0027s decorated.\nRachel: Look, Chandler, he has moved on, OK, you have to too.",
+                            "speaker":  "Rachel",
+                            "meaning":  "앞으로 나아가다, 극복하고 다음 단계로 넘어가다 — 이별, 실직, 우정의 변화 등 상실 상황을 뒤로하고 새로운 시작을 하다.",
+                            "nuance":  "한국어 \u0027잊어버려\u0027보다 능동적으로 앞으로 나아간다는 뉘앙스가 강하다. 이별뿐 아니라 직업, 생각, 습관 등 다양한 상황에 쓰이며 지금도 매우 흔하게 쓰인다.",
+                            "example":  "\"It\u0027s been a year since the breakup. It\u0027s time to move on.\" — \"헤어진 지 1년이 됐어. 이제 앞으로 나아갈 때야.\""
+                        },
+                        {
+                            "expression":  "rebound [명사]",
+                            "dialogue":  "Monica: I can\u0027t believe he has a new roommate. Who is this guy?\nRoss: Uh, Eddie something. He just met him.\nRachel: It\u0027ll never last, he\u0027s just a rebound roommate.",
+                            "speaker":  "Rachel",
+                            "meaning":  "이별(또는 다른 상실) 후 공백을 채우기 위해 급하게 선택한 [명사].",
+                            "nuance":  "원래 이별 후 급하게 만나는 \u0027rebound relationship\u0027에서 온 개념. Rachel이 창의적으로 \u0027rebound roommate\u0027에 적용했는데, 이처럼 \u0027rebound + 명사\u0027 패턴을 다양한 맥락에 응용할 수 있다.",
+                            "example":  "\"He took the first job offer after quitting — classic rebound career move.\" — \"그 사람 그만두자마자 들어온 첫 번째 제안 바로 수락했어, 전형적인 충동적 커리어 선택이지.\""
+                        },
+                        {
+                            "expression":  "Bite me.",
+                            "dialogue":  "Monica: It\u0027s my TV.\nRoss: Wha-, oh, quit it.\nMonica: Bite me.",
+                            "speaker":  "Monica",
+                            "meaning":  "꺼져, 웃기지 마, 닥쳐 — 상대방의 말을 강하게 거부하거나 무시할 때 쓰는 표현.",
+                            "nuance":  "강하고 무례한 표현이지만, 친한 사이나 형제자매 사이에서는 장난스럽게 쓰이기도 한다. \u0027shut up\u0027보다 약간 더 공격적인 뉘앙스. 지금도 쓰인다.",
+                            "example":  "A: \"You\u0027re going to mess this up like always.\" B: \"Oh, bite me.\" — A: \"넌 또 망칠 거야.\" B: \"웃기지 마.\""
+                        },
+                        {
+                            "expression":  "tell on someone",
+                            "dialogue":  "Ross: Well, Monica keeps changin\u0027 the channel.\nMonica: Oh that\u0027s great, why don\u0027t you tell mommy on me.",
+                            "speaker":  "Monica",
+                            "meaning":  "누군가를 고자질하다, 이르다.",
+                            "nuance":  "원래 어린아이들의 행동을 묘사하는 표현이지만, 어른들이 유치하게 구는 상황을 빗댈 때도 쓰인다. 여기서 Monica는 Ross가 어린아이처럼 군다는 걸 빈정대며 쓰고 있다.",
+                            "example":  "\"Go ahead and tell the manager on me if you want.\" — \"원하면 어디 가서 매니저한테 이르든지 해.\""
+                        },
+                        {
+                            "expression":  "How come [주어+동사]?",
+                            "dialogue":  "Joey: Hey, how come, uhh, Chandler didn\u0027t come?\nRoss: Well uh, it\u0027s cause he had a thing with, wi-, with the thing.",
+                            "speaker":  "Joey",
+                            "meaning":  "왜?, 어째서? — \u0027why\u0027의 구어적 대안.",
+                            "nuance":  "\u0027Why\u0027보다 더 캐주얼하고 구어적이다. 핵심 문법 포인트: \u0027how come + 주어 + 동사\u0027 순으로 의문문 도치를 쓰지 않는 것이 특징 (\u0027How come he didn\u0027t come?\u0027 O, \u0027How come didn\u0027t he come?\u0027 X). 지금도 매우 흔하게 쓰인다.",
+                            "example":  "\"How come you didn\u0027t mention this earlier?\" — \"왜 이걸 좀 더 일찍 말 안 했어?\""
+                        },
+                        {
+                            "expression":  "I hear [that] [절].",
+                            "dialogue":  "Chandler: Listen, I\u0027m, I\u0027m sorry I didn\u0027t make it over there today.\nJoey: Oh, that\u0027s OK. You uh, you had a thing.\nChandler: Yeah well, I hear the place looks great.",
+                            "speaker":  "Chandler",
+                            "meaning":  "~라고 들었어, ~라더라 — 간접적으로 얻은 정보를 캐주얼하게 전달할 때 쓰는 표현.",
+                            "nuance":  "\u0027I hear\u0027는 \u0027I\u0027ve heard\u0027와 같은 의미. 소문이나 간접 정보를 부드럽고 가볍게 꺼낼 때 쓴다. 직접 확인한 게 아니라 전해 들었다는 뉘앙스를 자연스럽게 담을 수 있다.",
+                            "example":  "\"I hear you\u0027ve been promoted. Congratulations!\" — \"승진했다고 들었어. 축하해!\""
+                        }
+                    ]
+}

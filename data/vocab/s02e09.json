@@ -1,0 +1,209 @@
+{
+    "id":  "s02e09",
+    "code":  "209",
+    "title":  "The One With Phoebe\u0027s Dad",
+    "model":  "sonnet",
+    "cost_usd":  0.4908,
+    "expressions":  [
+                        {
+                            "expression":  "the next thing you know",
+                            "dialogue":  "Joey: I can\u0027t believe it\u0027s Christmas already. Ya know, I mean, one day your eatin\u0027 turkey, **the next thing ya know**, your lords are a-leapin\u0027 and you geese are a-layin\u0027.\nChandler: Which is why geese are so relaxed this time of year.",
+                            "speaker":  "Joey",
+                            "meaning":  "어느새, 순식간에, 그러다 보면 어느 순간",
+                            "nuance":  "시간이 빠르게 지나가거나 예상치 못한 일이 갑자기 벌어졌을 때 쓰는 표현. 약간 과장된 이야기나 유머러스한 맥락에서도 자주 나옴.",
+                            "example":  "One day you\u0027re a college freshman, the next thing you know, you\u0027re at your graduation. → 어느 날 대학 신입생이었는데, 어느새 졸업식에 서 있어."
+                        },
+                        {
+                            "expression":  "all ears",
+                            "dialogue":  "Gang: Joey!\nJoey: Oh, but when Phoebe has a problem, **everyone\u0027s all ears**!\nGang: Joey!",
+                            "speaker":  "Joey",
+                            "meaning":  "귀 기울여 듣다, 완전히 집중해서 듣다",
+                            "nuance":  "\u0027I\u0027m all ears\u0027는 \u0027어서 말해봐, 다 들을게\u0027라는 뜻. 상대방이 할 말이 있을 때 적극적으로 들을 준비가 됐음을 나타내며, 여기서 Joey는 불평하는 맥락으로 씀.",
+                            "example":  "You said you had something important to tell me — I\u0027m all ears. → 중요한 얘기 있다고 했잖아, 다 들을게."
+                        },
+                        {
+                            "expression":  "go nuts",
+                            "dialogue":  "Ross: Hey Gunther, you got stairs in your place?\nGunther: Yeah.\nRoss: Here, **go nuts**. [gives him the Slinky]",
+                            "speaker":  "Ross",
+                            "meaning":  "마음껏 해봐, 실컷 즐겨봐",
+                            "nuance":  "무언가를 자유롭게 써도 된다고 허락하거나 마음껏 누리라고 할 때 쓰는 캐주얼한 표현. \u0027신나게 해봐\u0027라는 가벼운 격려의 의미도 있음.",
+                            "example":  "There\u0027s a whole pizza left — go nuts. → 피자 한 판 남았어, 실컷 먹어."
+                        },
+                        {
+                            "expression":  "You know you want to",
+                            "dialogue":  "Chandler: What\u0027s in the bag?\nRoss: Um, just some presents.\nJoey: C\u0027mon show us what you bought. **You know you want to.**",
+                            "speaker":  "Joey",
+                            "meaning":  "너도 하고 싶은 거 알잖아",
+                            "nuance":  "상대가 망설이고 있지만 사실은 하고 싶어한다는 걸 꿰뚫어 보고 장난스럽게 유도하는 표현. 가벼운 압박이나 놀림의 뉘앙스가 있음.",
+                            "example":  "Just try on the dress. You know you want to. → 그냥 그 드레스 입어봐. 입어보고 싶은 거 알잖아."
+                        },
+                        {
+                            "expression":  "from now on",
+                            "dialogue":  "Rachel: Horrible and degrading list of reasons not to be with me?\nRoss: How \u0027bout **from now on** we just call it the \u0027unfortunate incident\u0027?\n[Rachel walks off]",
+                            "speaker":  "Ross",
+                            "meaning":  "지금부터, 앞으로는",
+                            "nuance":  "과거 일을 뒤로하고 새로운 약속이나 방식을 제안할 때 씀. 여기서는 Ross가 민감한 상황을 피하려는 의도로 쓰고 있어 약간 구차한 뉘앙스도 담김.",
+                            "example":  "From now on, I\u0027m going to bed before midnight every night. → 앞으로는 매일 자정 전에 잠자리에 들 거야."
+                        },
+                        {
+                            "expression":  "And [X] it is",
+                            "dialogue":  "Monica: Oh, actually this year we just made him homemade cookies.\nChandler: **And twenty-five it is.**\nJoey: You gave him cookies?",
+                            "speaker":  "Chandler",
+                            "meaning":  "그러면 [X]로 결정이야 / 그걸로 하겠어",
+                            "nuance":  "상대방의 말에 영향을 받아 재빨리 자신의 결정을 바꾸거나 확정할 때 쓰는 표현. 약간 체념하거나 현실적으로 타협하는 느낌이 담겨 있음.",
+                            "example":  "\u0027The venue only holds fifty people.\u0027 \u0027And fifty guests it is.\u0027 → \u0027장소에 50명밖에 못 들어가요.\u0027 \u0027그러면 50명으로 결정이야.\u0027"
+                        },
+                        {
+                            "expression":  "I smell smoke. Maybe that\u0027s \u0027cause someone\u0027s pants are on fire.",
+                            "dialogue":  "Grandmother: Is it really your fa— well of course it is.\nPhoebe: OK, **I smell smoke. Maybe that\u0027s \u0027cause someone\u0027s pants are on fire.**\nGrandmother: Look, I...",
+                            "speaker":  "Phoebe",
+                            "meaning":  "누군가 거짓말하고 있다는 걸 안다",
+                            "nuance":  "영미권 동요 \u0027Liar, liar, pants on fire\u0027에서 유래. \u0027거짓말하는 거 다 보여\u0027를 재치 있게 에둘러 말하는 방식으로, 직접적이지 않지만 날카로운 뉘앙스가 있음.",
+                            "example":  "You said you were home all evening, but I saw your car downtown. I smell smoke. → 저녁 내내 집에 있었다고 했는데, 시내에서 차 봤거든. 거짓말하는 냄새 나는데."
+                        },
+                        {
+                            "expression":  "do the math",
+                            "dialogue":  "Grandmother: How\u0027s it going?\nPhoebe: Well, not so good. Upstate\u0027s pretty big, he\u0027s pretty small, **you do the math**.\nGrandmother: Well, I think you\u0027re better off without him.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "알아서 계산해봐, 뻔하잖아",
+                            "nuance":  "결론이 너무 명백해서 굳이 설명할 필요 없다고 느낄 때 씀. 약간 냉소적이거나 체념한 느낌이 섞이기도 함.",
+                            "example":  "It\u0027s a three-hour drive and we have half a tank. You do the math. → 세 시간 거리인데 기름이 반밖에 없어. 알아서 계산해봐."
+                        },
+                        {
+                            "expression":  "ran out on",
+                            "dialogue":  "Rachel: Phoebe, I thought your dad was in prison.\nPhoebe: No, that\u0027s my stepdad. My real dad\u0027s the one that **ran out on** us before I was born.\nRachel: How have you never been on Oprah?",
+                            "speaker":  "Phoebe",
+                            "meaning":  "(가족·책임 등을) 버리고 도망가다",
+                            "nuance":  "책임져야 할 상황에서 상대방을 내버려두고 떠난 경우에 씀. 배신감이나 분노가 섞인 강한 부정적 뉘앙스.",
+                            "example":  "He ran out on his family when things got tough. → 상황이 어려워지자 그는 가족을 버리고 도망쳤어."
+                        },
+                        {
+                            "expression":  "knocked up",
+                            "dialogue":  "Phoebe: No I just, just wanted to know who he was, ya know.\nGrandmother: I think you\u0027re better off without him. To me he\u0027s still the irresponsible creep who **knocked up** your mom and stole her Gremlin.\nPhoebe: No I just, just wanted to know who he was.",
+                            "speaker":  "Grandmother",
+                            "meaning":  "(누군가를) 임신시키다 (비공식적, 다소 거친 표현)",
+                            "nuance":  "계획되지 않은 임신, 특히 무책임한 상황을 묘사할 때 쓰는 구어체 표현. 공식적인 자리에서는 피해야 하며 부정적인 뉘앙스가 강함.",
+                            "example":  "He knocked her up and then disappeared. → 그는 그녀를 임신시키고 사라져버렸어."
+                        },
+                        {
+                            "expression":  "If you hit [place], you\u0027ve gone too far",
+                            "dialogue":  "Grandmother: He lives at 74 Laurel Drive in Middletown. **If you hit the Dairy Queen, you\u0027ve gone too far.** You can take my cab.\nPhoebe: Wow. Thank you.",
+                            "speaker":  "Grandmother",
+                            "meaning":  "\u0027hit\u0027이 \u0027(어떤 장소에) 도착하다 / 다다르다\u0027의 뜻으로 쓰임",
+                            "nuance":  "길 안내에서 \u0027hit\u0027은 특정 지점에 도달하는 것을 뜻함. 일상 대화와 길 안내에서 자주 등장하는 비공식 표현.",
+                            "example":  "If you hit the bridge, you\u0027ve gone too far — the turn is before it. → 다리에 닿으면 지나친 거야, 그 전에 꺾어야 해."
+                        },
+                        {
+                            "expression":  "hop in",
+                            "dialogue":  "Joey: Phoebe here with the cab yet?\nChandler: Yeah, she, she brought the invisible cab. . . **hop in**.\nJoey: Well she better get here soon, the outlet stores close at 7.",
+                            "speaker":  "Chandler",
+                            "meaning":  "(차 등에) 얼른 타",
+                            "nuance":  "차나 버스 등에 빠르게 탑승하라는 캐주얼한 초대 표현. 여기서 Chandler는 빈정대며 쓰고 있지만, 실제 상황에서도 자연스럽게 쓰임.",
+                            "example":  "We\u0027re already running late — hop in and I\u0027ll explain on the way. → 이미 늦었으니까 얼른 타, 가면서 설명할게."
+                        },
+                        {
+                            "expression":  "Here I go",
+                            "dialogue":  "Joey: Good luck Phoebs.\nPhoebe: OK, **here I go**. . . here I go. . . I\u0027m goin\u0027. [she just sits in the cab]\nChandler: Alright.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "자, 간다 / 이제 해볼게 (결심하고 시작하려 할 때)",
+                            "nuance":  "두렵거나 큰 결심이 필요한 일을 막 시작하려 할 때 스스로를 다독이며 하는 말. 실제로 움직이지 못하고 되풀이하는 장면이 유머 포인트가 됨.",
+                            "example":  "OK, here I go. I\u0027m calling him right now. → 자, 간다. 지금 바로 전화할 거야."
+                        },
+                        {
+                            "expression":  "cave",
+                            "dialogue":  "Ross: OK, tip the man.\nMonica: No, if he doesn\u0027t like our cookies, too bad, I am not gonna **cave**.\nRachel: Yeah, I\u0027m with Mon.",
+                            "speaker":  "Monica",
+                            "meaning":  "압박에 굴복하다, 못 이겨서 양보하다",
+                            "nuance":  "협상이나 갈등에서 상대의 요구나 압박에 결국 져서 원하는 걸 들어줄 때 씀. \u0027I won\u0027t cave\u0027 형태로 굳은 의지를 표현하는 데도 자주 쓰임.",
+                            "example":  "I told myself I wouldn\u0027t eat sweets, but I caved after seeing the cake. → 단 것 안 먹겠다고 했는데, 케이크 보고 결국 참지 못했어."
+                        },
+                        {
+                            "expression":  "seize the day / I\u0027m seizing",
+                            "dialogue":  "Rachel: you don\u0027t just sort of **seize the day**, you know. You like me for what, a year, you didn\u0027t do anything about it.\n[Later] Ross: you know how you say I never **seize the day**? Well, alright, even though he\u0027s your super, **I\u0027m seizing**. [approaches Mr. Treeger]\nRachel: Nice seizing. . . gel boy.",
+                            "speaker":  "Rachel / Ross",
+                            "meaning":  "기회를 잡다, 과감하게 행동에 나서다",
+                            "nuance":  "라틴어 carpe diem에서 온 표현으로, 지금 당장 용기 있게 행동하라는 뜻. Ross가 \u0027I\u0027m seizing\u0027처럼 동사 단독으로 쓴 게 재미있는 포인트.",
+                            "example":  "I was nervous about asking for a raise, but I decided to seize the moment. → 연봉 인상 요청이 두려웠지만, 용기 내서 기회를 잡기로 했어."
+                        },
+                        {
+                            "expression":  "play hardball",
+                            "dialogue":  "Monica: Looks like he\u0027s playin\u0027 baseball.\nRoss: You mean **hardball**?\nMonica: Whatever.",
+                            "speaker":  "Ross (correcting Monica)",
+                            "meaning":  "강경하게 밀어붙이다, 타협 없이 협상하다",
+                            "nuance":  "양보 없이 강하게 대응하는 협상 전략을 뜻함. Monica가 \u0027baseball\u0027이라고 잘못 말한 것을 Ross가 고쳐주는 장면이 웃음 포인트.",
+                            "example":  "When the landlord wouldn\u0027t lower the rent, we decided to play hardball. → 집주인이 월세를 안 낮춰주자 우리는 강경하게 나가기로 했어."
+                        },
+                        {
+                            "expression":  "figure something out",
+                            "dialogue":  "Phoebe: I\u0027m sorry about your shopping.\nChandler: Oh, that\u0027s OK, we\u0027ll **figure something out**.\nJoey: Uh, listen Phoebs, I know you\u0027re not goin\u0027 in there but do you think it\u0027d be alright if I went in and used his bathroom?",
+                            "speaker":  "Chandler",
+                            "meaning":  "방법을 찾다, 어떻게든 해결책을 내다",
+                            "nuance":  "문제가 생겼을 때 낙관적으로 \u0027어떻게든 되겠지\u0027라는 뉘앙스로 쓰는 표현. 구체적인 해결책이 없어도 자신감 있게 쓸 수 있음.",
+                            "example":  "I don\u0027t know how we\u0027ll afford it, but we\u0027ll figure something out. → 어떻게 감당할지는 모르겠지만, 어떻게든 방법이 생길 거야."
+                        },
+                        {
+                            "expression":  "take a big step",
+                            "dialogue":  "Joey: Phoebs, that\u0027s OK. You **took a big step** today.\nPhoebe: Yeah?\nChandler: Yeah, and someday when you\u0027re ready, you\u0027ll make it past the hedges.",
+                            "speaker":  "Joey",
+                            "meaning":  "중요한 한 발을 내딛다",
+                            "nuance":  "두렵거나 어려운 일을 시도한 것을 격려할 때 씀. 물리적 행동보다 감정적·심리적 진전을 묘사할 때 주로 사용됨.",
+                            "example":  "Admitting you need help is taking a big step. → 도움이 필요하다고 인정하는 것도 큰 한 발을 내딛는 거야."
+                        },
+                        {
+                            "expression":  "No can do",
+                            "dialogue":  "Ross: Oh, hey, do you think there\u0027s a chance you could fix that radiator now?\nMr. Treeger: **No can do**, like I told the girl, I can\u0027t get a new knob until Thursday.\nMonica: So, wait, you really did like my cookies?",
+                            "speaker":  "Mr. Treeger",
+                            "meaning":  "그건 안 돼, 불가능해",
+                            "nuance":  "\u0027I can\u0027t do that\u0027을 짧고 단호하게 거절하는 표현. 사과 없이 딱 잘라 말하는 느낌이며, 캐주얼한 상황에서 가볍게 쓸 수 있음.",
+                            "example":  "\u0027Can you cover my shift tomorrow?\u0027 \u0027No can do, I\u0027ve got plans.\u0027 → \u0027내일 내 시간 대신 일해줄 수 있어?\u0027 \u0027그건 안 돼, 약속이 있거든.\u0027"
+                        },
+                        {
+                            "expression":  "a whole mess of",
+                            "dialogue":  "Joey: Phoebs, what\u0027s goin\u0027 on?\nPhoebe: No, it\u0027s just like, ya know, it\u0027s **a whole mess of** stuff, ya know.\nJoey: Well, maybe he\u0027s, maybe he\u0027s this really cool pharmacist guy.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "아주 많은, 복잡하게 얽혀 있는 것들",
+                            "nuance":  "\u0027a lot of\u0027보다 더 혼란스럽고 감당하기 어려운 양이나 상황을 묘사할 때 씀. 구어체이며 감정적인 무게감이 있음.",
+                            "example":  "There\u0027s a whole mess of paperwork to get through before the deadline. → 마감 전에 처리해야 할 서류가 엄청 쌓여 있어."
+                        },
+                        {
+                            "expression":  "not especially",
+                            "dialogue":  "Chandler: Phoebs, let me ask you something, were, were these, uh, funny brownies?\nPhoebe: **Not especially**. But you know what, I think they had pot in them.\nRoss: So you guys, who else did you tip with cookies?",
+                            "speaker":  "Phoebe",
+                            "meaning":  "딱히 그렇지는 않았어 (부드러운 부정)",
+                            "nuance":  "\u0027No\u0027보다 훨씬 부드럽고 애매한 부정. 확실히 아니라고 하기 애매하거나, 가볍게 부정할 때 쓰는 표현.",
+                            "example":  "\u0027Was the movie funny?\u0027 \u0027Not especially, but the acting was good.\u0027 → \u0027영화 재미있었어?\u0027 \u0027딱히 그렇진 않았는데, 연기는 좋더라.\u0027"
+                        },
+                        {
+                            "expression":  "last but not least",
+                            "dialogue":  "Ross: Well this, this is too much, I feel like I should get you another sweater.\nChandler: **And last but not least**.\nJoey: They\u0027re ribbed for your pleasure.",
+                            "speaker":  "Chandler",
+                            "meaning":  "마지막이지만 결코 덜 중요하지 않은",
+                            "nuance":  "발표·선물 등에서 마지막 순서지만 앞의 것들과 동등하게(혹은 더) 중요하다는 걸 강조할 때 쓰는 고정 표현. 여기서는 황당한 선물을 소개하는 데 쓰여 웃음 포인트.",
+                            "example":  "And last but not least, I\u0027d like to thank my parents for their support. → 그리고 마지막으로, 하지만 결코 덜 중요하지 않게, 부모님께 감사를 전하고 싶어요."
+                        },
+                        {
+                            "expression":  "how come",
+                            "dialogue":  "Phoebe: Um, gram, can I see the pictures of my dad again?\nGrandmother: Oh. Oh, sure, sure, uh, **how come**?\nPhoebe: Just, you know, to see...",
+                            "speaker":  "Grandmother",
+                            "meaning":  "왜? (= why의 구어체)",
+                            "nuance":  "\u0027Why\u0027보다 더 캐주얼하고 구어적인 표현. 문법적으로도 차이가 있는데, \u0027Why are you late?\u0027와 달리 \u0027How come you\u0027re late?\u0027처럼 어순이 바뀌지 않음.",
+                            "example":  "\u0027I\u0027m not going to the party.\u0027 \u0027How come?\u0027 → \u0027나 파티에 안 갈 거야.\u0027 \u0027왜?\u0027"
+                        },
+                        {
+                            "expression":  "better off (without)",
+                            "dialogue":  "Grandmother: Well, I think you\u0027re **better off** without him. Oh honey, I know he\u0027s your daddy but to me he\u0027s still the irresponsible creep who knocked up your mom.\nPhoebe: No I just, just wanted to know who he was, ya know.",
+                            "speaker":  "Grandmother",
+                            "meaning":  "~없는 게 더 낫다, ~없이 사는 게 더 좋다",
+                            "nuance":  "누군가나 무언가 없이 지내는 게 더 행복하거나 나은 상황임을 표현할 때 씀. 위로나 조언의 맥락에서 자주 나옴.",
+                            "example":  "Honestly, you\u0027re better off without that job — the company was a mess anyway. → 솔직히, 그 직장 없는 게 더 나아, 어차피 회사가 엉망이었잖아."
+                        },
+                        {
+                            "expression":  "Wish me luck",
+                            "dialogue":  "Grandmother: Now, remember, nobody else drives that cab.\nPhoebe: Uh-huh, got it. Ooh, I\u0027m gonna see my dad. **Wish me luck**, Grandpa! [blows a kiss to a picture of Einstein]\n[Next scene: Chandler is standing on a street corner]",
+                            "speaker":  "Phoebe",
+                            "meaning":  "행운을 빌어줘",
+                            "nuance":  "두렵거나 중요한 일을 앞두고 주변 사람에게 응원을 요청하는 표현. 대화 상대가 실제로 행운을 빌어줄 수 없는 상황(사진 속 인물)에 쓰면 유머 포인트가 됨.",
+                            "example":  "I have a big interview tomorrow. Wish me luck! → 내일 중요한 면접이 있어. 행운을 빌어줘!"
+                        }
+                    ]
+}

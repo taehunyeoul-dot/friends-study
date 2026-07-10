@@ -1,0 +1,209 @@
+{
+    "id":  "s02e16",
+    "code":  "216",
+    "title":  "The One Where Joey Moves Out",
+    "model":  "sonnet",
+    "cost_usd":  0.8557,
+    "expressions":  [
+                        {
+                            "expression":  "What\u0027s the occasion?",
+                            "dialogue":  "Phoebe: Ooh, look at you fancy lads. **What\u0027s the occasion?** / Joey: Well, you know that guy that\u0027s on my show that\u0027s in a coma? He\u0027s havin\u0027 a brunch.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "오늘 왜 이렇게 차려입었어? / 무슨 특별한 날이야? — 누군가가 평소와 다르게 차려입거나 특별한 분위기일 때 이유를 묻는 표현",
+                            "nuance":  "정장·드레스·특별한 분위기가 감지될 때 자연스럽게 던지는 일상 질문. \u0027Why are you dressed up?\u0027보다 훨씬 자연스럽고 따뜻한 느낌.",
+                            "example":  "You\u0027re wearing a suit on a random Tuesday. **What\u0027s the occasion?** 뜻: 평범한 화요일에 정장이네. 무슨 날이야?"
+                        },
+                        {
+                            "expression":  "Can open, worms everywhere.",
+                            "dialogue":  "Joey: Well, that was only \u0027cause I used the red one to unclog the drain. / Chandler: Mine is the red one! Oh God. **Can open, worms everywhere.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "\u0027Open a can of worms(복잡한 문제를 건드리다)\u0027의 구어 축약형. 작은 것을 캐물었더니 예상치 못한 문제들이 줄줄이 드러날 때",
+                            "nuance":  "원형은 \u0027open a can of worms\u0027이나, 이미 터진 상황을 혼자 한탄하는 독백으로 씀. 짧게 내뱉는 독립 문장이 특징.",
+                            "example":  "I asked one question about the budget and now everyone is fighting. **Can open, worms everywhere.** 뜻: 예산 얘기를 꺼냈더니 다들 싸우기 시작했어. 긁어 부스럼이 됐네."
+                        },
+                        {
+                            "expression":  "live vicariously through someone",
+                            "dialogue":  "Mr. Geller: C\u0027mon Rich, it\u0027s my birthday, **let me live vicariously**. / Richard: I am not telling you guys anything.",
+                            "speaker":  "Mr. Geller",
+                            "meaning":  "다른 사람의 경험을 통해 간접적으로 체험하다 / 내가 하지 못하는 걸 상대방을 통해 대리 만족하다",
+                            "nuance":  "부러움·호기심·자기 처지에 대한 유머가 섞인 표현. 여행·모험·연애 등 직접 경험하기 어려운 삶을 친구에게 듣고 싶을 때 자주 씀.",
+                            "example":  "Tell me everything about your trip — I\u0027m **living vicariously through you**. 뜻: 여행 얘기 다 해줘, 네 덕분에 대리 체험 중이야."
+                        },
+                        {
+                            "expression":  "get bent out of shape",
+                            "dialogue":  "Joey: **What\u0027re you gettin\u0027 so bent out of shape** for, huh? It\u0027s not like we agreed to live together forever. We\u0027re not Bert and Ernie.",
+                            "speaker":  "Joey",
+                            "meaning":  "사소한 일에 지나치게 예민하거나 화가 난 상태 / \u0027왜 그렇게 흥분해?\u0027에 해당하는 구어 표현",
+                            "nuance":  "상대가 과잉반응한다고 느낄 때 쓰는 표현. \u0027upset\u0027이나 \u0027offended\u0027와 유사하지만 구어적으로 더 강하고 핀잔 어투가 섞인다.",
+                            "example":  "Don\u0027t get so **bent out of shape** about it — it was just a joke. 뜻: 그렇게 예민하게 굴지 마 — 그냥 농담이었잖아."
+                        },
+                        {
+                            "expression":  "hang in there",
+                            "dialogue":  "Richard: Just **hang in there**, OK. I\u0027ll go out first, alright. [Monica and Richard are hiding their relationship at a family party]",
+                            "speaker":  "Richard",
+                            "meaning":  "버텨라, 조금만 더 견뎌라 — 힘든 상황에서 포기하지 말라고 격려하는 표현",
+                            "nuance":  "영어권에서 가장 흔한 응원 표현 중 하나. 메시지·카드·일상 대화 어디서든 쓰이며, 짧지만 진심이 담긴 응원.",
+                            "example":  "The project\u0027s almost done. **Hang in there!** 뜻: 프로젝트 거의 끝났어. 조금만 더 버텨!"
+                        },
+                        {
+                            "expression":  "leave someone high and dry",
+                            "dialogue":  "Joey: Hey, are you cool with this. I mean, I don\u0027t want to **leave you high and dry**.",
+                            "speaker":  "Joey",
+                            "meaning":  "어려운 상황에 처한 상대를 아무런 도움 없이 홀로 남겨두다 / 곤경에 빠뜨리고 떠나다",
+                            "nuance":  "배를 좌초시켜 선원을 암초 위에 남기는 것에서 유래. 직장·팀 프로젝트·관계 등 도움이 필요한 상황에서 폭넓게 씀.",
+                            "example":  "He quit the day before the deadline and **left us high and dry**. 뜻: 마감 전날 그만둬서 우릴 곤경에 빠뜨렸어."
+                        },
+                        {
+                            "expression":  "drop it / Can we drop this?",
+                            "dialogue":  "Joey: **Can we drop this?** I am not interested in the guy\u0027s apartment. / Chandler: Oh please, I saw the way you were checking out his mouldings.",
+                            "speaker":  "Joey",
+                            "meaning":  "이 화제(또는 논쟁)는 여기서 끝내자 / 더 이상 이 얘기하지 마",
+                            "nuance":  "\u0027Let\u0027s change the subject\u0027보다 더 직접적이고 약간 지친/짜증난 뉘앙스. 명령형 \u0027drop it\u0027이 더 강하고, \u0027Can we drop this?\u0027는 요청형으로 좀 더 부드럽다.",
+                            "example":  "We\u0027ve been over this three times. Can we just **drop it**? 뜻: 이미 세 번이나 같은 얘기야. 그냥 그만할 수 없어?"
+                        },
+                        {
+                            "expression":  "You\u0027re on.",
+                            "dialogue":  "Chandler: Alright I\u0027ll tell you what, I\u0027ll play you for it. / Joey: Alright, **you\u0027re on**. I can take two minutes out of my day to kick your ass.",
+                            "speaker":  "Joey",
+                            "meaning":  "도전이나 내기를 받아들이다 / \u0027해보자!\u0027 — 제안이나 내기에 즉각 동의하는 표현",
+                            "nuance":  "\u0027Deal\u0027이나 \u0027I accept\u0027보다 훨씬 캐주얼하고 자신감 있는 수락. 승부 의지가 담긴 짧고 단호한 한 마디.",
+                            "example":  "\u0027I bet I can finish before you.\u0027 — \u0027**You\u0027re on.**\u0027 뜻: \u0027내가 더 빨리 끝낼 수 있다고 내기할게.\u0027 — \u0027해보자.\u0027"
+                        },
+                        {
+                            "expression":  "What a load of crap",
+                            "dialogue":  "Phoebe: This is a tattoo of the earth as seen from a great distance. It\u0027s the way my mother sees me from heaven. / Rachel: **Oh, what a load of crap.** That is a dot.",
+                            "speaker":  "Rachel",
+                            "meaning":  "완전히 말도 안 되는 소리다 / 헛소리 그만해 — 터무니없는 핑계나 주장을 강하게 부정할 때",
+                            "nuance":  "비격식적이고 상당히 강한 표현으로 친한 사이에서만 통하며 공적인 자리에선 피해야 함. \u0027That\u0027s nonsense\u0027보다 훨씬 감정적으로 강하다.",
+                            "example":  "He said he forgot — three times in a row. **What a load of crap.** 뜻: 세 번 연속으로 잊어버렸다고 했어. 말도 안 되는 소리야."
+                        },
+                        {
+                            "expression":  "give someone a stroke",
+                            "dialogue":  "Joey: Oh, is today the day you\u0027re gonna tell them about you two? / Monica: Yeah. It\u0027s my dad\u0027s birthday, I decided to **give him a stroke**.",
+                            "speaker":  "Monica",
+                            "meaning":  "충격적인 소식으로 상대를 뇌졸중 수준의 충격에 빠뜨리다 — 심각한 소식을 전할 계획을 자조적·유머러스하게 과장한 표현",
+                            "nuance":  "\u0027shock\u0027과 같은 뜻이지만 충격을 의학적 응급 상황으로 과장해 블랙 유머를 만드는 표현. 한국어의 \u0027심장이 멎을 것 같아\u0027와 비슷한 과장법.",
+                            "example":  "I can\u0027t tell my parents I failed — it\u0027ll **give them a stroke**. 뜻: 부모님께 낙제했다고 말 못 하겠어, 쓰러지실 거야."
+                        },
+                        {
+                            "expression":  "trade someone in for a younger model",
+                            "dialogue":  "Mrs. Geller: So Jack, you ever think about **trading me in for a younger model?** / Mr. Geller: Of course not. With you it\u0027s like I\u0027ve got two 25-year-olds.",
+                            "speaker":  "Mrs. Geller",
+                            "meaning":  "더 젊은 파트너로 교체하다 — 자동차나 전자기기를 새 모델로 바꿀 때 쓰는 \u0027trade in\u0027을 사람에 비유한 표현",
+                            "nuance":  "가볍게 농담으로도, 반쯤 걱정스럽게도 쓸 수 있다. 연애·결혼에서 나이 차이나 외도를 에둘러 표현할 때 자주 등장.",
+                            "example":  "Are you worried he\u0027ll **trade you in for a younger model** now that he\u0027s successful? 뜻: 그가 성공했으니 더 젊은 사람으로 바꿀까봐 걱정돼?"
+                        },
+                        {
+                            "expression":  "be (something of) an item",
+                            "dialogue":  "Mrs. Geller: It seems your daughter and Richard are **something of an item**. / Mr. Geller: That\u0027s impossible, he\u0027s got a twinkie in the city.",
+                            "speaker":  "Mrs. Geller",
+                            "meaning":  "두 사람이 연인 관계이다 / 사귀고 있다",
+                            "nuance":  "\u0027something of an item\u0027은 확신이 없거나 비공식적인 뉘앙스. \u0027an item\u0027만 쓰면 더 확정적. \u0027dating\u0027보다 구어적이고 약간 오래된 느낌.",
+                            "example":  "I had no idea they were **an item** until I saw them at the party. 뜻: 파티에서 보기 전까지 걔네가 사귀는 줄 몰랐어."
+                        },
+                        {
+                            "expression":  "march yourself in there",
+                            "dialogue":  "Phoebe: You are the boss of you. Now you **march your heinie in there** and get that heart tattooed on your hip. GO!!",
+                            "speaker":  "Phoebe",
+                            "meaning":  "지금 당장 주저 없이 들어가라 / 머뭇거리지 말고 당당하게 가라",
+                            "nuance":  "\u0027heinie\u0027는 엉덩이의 귀엽고 유머러스한 표현. \u0027march\u0027는 단호하게 행진하듯 나아가라는 명령 뉘앙스. 애정 어리면서도 강하게 밀어붙이는 격려로 쓰인다.",
+                            "example":  "Stop overthinking it. **March yourself in there** and ask for the promotion. 뜻: 너무 생각하지 마. 들어가서 승진 달라고 해."
+                        },
+                        {
+                            "expression":  "be cool with something",
+                            "dialogue":  "Joey: Hey, are you **cool with this**? I mean, I don\u0027t want to leave you high and dry. / Chandler: Hey, no, I\u0027ve never been lower or wetter. I\u0027ll be fine.",
+                            "speaker":  "Joey",
+                            "meaning":  "~이 괜찮다 / 받아들일 수 있다 / 문제없다",
+                            "nuance":  "\u0027Are you okay with this?\u0027의 더 캐주얼한 버전. 상대의 감정적 수용 여부를 확인할 때 씀. \u0027I\u0027m not cool with that\u0027으로 거절할 때도 자주 쓴다.",
+                            "example":  "I\u0027m thinking of bringing my dog. You **cool with that**? 뜻: 내 강아지 데려갈 것 같은데. 괜찮아?"
+                        },
+                        {
+                            "expression":  "Is that crystal?",
+                            "dialogue":  "Ross: Mom, there are so many people in my life. Some of them are seeing people and some of them aren\u0027t. **Is that crystal?**",
+                            "speaker":  "Ross",
+                            "meaning":  "이해했어? / 확실히 알겠어? — \u0027crystal clear(완전히 명확한)\u0027의 구어 축약형으로, 이해 여부를 강조하며 확인하는 표현",
+                            "nuance":  "보통 \u0027crystal clear?\u0027나 \u0027Is that crystal clear?\u0027로 쓰이며, 진지한 상황에서도 빈정대는 뉘앙스로도 쓰인다. 일방적으로 말하고 확인할 때 권위 있는 어투가 묻어난다.",
+                            "example":  "You will be home by midnight. No exceptions. **Is that crystal?** 뜻: 자정까지는 집에 들어와. 예외는 없어. 알겠지?"
+                        },
+                        {
+                            "expression":  "It\u0027s not like ~",
+                            "dialogue":  "Joey: **It\u0027s not like** we agreed to live together forever. We\u0027re not Bert and Ernie.",
+                            "speaker":  "Joey",
+                            "meaning":  "\u0027~한 것도 아니잖아\u0027 / \u0027설마 ~했겠어?\u0027 — 상대가 과잉반응한다고 느낄 때 상황을 경시하거나 자신을 방어하는 패턴",
+                            "nuance":  "자신의 행동을 변호하거나 상대의 과잉반응을 지적할 때 씀. 뒤에 오는 절은 \u0027당연히 그렇지 않다\u0027고 느껴지는 내용이어야 함. 한국어의 \u0027~한 것도 아닌데 왜 그래?\u0027와 유사.",
+                            "example":  "**It\u0027s not like** I broke a promise — I just changed the time. 뜻: 약속을 깬 것도 아니잖아 — 시간만 바꾼 거야."
+                        },
+                        {
+                            "expression":  "be crazy about someone",
+                            "dialogue":  "Mrs. Geller: Oh please, a relationship. / Monica: Yes, a relationship. For your information **I am crazy about this man**.",
+                            "speaker":  "Monica",
+                            "meaning":  "~에게 완전히 빠져 있다 / 깊이 사랑하거나 매우 좋아하다",
+                            "nuance":  "\u0027like\u0027나 \u0027love\u0027보다 감정의 강도와 흥분감을 더 생생하게 전달. 연인뿐 아니라 음식·취미에도 씀(\u0027I\u0027m crazy about sushi\u0027). \u0027I am\u0027을 강하게 말하면 방어적·확신적 뉘앙스가 살아난다.",
+                            "example":  "She doesn\u0027t even know I exist, but I\u0027m **crazy about her**. 뜻: 그녀는 내 존재도 모르지만, 나는 그녀에게 완전히 빠져 있어."
+                        },
+                        {
+                            "expression":  "There you go.",
+                            "dialogue":  "Joey: I just think it would be good for me, ya know, help me to grow or... whatever. / Chandler: **Well, there you go.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "그렇구나 / 바로 그거야 / (체념적으로) 그러면 그런 거지 — 상대의 말이 결론이 됐거나 상황이 예상대로 흘러갈 때 쓰는 반응",
+                            "nuance":  "문맥에 따라 ① 긍정: \u0027봐, 잘 됐잖아!\u0027 ② 체념: \u0027그래, 그럼 그런 거지\u0027 ③ 빈정: \u0027아 그래?\u0027 세 가지 뉘앙스로 쓰인다. 여기선 Chandler의 체념이 묻어 있다.",
+                            "example":  "\u0027I\u0027ve finally decided to move.\u0027 — \u0027**There you go.** I knew you would.\u0027 뜻: \u0027드디어 이사하기로 했어.\u0027 — \u0027그렇군. 그럴 줄 알았어.\u0027"
+                        },
+                        {
+                            "expression":  "let it go",
+                            "dialogue":  "Mr. Geller: C\u0027mon, tell us. Is she really 20? / Richard: **Jack, would you let it go?** I am not telling you guys anything.",
+                            "speaker":  "Richard",
+                            "meaning":  "그 얘기 그만해 / 집착하지 마 / 잊어버려 — 반복적으로 꺼내는 화제나 지난 일을 놓아주라고 할 때",
+                            "nuance":  "\u0027drop it\u0027과 비슷하지만 \u0027let it go\u0027는 완전히 놓아버리라는 뉘앙스가 강하다. 이미 끝난 일, 바꿀 수 없는 일에 집착할 때 주로 씀.",
+                            "example":  "The game\u0027s over. We lost. Just **let it go**. 뜻: 경기 끝났어. 졌잖아. 그냥 잊어버려."
+                        },
+                        {
+                            "expression":  "I wouldn\u0027t have thought ~ but...",
+                            "dialogue":  "Ross: [seeing Rachel\u0027s tattoo] It\u0027s really... sexy. **I wouldn\u0027t have thought it would be** but... wow.",
+                            "speaker":  "Ross",
+                            "meaning":  "~일 거라고는 생각 못 했는데 막상 보니... — 예상과 달리 좋게 놀랐을 때 쓰는 솔직한 표현",
+                            "nuance":  "처음 기대가 낮았음을 인정하면서도 좋게 놀랐다는 뉘앙스가 함께 담긴다. \u0027예상 외로 좋다\u0027는 칭찬이지만, 처음엔 회의적이었다는 솔직함이 특징.",
+                            "example":  "**I wouldn\u0027t have thought** this flavor combination would work, but it\u0027s actually amazing. 뜻: 이 맛 조합이 될 거라 생각 못 했는데, 진짜 맛있네."
+                        },
+                        {
+                            "expression":  "You need the practice.",
+                            "dialogue":  "Chandler: [after losing the foosball match] Congratulations. / Joey: [giving back the table] Naa, you keep it, **you need the practice**.",
+                            "speaker":  "Joey",
+                            "meaning":  "실력이 부족하니 더 연습이 필요하다 — 이긴 사람이 진 사람에게 건네는 가볍고 여유 있는 도발",
+                            "nuance":  "패자에게 건네는 승자의 가벼운 빈정거림. 공격적이지 않고 유머러스한 뉘앙스. 사물을 돌려주면서 재치 있게 한 마디 던질 때 효과적.",
+                            "example":  "Keep the chess set. **You clearly need the practice.** 뜻: 체스판 가져가. 연습이 많이 필요한 것 같으니까."
+                        },
+                        {
+                            "expression":  "That\u0027s what\u0027s weird?",
+                            "dialogue":  "Joey: Man this is weird. You ever realize Captain Crunch\u0027s eyebrows are actually on his hat? / Chandler: **That\u0027s what\u0027s weird?** Joey, the man\u0027s been captain of a cereal for the last 40 years.",
+                            "speaker":  "Chandler",
+                            "meaning":  "그게 이상하다고? — 더 이상한 점을 무시하고 엉뚱한 걸 지적할 때, 진짜 문제는 다른 곳에 있다고 반문하는 표현",
+                            "nuance":  "상대가 더 큰 문제를 놔두고 사소한 것에 집중할 때 아이러니를 짚어주는 패턴. \u0027That\u0027s your concern?\u0027이나 \u0027That\u0027s what bothers you?\u0027로도 변형 가능.",
+                            "example":  "\u0027This file name has a typo.\u0027 — \u0027**That\u0027s what\u0027s weird?** The whole database is corrupted.\u0027 뜻: \u0027이 파일 이름에 오타가 있어.\u0027 — \u0027그게 문제야? 데이터베이스 전체가 망가졌는데.\u0027"
+                        },
+                        {
+                            "expression":  "not that I know of",
+                            "dialogue":  "Mrs. Geller: Your son isn\u0027t seeing anyone is he? / Richard: **Not that I know of.** [awkwardly covering for Monica, who is his girlfriend]",
+                            "speaker":  "Richard",
+                            "meaning":  "내가 아는 한은 아니다 / 그런 것 같지 않은데 — 100% 확신은 없지만 자신이 인지한 바로는 그렇지 않다고 대답할 때",
+                            "nuance":  "정보가 불완전하거나, 여기처럼 일부러 모르는 척할 때도 쓰인다. 직접적인 \u0027No\u0027보다 여지를 남기는 부드럽고 완곡한 부정.",
+                            "example":  "\u0027Has he called back?\u0027 — \u0027**Not that I know of**, but I\u0027ll check.\u0027 뜻: \u0027그가 다시 전화했어?\u0027 — \u0027내가 아는 한은 없는데, 확인해볼게.\u0027"
+                        },
+                        {
+                            "expression":  "I guess this is it.",
+                            "dialogue":  "Joey: So, **I guess this is it**. / Chandler: Yeah, right, yeah, I guess so. / Joey: Um, take care. / Chandler: Yeah. [Joey moves out]",
+                            "speaker":  "Joey",
+                            "meaning":  "이게 마지막인 것 같다 / 이제 정말 끝인가봐 — 헤어짐이나 마무리를 맞이할 때 감정을 추스르며 체념하듯 하는 말",
+                            "nuance":  "이별·작별·끝을 맞이할 때 말을 아끼며 감정을 정리하는 표현. \u0027I suppose this is goodbye\u0027보다 훨씬 자연스럽고 감성적. 서로 말을 아끼는 상황에서 감정이 더 크게 전달됨.",
+                            "example":  "**I guess this is it**, then. Take care of yourself. 뜻: 이제 정말 헤어질 때가 됐네. 잘 지내."
+                        },
+                        {
+                            "expression":  "take [time] out of one\u0027s day",
+                            "dialogue":  "Chandler: I\u0027ll play you for it. / Joey: Alright, you\u0027re on. **I can take two minutes out of my day** to kick your ass.",
+                            "speaker":  "Joey",
+                            "meaning":  "하루 일과 중에서 짬을 내다 / 어떤 일을 위해 시간을 따로 할당하다",
+                            "nuance":  "진지하게 \u0027시간을 내줄게\u0027로도, 여기처럼 \u0027그 정도는 잠깐이면 돼\u0027라며 가볍게 깎아내리는 자신감 표현으로도 쓰임. 감사 표현으로는 \u0027Thank you for taking time out of your day\u0027가 매우 자주 쓰인다.",
+                            "example":  "Thank you for **taking time out of your busy day** to meet with me. 뜻: 바쁘신 중에 시간 내주셔서 감사합니다."
+                        }
+                    ]
+}

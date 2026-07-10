@@ -1,0 +1,209 @@
+{
+    "id":  "s03e25",
+    "code":  "325",
+    "title":  "The One At The Beach",
+    "model":  "sonnet",
+    "cost_usd":  0.3379,
+    "expressions":  [
+                        {
+                            "expression":  "making out",
+                            "dialogue":  "we got drunk on that hard cider, and then suddenly, I don\u0027t know, we were, we were **making out**.",
+                            "speaker":  "Bonnie",
+                            "meaning":  "키스하다, 애정 행위를 나누다 (격렬하게 입술을 맞추는 행위)",
+                            "nuance":  "단순한 kissing보다 강도 높고 지속적인 신체 접촉을 포함한다. 캐주얼한 성인 대화에서 쓰이며, 술자리·파티 이후 상황 묘사에 자주 등장한다.",
+                            "example":  "파티 후 친구에게 이야기할 때 → We ended up making out at the party — I had absolutely no idea that was going to happen."
+                        },
+                        {
+                            "expression":  "Tell it again.",
+                            "dialogue":  "Chandler: **Tell it again.** (pause, we see Rachel is not amused.) Seriously.",
+                            "speaker":  "Chandler",
+                            "meaning":  "다시 말해줘 (이야기가 너무 재미있거나 흥미로워서 또 듣고 싶을 때)",
+                            "nuance":  "이해를 못해서 반복을 요청하는 게 아니라, 이야기가 자극적이거나 재미있어 탐닉하듯 다시 요청하는 표현. 뒤에 \u0027Seriously.\u0027를 붙여 강조하는 패턴이 자연스럽다.",
+                            "example":  "친구가 웃긴 실수담을 끝냈을 때 → Oh my god, tell it again — start from the part where you knocked over the entire display."
+                        },
+                        {
+                            "expression":  "not amused",
+                            "dialogue":  "(pause, we see Rachel is **not amused**.)",
+                            "speaker":  "지문 (Rachel의 표정 묘사)",
+                            "meaning":  "전혀 재미없어하다, 냉담하게 불쾌해하다",
+                            "nuance":  "영국식 절제된 표현에서 온 관용구로, 화가 났지만 감정을 억누르며 냉담하게 불쾌함을 표시하는 뉘앙스. \u0027not happy\u0027보다 더 건조하고 풍자적이며, \u0027웃기지도 않네\u0027에 가깝다.",
+                            "example":  "회의에 지각한 직원을 바라보는 상사 → He strolled in 40 minutes late, and the manager was clearly not amused."
+                        },
+                        {
+                            "expression":  "B.F.F. (Best Friends Forever)",
+                            "dialogue":  "According to her high school yearbook, they were like **B.F.F.** Best Friends Forever.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "영원한 절친 (약어: BFF)",
+                            "nuance":  "1990년대~2000년대 미국 10대 슬랭으로 현재는 너무 흔해 약간 진부하거나 아이러니하게 쓰이기도 한다. 에피소드에서 Ross와 Bonnie가 어리둥절한 표정을 짓는 건 당시 이 표현이 아직 생소했음을 보여준다.",
+                            "example":  "졸업 앨범 사인에 → We\u0027ve been BFFs since kindergarten — I literally can\u0027t remember life before her."
+                        },
+                        {
+                            "expression":  "lose track of someone",
+                            "dialogue":  "I guess we **lost track of** everybody after high school.",
+                            "speaker":  "Phoebe Sr.",
+                            "meaning":  "연락이 끊기다, (사람의) 소식을 놓치다",
+                            "nuance":  "의도적이 아닌, 바쁜 일상 속 자연스럽게 서서히 연락이 끊겼을 때 쓴다. \u0027lose contact\u0027보다 더 캐주얼하고 무고의적인 느낌.",
+                            "example":  "오래된 친구 이야기를 할 때 → We were really close in college, but I kind of lost track of her after she moved to Berlin."
+                        },
+                        {
+                            "expression":  "big, fat bummer",
+                            "dialogue":  "Rachel: (sarcastic) Ohh, **big, fat bummerrr**.",
+                            "speaker":  "Rachel",
+                            "meaning":  "(비꼬는 말투로) 진짜 안됐네요 — 속으로는 전혀 안타깝지 않음",
+                            "nuance":  "\u0027bummer\u0027는 \u0027실망스러운 일\u0027인데, Rachel은 싫어하는 Bonnie가 못 온다는 소식에 과장되게 안타까운 척한다. \u0027big, fat\u0027은 강조 과장 표현으로 빈정댈 때 붙인다.",
+                            "example":  "싫어하는 동료가 회식에 못 온다고 했을 때 → Oh, he can\u0027t make it to dinner? Big, fat bummer. (속으로 안도하며)"
+                        },
+                        {
+                            "expression":  "die an old maid",
+                            "dialogue":  "Am I ever gonna find a boyfriend again? I\u0027m gonna **die an old maid**.",
+                            "speaker":  "Monica",
+                            "meaning":  "노처녀로 죽다, 결혼 못하고 혼자 늙다",
+                            "nuance":  "\u0027old maid\u0027는 결혼하지 않은 중년·노년 여성을 가리키는 구식이고 다소 경멸적인 표현. 지금은 sexist 뉘앙스로 여겨져 잘 안 쓰지만, 자조적으로 자기 자신에 대해 쓰거나 드라마 속 과거 표현으로 등장한다.",
+                            "example":  "연애 고민을 털어놓을 때 → Stop saying you\u0027ll die an old maid — you\u0027re 27 and incredible, it\u0027ll happen."
+                        },
+                        {
+                            "expression":  "if worst comes to worst",
+                            "dialogue":  "Hey, besides, **if worst comes to worst**, I\u0027ll be your boyfriend.",
+                            "speaker":  "Chandler",
+                            "meaning":  "최악의 경우에는, 정 안 되면",
+                            "nuance":  "최악의 시나리오가 실현될 때를 대비해 가벼운 제안이나 위로를 할 때 쓴다. \u0027if all else fails\u0027와 유사하나 더 구어적이며, 보통 유머나 대안 제시와 함께 쓴다.",
+                            "example":  "여행 계획이 틀어질까 걱정될 때 → If worst comes to worst, we can always just book a hostel for one night and figure it out from there."
+                        },
+                        {
+                            "expression":  "boyfriend material",
+                            "dialogue":  "What am I not ah, **boyfriend material**?",
+                            "speaker":  "Chandler",
+                            "meaning":  "남자친구감, 연인으로 사귈 만한 자질을 갖춘 사람",
+                            "nuance":  "\u0027material\u0027이 \u0027~감, ~가 될 자질\u0027의 의미로 쓰인 구조. \u0027husband material\u0027, \u0027wife material\u0027, \u0027management material\u0027 등으로 확장 가능. 상대방에게 자신이 연인으로 적합하냐고 묻거나 누군가를 평가할 때 쓴다.",
+                            "example":  "소개팅 후 친구와 대화할 때 → He\u0027s sweet and funny, but I\u0027m not sure he\u0027s boyfriend material — he seems way too flaky."
+                        },
+                        {
+                            "expression":  "check someone out",
+                            "dialogue":  "I saw you **checking me out** during the game last night.",
+                            "speaker":  "Chandler",
+                            "meaning":  "누군가를 (관심·매력을 느끼며) 훑어보다",
+                            "nuance":  "성적·낭만적 관심에서 상대방의 외모를 바라볼 때 쓰는 표현. 단순한 \u0027look at\u0027보다 훨씬 강한 뉘앙스로, 상대에게 들켰을 때 놀리듯 쓰기도 한다.",
+                            "example":  "카페에서 멋진 사람이 눈길을 줬을 때 → Did you see that guy checking you out from across the room? He couldn\u0027t take his eyes off you."
+                        },
+                        {
+                            "expression":  "gang up on someone",
+                            "dialogue":  "Fine. **Gang up on me!** I got you all right where I want you.",
+                            "speaker":  "Joey",
+                            "meaning":  "여럿이 한 사람에게 집중 공격하다, 뭉쳐서 한 명을 상대하다",
+                            "nuance":  "물리적 싸움뿐 아니라 게임·논쟁·농담에서도 여럿이 한 명에게 집중하는 상황에 쓴다. Joey처럼 지고 있을 때 항의하듯 외치는 패턴이 자연스럽다.",
+                            "example":  "회의에서 모두가 내 의견에 반대할 때 → Come on, stop ganging up on me — at least let me finish before you all shoot it down."
+                        },
+                        {
+                            "expression":  "let someone off early",
+                            "dialogue":  "My boss **let me off early**, so I took the train.",
+                            "speaker":  "Bonnie",
+                            "meaning":  "일찍 퇴근시켜 주다, 예정보다 일찍 보내주다",
+                            "nuance":  "\u0027let off\u0027은 \u0027해방시키다\u0027의 뜻으로, 상사나 권위자가 예정보다 일찍 자리를 떠나도 된다고 허락할 때 쓴다. 수업·훈련 맥락에서도 동일하게 사용. \u0027release early\u0027보다 훨씬 자연스럽다.",
+                            "example":  "수업이 일찍 끝났다고 친구에게 말할 때 → The professor let us off early today, so I grabbed coffee and walked home."
+                        },
+                        {
+                            "expression":  "give someone a nudge",
+                            "dialogue":  "That was her idea, I just **gave her a nudge**.",
+                            "speaker":  "Rachel",
+                            "meaning":  "살짝 부추기다, 슬쩍 밀어주다 (결정을 유도하다)",
+                            "nuance":  "물리적으로 팔꿈치로 툭 치는 것처럼, 비유적으로 누군가가 망설이는 결정을 하도록 살짝 격려했을 때 쓴다. 자신의 개입을 최소화해 보이거나 책임을 가볍게 표현할 때 특히 유용하다.",
+                            "example":  "친구가 좋아하는 사람에게 고백하도록 격려했을 때 → I didn\u0027t push him — I just gave him a little nudge and told him she\u0027d probably say yes."
+                        },
+                        {
+                            "expression":  "get over someone",
+                            "dialogue":  "**Getting over Rachel** was so (makes an incoherent nasal sound), y\u0027know? And I\u0027m finally feeling sane again.",
+                            "speaker":  "Ross",
+                            "meaning":  "누군가를 잊다, 이별 후 감정적으로 극복하다",
+                            "nuance":  "이별·짝사랑·상실 후 감정적으로 회복하는 과정을 가리킨다. \u0027forget someone\u0027보다 감정의 무게가 더 담기며, 완료보다 진행 과정을 강조한다. \u0027Are you over her yet?\u0027처럼 진행 여부를 물을 때도 쓴다.",
+                            "example":  "이별 후 시간이 지나서 → It took me almost a year, but I think I\u0027m finally getting over him."
+                        },
+                        {
+                            "expression":  "feel all floopy",
+                            "dialogue":  "I wanted to tell you yesterday, but I just, I **kinda felt all floopy**, and...",
+                            "speaker":  "Phoebe Sr.",
+                            "meaning":  "정신이 멍하다, 어질어질하다, 충격으로 제정신이 아닌 것 같다",
+                            "nuance":  "\u0027floopy\u0027는 표준 사전 단어가 아닌 구어체 표현으로, 충격이나 긴장으로 머릿속이 뒤죽박죽된 상태. \u0027out of it\u0027, \u0027scatterbrained\u0027와 비슷하지만 더 온화하고 귀엽게 들린다. 감정적으로 압도됐을 때 쓰는 비격식 표현.",
+                            "example":  "중요한 발표 전날 잠을 못 잔 후 → I couldn\u0027t sleep and just felt all floopy — I kept forgetting entire sentences I\u0027d rehearsed."
+                        },
+                        {
+                            "expression":  "breaking and entering",
+                            "dialogue":  "Uh, Pheebs, some people call that **breaking and entering**.",
+                            "speaker":  "Ross",
+                            "meaning":  "불법 침입 (타인의 건물에 무단으로 침입하는 범죄)",
+                            "nuance":  "법률 용어이지만 일상 대화에서도 누군가 허락 없이 남의 공간에 들어가는 행위를 가볍게 지적할 때 쓴다. \u0027some people call that ~\u0027 구조로 완곡하게 표현하면 유머러스한 경고가 된다.",
+                            "example":  "친구가 잠긴 사무실에 몰래 들어가려 할 때 → Hey, I hate to break it to you, but that\u0027s technically breaking and entering."
+                        },
+                        {
+                            "expression":  "take it from someone",
+                            "dialogue":  "**Take it from** a guy who\u0027s never had a long-term relationship — you don\u0027t need that kind of hurt.",
+                            "speaker":  "Chandler",
+                            "meaning":  "내 말을 믿어, 내 경험에서 하는 말인데",
+                            "nuance":  "자신의 경험(주로 실패나 시행착오)을 근거로 조언할 때 쓰는 표현. \u0027trust me\u0027보다 자기 고백적이고 자조적인 뉘앙스가 있다. Chandler처럼 스스로를 실패자로 묘사하며 조언하는 패턴이 특히 자연스럽다.",
+                            "example":  "해외여행 초보자에게 조언할 때 → Take it from someone who lost her passport on day one — always keep a photocopy separate from the original."
+                        },
+                        {
+                            "expression":  "fan out",
+                            "dialogue":  "Joey: **Fan out! Fan out!**",
+                            "speaker":  "Joey",
+                            "meaning":  "흩어져라, 부채꼴 모양으로 퍼져라",
+                            "nuance":  "원래 군사·경찰 드라마에서 수색 시 사용하는 표현이지만, 일상에서 그룹이 좁은 공간에서 퍼질 때도 쓴다. Joey가 게임을 피하려고 쓴 것처럼 코믹한 과장으로도 사용된다.",
+                            "example":  "단체 사진을 찍을 때 → Okay, fan out a little — I can\u0027t fit everyone in the frame when you\u0027re all bunched up like that."
+                        },
+                        {
+                            "expression":  "bounce off",
+                            "dialogue":  "You can see the **moonlight bouncing off** her head!",
+                            "speaker":  "Ross",
+                            "meaning":  "빛이 ~에 반사되다",
+                            "nuance":  "빛이 표면에서 반사될 때 쓰는 표현. \u0027reflect off\u0027와 같은 의미지만 \u0027bounce\u0027가 더 생동감 있는 시각적 이미지를 준다. Ross는 Bonnie의 민머리에 달빛이 반사된다고 과장해 표현했다.",
+                            "example":  "너무 눈부신 환경을 묘사할 때 → The sunlight was bouncing off the water so brightly I could barely keep my eyes open."
+                        },
+                        {
+                            "expression":  "come up with something",
+                            "dialogue":  "whoever I point has to **come up with something** fun for us to do.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "무언가를 생각해내다, 아이디어를 내다",
+                            "nuance":  "\u0027think of\u0027보다 능동적이고 창의적인 노력이 담긴 표현. 해결책·아이디어·변명·계획 등 다양한 상황에 쓰인다. \u0027I can\u0027t come up with anything\u0027처럼 막막할 때도 자주 쓴다.",
+                            "example":  "팀 기획회의에서 아이디어가 막혔을 때 → We need to come up with a better angle for this campaign — what we have right now just isn\u0027t landing."
+                        },
+                        {
+                            "expression":  "catch up",
+                            "dialogue":  "Cool! I\u0027ll **catch up**! (She takes off her sweater.)",
+                            "speaker":  "Bonnie",
+                            "meaning":  "따라잡다, 뒤처진 것을 메우다",
+                            "nuance":  "게임·공부·업무 등에서 다른 사람보다 뒤처진 상황을 빠르게 따라잡겠다는 표현. Bonnie의 경우 스트립 포커에서 다른 사람들이 먼저 옷을 벗어 뒤처진 상황을 따라잡겠다는 의미. \u0027오랜 친구와 밀린 얘기를 나누다\u0027(catch up with someone)라는 다른 의미도 있다.",
+                            "example":  "늦게 모임에 합류했을 때 → Don\u0027t worry, I missed the first half but I\u0027ll catch up — just fill me in on what happened."
+                        },
+                        {
+                            "expression":  "okey-dokey",
+                            "dialogue":  "Bonnie: Don\u0027t be too long. Ross: **Okey-dokey!**",
+                            "speaker":  "Ross",
+                            "meaning":  "알겠어, 좋아 (경쾌하고 가볍게)",
+                            "nuance":  "\u0027Okay\u0027의 구어적·강조형으로 더 경쾌하고 흔쾌한 동의를 표현한다. 다소 아이 같거나 순진한 느낌을 줄 수 있어 진지한 대화에서는 부적절하다. 어른이 쓰면 약간 코믹하거나 가볍게 받아치는 느낌.",
+                            "example":  "부탁을 흔쾌히 받아들일 때 → \u0027Can you grab milk on the way home?\u0027 \u0027Okey-dokey! Anything else you need?\u0027"
+                        },
+                        {
+                            "expression":  "pass out",
+                            "dialogue":  "After he **passed out**, we put the sand around him to keep him warm.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "기절하다, (술·피로로) 곯아떨어지다",
+                            "nuance":  "의학적으로는 \u0027의식을 잃다\u0027이지만 일상에서는 술에 취해 정신을 잃거나 극도로 피로해 갑자기 깊이 잠드는 상황에 쓴다. \u0027fall asleep\u0027보다 더 급격하고 의지와 무관하게 쓰러진 느낌.",
+                            "example":  "파티 뒤 친구 상태를 설명할 때 → He had like four drinks and passed out on the couch before midnight."
+                        },
+                        {
+                            "expression":  "let me get this straight",
+                            "dialogue":  "**So let me get this straight.** If you go with Bonnie tonight, you\u0027re doing the smart, healthy thing and moving on.",
+                            "speaker":  "Joey",
+                            "meaning":  "잠깐, 내가 제대로 이해한 건지 정리할게",
+                            "nuance":  "상대방의 말을 자기 식으로 요약해 확인하는 표현. 복잡하거나 모순돼 보이는 상황을 정리하거나, 핵심 아이러니를 드러낼 때 효과적이다. Joey처럼 요약한 후 허점을 찌르거나 빈정댈 때 특히 강력하다.",
+                            "example":  "황당한 상황을 요약할 때 → Let me get this straight — you quit your job before finding a new one, and you\u0027re surprised you\u0027re broke?"
+                        },
+                        {
+                            "expression":  "What the hell were you thinking?!",
+                            "dialogue":  "**What the hell were you thinking?!!**",
+                            "speaker":  "Ross",
+                            "meaning":  "도대체 무슨 생각으로 그런 거야?!",
+                            "nuance":  "\u0027What were you thinking?\u0027보다 \u0027the hell\u0027이 추가되어 훨씬 강한 분노와 황당함을 표현한다. 상대의 행동이 이해 불가할 정도로 충격적일 때 쓰며, 친한 사이에서는 분노 반, 황당함 반의 느낌으로도 쓰인다.",
+                            "example":  "친구가 무모한 결정을 했다는 걸 알았을 때 → You signed a lease on a place you\u0027ve never seen in person?! What the hell were you thinking?!"
+                        }
+                    ]
+}

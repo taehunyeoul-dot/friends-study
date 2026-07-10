@@ -1,0 +1,209 @@
+{
+    "id":  "s02e22",
+    "code":  "222",
+    "title":  "The One With the Two Parties",
+    "model":  "sonnet",
+    "cost_usd":  0.3878,
+    "expressions":  [
+                        {
+                            "expression":  "buy that",
+                            "dialogue":  "Joey: Hey I liked her, alright. Maybe, maybe too much. I don\u0027t know I guess I just got scared.\nPhoebe: I\u0027m sorry, I didn\u0027t know.\nJoey: I didn\u0027t think anyone\u0027d buy that, ok.",
+                            "speaker":  "Joey",
+                            "meaning":  "(핑계나 말을) 믿다, 납득하다",
+                            "nuance":  "구어체. \"I didn\u0027t buy that story\"처럼 주로 부정문에 씀. believe나 accept보다 훨씬 캐주얼하며 특히 거짓말·핑계 맥락에 자주 등장함",
+                            "example":  "He said he was stuck in traffic for three hours. Nobody bought that. → 그가 3시간 동안 차가 막혔다고 했어. 아무도 그 말 안 믿었어."
+                        },
+                        {
+                            "expression":  "from hell",
+                            "dialogue":  "Rachel: Agh, it was the graduation from hell.",
+                            "speaker":  "Rachel",
+                            "meaning":  "최악의 ~, 지옥 같은 ~ (명사 뒤에 붙여 극단적 부정을 강조하는 intensifier)",
+                            "nuance":  "\"the neighbor from hell\", \"the date from hell\"처럼 어떤 명사에나 붙일 수 있음. 격식체에는 부적합한 구어 표현이며 과장이 강할수록 효과가 큼",
+                            "example":  "It was the commute from hell — two hours standing in the rain. → 지옥 같은 출퇴근이었어 — 빗속에서 두 시간을 서 있었잖아."
+                        },
+                        {
+                            "expression":  "drop by",
+                            "dialogue":  "Monica: No no, the father can, but um, since I am the roommate I can tell you that she\u0027s not here...\nMr. Greene: What? The father can\u0027t drop by to see the daughter on her birthday?",
+                            "speaker":  "Mr. Greene",
+                            "meaning":  "(예고 없이) 잠깐 들르다",
+                            "nuance":  "stop by, drop in과 거의 같은 의미. 사전 약속 없이 방문할 때 씀. \"I thought I\u0027d drop by\"처럼 과거형으로도 자주 쓰임",
+                            "example":  "I was in the neighborhood, so I thought I\u0027d drop by. → 근처에 왔다가 그냥 잠깐 들러봤어."
+                        },
+                        {
+                            "expression":  "keep it movin\u0027",
+                            "dialogue":  "Chandler: Alright fellas, let\u0027s keep it movin\u0027, let\u0027s keep it movin\u0027.",
+                            "speaker":  "Chandler",
+                            "meaning":  "멈추지 말고 계속 이동해, 지체하지 마",
+                            "nuance":  "keep moving의 구어 단축형. 군중이나 사람을 이동시킬 때 쓰며 약간 권위적·경찰적 뉘앙스가 있어 일상에선 장난스럽게 씀",
+                            "example":  "Nothing to see here, people — keep it movin\u0027! → 볼 거 없어요, 다들 — 이동하세요!"
+                        },
+                        {
+                            "expression":  "stay clear of",
+                            "dialogue":  "Rachel: Uhh, let\u0027s just stay clear of \u0027I\u0027m the guy that\u0027s doing your daughter\u0027 and you should be ok.",
+                            "speaker":  "Rachel",
+                            "meaning":  "~을 피하다, ~에 가까이 하지 않다",
+                            "nuance":  "steer clear of와 같은 의미. 말·화제·장소·사람 등 광범위하게 씀. avoid보다 더 강한 경계의 뉘앙스가 있음",
+                            "example":  "Just stay clear of that topic — it always starts a fight. → 그 주제는 그냥 피해 — 항상 싸움으로 끝나거든."
+                        },
+                        {
+                            "expression":  "how you holdin\u0027 up",
+                            "dialogue":  "Chandler: Hey, how you holdin\u0027 up there, tiger?",
+                            "speaker":  "Chandler",
+                            "meaning":  "(힘든 상황에서) 어떻게 지내고 있어?, 잘 버티고 있어?",
+                            "nuance":  "\"How are you doing?\"보다 훨씬 따뜻하고 걱정 어린 표현. 어려운 상황에 처한 사람에게 씀. tiger, champ 같은 애칭과 함께 쓰면 더 다정한 느낌",
+                            "example":  "Your exam\u0027s tomorrow — how you holdin\u0027 up? → 내일 시험이잖아 — 잘 버티고 있어?"
+                        },
+                        {
+                            "expression":  "get through",
+                            "dialogue":  "Rachel: Oh, Chandler how did you get through this?",
+                            "speaker":  "Rachel",
+                            "meaning":  "(힘든 상황·시기를) 버텨내다, 헤쳐나가다",
+                            "nuance":  "survive, cope보다 구어적이고 자연스러움. get through the night / a breakup / finals처럼 뒤에 구체적인 시련이 옴",
+                            "example":  "I don\u0027t know how I\u0027m gonna get through this week. → 이번 주를 어떻게 버텨낼지 모르겠어."
+                        },
+                        {
+                            "expression":  "smush under",
+                            "dialogue":  "Rachel: we would all just sort of smush under this one blanket. It never occurred to anybody to bring another one.",
+                            "speaker":  "Rachel",
+                            "meaning":  "(좁은 공간에) 한데 옹기종기 파고들다, 비집고 들어가다",
+                            "nuance":  "squish나 squeeze의 구어적 변형. 여럿이 좁은 공간에 몸을 붙여 들어가는 생생한 이미지. 비격식 구어에서만 씀",
+                            "example":  "We smushed under one umbrella and still got soaked. → 우산 하나에 다 같이 비집고 들어갔는데도 다 젖었어."
+                        },
+                        {
+                            "expression":  "hit the road",
+                            "dialogue":  "Mrs. Greene: Alright, Monica dear, I\u0027m gonna hit the road.",
+                            "speaker":  "Mrs. Greene",
+                            "meaning":  "자리를 뜨다, 출발하다",
+                            "nuance":  "파티나 모임을 마치고 떠날 때 자연스럽게 씀. \"I gotta hit the road\"가 특히 자주 쓰이는 패턴. leave나 go보다 생동감이 있음",
+                            "example":  "It\u0027s getting late — I think it\u0027s time to hit the road. → 늦었네 — 이제 슬슬 일어서야 할 것 같아."
+                        },
+                        {
+                            "expression":  "create a diversion",
+                            "dialogue":  "Phoebe: Shh. In a minute, I\u0027m gonna create a diversion. When I do, walk quickly to the door and don\u0027t look back.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "주의를 딴 데로 돌리다, 교란을 일으키다",
+                            "nuance":  "원래 군사·첩보 용어. 일상에서 쓰면 약간 과장되거나 유머러스한 뉘앙스가 생김. 이 장면에서 Phoebe가 마치 스파이 작전처럼 쓰는 것이 개그 포인트",
+                            "example":  "You create a diversion and I\u0027ll sneak out of this boring meeting. → 네가 주의를 돌리는 사이에 내가 이 지루한 회의에서 빠져나올게."
+                        },
+                        {
+                            "expression":  "go limp",
+                            "dialogue":  "Joey: Thanks for coming Mrs. Greene. [grabs her and kisses her to distract her. She goes limp in his arms.] Well, ok, you take care.",
+                            "speaker":  "Joey (stage direction)",
+                            "meaning":  "몸에 힘이 빠지다, 축 늘어지다",
+                            "nuance":  "go는 상태 변화를 나타냄 (go pale, go quiet와 같은 패턴). 충격·황홀함·안도 등으로 몸이 처질 때 씀",
+                            "example":  "She went limp with relief when she heard the good news. → 좋은 소식을 듣자 안도로 몸에 힘이 빠졌어."
+                        },
+                        {
+                            "expression":  "staging area",
+                            "dialogue":  "Monica: ...this is just the staging area.\nJoey: Right this is staging.\nChandler: Yeah, this more than anything else, is the staging area.",
+                            "speaker":  "Monica / Joey / Chandler",
+                            "meaning":  "준비·대기 구역",
+                            "nuance":  "원래 군사·물류 용어. Monica가 진지하게 쓰자 Joey와 Chandler가 뜻도 모른 채 따라 반복하는 것이 개그 포인트. 실제로는 \"before we go live, this is the staging area\"처럼 씀",
+                            "example":  "Use the lobby as the staging area before the performance starts. → 공연 시작 전에 로비를 대기 장소로 써주세요."
+                        },
+                        {
+                            "expression":  "fancy on the inside",
+                            "dialogue":  "Phoebe: Ya know, I think fancy parties are only fun if you\u0027re fancy on the inside and I\u0027m just not sure we are.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "내면이 세련되거나 품위 있는 사람",
+                            "nuance":  "on the inside를 붙이면 겉이 아닌 내면의 속성을 가리킴. Phoebe 특유의 엉뚱하고 철학적인 논리가 배어 있는 표현이지만 구조 자체는 다양하게 응용 가능",
+                            "example":  "You don\u0027t need expensive things to be fancy on the inside. → 내면이 품위 있으려고 비싼 걸 가질 필요는 없어."
+                        },
+                        {
+                            "expression":  "be in charge of",
+                            "dialogue":  "Monica: You wanna be in charge of the food committee?\nRoss: Question two. Why do we always have to have parties with committees?",
+                            "speaker":  "Monica",
+                            "meaning":  "~을 담당하다, ~의 책임을 지다",
+                            "nuance":  "take charge of는 능동적으로 주도하는 느낌, be in charge of는 담당자의 역할·지위 자체를 나타냄. 업무 맥락과 일상 모두에서 자연스럽게 씀",
+                            "example":  "Who\u0027s in charge of booking the venue? → 장소 예약은 누가 담당이야?"
+                        },
+                        {
+                            "expression":  "pass along the message",
+                            "dialogue":  "Monica: since I am the roommate I can tell you that she\u0027s not here and I\u0027ll pass along the message, ok. So bye-bye.",
+                            "speaker":  "Monica",
+                            "meaning":  "전갈을 전해주다, 메시지를 전달하다",
+                            "nuance":  "relay the message와 같은 뜻. 비서나 접수원이 쓸 법한 정중한 표현이지만 일상에서도 자주 씀. \"I\u0027ll let her know\"보다 약간 격식적임",
+                            "example":  "She\u0027s in a meeting. Can I pass along the message? → 지금 회의 중이에요. 말씀 전해드릴까요?"
+                        },
+                        {
+                            "expression":  "pop out",
+                            "dialogue":  "Mr. Greene: Rachel comes home, people pop out and yell stuff, is that it?\nChandler: This isn\u0027t your first surprise party, is it sir?",
+                            "speaker":  "Mr. Greene",
+                            "meaning":  "갑자기 튀어나오다",
+                            "nuance":  "pop up과 비슷하지만 pop out은 숨어 있던 공간에서 나오는 이미지가 강함. 깜짝 파티 묘사에 딱 어울리는 표현",
+                            "example":  "Everyone hid behind the couch and popped out when she walked in. → 모두 소파 뒤에 숨어 있다가 그녀가 들어오자 튀어나왔어."
+                        },
+                        {
+                            "expression":  "fire up",
+                            "dialogue":  "Ross: In fact I\u0027m gonna go out into the hallway and fire up this bad boy.",
+                            "speaker":  "Ross",
+                            "meaning":  "(담배·그릴·기계 등을) 불 붙이다, 켜다",
+                            "nuance":  "담배뿐 아니라 fire up the grill / laptop / engine처럼 광범위하게 씀. \"bad boy\"는 물건을 가리키는 과장되고 캐주얼한 표현",
+                            "example":  "Let me fire up the grill — it\u0027s burger night. → 그릴 좀 켜볼게 — 오늘 버거 먹는 날이야."
+                        },
+                        {
+                            "expression":  "shush",
+                            "dialogue":  "Rachel: they got into a huge fight in the middle of the commencement address. Bishop Tutu actually had to stop and shush them.",
+                            "speaker":  "Rachel",
+                            "meaning":  "쉬잇 하며 조용히 시키다",
+                            "nuance":  "\"shh\"의 동사형. silence someone보다 생생하고 구어적이며 약간 무례한 뉘앙스가 있어 아랫사람이나 친한 사이에 씀. Bishop Tutu가 해야 했다는 것이 상황의 황당함을 강조함",
+                            "example":  "The librarian shushed everyone in the reading room. → 사서가 열람실에 있는 모든 사람을 쉬잇 하고 조용히 시켰어."
+                        },
+                        {
+                            "expression":  "a true testament to",
+                            "dialogue":  "Rachel: my sister\u0027s graduating from college, nobody thought she would. It\u0027s a true testament to what a girl from Long Island would do for a Celica.",
+                            "speaker":  "Rachel",
+                            "meaning":  "~의 증거, ~을 보여주는 것",
+                            "nuance":  "원래는 노력·가치를 칭찬할 때 쓰는 격식체 표현. Rachel은 반어적으로 씀 (차를 사줄 것을 약속받아 졸업했다는 것). \"testament to someone\u0027s dedication\"이 정형적인 패턴",
+                            "example":  "Her comeback was a true testament to how hard she had trained. → 그녀의 복귀는 얼마나 열심히 훈련했는지를 보여주는 것이었어."
+                        },
+                        {
+                            "expression":  "This isn\u0027t your first [noun], is it?",
+                            "dialogue":  "Mr. Greene: I\u0027ll never remember all of that. So uh, what\u0027s the deal? Rachel comes home, people pop out and yell stuff, is that it?\nChandler: This isn\u0027t your first surprise party, is it sir?",
+                            "speaker":  "Chandler",
+                            "meaning":  "이런 거 처음이 아니죠? (경험이 많음을 암시하는 표현)",
+                            "nuance":  "상대방이 상황을 너무 잘 이해하거나 침착할 때 쓰는 표현. \"This isn\u0027t your first rodeo\"(=처음 해보는 일이 아니죠)가 가장 유명한 변형. 영미권에서 매우 자주 씀",
+                            "example":  "You handled that negotiation really well — this isn\u0027t your first rodeo, is it? → 협상을 정말 잘 하셨네요 — 이런 거 처음 해보시는 게 아니죠?"
+                        },
+                        {
+                            "expression":  "I get to (반어적)",
+                            "dialogue":  "Rachel: you know what the good news is? I get to serve coffee for the next 8 hours.",
+                            "speaker":  "Rachel",
+                            "meaning":  "~하게 됐다 (원래는 긍정적이지만 여기선 반어적으로 씀)",
+                            "nuance":  "get to do something은 원래 \"~할 기회·특권을 얻다\"는 긍정적 표현. 원치 않는 일에 쓰면 강한 반어가 됨. 톤으로 반어를 표현하는 것이 포인트",
+                            "example":  "Great, I get to work overtime on a Friday night. → 잘됐네, 금요일 밤에 야근하게 됐으니."
+                        },
+                        {
+                            "expression":  "neat (술 주문)",
+                            "dialogue":  "Ross: Scotch. Alright, I\u0027ll be back in 10 seconds with your scotch on the rocks in a glass.\nMr. Greene: Neat.\nRoss: Cool.\nMr. Greene: No no no, no no no, neat, as in no rocks.",
+                            "speaker":  "Mr. Greene / Ross",
+                            "meaning":  "(술을) 얼음 없이, 스트레이트로",
+                            "nuance":  "\"neat\"는 \"깔끔한/훌륭한\"의 뜻도 있어 Ross가 \"Cool\"로 잘못 받아들인 것이 개그 포인트. 바에서 on the rocks(얼음 있게)의 반대 주문 표현",
+                            "example":  "I\u0027ll have the whiskey neat, please. → 위스키 스트레이트로 주세요."
+                        },
+                        {
+                            "expression":  "a carefully regimented program of denial",
+                            "dialogue":  "Rachel: Oh, Chandler how did you get through this?\nChandler: Well, I relied on a carefully regimented program of denial and, and wetting the bed.",
+                            "speaker":  "Chandler",
+                            "meaning":  "철저하게 현실을 외면하는 방식으로 버티다",
+                            "nuance":  "denial은 심리 용어로 현실을 외면하는 방어 기제. 격식적인 \"regimented program\"을 개인적인 감정 회피에 붙여 자조적 유머를 만드는 것이 Chandler 특유의 화법",
+                            "example":  "I got through the breakup on a steady diet of denial and reality TV. → 이별 후엔 현실 외면과 리얼리티 TV로 버텼어."
+                        },
+                        {
+                            "expression":  "It never occurred to [someone] to",
+                            "dialogue":  "Rachel: we would all just sort of smush under this one blanket. It never occurred to anybody to bring another one.",
+                            "speaker":  "Rachel",
+                            "meaning":  "아무도 ~할 생각을 하지 않았다, ~라는 생각이 떠오르지 않았다",
+                            "nuance":  "occur to someone은 \"생각이 떠오르다\"는 뜻. \"It never occurred to me that~\"처럼 that절이 오기도 함. 자연스럽고 세련된 표현이며 문어·구어 모두에서 씀",
+                            "example":  "It never occurred to me to check the expiration date. → 유통기한을 확인해볼 생각을 전혀 못 했어."
+                        },
+                        {
+                            "expression":  "heads up",
+                            "dialogue":  "Somebody calls out \u0027heads up\u0027 and the volleyball lands in the flan.\nRachel: Wow, those things almost never come true.",
+                            "speaker":  "Party guest",
+                            "meaning":  "조심해! (물체가 날아오거나 위험이 다가올 때 외치는 경고)",
+                            "nuance":  "또는 \"I just wanted to give you a heads up\"처럼 미리 알려준다는 뜻으로도 씀. 경고 용법은 즉각적·감탄사적이고, 사전 통보 용법은 더 격식적임",
+                            "example":  "Heads up! There\u0027s a ball coming your way. → 조심해! 공이 네 쪽으로 오고 있어."
+                        }
+                    ]
+}

@@ -1,0 +1,209 @@
+{
+    "id":  "s02e23",
+    "code":  "223",
+    "title":  "The One With the Chicken Pox",
+    "model":  "sonnet",
+    "cost_usd":  0.6375,
+    "expressions":  [
+                        {
+                            "expression":  "go out with someone",
+                            "dialogue":  "Phoebe: Oh ok, Ryan, that guy I **went out with**, who\u0027s in the Navy. / Rachel: You **went out with** a guy in the Navy?",
+                            "speaker":  "Phoebe / Rachel",
+                            "meaning":  "누군가와 연애하다, 사귀다",
+                            "nuance":  "\"date someone\"보다 캐주얼하고 관계가 확정적이지 않은 느낌. 과거 관계를 회상할 때 자주 씀. 현재도 동일하게 쓰임.",
+                            "example":  "I went out with him for about a year before things got serious. → 진지해지기 전까지 그와 약 1년 정도 사귀었어."
+                        },
+                        {
+                            "expression":  "chances are",
+                            "dialogue":  "Ross: Yeah, so if you haven\u0027t already had it, **chances are** you\u0027re gonna get it. / Rachel: Well I\u0027ve had it.",
+                            "speaker":  "Ross",
+                            "meaning":  "아마도, ~할 가능성이 높다",
+                            "nuance":  "\"probably\"보다 약간 무게감 있지만 일상에서 자주 씀. 데이터나 경험에 근거한 예측임을 암시. 현재도 많이 씀.",
+                            "example":  "Chances are she\u0027s already heard the news by now. → 그녀는 아마 이미 소식을 들었을 거야."
+                        },
+                        {
+                            "expression":  "not so much",
+                            "dialogue":  "Joey: One day you\u0027re processing, the next day you\u0027re **not so much**... processing any more. / Chandler: I was just telling Joey about the opening in Fleischman\u0027s group.",
+                            "speaker":  "Joey",
+                            "meaning":  "딱히 그렇지도 않다, 별로 안 그렇다 (완곡한 부정)",
+                            "nuance":  "직접 부정하는 대신 흐릿하게 부정하는 표현. \"not really\"보다 건조하고 유머러스한 뉘앙스. 문장 뒤에 단독으로 붙여 쓰는 경우가 많음. 현재도 동일하게 씀.",
+                            "example":  "Do I enjoy early morning meetings? Not so much. → 이른 아침 회의가 좋냐고? 딱히 그렇지도 않아."
+                        },
+                        {
+                            "expression":  "ease someone in",
+                            "dialogue":  "Richard: Oh, well that\u0027s not so crazy. / Monica: **I\u0027m just easing you in.** / Richard: Oh, alright.",
+                            "speaker":  "Monica",
+                            "meaning":  "누군가를 어떤 상황이나 정보에 서서히 익숙하게 하다",
+                            "nuance":  "충격이나 부담 없이 단계적으로 소개한다는 뉘앙스. \"ease into\"도 짝을 이루는 표현. 현재도 씀.",
+                            "example":  "Let\u0027s ease him into the new system before switching everything over. → 전체 전환 전에 그가 새 시스템에 서서히 적응하게 하자."
+                        },
+                        {
+                            "expression":  "run that risk",
+                            "dialogue":  "Monica: If I tell you, you\u0027ll think I\u0027m crazy. / Richard: You\u0027re pretty much **running that risk** either way.",
+                            "speaker":  "Richard",
+                            "meaning":  "그 위험을 감수하다, 그 가능성을 안고 가다",
+                            "nuance":  "\"take a risk\"와 비슷하지만 이미 그 위험 상황 안에 처해 있다는 느낌이 강함. 현재도 씀.",
+                            "example":  "If you skip the backup, you\u0027re running the risk of losing everything. → 백업 안 하면 모든 걸 잃을 위험을 감수하는 거야."
+                        },
+                        {
+                            "expression":  "hold someone over",
+                            "dialogue":  "Chandler: Hey, look Joey, I\u0027m just saying if you need something to **hold you over**, I can get you a job right here as an entry level processor.",
+                            "speaker":  "Chandler",
+                            "meaning":  "더 나은 것이 생길 때까지 임시로 버티게 해주다",
+                            "nuance":  "돈, 음식, 임시 일자리 등에 두루 씀. \"tide you over\"와 거의 같은 의미. 현재도 씀.",
+                            "example":  "Here\u0027s some cash to hold you over until payday. → 월급날까지 버티라고 현금 줄게."
+                        },
+                        {
+                            "expression":  "in between things",
+                            "dialogue":  "Scott: Where do you work? / Joey: Uhh, well, right now I\u0027m **in between things**. You know how it is.",
+                            "speaker":  "Joey",
+                            "meaning":  "직업이 없는 상태, 두 일 사이 공백 기간 (실직의 완곡한 표현)",
+                            "nuance":  "\"unemployed\"를 직접 말하기 불편할 때 쓰는 완곡한 표현. 배우나 프리랜서가 특히 자주 씀. 현재도 동일하게 씀.",
+                            "example":  "She\u0027s been in between things since the company downsized. → 회사 구조조정 이후로 그녀는 백수 상태야."
+                        },
+                        {
+                            "expression":  "mix it up",
+                            "dialogue":  "Joey: I just figure Joseph\u0027s the kinda guy that likes to **mix it up**. Ya know, get in there, ruffle some feathers. / Chandler: Why?",
+                            "speaker":  "Joey",
+                            "meaning":  "의도적으로 갈등을 일으키다, 판을 흔들다",
+                            "nuance":  "이 맥락에서는 도발을 즐기는 사람을 묘사함. 스포츠 맥락에서는 몸싸움을 의미하기도 함. 현재도 씀.",
+                            "example":  "He loves to mix it up in debates — always takes the controversial side. → 그는 토론에서 판 흔드는 걸 좋아해 — 항상 논란적인 입장을 취하거든."
+                        },
+                        {
+                            "expression":  "ruffle (some) feathers",
+                            "dialogue":  "Joey: I just figure Joseph\u0027s the kinda guy that likes to mix it up. Ya know, get in there, **ruffle some feathers**. / Chandler: Why? / Joey: Look, I\u0027m sorry but that\u0027s what Joseph does.",
+                            "speaker":  "Joey",
+                            "meaning":  "사람들을 불편하게 하다, 의도적으로 갈등이나 불쾌감을 유발하다",
+                            "nuance":  "부정적이지만 가끔 \"용감하게 문제를 제기한다\"는 중립적 뉘앙스로도 씀. 새의 깃털을 거스르는 이미지에서 유래. 현재도 씀.",
+                            "example":  "Her proposal ruffled a few feathers at the board meeting. → 그녀의 제안은 이사회에서 몇 명의 기분을 불편하게 만들었어."
+                        },
+                        {
+                            "expression":  "drop the ball (on something)",
+                            "dialogue":  "Joey: Mr. Douglas is looking for you. / Chandler: Why? / Joey: \u0027Cause he has a strong suspicion that you **dropped the ball on the Lender project**.",
+                            "speaker":  "Joey",
+                            "meaning":  "중요한 책임을 다하지 못하다, 실수를 저지르다",
+                            "nuance":  "팀 스포츠에서 공을 놓치는 것에서 유래. 기대됐던 역할을 완수하지 못했을 때 씀. 현재도 매우 자주 씀.",
+                            "example":  "I really dropped the ball on that client presentation. → 그 고객 발표를 완전히 망쳤어."
+                        },
+                        {
+                            "expression":  "try to pull something / What are you trying to pull?",
+                            "dialogue":  "Joey: If you **try to pull somethin\u0027**, he\u0027ll call you on it. \u0027**What\u0027re you tryin\u0027 to pull**,\u0027 he\u0027ll say. / Chandler: Why?",
+                            "speaker":  "Joey",
+                            "meaning":  "속임수를 쓰려 하다, 수상한 짓을 시도하다",
+                            "nuance":  "상대의 나쁜 의도를 의심하거나 지적할 때 씀. \"What are you trying to pull?\"은 독립된 관용구로 자주 쓰임. 현재도 씀.",
+                            "example":  "Don\u0027t try to pull anything — I know exactly what you\u0027re up to. → 수상한 짓 하지 마 — 뭐 하려는지 다 알아."
+                        },
+                        {
+                            "expression":  "call someone on something",
+                            "dialogue":  "Joey: If you try to pull somethin\u0027, he\u0027ll **call you on it**. \u0027What\u0027re you tryin\u0027 to pull,\u0027 he\u0027ll say. / Chandler: Why?",
+                            "speaker":  "Joey",
+                            "meaning":  "누군가의 잘못된 행동이나 거짓말을 공개적으로 지적하고 따지다",
+                            "nuance":  "상대가 부정직하거나 부당한 행동을 할 때 당당하게 맞서 지적하는 것. 망설임 없이 직접 문제 삼는 대담한 뉘앙스. 현재도 씀.",
+                            "example":  "She called him on his excuse right in front of everyone. → 그녀는 모두 앞에서 그의 변명을 바로 지적했어."
+                        },
+                        {
+                            "expression":  "cut someone (some) slack",
+                            "dialogue":  "Chandler: It\u0027s about **cutting my people a little slack**, ya know, for morale. / Mr. Douglas: I have a family, I\u0027m gonna be here.",
+                            "speaker":  "Chandler",
+                            "meaning":  "누군가에게 여유를 주다, 엄격하지 않게 너그럽게 봐주다",
+                            "nuance":  "규칙이나 기대를 잠시 완화해준다는 의미. \"Cut me some slack\"(나 좀 봐줘) 형태로도 자주 씀. 현재도 아주 많이 씀.",
+                            "example":  "Cut her some slack — it\u0027s only her second week. → 좀 봐줘 — 겨우 두 번째 주잖아."
+                        },
+                        {
+                            "expression":  "brown-nosing suck-up",
+                            "dialogue":  "Chandler: I hate Joseph, ok. I think he\u0027s a **brown-nosing suck-up**. / Joey: Oh yeah. Well you can\u0027t fire Joseph.",
+                            "speaker":  "Chandler",
+                            "meaning":  "상사나 권력자에게 아첨하는 사람, 아부꾼",
+                            "nuance":  "\"brown-noser\"와 \"suck-up\" 각각도 독립적으로 씀. \"yes-man\"보다 더 비하적인 뉘앙스. 약간의 비속어지만 현재도 씀.",
+                            "example":  "Nobody trusts him — he\u0027s a total brown-nosing suck-up. → 아무도 그를 믿지 않아 — 완전 아부꾼이거든."
+                        },
+                        {
+                            "expression":  "for sport",
+                            "dialogue":  "Chandler: Yeah, Chandy, the rogue processor who seduces his co-worker\u0027s wives **for sport** and then laughs about it the next day at the water cooler.",
+                            "speaker":  "Chandler",
+                            "meaning":  "재미 삼아, 스릴을 위해 (진지한 목적이나 이익 없이)",
+                            "nuance":  "어떤 행동의 목적이 이익이 아닌 순수한 즐거움이나 습관임을 강조. 약간 냉소적이고 부정적인 뉘앙스로 주로 씀. 현재도 씀.",
+                            "example":  "He argues with strangers online just for sport. → 그는 그냥 재미로 온라인에서 모르는 사람들과 싸워."
+                        },
+                        {
+                            "expression":  "stand between ~ and ~",
+                            "dialogue":  "Ryan: Phoebe, I have spent the last eight months in a steel tube with men, thinking about this moment. I am not gonna let a bunch of itchy spots **stand between us**.",
+                            "speaker":  "Ryan",
+                            "meaning":  "~사이를 가로막다, ~을 방해하다",
+                            "nuance":  "주로 \"don\u0027t let X stand between you and Y\" 형태. 어떤 장애물이 관계나 목표를 방해하게 두지 않겠다는 강한 의지 표현. 현재도 씀.",
+                            "example":  "Don\u0027t let a little self-doubt stand between you and your goals. → 약간의 자기 의심이 너와 목표 사이를 가로막게 두지 마."
+                        },
+                        {
+                            "expression":  "make ~ count",
+                            "dialogue":  "Ross: I\u0027m shipping out tomorrow. / Rachel: Well then uh, we better **make this night count**. [He starts to carry her out.]",
+                            "speaker":  "Rachel",
+                            "meaning":  "~을 최대한 활용하다, 의미 있게 만들다",
+                            "nuance":  "시간이나 기회가 제한되어 있을 때 쓰는 표현. \"make the most of it\"과 유사하지만 더 강렬하고 긴박한 뉘앙스. 현재도 씀.",
+                            "example":  "We only get one shot at this — let\u0027s make it count. → 기회는 단 한 번이야 — 제대로 써먹자."
+                        },
+                        {
+                            "expression":  "ship out",
+                            "dialogue":  "Ross: **I\u0027m shipping out** tomorrow. / Rachel: Well then uh, we better make this night count.",
+                            "speaker":  "Ross (in character)",
+                            "meaning":  "(군인이) 파병되다, 임무를 위해 떠나다",
+                            "nuance":  "원래 군사 용어이지만 일반적으로 \"어딘가로 떠나다\"의 의미로도 씀. \"shape up or ship out\"(고쳐라, 아니면 꺼져라)이라는 관용구로도 유명. 현재도 씀.",
+                            "example":  "Half the unit shipped out to the Middle East last week. → 부대 절반이 지난주에 중동으로 파병됐어."
+                        },
+                        {
+                            "expression":  "I\u0027ll make some calls",
+                            "dialogue":  "Rachel: So do you uh, think we can get you one of those uh, uniform things? / Ross: You like that do ya? / Rachel: Oh yeah. / Ross: **I\u0027ll make some calls**. [Runs off.]",
+                            "speaker":  "Ross",
+                            "meaning":  "내 인맥을 활용해 알아볼게, 연락해볼게",
+                            "nuance":  "단순히 전화를 한다는 뜻이 아니라 자신의 연줄이나 영향력을 동원하겠다는 뉘앙스. 자신감 있게 일을 처리하겠다는 표현. 현재도 씀.",
+                            "example":  "Need tickets to that sold-out show? Leave it to me — I\u0027ll make some calls. → 매진 공연 티켓 필요해? 맡겨봐 — 내가 좀 알아볼게."
+                        },
+                        {
+                            "expression":  "I just got that",
+                            "dialogue":  "Phoebe: ...having a picnic at Central Park and ya know, coffee at Central Perk. Oh, **I just got that**. [They kiss.]",
+                            "speaker":  "Phoebe",
+                            "meaning":  "방금 이해했어, 이제야 알아챘어",
+                            "nuance":  "말장난이나 숨겨진 의미를 뒤늦게 알아챘을 때 쓰는 표현. \"It just hit me\"와도 비슷. 현재도 동일하게 씀.",
+                            "example":  "\u0027Deadline.\u0027 Dead. Line. Oh, I just got that. → \u0027데드라인.\u0027 죽다. 선. 아, 이제야 이해했어."
+                        },
+                        {
+                            "expression":  "come off (well / badly / as ~)",
+                            "dialogue":  "Richard: See, if anyone overheard that, I didn\u0027t **come off** well. / Monica: Oh my God, you\u0027re a freak.",
+                            "speaker":  "Richard",
+                            "meaning":  "(다른 사람 눈에) ~처럼 보이다, ~한 인상을 주다",
+                            "nuance":  "\"come off well/badly\" 또는 \"come off as [형용사]\" 형태로 씀. 행동이나 말이 외부에 어떻게 비쳐지는지 표현. 현재도 씀.",
+                            "example":  "He came off as really arrogant in that interview. → 그는 그 인터뷰에서 정말 거만하게 보였어."
+                        },
+                        {
+                            "expression":  "there you go",
+                            "dialogue":  "Joey: It\u0027s mostly just putting numbers from one column into another column. / Chandler: **Well there you go.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "거봐, 그렇지, 됐잖아 (상대의 말이나 상황을 확인·동의해줄 때)",
+                            "nuance":  "상대가 이미 답을 알고 있거나 상황이 예상대로 됐을 때 씀. 뭔가를 건네줄 때 \"자, 여기\"의 의미로도 쓰임. 현재도 아주 많이 씀.",
+                            "example":  "\u0027I figured out the bug on my own.\u0027 / \u0027There you go.\u0027 → \u0027혼자 버그 찾아냈어.\u0027 / \u0027거봐, 됐잖아.\u0027"
+                        },
+                        {
+                            "expression":  "you know what? [I] just did",
+                            "dialogue":  "Joey: Joseph and his wife, Karen, are thinking of having a third kid... **Ya know what? Just did.** / Chandler: Really? Wow. That\u0027s some pretty powerful imaginary sperm you must have there.",
+                            "speaker":  "Joey",
+                            "meaning":  "생각한 김에 바로 그렇게 했어 (즉각적인 결정을 코믹하게 표현)",
+                            "nuance":  "생각과 행동 사이에 시간이 없음을 과장되게 표현. 이 에피소드에서 Joey와 Chandler가 서로 이 패턴으로 응수함. 현재도 씀.",
+                            "example":  "I was thinking about quitting my gym membership... you know what? Just did. → 헬스장 회원권 끊을까 생각 중이었는데... 그냥 지금 했어."
+                        },
+                        {
+                            "expression":  "let someone go",
+                            "dialogue":  "Chandler: ...if I could just fire Joseph, I would, but unfortunately that\u0027s not possible so I\u0027m gonna have to **let both of you go**. / Joey: What\u0027re you talking about, everybody loves Joseph.",
+                            "speaker":  "Chandler",
+                            "meaning":  "해고하다 (완곡한 표현)",
+                            "nuance":  "\"fire\"의 공식적이고 부드러운 표현. 실제 기업 환경에서 해고 통보 시 광범위하게 씀. 현재도 씀.",
+                            "example":  "Due to budget cuts, we had to let five people go last quarter. → 예산 삭감으로 지난 분기에 직원 다섯 명을 내보내야 했다."
+                        },
+                        {
+                            "expression":  "What\u0027s that about?",
+                            "dialogue":  "Mr. Douglas: I have a family, I\u0027m gonna be here. / Joey: Yeah Bing, **what\u0027s that about?** / Chandler: It\u0027s about cutting my people a little slack.",
+                            "speaker":  "Joey",
+                            "meaning":  "그게 무슨 이유야? 왜 그런 거야? (상대의 행동이나 결정에 의문·비판을 제기할 때)",
+                            "nuance":  "단순한 질문이 아니라 상대방의 행동에 의문이나 불만을 제기하는 뉘앙스. \"Why would you do that?\"의 구어체 표현. 현재도 씀.",
+                            "example":  "He walked out in the middle of the meeting. What\u0027s that about? → 회의 중간에 그냥 나가버렸어. 대체 왜 그런 거야?"
+                        }
+                    ]
+}
