@@ -654,6 +654,61 @@ if ("serviceWorker" in navigator) {
   });
 }
 
+/* ── 설치 유도: 카카오톡 인앱 브라우저 대응 + 홈 화면 추가 배너 ── */
+(function installFlow() {
+  const UA = navigator.userAgent;
+  const isKakao = /KAKAOTALK/i.test(UA);
+  const isIOS = /iPhone|iPad|iPod/i.test(UA);
+  const isAndroid = /Android/i.test(UA);
+  const isStandalone = window.matchMedia("(display-mode: standalone)").matches
+    || navigator.standalone === true;
+  if (isStandalone) return; // 이미 앱으로 설치되어 실행 중
+
+  // 1) 카카오톡 인앱 브라우저: 설치 불가 → 밖으로 안내
+  if (isKakao) {
+    $("#kakaoGuide").hidden = false;
+    $(isIOS ? "#kakaoStepsIos" : "#kakaoStepsAnd").hidden = false;
+    if (isAndroid) {
+      location.href = "intent://" + location.host + location.pathname + location.search
+        + "#Intent;scheme=https;package=com.android.chrome;end";
+    }
+    return;
+  }
+
+  // 2) 크롬/사파리: 홈 화면 추가 배너 (닫으면 14일간 숨김)
+  if (!isIOS && !isAndroid) return; // 모바일에서만
+  const DKEY = "fs_install_dismissed";
+  if (Date.now() - (+localStorage.getItem(DKEY) || 0) < 14 * 24 * 3600 * 1000) return;
+
+  const banner = $("#installBanner");
+  function showBanner(kind) {
+    banner.hidden = false;
+    $(kind === "ios" ? "#ibIos" : "#ibAnd").hidden = false;
+  }
+  $("#ibClose").addEventListener("click", () => {
+    banner.hidden = true;
+    localStorage.setItem(DKEY, String(Date.now()));
+  });
+
+  if (isIOS) {
+    showBanner("ios");
+  } else {
+    let deferred = null;
+    window.addEventListener("beforeinstallprompt", (e) => {
+      e.preventDefault();
+      deferred = e;
+      showBanner("and");
+      $("#ibInstall").hidden = false;
+    });
+    $("#ibInstall").addEventListener("click", async () => {
+      if (!deferred) return;
+      deferred.prompt();
+      await deferred.userChoice;
+      banner.hidden = true;
+    });
+  }
+})();
+
 /* 앱을 오래 뒀다가 다시 열면 자동 새로고침 → 새 버전 반영 */
 let hiddenAt = 0;
 document.addEventListener("visibilitychange", () => {

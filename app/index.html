@@ -38,6 +38,33 @@
   </button>
 </nav>
 
+<!-- 카카오톡 인앱 브라우저 안내 -->
+<div id="kakaoGuide" hidden>
+  <div class="kg-box">
+    <div class="kg-ico">📱</div>
+    <h2>카카오톡 브라우저에서는<br>앱 설치가 안 돼요</h2>
+    <div id="kakaoStepsIos" hidden>
+      <div class="kg-step">① 오른쪽 아래 <b>⋯</b> 버튼을 누르세요</div>
+      <div class="kg-step">② <b>“다른 브라우저로 열기”</b>를 누르세요</div>
+    </div>
+    <div id="kakaoStepsAnd" hidden>
+      <div class="kg-step">잠시 후 <b>크롬</b>으로 자동 이동해요</div>
+      <div class="kg-step">안 열리면: 오른쪽 아래 <b>⋯</b> 버튼 →<br><b>“다른 브라우저로 열기”</b></div>
+    </div>
+  </div>
+</div>
+
+<!-- 홈 화면 설치 안내 배너 -->
+<div id="installBanner" hidden>
+  <div class="ib-txt">
+    <b>홈 화면에 앱으로 추가</b>
+    <span id="ibIos" hidden>Safari 아래 <b>공유 버튼(⬆︎)</b> → <b>“홈 화면에 추가”</b></span>
+    <span id="ibAnd" hidden>설치하면 홈 화면에서 바로 열 수 있어요</span>
+  </div>
+  <button id="ibInstall" hidden>설치</button>
+  <button id="ibClose" aria-label="닫기">✕</button>
+</div>
+
 <script src="app.js"></script>
 </body>
 </html>

@@ -1,6 +1,8 @@
 /* Friends 영어공부 — 오프라인 캐시 (앱 셸 프리캐시 + 데이터 런타임 캐시) */
-const VER = "fs-v9";
-const SHELL = ["./", "index.html", "app.css", "app.js", "manifest.webmanifest", "icons/icon-180.png", "icons/icon-512.png"];
+const VER = "fs-v10";
+const SHELL = ["./", "index.html", "app.css", "app.js", "manifest.webmanifest",
+  "icons/icon-180.png", "icons/icon-192.png", "icons/icon-512.png",
+  "icons/icon-maskable-192.png", "icons/icon-maskable-512.png"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(VER).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
