@@ -1,0 +1,1441 @@
+{
+ "id": "s08e21",
+ "season": 8,
+ "episodes": [
+  21
+ ],
+ "code": "821",
+ "title": "The One With The Cooking Class",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, everyone is there except Monica as Ross enters carrying a huge stack of newspapers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey you guys I got some bad news. (He sets the stack of papers down on the table.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well that's no way to sell newspapers. Why don't you try, \"Extra! Extra! Read all about it!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, Monica's restaurant got a horrible review in the Post. (They all gasp.) I didn't want her to see it, so I ran around the neighborhood and bought all the copies I could find. (He hands the paper to Phoebe and they all read it.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Man, this is bad! And I've had my share of bad reviews. I still remember my first good one though. (Quoting) \"Everything else in this production of Our Town was simply terrible. Joey Tribbiani was abysmal.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(seeing the stack of newspapers) Oh my God! Look at all the newspapers! It must be a good review! Is it great?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Umm..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(reading) Oh dear God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But the good news is, no one in a two-block radius will ever know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What about the rest of Manhattan?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, they all know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God, this is horrible!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm so humiliated!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah but y'know what they say Mon, \"There's no such thing as bad press.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You don't think that umm, (reading) \"The chef's Mahi Mahi was awful awful,\" is bad press?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I didn't write it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Is he right? Am I really-Am I awful?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! Yeah Monica! You listen to me, okay? And I'm not just saying this because I'm your friend, I'm sayin' it 'cause it's the truth. You're food is abysmal!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Ross and Rachel's, it's late at night, Rachel is sitting on the couch in the dark wide-awake as Ross walks to the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(startling him) What?! What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I am freaking out!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Are ya?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "My due date is in one week!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What are you doing up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That is seven days!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay look, I had a lot of water before I went to bed. Can we do this after..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(interrupting him) No-no-no-no-no Ross! Please, come on we do not have any of the big stuff we need! We do not a changing table! We do not have a crib! We do not have a diaper service!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's funny you should mention diapers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm serious."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay look, there's nothing to worry about. We have plenty of time. There's a great baby furniture store on west 10th. Tomorrow, we will go there and we will get you everything that you need. Okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. Thank you. That's great. Thank you. Wait-wait! Where on west 10th? Because there's this really cute shoe store that has like this little..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(interrupting her) Okay. Okay. If uh, if you're gonna do this, then I'm gonna do that. (Points to the bathroom.) So... (Starts for the bathroom.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(stopping him) Oh, wait Ross! I'm sorry, one more thing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(annoyed) Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Umm, our situation. Y'know umm, what we mean to each other. And I mean we-we're having this baby together, and we live together. Isn't that, isn't that weird?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(stunned) (thinks) Well uh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm just kidding! You can go pee! (He does so in a hurry.)"
+  },
+  {
+   "t": "direction",
+   "text": "[Scene: Monica and Chandler's, Monica is cooking as Chandler looks on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey uh Monica, I can't remember. Did we say we were gonna meet here or at the movies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We said at the movies, but..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, I'll see you there. (Starts to leave)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey! (He returns) Now that you're here..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure, I can hang out 'til I have to meet ya. (To Chandler) What uh-How come you're not going?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I have a job interview I have to get ready for."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I thought you already have a job."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And people say you don't pay attention. No, this is a much better job. It's vice-president of a company that does data reconfiguration and statistical factoring for other companies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow! How do you know how to do that?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's what I do now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey Joey, come taste this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Remember that guy that gave me a bad review? Well... (Feeds him a spoonful of what she's cooking.) I'm getting my revenge!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You cooked him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No. He teaches a course on food criticism at the New School, so before we go to the movies I wanna go by there and make him try my bouillabaisse again. Oh, I cannot wait to read the front page of the Post tomorrow! \"Restaurant reviewer admits: I was wrong about Monica.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The front page? You really do live in your own little world, don't ya?"
+  },
+  {
+   "t": "scene",
+   "text": "The Baby Furniture Store, Ross and Rachel are checking out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cashier",
+   "text": "Do you uh, want these things delivered Mr. and Mrs. Geller?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No-no-no! No, no, no, we're not married."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "We are having a baby together, but we're not involved. (The cashier, a very beautiful woman, looks confused) I mean, uh we-we were seeing each other a while ago, but then we were just friends. And then there was one drunken night. (Rachel looks at him angrily) Or, yes stranger, we'd like this delivered please."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cashier",
+   "text": "Why don't you fill out this address card. (Hands him one.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cashier",
+   "text": "I notice you picked out a lot of our dinosaur items."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yeah! Actually, that's one of the reasons why we're not a couple."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I chose those, I'm a paleontologist."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cashier",
+   "text": "Really?! That is so cool!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh. Oh yeah, don't get to worked up over it. I mean it-it sounds like he's a doctor, but he's not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cashier",
+   "text": "Oh no-no, I'm fascinated by paleontology. Have you read the new Walter Alvarez book?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah! I-I teach it in my class."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God! I'm standing at a cash register, holding a credit card, and I'm bored."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cashier",
+   "text": "(looking at the completed address card) Oh, I love your neighborhood. There's a great gym right around the corner from your building."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's my gym."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cashier",
+   "text": "I can tell you work out. (Ross is please and Rachel looks at him confused.) A paleontologist who works out, you're like Indiana Jones. (Rachel has a disbelieving look on her face.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I am like Indiana Jones."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe is there as Rachel enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey! Oh, how did baby shopping go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, it was great! We got everything that we needed! Oh and Ross, almost got something that wasn't on the list. A whore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, we were paying for our stuff and this saleswoman just started flirting with him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well did she know you two weren't married?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God! Well the idea of a woman flirting with a-with a single man, we-we must alert the church elders!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You don't understand! You didn't see how brazen she was."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Sounds like you're a little jealous."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! I'm not! I-I-I just think it's wrong! It's-it's that I'm-Here I am about to pop and he's out picking up some shop girl at Sluts 'R' Us!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Is that a real place? (Rachel's stunned) Are they hiring?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering) Hey Phoebe! (To Rachel) Fatty!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey Chandler, why so fancy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I got a job interview. It's kinda a big deal too. Its a lot more money and I'd be doing data reconfiguration and statistical factoring."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wait, I think I know someone who does that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Me! I do that. So... Seriously, do I look okay? I'm little nervous."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yeah! You really-You look great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, just don't get your hopes up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, the interview..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What about it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Y'know! You don't make a very good first impression."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(shocked) What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh you don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you serious?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes, when I first met you, you were like, \"Blah, blah, blah.\" I was like, shhh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What is it that I do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well it's just like you're trying too hard. Always making jokes, y'know, you just-You come off a little needy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Rachel) Did you like me when we first met?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Chandler, I'm not gonna lie to ya, but I am gonna run away from you. (Gets up and hurries out.)"
+  },
+  {
+   "t": "scene",
+   "text": "The New School, Monica, carrying her dish, and Joey are confronting the food critic."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi! Umm, I'm Monica Geller, I'm the chef at Alessandro's."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Food Critic",
+   "text": "Still?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I think the things that you said about me are really unfair, and I would like for you to give my bouillabaisse another chance."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Food Critic",
+   "text": "I don't see any reason why I would do that to myself again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Either eat it, or be in it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Spoon? (Hands him one and he tastes it.) So, what do you think?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Food Critic",
+   "text": "I'm torn, between my integrity and my desire to avoid a beating. But I must be honest, your soap is abysmal. (Throws down the spoon and walks out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thata girl! Huh? We should get out of here; there's a new class comin' in."
+  },
+  {
+   "t": "direction",
+   "text": "They start to leave."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "Welcome to introduction to cooking. Now, before we start, can anyone tell me the difference between a hollandaise sauce and a bearnaise sauce? (No one can.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "Okay, go ahead."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well umm, they both have a egg yolk and butter base, but a bearnaise has shallots, shirvel, and most importantly tarragon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "That's very good, what's your name?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "Monica, you go to the head of the class."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. (Does so.)"
+  },
+  {
+   "t": "scene",
+   "text": "Ross and Rachel's, Ross and Rachel are unpacking and setting up their new purchases."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All this stuff takes up a lot of room. Hey how uh, how serious are you about keeping Ben in your life?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "My son? Pretty serious. (There's a knock on the door and Ross answers it.) Oh hey Katie! (The cashier from before) What uh, what are you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Well, the delivery went out to you and I realized they forgot this. (A blanket.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ah, must've been fairly obvious since it was the only thing left in your store."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Listen, to be honest, home deliveries are really a part of my job description."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh. (Reaches into his pocket for some money as Rachel enters the living room and watches holding two stuffed dinosaurs.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Oh uh...I actually came here to ask you out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh! Wow! Uh, yeah! That sounds great. I'm just gonna put this (The money) back in my pocket, pretend that didn't happen. Uh yeah, actually I'm free now. Do you wanna grab some coffee or..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Sure!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Horny bitch. (They both look at her, pretending that the dinosaurs she's holding are arguing.) No! You're a horny bitch! Noooo! You're the horny bitch! No! You're a horny bitch!"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Ross and Rachel's, continued from before."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So you guys go, have a really good time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To Katie) Yeah, I'm just gonna grab my coat. And uh, and my whip. (Katie looks worried.) Y'know because of the Indiana Jones? (Katie laughs) Not-not because I'm-I'm into S&M. (Katie's worried again.) I'm not-I'm not into anything weird. Y'know? Just-just normal sex. (Katie is uncomfortable.) So, I'm gonna grab my coat. (Does so, leaving Katie and Rachel alone.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So, you had a good day huh? Big commission; picked up a daddy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Are you okay with this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yeah! Yeah please, you guys have fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Okay. It was nice to see you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh and it was great to see you too. And you look fantastic, although you missed a button."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Oh umm, actually I umm..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh okay, I see what you're doing there."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Chandler and Phoebe are entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can't even believe this! I really come off that badly?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh! It's okay, you calm down after a while and then people can see how really sweet and wonderful you really are."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh good. Good, because I'm sure this interview is gonna last a couple of weeks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, don't freak out! Okay? I-I will help you. How long before you have to leave?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "An hour."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can't help you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Phoebe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, all right, we'll just do our best. Okay? So let's say I'm the interviewer and I'm meeting you for the first time. Okay. \"Hi! Come on in, I'm uh, Regina Philange.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Chandler Bing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Bing, what an unusual name."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well you should meet my uncle, Bada. (Pause) I'll let myself out."
+  },
+  {
+   "t": "scene",
+   "text": "The Cooking Class, Joey is trying to cook as the teacher walks over to him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "Your Fettuccini Alfredo looks a little dry, did you use all your cheese?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "When you say used, do you mean eat as a pre-cooking snack?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "And the cream?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Cheese makes me thirsty."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "Okay. Let's move on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "(To Monica) Oh! Something smells good over at Monica's station! (She tries Monica's fettuccini.) Oh my God! This is absolutely amazing! You've never made this before?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh no! I don't know anything about cooking. I had to ask someone what it's called when the, when the water makes those little bubbles."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "Well, hats off to the chef."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I-I-I'm sorry, your-your mouth was full, I didn't hear what you said. Umm, hats off to who now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "The chef!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's right."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Chandler and Phoebe are still working on his interviewing techniques."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "...I think you'll find if I come to work here, I don't micro-manage. I don't shy away from delegating."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Um-hmm, that's good to know. But let's stop focusing on what you don't do, and start focusing on what you do do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(suppressing a smile) What I do do...is manage to uh, create an atmosphere of support for the people working with me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I see. Nice sidestep on the do do thing by the way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hardest thing I've ever done in my life."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You gotta go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh! (Stands up.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, don't worry. You're ready."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Absolutely! Just fight all your natural instincts and you'll be great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay."
+  },
+  {
+   "t": "scene",
+   "text": "The Cooking Class, everyone has finished baking a batch of cookies and the teacher is going around tasting them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "Ah Monica, my star student."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Y'know, you called me that before so I-I took the liberty of fashioning a star out of aluminum foil. Now, no pressure, you like my cookies, you give me the star. (Hands it to her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "(tasting the cookie and with her mouthful) Oh, yum-yum-yum. (Hands the star back.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow! A star! (The class glares at her.) I know you all hate me and-and I'm sorry, but I don't care."
+  },
+  {
+   "t": "direction",
+   "text": "The teacher goes to Joey's station."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "Okay Joey, you're up next. (Tries one of his cookies.) This are good! This is amazing! You get an A!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I can an A? In-in school? (To Joey) Hey, I'm a dork."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey! I'm so proud of you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "I think you should give him your star."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Excuse me? He doesn't even know what he's doing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "We're all beginners here. Nobody knows what they're doing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I do! I'm a professional chef! (The class gasps.) Oh relax! It's not a courtroom drama!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "If you're a professional chef, what are you doing taking Introduction to Cooking?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm-I'm sorry, it's just that umm... Well I-I cook at this restaurant, Alessandro's, and umm I just got a really bad review..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "Oh Alessandro's! I love that place!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "Oh yes! You're an excellent chef! As a person you're a little..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, I'm totally crazy, but you-you like the food?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "Very much."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay then, I don't stink. I'm a good chef. Okay. (Starts to leave.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whoa-whoa-whoa-whoa! I don't want to go. I'm having fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Cooking Teacher",
+   "text": "Well actually, did either of you pay for this class?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey-hey-hey, if my friend says it's time to go, it's time to go. (Starts to leave, but comes back for his cookies.)"
+  },
+  {
+   "t": "scene",
+   "text": "An Office Building, Chandler is on his interview."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "...also I was the point person on my company's transition from the KL-5 to GR-6 system."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Interviewer",
+   "text": "You must've had your hands full."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That I did. That I did."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Interviewer",
+   "text": "So let's talk a little bit about your duties."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(nervous) My duties? (Trying not to crack a joke) All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Interviewer",
+   "text": "Now you'll be heading a whole division, so you'll have a lot of duties."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(trying not to laugh) I see."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Interviewer",
+   "text": "But there'll be perhaps 30 people under you so you can dump a certain amount on them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(really try not to laugh) Good to know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Interviewer",
+   "text": "We can go into detail..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No don't I beg of you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Interviewer",
+   "text": "All right then, we'll have a definite answer for you on Monday, but I think I can say with some confidence, you'll fit in well here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(relieved) Really?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Interviewer",
+   "text": "Absolutely. (They walk to the door.) You can relax; you did great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah I gotta say thank you, I was really nervous. Y'know I've been told I come on to strong, make to many jokes, and then it was really hard to sidestep that duty thing. (The interviewer doesn't understand) Duties. (Still doesn't.) Duties! (Still doesn't.) Poo. (Still doesn't.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Interviewer",
+   "text": "Poo?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my God this doesn't count! Okay? The interview was over, that was the real Chandler Bing in there, this is just some crazy guy out in the hall! Call security! There's a crazy guy out in the hall!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Interviewer",
+   "text": "Poo?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'll look forward to your call. (Walks away.)"
+  },
+  {
+   "t": "scene",
+   "text": "Ross and Rachel's, Ross is returning from his date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi! You're back from your date!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm fine, but that's not important. What's important is how was she?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uhh, it was fun. We, we just had coffee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh uh-huh, uh-huh, coffee, a little rub-rub-rub under the table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What's uh, what's going on? Do you not, do you not like Katie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! No, she's-She was nice. I mean, she's a little slutty, but who isn't?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I liked her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Of course you did Ross, you would date a gorilla if it called you Indiana Jones!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Did you get like a fresh batch of pregnancy hormones today?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! It's just that, Kate bothered me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why? What was wrong with her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "There was nothing wrong with her! All right? She was perfectly lovely!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, so what's the matter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't want you to date her!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(laughs) Why? What, what are you jealous?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes! And not because I want you to go out with me, but because I don't want you to go out with anybody! Okay? I know it's a terrible thing to even think this, and it's completely inappropriate, but I want you to be at my constant beck and call 24 hours a day! I'm very sorry, but that is just the way that I feel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I won't date. I'll uh, I'll be here, with you, all the time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really? But I'm being so unreasonable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "True, but you're allowed to be unreasonable. You're having our baby."
+  },
+  {
+   "t": "direction",
+   "text": "Pause."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(starting to cry) Oh Ross, thank you. Thank you. (They hug.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Do you feel better?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, not really. You're pressing the baby into my bladder and now I have to pee. Sorry. (She gets up and starts for the bathroom.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh Rach?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. (Stops and starts doing the I-have-to-go-to-the-bathroom dance.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Just one thing umm..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "We live together. You're having our baby. I'm not gonna see anybody else. Are you-are you sure you don't want something more?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(pause) Wow! I don't know, maybe. I'm..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh-oh, Rach! I was just messin' around! (She's stunned) Like you did last night when I had to pee?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(laughs) I knew that! I knew that! I was just messin' with you too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(pause) Okay. Okay. Because for a minute you said you..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no-no-no-no, no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "...that you actually..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No that's just-(Laughs)-That's just 'cause I'm such a good messer!"
+  },
+  {
+   "t": "direction",
+   "text": "They both laugh. Ross sits down, but Rachel doesn't move and is lost in thought."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rach?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The bathroom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Right! (Heads for the bathroom.)"
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "The New School, Joey and Monica are walking down a hallway."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well I had a great time! Learned how to bake, ate great food, that's the first A I've gotten since seventh grade, and I didn't have to sleep with the teacher this time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, look! Acting for Beginners! Want to feel good about yourself?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What the hell!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "They enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Acting Teacher",
+   "text": "All right, let's start with some basics. Can anybody tell me what the difference between upstage and downstage is?"
+  },
+  {
+   "t": "direction",
+   "text": "No one can and Monica looks at Joey expectantly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, this was a stupid idea. (Exits.)"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

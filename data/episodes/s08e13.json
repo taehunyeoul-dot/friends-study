@@ -1,0 +1,1468 @@
+{
+ "id": "s08e13",
+ "season": 8,
+ "episodes": [
+  13
+ ],
+ "code": "813",
+ "title": "The One Where Chandler Takes a Bath",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Joey is at the counter eating a bowl of Frosted Flakes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(thinking) All right. It's a new day. All that stuff about Rachel, you don't feel that now. It was crazy! You're fine. You're better than fine! You are, as your friend Tony would say, Grrrreat! Everything's normal! She's just your friend Rachel! Your friend Rachel. Your friend! Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(coming from her room) Hi, sweetie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(thinking) Hey, it's your girlfriend, Rachel!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Chandler is sitting on the couch watching TV as Monica comes out of the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(airily) Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you, are you high?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I just had the most amazing bath."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really? I don't like baths."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait, you like them with me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Honey, it's not the bath I enjoy, it's the wet, naked lady."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, baths are so relaxing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really? What do you do? You just sit in there stewing in your own filth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How dirty do you think I am? I'm telling you, if you had some candles and some bubbles and some music, you would love it! It would take all of your stress away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Honey, it's 2:00 on a Wednesday and I'm watching Road Rules, how stressed do you think I am?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey, Chandler, you got a minute? I-I really need to talk to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh! Uh, yeah! Is this a cold pizza talk or a leftover meatloaf talk?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, neither."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my God, what's up?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know. It's-it's just...lately, I've been feeling... Okay, here's what it is... (Pause) You know what? I feel a lot better, thanks! (Starts to leave)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh no-no, no you don't, just come back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right. Okay. You and Monica, friends for a long time, and sure there are rules, but then you went to London. Oh, no, but that's different. I mean, there are rules there, too! You know what I mean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Do you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It was different for you guys! I mean, I mean, you were both in the same place, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "In London?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes. When Monica and I were in London, we were both in London."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You know what? This is a bad idea. Forget it. Forget it, and listen, do me a favor, this conversation was between you and me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "If that."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe and Rachel are sitting on the couch. Ross sits down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi! Oh, Ross, don't forget, we have that doctor's appointment tomorrow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, are you going to find out the sex of the baby?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No-no, we talked about it. We don't want to know. All we care about is that it's happy and healthy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yep! Happy and healthy! And cute!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And smart!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Popular."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "With an aptitude for science."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Are you two talking about the same baby? Hey! Have you started off thinking of names yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yeah! I've come up with a bunch of ideas!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really? Me too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Me too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh huh! If it's a girl, Phoebe, and if it's a boy, Phoebo!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Maybe. But it wouldn't hurt to have a backup, you know? Uh, Rach-Rach, what were you thinking? (Gives her a look)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay! I was thinking if it's a girl, how about Sandrine? It's French."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Huh. That's a really pretty name for-for an industrial solvent."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay fine, what do you have?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, OK, it's for a boy. Well, I know it's a little out there, but...Darwin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wow, oh my God, our child will be beaten to death in the schoolyard."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, by Sandrine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're just saying that 'cause I said no to your name!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm really, really not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "How-how about you each get five vetoes?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That sounds fair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah! I don't think you're going to need it though. Okay, check this out. If it's a girl, Rain."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Veto."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rain? Hi. Hi, my name is Rain. I have my own kiln, and my dress is made out of wheat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know her! I bought homemade soap from her at a Dead show!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, how about, for a guy, Thatcher?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, why do you hate our child?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Fine, you go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, James."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But only if it's a girl."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, veto. How about-Ooh, I like Ruth! What about Ruth?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! I'm sorry! Are we having an 89-year-old? How about Dayton?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Veto. Stewart?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Veto. Sawyer?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Veto. Helen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Veto."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Is it me, or is veto starting to sound really good?"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica comes from the bathroom as Chandler enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Boy, do I have a surprise for you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Sex on the balcony?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, but someone's really not going to get over that idea, are they?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I drew you a bath!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Honey, I don't like baths! Could you draw me a picture of us having sex on the balcony?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Please, could you just try it for me? Come on, I used all my best stuff! I-I-I lit some candles. I put on some music. I used bath salts, plus bubble bath! And got you this little plastic Navy ship. So it's a boy bath!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, this does butch it up a bit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I swear, if you try it, you will love it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, if I do this, can we at least discuss sex on the balcony?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Absolutely."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler runs into the bathroom"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Bet I know how that discussion's going to go."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Chandler laying in the bathtub. \"Only Time,\" is playing in the background.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(thinking) All right, this isn't so bad. I like the flower smell! Which is okay, because I've got my boat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering) So?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I told you you were a bath person! Hey, when you get out, maybe I can give you a facial!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm going to need a bigger boat."
+  },
+  {
+   "t": "scene",
+   "text": "The Doctor's Office, the doctor is writing something as Rachel is on the table, and Ross is standing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't think you had an open mind about the name Ruth. I mean, come on, little Ruthie Geller, how-how cute is that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, oh my God! I can practically hear the mahjong tiles!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Okay! All your tests look fine. Now, are you two interested in knowing the sex of the baby?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, no. No, we're not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But you have it right there in that file? You could tell us whether it's a boy or a girl? Dayton or Sandrine? Phoebe or Phoebo?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "That's right. But if you don't want to know..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, no, we want to wait, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Right. Right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "(looks at her beeping pager) Oh, I'll be right back. And, uh, I know it's really not my place, but please don't name your child Phoebo."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(looking at the bulletin board with baby pictures) So, which of these babies do you think is the ugliest?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? Rach! Come on, that's terrible! They're...uh...they're babies. They're-they're all beautiful."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Third one from the left?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, why is it staring at me? I think it knows I'm talking about it. (Rachel starts to peek at the file) Don't-don't you-Wh-Wha-Hey!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're looking!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I didn't!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I saw you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay fine, I did. But I didn't see anything, I swear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Shame on you! Ugly baby judges you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, but Ross just listen to me..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, no, no, no! Don't tell me! I don't want to know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But I couldn't even if I wanted to, because I don't know! I swear; I didn't see anything, and I don't want to know! It was just a momentary lapse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Momentary lapse. Don't-don't you have any self-control?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(holding stomach) Okay, a couple months late on the lecture, Ross."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Monica's, Monica is entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hello?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm in the bathroom, can you come in here? I think there's something wrong."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You know what? I-I think I'll wait out here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm in the bathtub."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh. (She goes into the bathroom.) What's wrong?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I drew my own bath, but I did it wrong! The water's tepid. The salt didn't dissolve and is now... lodged places. And the scents I used don't compliment each other. Eucalyptus and chamomile-Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The bath salts! They're starting to effervesce! It's different. (Pause) It's interesting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, let's talk about something else."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah! Sure, sure. So, what was going on with you today? Oh-oh-oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, I actually had the weirdest conversation with Joey. He was talking about rules and right and wrong and..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I had the exact same conversation."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You did? What was he talking about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't know! Joey hasn't had this much trouble getting out words since we saw him in Macbeth!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(groans) That was a long night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, let's break this down. What exactly did he say to you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, he was talking about rules."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Umm, and looking at people differently."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "He didn't say anything about that to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What did he tell you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "He was asking all these questions about you, me, and London. And, of course the glue that holds this all together, the rules."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. So you, me and London. Looking at people differently. Maybe he wants to do what you and I did in London with someone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "But what did he mean by rules?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait a minute! He stopped talking the minute Phoebe came in!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because he was looking at her differently."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And Phoebe is his friend, so he thinks that would be breaking the rules!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "My God! He wants to do it with Phoebe in London!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(from outside the bathroom) You guys?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Just a minute! (To Chandler) That's Mrs. Tribbiani!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You don't say anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why would I say anything? That two of our best friends could start the greatest love affair of their lives! And they would have me to thank, and we could all start having babies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm not going to let you say anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You just stay here! (Dumps a jar of bath salts in the bathtub)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, God!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica runs out to Phoebe, who is in the kitchen"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, hey, Monica, I brought back your iron."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, you had that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I thought I lost it. I got a new one, like, a month ago."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, just as well, I broke this one."
+  },
+  {
+   "t": "direction",
+   "text": "Monica starts smiling"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Nothing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I mean, I-I, I really shouldn't say. I mean, I'm really not supposed to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's a humdinger!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Then it's really too bad that you can't tell me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Somebody likes you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Groans) Is it Chandler?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, then tell him to stop staring!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Really?! Joey?! You don't say."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Is it something you'd be interested in?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't know, I don't know, I don't know. You know, I mean, on the one hand, Mother may I? But y'know on the other hand... No. No, I can't. We're friends. No, oh, no. I don't want to risk what we have."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I guess that makes sense. So, you think you're going to talk to him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Sure, yeah. I mean, it's Joey. I don't want him to get hurt. Well, I must say, I am on fire! First Chandler, now Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Not Chandler, just Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Sure."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Central perk, Ross is sitting on the chair as Rachel walks in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You know what? I've been thinking about it. I'm really coming around on the name Ruth. I think I would actually consider naming our child that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rach, I-I can't tell you how-how much that means to me! Ohh... Wait a minute. Wait a minute. You-you hated the name Ruth! Why-why would you change your mind? Unless, you know we're never going to have to use it. You did see the folder. You know it's a boy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I didn't see anything! I actually changed my mind about the name."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't think so! You're just giving me Ruth so you'll get to name it when it's a boy, and that's when you'll swoop in and name him Heath or Blaine or Sequoia."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I would-Sequoia?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Veto."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Unless... (Rachel groans.) You anticipated that I would figure all this out and you know that it actually is a girl, and you really do want her to be named Ruth! Well, I'm not falling for that! Okay? Ruth is off the table!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But Ross, you want the name Ruth!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Not like this!"
+  },
+  {
+   "t": "scene",
+   "text": "Rachel and Joey's, Joey is sitting on his recliner as Phoebe enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey. Well, what's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, Joey, I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I knooow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whaaat?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know about your feelings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God. You do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes, and I'm sorry. I-I know things worked out for Chandler and Monica, but that's very rare."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know. I know. And this is so much more complicated than it was for those guys. I mean, it's Rachel for God sakes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "For God sakes, it's Rachel!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know. I know. And she's not only my friend; she's my pregnant friend! She's my pregnant friend who's Ross' ex!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah that's Rachel. (To herself) Beat me over the head with it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What am I going to do? You know, and I keep, I keep trying to get rid of these feelings, y'know? I stayed up all last night and made a list of everything I don't like about her. You want to hear it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "She made me switch to light Mayo. That's it! That's all I got! And, you know what? It tastes the same and my pants fit better!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Joey, I just think you're getting worked up over nothing. This is probably just a crush."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You think?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Absolutely! Y'know, you get this rush of feelings, but then it goes away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, just a crush! That's all this is! It's a crush! I'm Joey; I don't get deep feelings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's right, there you go! Crushes happen all the time! I know I've had them for all you guys. Well, except for Ross and Chandler. And I'm sure you've had them for us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Not really."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Mm-hmm. (To herself) Throw me a bone here."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Rachel is on the couch as Ross enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, I uh... I called the doctor and now we both know the sex of the baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's right. The student has become the master."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, I swear, I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, come on, you know it's a girl!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "A what?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You really didn't know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "We're having a girl?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's what you just said!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You said girl!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes. I'm... I'm sorry. I'm so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm not! We're having a girl! Sometimes I can't believe it's with you-But still! We're having a girl!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know! I know. You know what? I'm putting Ruth back on the table!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, yes! We'll have ourselves a little baby Ruth..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Permission to veto."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes, please."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Chandler enters as Monica comes from the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Do I smell essential oils?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, I'm going to take a bath. I'm just going to get a magazine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "As soon as Monica leaves the room, Chandler takes off his jacket and runs to the bathroom. Monica enters the bathroom to find Chandler in the bathtub."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What do you think you're doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "L-leaving my troubles behind?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know that you're new at this, but this is completely unacceptable bath decorum."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, it's so hard to care when you're this relaxed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Fine, you can have the bath, but I am taking your boat. Now you're just a girl in a tub!"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe enters the bathroom"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(upset) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi, Bubbles. Manly. Well, I just thought I would drop by and let you know how it went with Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Monica) You told her?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She pulled it out of me! She's like a conversational wizard! How'd it go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, you were wrong, he doesn't like me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah! How would you like it if I sent you to Lee Majors' house and told you that he liked you, and you went down there and you found out that he didn't like you? How would you feel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Pause) I don't think I'd care."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Really? Lee Majors is hot!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(from outside the bathroom) Hello?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "We're in the bathroom!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(sarcastically) Because it's a relaxing and enjoyable time!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering the bathroom) What are you guys doing in here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God! A friend he's looking at differently, but it's wrong. It's Rachel!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You like Rachel?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It's no big deal, okay? Phoebe and I talked about it. It's just a crush! It's going to go away! (Looks down) Dude, you gotta rearrange your bubbles! Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(checking for herself) (To Monica) Mazel tov."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Hey! Ross and I were looking for you! What are we all doing in here? (Looks at Chandler) Oh, my! (Covers the spot where Joey wants bubbles to be replaced.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey, cover it up with the boat!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(from outside the bathroom) Hello?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(sarcastically) Yes we're all in here and we would love for you to join us!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Well hey! What's going on? Ooh, cool boat-(Sees why the boat's there)-Oh, no. (Averts his eyes by looking around the room) (To Rachel) Hey, did you, did you tell them?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, I was waiting for you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Tell us what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "We're having a girl."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oh, wow! Yay! Wow! Hooray! Oh, man!"
+  },
+  {
+   "t": "direction",
+   "text": "They all hug and then turn and look at Chandler"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'll...I'll get you later!"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Joey is sitting at the counter eating Cocoa Puffs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(thinking) All right. It's a new day, and it's just a crush, that's all! Just a little crush! All that worrying I was doing, that was crazy. Crazy! Like my friend here the bird would say, \"it was cuckoo!\" Everything's going to be fine. It's just a crush."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Hi, sweetie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(thinking) I love you."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Monica's bathroom. Both are sitting on opposite ends of the bathtub."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It sure is nice to do this together, isn't it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah. And what you're doing feels so good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm not touching you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You're not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's the salts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, sweet Lord. New realms of pleasure!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(To herself) Whatever keeps you off the balcony, big guy!"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

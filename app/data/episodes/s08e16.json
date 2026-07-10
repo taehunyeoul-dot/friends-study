@@ -1,0 +1,1217 @@
+{
+ "id": "s08e16",
+ "season": 8,
+ "episodes": [
+  16
+ ],
+ "code": "816",
+ "title": "The One Where Joey Tells Rachel",
+ "lines": [
+  {
+   "t": "dialogue",
+   "speaker": "Lisa Kudrow",
+   "text": "(voiceover) Previously on Friends"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Joey is talking to Ross"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "There's this woman, that I like.  A lot.  Well, it's complicated.  She's with this other guy.  For a long time.  And I could never do that to the guy, y'know?  'Ccause we're really good friends."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, uh, this guy, she used to go out with, is, uh... is he a good guy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, he's the best."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Then talk to him! He might be fine with it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Joey, it's worth finding out. I mean, if you really like her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I do! So much! I can't stop thinking about her! I can't sleep, I-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, Joey, you know what? You have to go for it. How often does this happen to you, huh? You owe it to yourself. (Walks towards the door until...)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It's Rachel."
+  },
+  {
+   "t": "direction",
+   "text": "[Fade to Black, then fade in again with Ross stopped at the doorway.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(closes the door) Did you um-I'm sorry, did you just say it's Rachel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Um, you...you like Rachel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yes. I like Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rachel?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(startled) Yeah, okay but look, buy uh-Hey-hey, y'know, y'know who else I like? You! And it-it doesn't get said enough. I like you Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But R-R-Rachel-Rachel?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, but it's not a big deal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's not a big deal? Oh, I'm sorry I just...um, I...what about all the stuff you-you just said? I mean how about, I like-you-you can't stop thinking about her. Like how you can't sleep?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm an actor, y'know? As-as a group, we tend to be over dramatic."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rachel who's carrying my baby? Rachel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look no, I-I know it's bad, and I know it's wrong. Okay? But-but it's not like anything's ever gonna happen. Y'know? These-these are just feelings, they're gonna go away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know what? I-I gotta go. (Starts to leave.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh come on Ross! Hey Ross-Ross don't..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(stops) I just-y'know-I-I just have one-Rachel?!"
+  },
+  {
+   "t": "direction",
+   "text": "He exits and starts to walk away, passes a window, stops, and says \"Rachel?!\" again. Joey sighs and turns around to face Gunther."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "Rachel?!!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Rachel and Chandler are on the couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh-oh! Okay, she's kicking!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh! (Puts his hand on her belly.) She's growing inside you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Whoa!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh! (Pulls his hand away.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wow that was a big one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I think that's the youngest girl ever to reject me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering) Oh hey you guys!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey listen let me ask you, do you believe in soul mates?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yes I do. I do. I believe that there is one perfect person out there for everyone. And do you know how you find him? You stop looking for him. That's why I stopped looking for Russell Crowe. He'll find me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-huh, (To Chandler) and you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No. I mean I believe that uh, certain people are more suited for each other and I believe in falling in love, but soul mates, I don't think they exist."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well last night, I met Monica's."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, I had a date with this guy, and I swear to God, he is her other half."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Come on, don't be crazy. (To Rachel) You don't think there's someone out there better suited for Monica than me, do ya? (Rachel looks at him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(To Phoebe) Well, what's he like?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well he's tall."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "He has brown hair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Of course, of course."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "A tall guy with hair similar to mine, oh unknowable universe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "He works with food!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh sure. Older?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Obviously, and he's British."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I was just gonna ask!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah? And, he's-he's so centered and mature and confident."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, it's so sad they never had a chance to meet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Luckily, the guy she settled for can't hear what you're talking about."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I'm so sorry. Um, and maybe I'm wrong! I but-y'know I'm gonna go out with him again, I'll find out more."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You believe that this guy is destined for someone else and you're still gonna date him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, he may not be my soul mate, but a girl's gotta eat."
+  },
+  {
+   "t": "scene",
+   "text": "Ross and Rachel's, Ross is opening the door to Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I just talked to Joey, I just-I want to see how you were."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh y'know, I still-I can't believe it. Joey and Rachel I mean it's... It's like you and me going out, only weirder!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, I know you're hurting, and-and I want to be supportive, but don't say that again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh my God! What if, what if they get married? Then he'd be the stepfather of my child."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey, I don't think that's something we need to worry about! First of all he's-he's never gonna tell her how he feels about her. And even if he did you have no idea how she'd react."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Sure, because women never like Joey. Y'know, I think he's a virgin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey...he's not even thinking about going after Rachel!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "He's not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No! All he's thinking about is how you're taking this! I mean, listen it's totally freaking him out. He's talking about moving to Vermont."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "He says he wants to leave the country. (Pause) He thinks you hate him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hate him? I... No, I don't hate him. (Pause) It's just it's Rachel, y'know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey I can't even imagine how hard this must be for you. But, I don't want you to lose Joey over it. And right now he just needs to know that you're still his friend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay. Okay, I'll talk to him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right. Now do it soon, he just asked me how to convert his dollars into Vermont money."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Monica and Chandler are on the couch as Phoebe enters with Monica's soul mate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh! Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, Chandler, Monica, this is Don."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Don",
+   "text": "Oh, hello. (Shakes Chandler's hand.) Hello. (Shakes Monica's hand.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(mouths to Chandler) Soul mate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(mouths to Phoebe) What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(cough talks) Soul mate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So, what have you guys been doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Don",
+   "text": "Well, we just had a terrible lunch today at Reattica. What is with all the sun-dried tomatoes at that place?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know! What is this, 1985?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Don",
+   "text": "That's exactly what I said. Phoebe, isn't that strange."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Not really."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What's wrong with sun-dried tomatoes? (Everyone stares at him.) On a barbecue chicken pizza? (Still there's staring.) No?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So Don, what-what other restaurants do you like?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Don",
+   "text": "Well, Octavio, 27&7-Oh! And there's this great little place, Alessandro's."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God! That's my restaurant, I'm the chef there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Don",
+   "text": "You're kidding me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Don",
+   "text": "Your food is fantastic! Wow, I really want to talk to you about your menu, once I get some coffees first. Um, anyone want any?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, I'd like a latte. Oh y'know what? If you're gonna talk about me, I'm gonna go with you."
+  },
+  {
+   "t": "direction",
+   "text": "They go over to the counter and Chandler moves closer to Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What are you doing?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Nothing! I swear to God I didn't know you guys would be here! And the good news is you didn't believe in soul mates. So..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I believe in tall, handsome strangers who hit on my wife!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "They're just talking, and y'know what? Just because I think they're soul mates doesn't mean anything's gonna happen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(returning) Phoebe, good work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah! Oh he's great, I love him. (Walks away and Chandler glares at Phoebe.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Don't worry, we'll find you someone else."
+  },
+  {
+   "t": "scene",
+   "text": "Joey's Apartment, there's a knock on the door and Joey answers it to Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look, I understand if you came by to hit me, I deserve it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I don't want to hit you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh what then? Kick me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(getting worried) Bite me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, no I don't want to do anything to you. All right? I just want to tell you that I'm not mad at you and...and that I certainly do not hate you. I just, I just came here to say that. (Starts to leave.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh now-Hey Ross-Ross! Do you wanna-wanna come in for a beer or something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh...yeah sure. (Enters.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Do uh, do you got any beer? All-all I got is this melon stuff that Rachel left. I don't..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(pouring two glasses) Hey look Ross, you need to understand something okay? I uh...I am never gonna act on this Rachel thing, okay? I-I would never do anything to jeopardize my friendship with you. (He hands Ross a glass.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thank you."
+  },
+  {
+   "t": "direction",
+   "text": "They clink glasses and take a drink. Ross likes it, Joey hates it. Then Ross sees Joey hating it, mimics he hates it as well."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Anyway, it uh...look it'll just...take me a while to get over her, that's all. I'm not even sure how to do that, I mean I've never been in love before so..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?! You're in love with her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I thought you knew that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Umm, no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow. Hey look, if it helps, I don't want to feel this way. Honest. I just keep thinking, \"Ah, I'll get over this.\" Y'know? I just-It just keeps gettin' harder. I don't, I don't know what to do. Y'know? What do I do?"
+  },
+  {
+   "t": "direction",
+   "text": "Pause"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I think you need to tell her how you feel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay that's the green stuff talkin'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I'm serious. You-you need to find out where she is, because if she's not where you are, then you can start to move past this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But what if uh-and I'm not saying she will be-But..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "If she is where you are then uh...then my feeling weird about it shouldn't stand in the way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Are you sure?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. Look if-if she's gonna end up with somebody else, the truth is she couldn't find a better guy. So..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So when do you think you're gonna talk to her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God I have to tell her! I haven't even thought about what I will say. What should I say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm understanding, but let's not get carried away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm sorry, you're right. What am I gonna say? (He takes another sip of the green stuff and recoils at the taste.) Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, tell me about it. (He stands up, turns his back to Joey, and enjoys another sip.)"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe and Chandler are watching Monica and Don talk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Don",
+   "text": "...so I've been slowly phasing out the wine importing and focusing more on the cheese side of things."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Cheese you say? That's some pretty smelly work, huh Don?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Don",
+   "text": "Excuse me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Cheese, it's smelly. You must smell a lot of the time too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Don",
+   "text": "Uh, not really. But when it comes to cheese, I'm one of the people who thinks the smellier the better."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Me too! Yeah, Chandler can't stand it. He won't even allow me to have blue cheese in the house."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Don",
+   "text": "And you're still married to him? (They both laugh, and Chandler tries to but fails.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You know what I'd love to do? I would like to go to France and eat nothing but bread and cheese-Not even bread, just cheese. No, I want the bread. Yeah. Ah, and pastries... (Breathlessly) And pate. Oh, I'm really not high, it's just I used to be fat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Don",
+   "text": "Well if you where ever enter the Loire valley let me know, I've got a great little villa you can stay at."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Is it made of cheese?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Don",
+   "text": "No. But God, a house made of cheese, wouldn't that be incredible?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'd move in tomorrow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(disgusted) Oh come on! (To Phoebe) Are you listening to this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What do we do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't know, they both want to live in a house of cheese! I don't know how you fight that."
+  },
+  {
+   "t": "scene",
+   "text": "Outside Ross and Rachel's, Joey walks up to knock on the door, but stops."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. Okay, I can do this. I can tell her how I feel. Just uh, just stand up straight. (Does so.) Take a couple deep breaths. (Does so.) Look confident. (Does so as Rachel opens the door and startles him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey? What's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I uh, I just came by because I-I want to talk to you about something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay what's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Here? In the hall? What are we animals?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well honey, I'm late for a meeting. So can you just make it quick?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay umm, I just came by to tell you that I...want to have dinner with you tonight. That's all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Sure! That sounds great! Just leave me a message and tell me where to meet you. Okay? (Walks away.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. That's good. Okay, that give you a couple hours to prepare what you're gonna say. Good. Yeah. (Someone comes out of his apartment and it startles Joey again.) Don't you people ever knock?!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica and Chandler are entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'd like to have Don and Phoebe over. Wouldn't that be nice?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Sure, why don't you set it up. I'll just be over here, browsing through the personals."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Are you okay? You've been acting weird all afternoon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, fine. Fine. Not perfect!! But good enough."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Jeez! What is with you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm sorry, did you say cheese?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, what's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Phoebe thinks you and Don are soul mates, and I don't believe in that kind of stuff. But then you two totally get along. So look, I won't stand in your way if you want to run off with Don and live in a house of cheese."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler, you don't believe in soul mates?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No. But I'm sure (mimics Don) 'tomatoes' does."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't believe in soul mates either."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You don't?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No. I don't think that you and I were destined to end up together. I think that we fell in love and work hard at our relationship. Some days we work really hard."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So you...you don't want to live with Don in a cheese house?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, I've had second thoughts about that. Do you realize how hard that would be to clean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I love you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know what? I am going to take you out to dinner tonight. I found this place that makes the greatest mozzarella sticks and jalepino poppers . (Monica doesn't look impressed.) No? Really? They taste so good."
+  },
+  {
+   "t": "scene",
+   "text": "A restaurant, Joey and Rachel are having dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "...and I know Chandler is kidding but it happens every time he touches my stomach. I mean I'm really worried the baby's not going to like him. (Joey is staring at the table.) Are you okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What? Yeah! Sure! Uh, look at the uh, the reason...(Exhales slowly)-Is it hot in here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. Not-not for me, but why don't you take off your sweater?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I would, but this is a nice place and my T-shirt has a picture of Calvin doing Hobbs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God! Really?! Can I see it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. Sure. (They both half stand up, Joey pulls the neck of his sweater out, and Rachel looks down it to see his T-shirt.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Huh. Wow, I wouldn't think Hobbs would like that so much."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh... How long have we known each other?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Um, seven...e-e-eight, eight years. Wow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh-huh, long time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But over the past few weeks..."
+  },
+  {
+   "t": "direction",
+   "text": "A waiter runs over interrupting Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Waiter",
+   "text": "Hah, sorry about the wait, but it is mega-jammed in here! We have a couple specials tonight..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Actually uh, could you give us a second?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Waiter",
+   "text": "Sure. Sure. (Turns away, then turns back) Second's up! (Joey glares at him.) Not...that kind of table. (He walks away.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So you were saying?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm not quite sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, well you had asked me how long we had known each other, and I said, \"Eight years.\" And the um, waiter came over and cut his tip in half, and umm...now here we are."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, here we are. Uhh... I... I think I'm...falling in love with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(stunned) What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm falling in love with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(looking around) Who are you talking too? Oh, you're kidding! Oh, it's a joke! (Laughs.) It's funny. It's funny. I don't get it. (Joey doesn't say any thing and Rachel realizes it's not a joke.) Oh. (Pause) Okay. Umm... I-I...uh, wow. Are you uh... How did umm... When?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Does it really matter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wow! Wow. Wow. Wow, it is hot in here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay look Rach, I know this is a lot. You don't have to say anything. You-you uh, you take as much time as you need. (Long pause as Rachel says nothing.) Okay, you gotta say something!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, Joey I love you so much, but I..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But. (Hangs his head down.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah-yeah right. That's okay. That's fine. That's uh, pretty much what I was expecting. So uh, it's no big deal. All right? I think I'm gonna go. (Stands up.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! Joey please! Please don't! Please don't leave like this! Now come on, you cannot do this to a pregnant woman! (Starts to cry.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Don't start doing that. You can't do that Rach, 'cause then you're gonna make me do that. (Starts to cry.) Oh, here we go! (Sits down next to her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Can I? (Hug him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure!"
+  },
+  {
+   "t": "direction",
+   "text": "They hug."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh Joey honey I don't...I don't want to lose..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey-hey-hey, hey! You can't. Okay? Ever!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh no-no Rach, please, don't be sorry. Okay? Don't be sorry. (They hug again.) Y'know I was only kidding you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, that was a real good one."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "A restaurant, Joey and Rachel are still hugging as a waiter walks by the table to talk to the annoying waiter from before who is watching."
+  },
+  {
+   "t": "direction",
+   "text": "Waiter No. 2: Is this your table?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Waiter",
+   "text": "Yeah."
+  },
+  {
+   "t": "direction",
+   "text": "Waiter No. 2: God, you're gonna be here all night!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Waiter",
+   "text": "I know! I haven't even read them the specials yet!"
+  },
+  {
+   "t": "direction",
+   "text": "Waiter No. 2: What's the matter with them?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Waiter",
+   "text": "I don't know. I think maybe one of them is dying. (Pause) I kinda hope it's the girl. (The other waiter is shocked.) The guy is really cute!"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

@@ -1,0 +1,1547 @@
+{
+ "id": "s09e15",
+ "season": 9,
+ "episodes": [
+  15
+ ],
+ "code": "915",
+ "title": "The One With The Mugging",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, Joey, Ross, Monica and Phoebe are there as Chandler enters"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(excited) Guys, guys, I've got great news! Guess what..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, ah, Monica's pregnant?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(shocked) Really? (She looks around, suddenly embarrassed) Let's get past the moment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What's your news?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Thank you. I got a job in advertising. (Everybody cheers)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(hugging Chandler) Oh, honey, that's incredible!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(inquisitive) Gosh, what's the pay like? (Everybody stares at her indignantly) Oh, come on people... (defending) come on, now, if I don't know who makes the most, how do I know who I like the most! (She looks at Joey) Hey Joey! (Joey winks at her)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Actually, it pays nothing. It's an internship."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, that's cool. We have interns at 'Days Of Our Lives'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Right. So, it'll be the same except... less sex with you. (Joey nods)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, uh, what kinda stuff do you think they'll have you do there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, it's a training program, but at the end, they hire the people they like."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(enthusiastic) That's great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, I mean, there's probably gonna be some ground work which will probably stink, you know, grown man getting people coffee is a little humiliating"
+  },
+  {
+   "t": "direction",
+   "text": "At the same time, Gunther puts down a cup of coffee in front of Chandler"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(grinning awkwardly) Humiliating and noble!"
+  },
+  {
+   "t": "direction",
+   "text": "Gunther shoots a nasty look at him while leaving"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know, if I didn't already have a job, I think, I would have been really good in advertising."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross, you did not come up with \"got milk?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes, I did, I did! (He turns to Joey, disappointed) I should have written it down!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's Aparment, Monica sits at the table"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Where's Chandler? I wanna wish him good luck on his first day. (Monica smiles) ... and I smelled bacon. (taking some)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "He just left."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(puzzled) Who did? (Monica looks bewildered)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Joey! You never gonna believe it: she called."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(standing up, surprised) She did?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(enthusiastic) You got it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(still surprised) I did?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What is she talking about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know, but it sounds great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Your agent called. You got that audition."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "With Lennart Haze?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my god, that is great! That is *** for a play on broadway... and in a real theatre, not that little one underneath the dally like last time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Is it a good play?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, it must be, because I read and I didn't understand a singe word."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, and Lennart Haze is starring in it..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, yeah, and directing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(sighs) He was so good in that movie of MacBeth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(disbelieving) You saw that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, but... I saw the previews. They played it right before Jackass."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel and Joey",
+   "text": "(pointing at Monica, a look of recognition in their faces) Ah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, he's done some amazing works."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, yeah. Oh, I loved him in those cell phone commercials."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(almost laughing) I know. When the monkey hits him in the face with that giant rubber phone. (They all laugh)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey! Maybe the monkey will be at the audition!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(sitting down) Don't make me more nervous than I already am!"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler's new workplace, his fellow interns are already seated around a table"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering) Good morning, everybody."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Intern",
+   "text": "Can I get you a cup of coffee, Sir?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, no, no, I'm an intern, just like you guys... except for the tie, the briefcase... and the fact that I can rent a car."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Intern",
+   "text": "Seriously, you're an intern?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, well, I'm kinda heading into a new career direction and, you know, you gotta start at the bottom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Intern",
+   "text": "(shaking his head disbelievingly) Dude!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Right. Look, I know I'm a little bit older than you guys, but it's not like I'm Bob Hope (he sits down)"
+  },
+  {
+   "t": "direction",
+   "text": "Everybody gives him an inquiring look"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The comedian? USO?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Intern",
+   "text": "(correcting him) Uhm, it's USA, sir."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler desperately covers his head in his hands"
+  },
+  {
+   "t": "scene",
+   "text": "Audition room, Joey is lead into the room by a receptionist in a fancy dress"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Receptionist",
+   "text": "This is Joey Tribbiani. Joey, these are the producers and, as you probably already know, this is Lennart Haze."
+  },
+  {
+   "t": "direction",
+   "text": "Lennart Haze turns around in his chair to face Joey"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It is so amazing to meet you. (They are shaking hands) I'm such a big fan of your work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Well, I've... I've been blessed with a... a lot of great roles."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Tell me about it! \"Unlimited nights and weekends!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "You making fun of me? Because I am not a sell-out. (He stands up and walks menacingly towards Joey) I didn't do that for the money, I believe in those phones. I almost lost a cousin because of bad wireless service."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, I-I-I wasn't making fun of you, honestly, I-I think you were great in those commercials."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Well, I do bring a certain credibility to the role."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(regaining confidence) Are you kiddin'? When they shoot you out of that cannon..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Peeeeeooooooooch (He mimes flying out of the cannon) \"Hang up that phone!\" One take!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "So, shall we read?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, yah, sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Top of act two. This is my entrance. You got it?"
+  },
+  {
+   "t": "direction",
+   "text": "Joey nods whereupon Lennart acts as if he is entering a room"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "\"What the hell are you still doing here\"?"
+  },
+  {
+   "t": "direction",
+   "text": "Joey stares at him, fascinated by his performance"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Err, \"I think you know\"."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "\"Bastard\"!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "\"I am what you made me. You know what? I could go right now.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "\"Go, go!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "\"I can't. Oh, I want to, long pause, but I can't.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "I'm sorry, sorry. You're not supposed to say \"long pause\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(understandingly) Oh, oh, I thought that was your character's name, you know, I thought you were like an Indian or something, you know with a... (He mimes wearing a feather on his head)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "No. Thank you so much for coming in. We appreciate it, thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ah, y-y-you're sure you don't want me to do it again? I could do it with an accent, you know, Southern (He speaks in what he believes is a Southern accent) \"I could go right now, maaan!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "(stunned, muttering) My god in heaven."
+  },
+  {
+   "t": "direction",
+   "text": "The producers stand up"
+  },
+  {
+   "t": "direction",
+   "text": "Producer #1: Joey, hang on for a second. Lennart, can we talk to you for a moment?"
+  },
+  {
+   "t": "direction",
+   "text": "They stand aside, talking"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "You, you gotta be kidding. See, h-he, he can't act. (Joey hears that and his disappointment is reflected in his facial expression)."
+  },
+  {
+   "t": "direction",
+   "text": "Producer #1 whispers something"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Hey! I-I-I don't care if he's hot, you know. If you want to sleep with him, do it on your own time. (Joey smiles smugly at this) This is a play. No, listen: if you insist on this, I will call my agent so fast on a cell phone that has a connection that is so clear he's gonna think I'm next door."
+  },
+  {
+   "t": "direction",
+   "text": "Joey approaches them"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(interrupting their conversation) Ah, hi, ah. Thank you so much for whispering for my benefit, but, ah, look, if you just tell me what I did wrong, I'd just love to work on it and come back and try it again for you. And, and also: (to Producer #1) 'How you doing?' (to Lennart again) You should, please, just gimme another chance. I really wanna get better, please."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Well, if you wanna come back at the end of the day today, here are my notes. Ready?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Uhm, you're in your head. You-you're thinking way too much."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I really doubt that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "(explaining to Joey, who nods fervently) No, no, no. It's that you're not connected with anything in your body. There's no urgency. The scene is a struggle, uhm, it's a race. Also, what you did was horizontal. Don't be afraid to explore the vertical. And don't learn the words. Let the words learn you."
+  },
+  {
+   "t": "direction",
+   "text": "Joey ponders on this for a while"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(suggesting) Couldn't I just sleep with the producer?"
+  },
+  {
+   "t": "scene",
+   "text": "Backstreet, Ross and Phoebe walking"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, do you wanna go to dinner tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I can't. I've got a date with that waitress, Katy, yeah, I know we've been only going out like twice, but I have a really good feeling about her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I hear divorce bells."
+  },
+  {
+   "t": "direction",
+   "text": "A mugger, his face hidden by a cap, approaches them from behind"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mugger",
+   "text": "Alright. Just give me your wallets and there won't be a problem."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(taken aback) What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mugger",
+   "text": "I have a gun (It looks like he has a gun under his coat)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "O-ok. Just relax, Phoene, just stay calm. (He searches his coat and freaks out). Oh my god, I can't find my wallet."
+  },
+  {
+   "t": "direction",
+   "text": "He finally finds the wallet and hands it to the mugger"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mugger",
+   "text": "Alright, lady, now give me your purse!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(still in a high-pitched voice) What do you mean \"no\"? I knew you'd be my death, Phoebe Buffay."
+  },
+  {
+   "t": "direction",
+   "text": "A sign of recognition runs across Phoebe's face"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Lowell, is that you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lowell",
+   "text": "Phoebe? (He lifts his cap) Oh my god!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(simultaneously) Oh my god!"
+  },
+  {
+   "t": "direction",
+   "text": "They hug and scream"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(excited) I'm sorry, Ross, this is my old friend Lowell from the streets. Lowell, Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lowell",
+   "text": "Ross, nice to meet you. (He stretches his hand out to him)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, a real pleasure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ah, it's been so long, so long. (They hug again) I can't believe you're still doing this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lowell",
+   "text": "Ough, I know, but I quit smoking!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Good for you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lowell",
+   "text": "So you look like you're doing really well! I guess you're mugging days are behind you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ouh... (she nods)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(shocked) Oh my god. Phoebe, you used to mug people?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Excuse me, Ross, old friends catching up..."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's Apartment, Monica sits on the couch as Joey enters"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, how did the audition go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, they wanna see me again this afternoon, but, err, well, Lennart Haze did not like me. (He sits down)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, he said I wasn't urgent enough, you know, and that everything I did was horizontal and I should be more vertical. Oh, and he said that I should think less."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So far so good! (Joey nods)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering, carrying a large box) Honey, I'm old!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(standing up, walking towards him) What's wrong?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I am so much older than these other interns. I can't compete with them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So you're a little older. Try to look at the positive: You have all this life experience."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, but I don't think life experience with these. (He opens the box and takes an inline skate-like sneaker out)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wooooooooow (He takes the sneaker) It's like they're on fire!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What are they? (They sit down again)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "They're these prototype sneakers and come up with ideas on how to sell them which I can't do because no self-respecting adult would ever where these."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(determined) I give you $ 500 for them!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What am I supposed to do with these?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ah, come on, sneakers are easy. You wear sneakers all the time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, first of all, they're not called \"sneakers\" anymore. Apparently, they're called \"kicks\" or \"skids\" and I think I heard somebody say \"slorps\". (He takes a sneaker) And here, look: they've got these wheels to pop out from the bottom so you can roll around 'cause, apparently, walking is too much exercise. Kids, kids, roll your way to childhood obesity! (to Monica) Would you help me try to sell these?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, have you considered using a girl with huge knockers?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, I don't think that's the kinda thing they're looking for."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, that'd work on me! Why did I get to buy Mrs. Butterwords?"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Monica sits on the couch as Phoebe and Ross enter"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hey, hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, you'll never guess what just happened... Phoebe and I got mugged!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You okay?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(sitting down) Yah, because Phoebe knew the mugger!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(bewildered) How do you know a mugger?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm sorry I have friends outside the six of us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You wanna know how she knew him? (He points at Phoebe) Because Phoebe used to mug people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(shocked) Seriously?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I'm not proud of it, but, you know... sometimes when I was living on the street and I needed money for food and stuff I..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(disapproving) Phoebe, that is awful!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, ok, I wasn't rich like you guys, ok, I didn't eat gold and have a flying pony... I had a hard life, my mother was killed by a drug dealer..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You're mother killed herself!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "She was a drug dealer!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, anyway, it was a good thing Phoebe knew the knew him, because (menacingly) I was about to do some serious damage!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(laughing) Okay..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, this must've brought back some really bad memories for you, Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, Ross was mugged as a kid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(worried) You were?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, it was pretty traumatic. I was outside St. Marc's Comics... you know, I-I-I was just there minding my own business, you know, seeing what kinda trouble spiderman got into that week-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(coughing) Wonderwoman!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Anyway, I was heading towards this bakery, you know, to pick up a couple of dozen Linzer torts for someone... (He looks at Monica) ... when outta nowhere this thug with a pipe jumps out and says: \"Gimme your money, punk!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(shocked) Oh my god..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know! And-and the worst part was they took my backpack which had all the original artwork I had done for my own comic book: \"Science Boy\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh yeah! What was his superpower again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "A superhuman thirst for knowledge."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I-I better get to class (He stands up) Are there any more of your friends I should look out for on my way, Phoebe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No... actually, you might wanna stay away from Jane street... that's where stabby Joe works."
+  },
+  {
+   "t": "direction",
+   "text": "Ross leaves Central Perk"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, I think we have a problem here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, uhm, back in my mugging days, you know, I, uhm, I worked St. Marc's Comics."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, a pipe was my weapon of choice and, uhm, pre-teen comic book nerds were my meat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, there was this one kid who had a sticker on his backpack that said-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe and Monica",
+   "text": "\"Geology rocks!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my god!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know... I mugged Ross!"
+  },
+  {
+   "t": "scene",
+   "text": "Audition room, the producers and Lennart are waiting for Joey"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Receptionist",
+   "text": "You're late!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) I know, I'm sorry, but can I just have a quick second to run to the bathroom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Receptionist",
+   "text": "No, Lennart doesn't wait!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But I'm bursting with u-hu!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "(spotting Joey) Joey! Here we go. Let's go very quickly!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Actually, I really need..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "(interrupting) We must go now, quickly, please."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yes... ahahaaa (He seems to be in pain)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Ready? \"What the hell are you still doing here?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(walking on the spot) \"I think you know!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "\"Oh, you sick bastard!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "\"I am what you made me! You know what?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "\"What?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "\"I could go right now.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "\"Then go, go!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(urgent) \"I, oh, I can't. I want to, but I can't!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Cut! That was good. (He turns to the producers) That was very good. You did everything I asked for."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(disbelieving) I did?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Yes. Plus... what you've got that... I don't know what you've got going... this squirmy quality that you bring into the character that I couldn't've even imagined. Wow, hey, here's what we gonna do: come back tomorrow for the final callbacks with the ***, do all of this what you've got going now, but - you know what? - more, more. Can you do that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure, yeah. I don't have time to say thank you because I really gotta go. (He grabs his jacket and limps out of the room)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "(watching Joey leave) Look at that: still in character, I like it... I plant seeds I can't explain."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's Apartment, Chander sits on the couch as Monica and Rachel enter"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Putting on the sneakers... thought I'd get into a younger mindset, you know, to see if it sparked anything..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, anything yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, how's this: They're so uncomfortable it's like getting kicked in the nuts for your feet!"
+  },
+  {
+   "t": "direction",
+   "text": "At that moment, Joey opens the door"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hey!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey heads straight for the fridge, takes all the beverage cans and is about to leave the apartment"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Probably wanna know what I'm doing...?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, that seems about right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yesterday at my audition, I really had to pee, and apparently, having to pee makes me a really good actor. I got a call-back, so I'm drinking everything. Oh, by the way, that egg nog in our fridge was great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, that was formula."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "We gotta get more of that. (He leaves the apartment)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(sitting on the couch) You know what... these aren't half-bad! (to Rachel) You should suggest something like these to Ralph Lauren."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, first of all, that's stupid and second of all, I'm not allowed to talk to Ralph."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright (He stands wearing the sneakers on) I feel youger already!"
+  },
+  {
+   "t": "direction",
+   "text": "He trips and falls hard on his back"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(on the floor) Yah, I think I broke my hip."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe is there drinking coffee and Ross is about to enter"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(spotting Ross) Hey, you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, how was class?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No one ever asked me that, what's wrong?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Nothing, I really wanna know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh... (He looks positively surprised) Well, uhm, there was actually a rather lively discussion about the Pleistocene..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(interrupting) Alright, nothing is worth this. Uhm, I have a confession to make... uhm, okay, you know, that girl that mugged you when you were a kid..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(disbelieving) Wh-What are you talking about? It wasn't a girl. It was this huge dude."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You don't have to lie anymore, Ross, I know that it was a fourteen year-old girl."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, it wasn't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes, it was."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, it wasn't. You don't think I would've defended myself against a fourteen year-old..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(interrupting, pinching his year) \"Gimme your money, punk!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(shocked) Oh my god, it was you! I can't believe it, you... you mugged me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(apologetic) Yeah, and I'm so, so sorry, Ross, I'm sorry, but, you know, if you think about it, it's kinda neat. (She smiles at him, but he doesn't understand) I mean, well, it's just that I I've always felt kinda like an outsider, you know, the rest of you have these connections that go way back and, you know, now, you and I have... have a great one!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's not the best!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know, I'm sorry, please forgive me. I don't know what to say..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(indignant) There's nothing you can say. That was the most humiliating thing that ever happened to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Really? Even more humiliating than..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(interrupting) Hey, let's not do this!"
+  },
+  {
+   "t": "direction",
+   "text": "He picks up his briefcase and walks out of the door, leaving Phoebe behind"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler's new workplace, we are witnessing a presentation of a fellow intern"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Intern",
+   "text": "... and then, at the end of the commercial, the girls get out of the hut tub and start making out with each other!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Boss",
+   "text": "(ironic) That's interesting! Just one thought: You didn't mention the shoes. Who's next? (Chandler raises his hand) Chander..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay... (He stands up) You start on the image of a guy putting on the shoes. He's about my age..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Intern",
+   "text": "(snorting) Your age?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "A-huh. So he's rolling down the street and he starts to lose control, you know... maybe he falls... maybe hurts himself. Just then, a kid comes flying by wearing the shoes. He jumps over the old guy and laughs, and the line reads: \"Not suitable for adults!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Boss",
+   "text": "Chandler, that's great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, thank you, sir... or man-who's-two-years-younger-than-me (He sits down again)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Boss",
+   "text": "You see? That has a clear selling point. It appeals to our key demographic, it's.... (enthusiastic) You did you come up with that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(over-enthusiastic) I don't know, I don' I don' know! I was just trying to get into a young mindset, you know, and it just started to flow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Boss",
+   "text": "That is great. Good work!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler. Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Boss",
+   "text": "See all of you tomorrow. (He leaves)"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler stands up and walks out the room with a cane"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The cold weather hurts my hip!"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross sits in a chair as Phoebe enters"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, Ross! (He lowers his newspaper and scowls at her) I know you're still mad at me, but can I just talk to you for a second?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Sure, go ahead. Whoops, sorry, sure, go ahead. (He raises his hands as if being mugged)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I just really wanted to apologize again and... and also show you something I think you'll find very exciting."
+  },
+  {
+   "t": "direction",
+   "text": "She puts a box on her lap, labelled \"crap from the street\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(faking enthusiasm) Oh my god, crap from the street? (She smiles excitedly, but Ross just turns back to his newspaper)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Look, Ross, in this box are all the things I got from mugging that I thought were too special to sell... or smoke. (Ross looks at her in astonishment) Anyway, I was looking through it and I found \"Science Boy\" (She holds up some sheets of paper and hands them to Ross)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh my god. (He sighs) I never thought I'd see this again. (He browses trough the pages) It's all here. What made you save it all these years?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can't say, I just thought it was really good... and... maybe would be worth something some day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You really thought \"Science Boy\" was worth saving!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah... but you should know, I also have a jar of vaseline and a cat skull in here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Still... this is amazing... Oh my god, thank you, Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're welcome. And thank you for \"Science Boy\". I learned a lot from him"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're welcome."
+  },
+  {
+   "t": "scene",
+   "text": "Audition room, Joey and Lennart are rehearsing"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(hoping frantically on the spot, screaming) \"I need an answer!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "\"I-I-I can't tell you somethin' I don't know.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "\"You know!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "\"I don't know!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "\"I need an answer now!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "\"Alright, here, you want an answer... the answer... is...\""
+  },
+  {
+   "t": "direction",
+   "text": "He pauses while Joey struggles to avoid wetting his pants"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(screaming) Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "\"She never loved me, she only loved you.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "\"You knew this all along and you never told me? You never told me? I can never forgive you, I can never forgive myself, I have nothing to live for - Bang - End Scene!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Absolutely amazing! (The producers applaud Joey) The part is yours."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(in pain) Oh thanks, thanks! Now, I really have to get..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lennart",
+   "text": "Wa-wa-wa-wait! Congratulations! You did it! You did it! (He hugs Joey) You can relax now. Yeah."
+  },
+  {
+   "t": "direction",
+   "text": "Joey relaxes and wets his pants while hugging Lennart"
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's Apartment, Monica sits at the table reading the mail"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow, that's a big cable bill! Huh, you don't have a job, but you have no problem ordering porn... on a Saturday afternoon?! (shocked) I was in the house!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey, uhm, Phoebe didn't by any chance mention that..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "... that she was the huge guy that mugged you? Yah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I see. You didn't happen to tell..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "... everybody we know? Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Great. Thanks! (He leaves)"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

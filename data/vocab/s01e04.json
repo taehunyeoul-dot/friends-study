@@ -1,0 +1,209 @@
+{
+    "id":  "s01e04",
+    "code":  "104",
+    "title":  "The One With George Stephanopoulos",
+    "model":  "sonnet",
+    "cost_usd":  0.3911,
+    "expressions":  [
+                        {
+                            "expression":  "nod off",
+                            "dialogue":  "Ross: \"It\u0027s okay, y\u0027know, you just **nodded off** again.\"\nMonica: \"What\u0027s going on with you?\"\nPhoebe: \"I got no sleep last night!\"",
+                            "speaker":  "Ross",
+                            "meaning":  "자기도 모르게 잠깐 졸다가 잠들다",
+                            "nuance":  "의도치 않게 순간적으로 잠든 상황에 쓴다. \"fall asleep\"보다 훨씬 가볍고 순간적인 졸음을 표현하며, 공공장소나 부적절한 타이밍에 깜빡 잠든 상황에 자연스럽다.",
+                            "example":  "I **nodded off** during the meeting and missed the entire presentation. → 회의 중에 깜빡 졸아서 발표를 통째로 놓쳤다."
+                        },
+                        {
+                            "expression":  "pass on (something)",
+                            "dialogue":  "Ross: \"You know what, I-I\u0027d better **pass on** the game. I think I\u0027m just gonna go home and think about my ex-wife and her lesbian lover.\"\nJoey: \"The hell with hockey, let\u0027s all do that!\"",
+                            "speaker":  "Ross",
+                            "meaning":  "제안이나 기회를 정중히 거절하다, 패스하다",
+                            "nuance":  "\"reject\"나 \"decline\"보다 훨씬 가볍고 자연스러운 구어체. 강한 거부감 없이 그냥 하지 않겠다는 뉘앙스로, 음식이나 활동을 거절할 때 모두 쓸 수 있다.",
+                            "example":  "\"Are you coming to the party tonight?\" \"I\u0027ll **pass on** this one — I need an early night.\" → \"오늘 파티 올 거야?\" \"이번엔 패스할게, 일찍 자야 해서.\""
+                        },
+                        {
+                            "expression":  "take one\u0027s mind off something",
+                            "dialogue":  "Joey: \"C\u0027mon, Ross!\"\nRoss: \"Alright, alright, maybe it\u0027ll **take my mind off** it. Do you promise to buy me a big thumb finger?\"",
+                            "speaker":  "Ross",
+                            "meaning":  "~에서 마음을 돌리다, ~를 잊게 해주다",
+                            "nuance":  "걱정이나 슬픔 같은 부정적인 생각에서 주의를 분산시킬 때 쓴다. \"take my mind off things/it/work\" 형태로 굳어져 자주 등장하며, 위로나 제안 문장에 자연스럽게 쓰인다.",
+                            "example":  "Let\u0027s go see a movie. It\u0027ll **take your mind off** the interview tomorrow. → 영화 보러 가자. 내일 면접 걱정 좀 잊게 해줄 거야."
+                        },
+                        {
+                            "expression":  "way too + 형용사/부사",
+                            "dialogue":  "Joey: \"Ninety-five, ninety-six, ninety-seven. See, I told you! Less than a hundred steps from our place to here.\"\nChandler: \"You got **waaaay too much** free time.\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "훨씬 너무 ~하다, 도가 지나치게 ~하다",
+                            "nuance":  "\"too\"를 강조하는 구어체 표현으로 \"much too\"보다 훨씬 캐주얼하고 강한 어감을 낸다. 과장이나 핀잔을 줄 때 즐겨 쓰며, 발음할 때 \"way\"를 늘여 말할수록 강도가 세진다.",
+                            "example":  "That sweater is **way too expensive** for something I\u0027d only wear once. → 한 번 입을 옷치고는 저 스웨터 진짜 너무 비싸다."
+                        },
+                        {
+                            "expression":  "Aren\u0027t we Mr. \"___\"",
+                            "dialogue":  "Ross: \"Funny, my birthday was seven months ago.\"\nChandler: \"Well, **aren\u0027t we Mr. \u0027The glass is half empty.\u0027**\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "역시 ~한 분이시네 (비꼬듯 상대방에게 어떤 특성을 딱지 붙이는 표현)",
+                            "nuance":  "상대방의 부정적이거나 예상 가능한 태도를 빈정댈 때 쓰는 패턴. 2인칭 상황에서 \"we\"를 써서 거리를 두면서 놀리는 효과를 낸다. 빈 칸에 특정 성격 유형을 넣어 응용 가능하다.",
+                            "example":  "\"This project is probably going to fail anyway.\" \"**Aren\u0027t we Mr. Doom and Gloom** today.\" → \"이 프로젝트 어차피 실패할 것 같아.\" \"오늘도 역시 비관론자 등장이시네.\""
+                        },
+                        {
+                            "expression":  "all the dirt",
+                            "dialogue":  "Rachel: \"So c\u0027mon, you guys, **tell me all the dirt!**\"\nKiki: \"Well, the biggest news is still you dumping Barry at the altar!\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "최신 가십, 뒷이야기, 비밀스러운 소식 전부",
+                            "nuance":  "\"dirt\"는 구어체로 누군가에 대한 가십이나 비밀스러운 정보를 뜻한다. \"spill the tea\"와 유사하지만 더 오래된 표현. 친한 친구 사이에서 오래간만에 만났을 때 근황 토크를 요청할 때 자연스럽다.",
+                            "example":  "You were at the reunion — come on, **give me all the dirt** on who showed up. → 너 동창회 갔었잖아 — 얼른 다 말해봐, 누가 왔는지."
+                        },
+                        {
+                            "expression":  "bring someone down",
+                            "dialogue":  "Rachel: \"I\u0027m so sorry, you guys. I didn\u0027t mean to **bring you down**.\"\nMonica: \"No, you were right. I don\u0027t have a plan.\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "상대방의 기분을 가라앉히다, 분위기를 망치다",
+                            "nuance":  "자신의 푸념이나 슬픈 이야기로 상대방 기분까지 망쳤을 때 사용하는 사과 표현. \"I didn\u0027t mean to bring you down\"은 즐거운 자리에서 무거운 이야기를 꺼낸 후에 쓰는 자주 쓰이는 패턴이다.",
+                            "example":  "I didn\u0027t want to **bring everyone down**, so I kept the bad news to myself all evening. → 분위기 망치고 싶지 않아서 저녁 내내 나쁜 소식을 혼자만 알고 있었어."
+                        },
+                        {
+                            "expression":  "What\u0027s going on with you?",
+                            "dialogue":  "Phoebe: (waking suddenly) \"Oh! What what what! ...Hi.\"\nRoss: \"It\u0027s okay, you just nodded off again.\"\nMonica: \"**What\u0027s going on with you?**\"\nPhoebe: \"I got no sleep last night!\"",
+                            "speaker":  "Monica",
+                            "meaning":  "요즘 무슨 일 있어? 뭔 일이야? (걱정하며 묻는 표현)",
+                            "nuance":  "단순한 안부 인사가 아니라 상대가 이상해 보이거나 힘들어 보일 때 걱정하며 쓰는 표현. \"What\u0027s wrong?\"보다 부드럽고 덜 직접적이며, 상대가 알아서 털어놓을 공간을 만들어 준다.",
+                            "example":  "You\u0027ve barely touched your food and you haven\u0027t said a word. **What\u0027s going on with you?** → 밥도 거의 안 먹고 아무 말도 안 하네. 무슨 일 있어?"
+                        },
+                        {
+                            "expression":  "have it (all) figured out",
+                            "dialogue":  "Rachel: \"It was a plan. Y\u0027know, it was clear. It was **figured out**, and now everything\u0027s just kinda like...\"\nPhoebe: \"Floopy?\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "(계획이나 상황을) 완전히 파악하다, 다 계획돼 있다",
+                            "nuance":  "미래에 대한 확실한 계획이나 답이 있다는 뜻. 주로 \"I had it all figured out\" 또는 \"have everything figured out\" 형태로 쓰이며, 과거형으로 쓰면 \"그때는 다 알 것 같았지만 틀렸다\"는 회상 뉘앙스가 된다.",
+                            "example":  "At 22, I thought I had my whole life **figured out**. I was very wrong. → 스물둘 때는 내 인생이 다 계획된 줄 알았어. 완전히 틀렸지."
+                        },
+                        {
+                            "expression":  "draw someone out",
+                            "dialogue":  "Monica: \"I think he\u0027s shy.\"\nPhoebe: \"Yeah?\"\nMonica: \"Yeah. I think you have to **draw him out**. And then- when you do- he\u0027s a preppy animal.\"",
+                            "speaker":  "Monica",
+                            "meaning":  "(내성적인 사람을) 말하게 하다, 마음을 열게 만들다",
+                            "nuance":  "소극적이거나 조용한 사람을 격려해서 스스로 이야기하거나 자신을 표현하도록 유도하는 것. \"get someone to open up\"의 뉘앙스이며, 친해지는 과정이나 인터뷰 기술을 이야기할 때도 쓰인다.",
+                            "example":  "She\u0027s very reserved at first, but once you **draw her out** she has the most fascinating stories. → 처음엔 되게 조용한데, 한번 마음을 열게 하면 정말 흥미로운 이야기가 쏟아져."
+                        },
+                        {
+                            "expression":  "all things considered",
+                            "dialogue":  "Chandler: \"Oh come on, admit it! **All things considered**, you had fun tonight.\"\nRoss: \"Fun? Where was the fun? Tell me specifically, which part was the fun part?\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "모든 것을 감안하면, 따져보면 결국",
+                            "nuance":  "여러 부정적인 상황들이 있었음에도 불구하고 전체적으로 보면 나쁘지 않다는 평가를 내릴 때 쓰는 관용어. 주로 문장 앞에 오며, 역경 뒤 긍정적 마무리를 지을 때 어울린다.",
+                            "example":  "The trip had a few hiccups, but **all things considered**, it was a great weekend. → 여행 중 작은 사고들이 있었지만, 다 따져보면 정말 좋은 주말이었어."
+                        },
+                        {
+                            "expression":  "finders keepers, losers weepers",
+                            "dialogue":  "Ross: \"Excuse me, uh, that\u0027s, that\u0027s my puck.\"\nKid: \"I found it. **Finders keepers, losers weepers.**\"\nRoss: (looks at Chandler for help)",
+                            "speaker":  "Kid",
+                            "meaning":  "찾은 사람이 임자야 (잃어버린 건 운이 없는 거고, 발견한 사람이 갖는다는 어린이식 논리)",
+                            "nuance":  "미국 어린이들이 쓰는 놀이터 표현. 어른이 쓰면 유머러스하거나 유치하게 들린다. 논리적 설명 없이 \"내가 찾았으니까 내 거\"를 주장할 때만 쓰이며, 진지한 맥락에는 맞지 않는다.",
+                            "example":  "I dropped a coin and my little cousin snatched it up. \"**Finders keepers!**\" she said, running off. → 동전을 떨어뜨렸더니 어린 사촌이 집어갔어. \"찾은 사람이 임자야!\" 하고 도망가더라."
+                        },
+                        {
+                            "expression":  "I\u0027m rubber, you\u0027re glue",
+                            "dialogue":  "Ross: \"Oh yeah? Well, **I\u0027m rubber, you\u0027re glue**, whatever—\" (to Chandler) \"—can\u0027t do it.\" (to the kid) \"Listen, uh— gimme back my puck.\"",
+                            "speaker":  "Ross",
+                            "meaning":  "나는 고무고 너는 풀이야 (네가 뭘 말해도 나한테 튕겨서 너한테 돌아가) — 어린이식 반박",
+                            "nuance":  "미국 어린이들이 비난을 돌려보낼 때 쓰는 라임. 전체 문장은 \"I\u0027m rubber, you\u0027re glue, whatever you say bounces off me and sticks to you.\" 어른이 쓰면 유치하지만 의도적으로 재미있게 쓸 수 있다. Ross처럼 포기하는 게 현실이다.",
+                            "example":  "When her brother teased her, she shot back: \"**I\u0027m rubber, you\u0027re glue** — everything you say bounces off me!\" → 남동생이 놀리자 그녀가 받아쳤다: \"나는 고무고 너는 풀이야 — 네 말은 다 나한테 튕기거든!\""
+                        },
+                        {
+                            "expression":  "wait your turn",
+                            "dialogue":  "Ross: \"Look, I don\u0027t wanna make any trouble, okay, but I\u0027m in a lot of pain here, alright? My face is dented.\"\nReceptionist: \"Well, you\u0027ll have to **wait your turn**.\"\nJoey: \"Well, how long do you think it\u0027ll be?\"",
+                            "speaker":  "Receptionist",
+                            "meaning":  "순서를 기다려라, 차례를 지켜라",
+                            "nuance":  "새치기하거나 급하게 요구하는 사람에게 쓰는 표현. 약간 딱딱하거나 귀찮다는 뉘앙스가 섞일 수 있다. \"take a number\" (번호표를 뽑아라)와도 비슷한 상황에서 쓰인다.",
+                            "example":  "\"Can I go next? I\u0027m in a hurry.\" \"Sir, you\u0027ll have to **wait your turn** like everyone else.\" → \"제가 다음에 해도 될까요? 급해서요.\" \"손님, 다른 분들처럼 순서를 기다리셔야 합니다.\""
+                        },
+                        {
+                            "expression":  "consummate one\u0027s physical relationship",
+                            "dialogue":  "Ross: \"Today\u0027s the day Carol and I first... **consummated our physical relationship**.\" (Joey is puzzled.) \"Sex.\"\nJoey: \"The hell with hockey, let\u0027s all do that!\"",
+                            "speaker":  "Ross",
+                            "meaning":  "(두 사람이) 처음으로 성관계를 갖다 — 직접적인 표현을 피하기 위한 격식체 완곡어법",
+                            "nuance":  "\"consummate\"는 원래 결혼을 완성한다는 뜻의 격식 표현. Ross는 일부러 어렵고 점잖은 말로 돌려 말하지만, Joey는 못 알아듣고 결국 Ross가 \"Sex\"로 정리한다. 이처럼 민감한 주제를 완곡하게 표현하려 할 때 쓴다.",
+                            "example":  "The novel hints that the characters finally **consummated their relationship** during the storm scene. → 소설에서 폭풍 장면 중에 두 인물이 마침내 관계를 맺었음을 암시한다."
+                        },
+                        {
+                            "expression":  "There\u0027s always one guy",
+                            "dialogue":  "Chandler: \"Uh, if I were omnipotent for a day, I\u0027d.. make myself omnipotent forever.\"\nRachel: \"See, **there\u0027s always one guy.** (Mocking) \u0027If I had a wish, I\u0027d wish for three more wishes.\u0027\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "항상 그런 식으로 나오는 사람이 꼭 한 명 있다",
+                            "nuance":  "규칙이나 취지를 비틀어 최대한 이득을 챙기려는 사람을 비꼬는 표현. 어떤 그룹에서나 \"항상 그 한 놈\"이 있다는 보편적 관찰을 담고 있어 공감을 유발하는 효과가 있다.",
+                            "example":  "We said no phones at the dinner table, and sure enough, **there\u0027s always one guy** secretly texting under the napkin. → 밥 먹을 때 핸드폰 하지 말자 했는데, 역시나 냅킨 밑에서 몰래 문자 보내는 사람이 꼭 한 명 있더라."
+                        },
+                        {
+                            "expression":  "come together",
+                            "dialogue":  "Monica: \"...you\u0027ve just gotta figure at some point it\u0027s all gonna **come together**, and it\u0027s just gonna be... un-floopy.\"\nPhoebe: \"Oh, like that\u0027s a word.\"",
+                            "speaker":  "Monica",
+                            "meaning":  "(흩어져 있던 것들이) 맞아 떨어지다, 잘 풀리다",
+                            "nuance":  "힘든 시기를 보내는 사람을 격려할 때 \"It\u0027ll all come together\"는 매우 자주 쓰이는 위로 표현. 언제 어떻게 될지는 모르지만 결국 잘 될 거라는 막연하지만 따뜻한 메시지를 전달한다.",
+                            "example":  "Keep working at it — these things take time, but it\u0027ll all **come together** eventually. → 계속 해봐 — 시간이 걸리는 법이지만, 결국 다 맞아 떨어질 거야."
+                        },
+                        {
+                            "expression":  "I don\u0027t even have a \u0027pl\u0027",
+                            "dialogue":  "Monica: \"Do you have a plan?\"\nPhoebe: \"**I don\u0027t even have a \u0027pl\u0027.**\"",
+                            "speaker":  "Phoebe",
+                            "meaning":  "계획은커녕 그 시작도 없다 (\u0027plan\u0027의 \u0027pl\u0027조차 없다는 유머러스한 과장)",
+                            "nuance":  "\"I don\u0027t even have a plan\"에서 한 발 더 나아간 코믹한 과장법. 단어를 반쪽 잘라서 얼마나 아무것도 없는지를 강조한다. 이 패턴은 응용 가능해서 \"I don\u0027t even have a \u0027bu\u0027\" (budget도 없다) 식으로 쓸 수 있다.",
+                            "example":  "\"Do you have a strategy for this?\" \"A strategy? I don\u0027t even have a **\u0027str\u0027**.\" → \"이거 전략 있어?\" \"전략은요, 전(략)도 없어요.\""
+                        },
+                        {
+                            "expression":  "What are you doing? / I have no idea.",
+                            "dialogue":  "Chandler: (pretending to punch Ross in the stomach) \"Huh? Huh? Huh?\"\nRoss: \"**What are you doing?**\"\nChandler: (stops) \"**I have no idea.**\"",
+                            "speaker":  "Ross \u0026 Chandler",
+                            "meaning":  "지금 뭐 하는 거야? / 나도 몰라 — 자신의 행동을 스스로도 설명 못 하는 당혹스러운 순간",
+                            "nuance":  "\"I have no idea\"가 단순한 모름이 아니라 자신도 왜 그러는지 모르겠다는 당혹감과 자기 비하적 유머를 표현한다. 어색한 상황을 해소하는 자기 인식의 코미디 패턴으로, 일상에서 자주 쓸 수 있다.",
+                            "example":  "She caught herself humming a song she hated. \"**What am I even doing?**\" she muttered. → 자신이 싫어하는 노래를 흥얼거리는 걸 깨달았다. \"나 지금 뭐 하는 거야?\" 하고 중얼거렸다."
+                        },
+                        {
+                            "expression":  "Excuse me?",
+                            "dialogue":  "Monica: \"Hey, Joey, what would you do if you were omnipotent?\"\nJoey: \"Probably kill myself!\"\nMonica: \"**..Excuse me?**\"\nJoey: \"Hey, if Little Joey\u0027s dead, then I got no reason to live!\"",
+                            "speaker":  "Monica",
+                            "meaning":  "뭐라고요? — 충격을 받거나 황당해서 되묻는 표현",
+                            "nuance":  "단순히 못 들었을 때는 \"Sorry?\" 또는 \"Pardon?\"을 쓰지만, \"Excuse me?\"는 주로 충격받거나 황당할 때 쓴다. 억양에 따라 \"지금 뭐라고 했어?\"(놀람)가 될 수도, \"감히 그런 말을?\"(분노)이 될 수도 있다.",
+                            "example":  "He said I should redo the entire report by 8 a.m. \"**Excuse me?**\" → 보고서 전체를 오전 8시까지 다시 쓰라고 했다. \"뭐라고요?\""
+                        },
+                        {
+                            "expression":  "The hell with ___",
+                            "dialogue":  "Ross: \"I\u0027d better pass on the game. I think I\u0027m just gonna go home and think about my ex-wife and her lesbian lover.\"\nJoey: \"**The hell with hockey**, let\u0027s all do that!\"",
+                            "speaker":  "Joey",
+                            "meaning":  "~는 됐어, ~따윈 모르겠다, ~필요 없어",
+                            "nuance":  "앞서 중요하다고 생각했던 것을 갑자기 내팽개칠 때 쓰는 강한 구어체 표현. \"To hell with ___\"와 동일하며 약간 거친 어감이 있다. 포기나 해방감을 유머러스하게 표현할 때 효과적이다.",
+                            "example":  "**The hell with** the diet — it\u0027s my birthday and I\u0027m having the whole cake. → 다이어트 따위 알 게 뭐야 — 내 생일인데 케이크 다 먹을 거야."
+                        },
+                        {
+                            "expression":  "bonehead",
+                            "dialogue":  "Pizza Guy: \"This one goes across the street, I must have given him yours. Oh, **bonehead, bonehead!**\"\nMonica: \"Wait, was this a small mediterranean guy with curiously intelligent good looks?\"",
+                            "speaker":  "Pizza Guy",
+                            "meaning":  "멍청이, 얼간이 (자신 또는 타인의 어리석은 실수를 비하할 때)",
+                            "nuance":  "\"idiot\"이나 \"dummy\"와 비슷하지만 더 캐주얼하고 덜 심한 표현. 이 장면처럼 자신의 실수에 자책할 때 주로 쓰며, 욕이라기보다는 가벼운 핀잔에 가깝다.",
+                            "example":  "I left my laptop on the train. \"**Bonehead!**\" I said, sprinting back toward the platform. → 기차에 노트북을 두고 내렸다. \"이 멍청아!\" 하며 플랫폼으로 다시 뛰었다."
+                        },
+                        {
+                            "expression":  "Who\u0027s he sleeping with? (rhetorical)",
+                            "dialogue":  "Chandler: \"...we\u0027ve been here for over an hour, and a lot of people less sick than my friend have gone in. I mean, that guy with the toe thing? **Who\u0027s he sleeping with?**\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "도대체 어떤 빽이 있는 거야? (직역은 \u0027누구랑 자는 거야?\u0027이지만, 실제로는 특별 대우를 받는 이유를 비꼬는 표현)",
+                            "nuance":  "성적인 의미가 아니라 연줄이나 특혜로 새치기한 사람에 대한 날카로운 비아냥. 부당한 특혜를 받는 상황에서 쓰는 표현이며, 직장이나 사회적 맥락에서도 응용 가능하다.",
+                            "example":  "He got the corner office after one week. Honestly, **who is he sleeping with?** → 일주일 만에 코너 오피스를 받았어. 진짜, 도대체 어디 빽이 있는 거야?"
+                        },
+                        {
+                            "expression":  "by the way",
+                            "dialogue":  "Ross: (sarcastic) \"Oh, **by the way**, great service tonight.\"\nAll: \"Oh! Yeah!\"\nGuys: \"Hockey!\" (They go to leave but are blocked by Rachel\u0027s friends.)",
+                            "speaker":  "Ross",
+                            "meaning":  "그나저나, 아 그리고, 덧붙여서",
+                            "nuance":  "주된 대화 흐름과 살짝 벗어난 추가 언급을 할 때 쓰는 연결어. 대화 중간이나 끝에 자유롭게 붙인다. 여기서 Ross는 자신들이 얼마나 형편없는 손님이었는지를 비꼬는 맥락에서 사용했다.",
+                            "example":  "We\u0027re set for Friday at 7. **By the way**, can you bring your portable speaker? → 금요일 7시에 만나기로 했어. 아 그리고, 포터블 스피커 가져올 수 있어?"
+                        },
+                        {
+                            "expression":  "check it out",
+                            "dialogue":  "Joey: \"Hey! Here\u0027s the birthday boy! Ross, **check it out**: hockey tickets, Rangers-Penguins, tonight at the Garden, and we\u0027re taking you.\"\nChandler: \"Happy birthday, pal!\"",
+                            "speaker":  "Joey",
+                            "meaning":  "이것 좀 봐, 봐봐 (흥미롭거나 신나는 것을 보여줄 때 주의를 끄는 말)",
+                            "nuance":  "무언가 신기하거나 좋은 것을 공유할 때 쓰는 캐주얼 표현. \"Look at this\"보다 훨씬 구어적이고 에너지가 넘친다. 명령형으로 쓰이며 콜론(:) 뒤에 보여주고 싶은 것을 바로 연결하는 패턴이 자연스럽다.",
+                            "example":  "**Check it out** — they finally opened that ramen place we\u0027ve been waiting for. → 봐봐 — 우리 기다리던 라멘집 드디어 열었어."
+                        }
+                    ]
+}

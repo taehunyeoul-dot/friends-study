@@ -1,0 +1,209 @@
+{
+    "id":  "s01e08",
+    "code":  "108",
+    "title":  "The One Where Nana Dies Twice",
+    "model":  "sonnet",
+    "cost_usd":  0.4087,
+    "expressions":  [
+                        {
+                            "expression":  "How\u0027s it going?",
+                            "dialogue":  "Shelley: **Hey gorgeous, how\u0027s it going?**\nChandler: Dehydrated Japanese noodles under fluorescent lights... does it get better than this?",
+                            "speaker":  "Shelley",
+                            "meaning":  "잘 지내? / 어떻게 지내? — 가장 자연스러운 일상 인사",
+                            "nuance":  "\"How are you?\"보다 훨씬 캐주얼하고 친근한 표현. 친구나 동료 사이에서 자연스럽게 쓰이며, 진지한 대답보다 \"Good, you?\" 같은 짧은 응수가 일반적이다.",
+                            "example":  "Hey, long time no see! How\u0027s it going? → 야, 오랜만이다! 어떻게 지내?"
+                        },
+                        {
+                            "expression":  "Does it get better than this? (반어)",
+                            "dialogue":  "Shelley: Hey gorgeous, how\u0027s it going?\nChandler: Dehydrated Japanese noodles under fluorescent lights... **does it get better than this?**",
+                            "speaker":  "Chandler",
+                            "meaning":  "(반어) 이보다 더 좋을 수 있겠어? → 현재 상황이 최악이라는 뜻",
+                            "nuance":  "문자적 의미와 정반대로 쓰이는 반어법. 억양과 맥락이 핵심이며, 지루하거나 불쾌한 상황에서 시니컬하게 쓴다.",
+                            "example":  "Another Monday morning meeting about the meeting... does it get better than this? → 회의에 대한 월요일 아침 회의라니... 이보다 더 좋을 수가 있겠어?"
+                        },
+                        {
+                            "expression":  "Had you said X... (가정법 도치)",
+                            "dialogue":  "Shelley: Do you want a date Saturday?\nChandler: Ah, y\u0027see, perfect might be a problem. **Had you said \u0027co-dependent\u0027, or \u0027self-destructive\u0027...**",
+                            "speaker":  "Chandler",
+                            "meaning":  "\"If you had said X...\"의 도치 표현 — 만약 네가 X라고 했다면",
+                            "nuance":  "\"If you had said...\"를 도치시킨 다소 격식체 표현. 구어에서도 쓰이며 특히 재치 있게 말을 흐릴 때 유머 효과를 준다.",
+                            "example":  "Had you told me you were vegetarian, I\u0027d have ordered something different. → 네가 채식주의자라고 말했다면 다른 걸 시켰을 텐데."
+                        },
+                        {
+                            "expression":  "go out with someone",
+                            "dialogue":  "Ross: No, it\u0027s just \u0027cause, uh, I kinda wanted to **go out with her** too, so I told her, actually, you were seeing Bernie Spellman...",
+                            "speaker":  "Ross",
+                            "meaning":  "~와 데이트하다, ~와 사귀다",
+                            "nuance":  "\"date someone\"보다 훨씬 자연스럽고 흔한 표현. 한 번 나가는 것부터 정식으로 사귀는 것까지 폭넓게 쓰인다.",
+                            "example":  "I finally asked her if she wanted to go out with me. → 드디어 나랑 만나볼 의향이 있냐고 물어봤어."
+                        },
+                        {
+                            "expression":  "flush myself down the toilet",
+                            "dialogue":  "Shelley: Well yeah! ...Oh God. I- just- I thought- Good, Shelley. **I\u0027m just gonna go flush myself down the toilet now...** (backs out of the room)",
+                            "speaker":  "Shelley",
+                            "meaning":  "너무 창피해서 사라져버리고 싶다",
+                            "nuance":  "극도로 당황했을 때 자기 자신을 향해 쓰는 과장된 유머 표현. \"I want to disappear\"의 더 생생하고 자조적인 버전이다.",
+                            "example":  "I waved back at someone who wasn\u0027t waving at me. I wanted to flush myself down the toilet. → 나를 향해 손 흔든 게 아닌데 따라 흔들어버렸어. 진짜 쥐구멍에라도 숨고 싶었어."
+                        },
+                        {
+                            "expression":  "kinda",
+                            "dialogue":  "Ross: No, it\u0027s just \u0027cause, uh, I **kinda** wanted to go out with her too, so I told her, actually, you were seeing Bernie Spellman...",
+                            "speaker":  "Ross",
+                            "meaning":  "\"kind of\"의 구어 축약형 — 약간, 어느 정도",
+                            "nuance":  "직접적인 표현을 부드럽게 만들거나 확신이 100%가 아닐 때 쓴다. 원어민이 매우 자주 쓰는 표현으로, 없으면 어색하게 들릴 수 있다.",
+                            "example":  "I kinda feel like we\u0027ve met before. → 우리 어디서 만난 것 같은 기분이 들어."
+                        },
+                        {
+                            "expression":  "You\u0027re kidding!",
+                            "dialogue":  "Ross: ...I kinda wanted to go out with her too, so I told her, actually, you were seeing Bernie Spellman...\nChandler: **You\u0027re kidding!** Did you tell her I wasn\u0027t?",
+                            "speaker":  "Chandler",
+                            "meaning":  "설마! / 진짜? / 농담이지?",
+                            "nuance":  "믿기 어려운 사실을 들었을 때 내뱉는 반응. \"Really?\"보다 더 강한 충격이나 어이없음을 담을 수 있다.",
+                            "example":  "She quit her job on the spot? You\u0027re kidding! → 그 자리에서 바로 퇴직했다고? 말도 안 돼!"
+                        },
+                        {
+                            "expression":  "What is it about me?",
+                            "dialogue":  "Chandler: Well, this is fascinating. So, uh, **what is it about me?**\nPhoebe: I dunno, \u0027cause you\u0027re smart, you\u0027re funny...",
+                            "speaker":  "Chandler",
+                            "meaning":  "내 어떤 점 때문에 그런 거야? / 나의 뭐가 그런 인상을 주는 거야?",
+                            "nuance":  "타인이 자신에 대해 특정한 인상을 갖는 이유를 물을 때 쓰는 자연스러운 표현. \"Why do people think that about me?\"보다 훨씬 구어적이다.",
+                            "example":  "What is it about me that makes people think I\u0027m unapproachable? → 내 어떤 점 때문에 사람들이 나를 다가가기 어렵다고 느끼는 걸까?"
+                        },
+                        {
+                            "expression":  "have a quality",
+                            "dialogue":  "Monica: Okay, I-I d\u0027know, **you-you just- you have a quality.**\nAll: Yes. Absolutely. A quality.\nChandler: Oh, oh, a quality, good, because I was worried you guys were gonna be vague about this.",
+                            "speaker":  "Monica",
+                            "meaning":  "딱 꼬집어 말하기 어렵지만 뭔가 특별한 느낌/분위기가 있다",
+                            "nuance":  "구체적으로 설명하기 어려울 때 쓰는 모호하지만 의미 있는 표현. 이 에피소드에서는 개그 포인트지만 실제로도 \"there\u0027s something about you\" 처럼 쓸 수 있다.",
+                            "example":  "I can\u0027t explain it, but she has a quality that makes everyone feel at ease. → 설명하기 어렵지만, 그녀에게는 모두를 편안하게 만드는 뭔가가 있어."
+                        },
+                        {
+                            "expression":  "That sucks!",
+                            "dialogue":  "Ross: Twice.\nJoey: Twice?\nPhoebe: **Oh, that sucks!**",
+                            "speaker":  "Phoebe",
+                            "meaning":  "그거 정말 안됐다 / 최악이다 / 너무 별로다",
+                            "nuance":  "상대방의 불운에 공감하거나 나쁜 상황을 표현할 때 쓰는 매우 일상적인 표현. 격식 있는 자리에서는 피하는 게 좋다.",
+                            "example":  "You had to work on your birthday? That sucks! → 생일에 일해야 했다고? 진짜 최악이다!"
+                        },
+                        {
+                            "expression":  "worm food",
+                            "dialogue":  "Joey: I think once you\u0027re dead, you\u0027re dead! You\u0027re gone! **You\u0027re worm food!** (realises his tactlessness) ...So Chandler looks gay, huh?",
+                            "speaker":  "Joey",
+                            "meaning":  "죽어서 땅속에서 벌레의 먹이가 된다 → 완전히 끝난 것",
+                            "nuance":  "죽음을 매우 직설적이고 거칠게 표현하는 속어. 슬프거나 공식적인 자리에서는 절대 쓰지 않는다. Joey의 눈치 없는 솔직함을 보여주는 표현이다.",
+                            "example":  "He\u0027s a total pessimist — he thinks when you\u0027re gone, you\u0027re just worm food and that\u0027s it. → 그는 완전 허무주의자야 — 죽으면 그냥 땅속 벌레 밥이 되는 거라고 생각해."
+                        },
+                        {
+                            "expression":  "go with (something)",
+                            "dialogue":  "Ross: Unless you want your mother to spend eternity in a lemon yellow pant-suit, **go with the burgundy.**\nAunt Lillian: You know, whatever we pick, she would\u0027ve told us it\u0027s the wrong one.",
+                            "speaker":  "Ross",
+                            "meaning":  "~로 하다, ~을 선택하다",
+                            "nuance":  "여러 선택지 중 하나를 고를 때 \"choose\" 대신 쓰이는 자연스러운 구어 표현. 추천할 때는 \"I\u0027d go with...\"로 많이 쓴다.",
+                            "example":  "If you\u0027re not sure which option to pick, just go with your gut. → 어떤 걸 선택할지 모르겠으면 그냥 직감대로 해."
+                        },
+                        {
+                            "expression":  "make a day of it",
+                            "dialogue":  "Mr. Geller: C\u0027mon, **you\u0027ll make a day of it!** You\u0027ll rent a boat, pack a lunch...\nMonica: ...And then we throw your body in the water... Gee, that does sound fun.",
+                            "speaker":  "Mr. Geller",
+                            "meaning":  "어떤 활동을 하루 종일 즐기는 나들이로 만들다",
+                            "nuance":  "보통 의무적이거나 평범한 일을 빌미로 하루를 즐겁게 보내자고 제안할 때 쓴다. 긍정적이고 활기찬 뉘앙스다.",
+                            "example":  "Since we have to go to IKEA anyway, let\u0027s make a day of it — brunch first, then shopping. → 어차피 이케아 가야 하니까 하루 코스로 만들자 — 브런치 먹고 쇼핑하자."
+                        },
+                        {
+                            "expression":  "out of one\u0027s league",
+                            "dialogue":  "Chandler: Excuse me? You don\u0027t think I could get a Brian?\nShelley: Well, I think **Brian\u0027s a little out of your league.**",
+                            "speaker":  "Shelley",
+                            "meaning":  "상대가 나에게는 너무 수준이 높다 / 어울리기엔 너무 훌륭하다",
+                            "nuance":  "주로 연애 맥락에서 상대가 자신보다 훨씬 매력적이거나 뛰어날 때 쓴다. 냉정하게 말하거나 자조적으로도 쓸 수 있다.",
+                            "example":  "I know she\u0027s out of my league, but I\u0027m still going to ask her out. → 나한테 과분한 사람인 거 알지만, 그래도 고백해볼 거야."
+                        },
+                        {
+                            "expression":  "Believe you me",
+                            "dialogue":  "Chandler: I could get a Brian. **Believe you me.** ...I\u0027m really not.\nShelley: Is Brian...?",
+                            "speaker":  "Chandler",
+                            "meaning":  "\"Believe me\"의 강조형 — 진짜야, 믿어봐",
+                            "nuance":  "\"you\"가 목적어이지만 앞으로 나온 고어적 어순. 오늘날엔 약간 과장되거나 유머러스한 뉘앙스로 쓰이며, 자신의 주장을 강하게 밀어붙일 때 효과적이다.",
+                            "example":  "This shortcut will save us at least an hour, believe you me. → 이 지름길이 한 시간은 아껴줄 거야, 진짜로."
+                        },
+                        {
+                            "expression":  "What\u0027s with your X?",
+                            "dialogue":  "Mrs. Geller: **What\u0027s with your hair?**\nMonica: What?\nMrs. Geller: What\u0027s different?\nMonica: Nothing.",
+                            "speaker":  "Mrs. Geller",
+                            "meaning":  "네 X가 왜 그래? / X가 어떻게 된 거야?",
+                            "nuance":  "뭔가 평소와 다르거나 이상해 보일 때 쓰는 표현. 비판적이거나 단순히 궁금한 뉘앙스 모두 가능하며 \"What happened to your X?\"보다 더 일상적이다.",
+                            "example":  "What\u0027s with your voice today? Are you getting sick? → 오늘 목소리가 왜 그래? 감기 걸렸어?"
+                        },
+                        {
+                            "expression":  "a matter of hours / minutes / days",
+                            "dialogue":  "Aunt Lillian: The doctor says **it\u0027s a matter of hours.**\nMonica: How-how are you, Mom?",
+                            "speaker":  "Aunt Lillian",
+                            "meaning":  "불과 몇 시간/분/일의 문제 — 곧 일어날 일",
+                            "nuance":  "\"a matter of + 시간 단위\"는 긴박감이나 임박함을 표현할 때 쓴다. \"only a matter of time\"처럼 피할 수 없는 일에도 확장해 쓸 수 있다.",
+                            "example":  "The results should be back soon — it\u0027s just a matter of hours. → 결과가 곧 나올 거야 — 몇 시간 안에."
+                        },
+                        {
+                            "expression":  "pretty much",
+                            "dialogue":  "Chandler: So- you can tell?\nLowell: **Pretty much,** most of the time. We have a kind of... radar.",
+                            "speaker":  "Lowell",
+                            "meaning":  "거의, 대체로, 어느 정도는 그래",
+                            "nuance":  "\"almost\" 또는 \"basically yes\"의 캐주얼 버전. 100% 확신하지 않지만 대략 맞다고 할 때 쓰인다. 원어민이 매우 자주 쓰는 표현이다.",
+                            "example":  "Are you done with the report? Pretty much — just need to proofread it. → 보고서 다 끝났어? 거의 — 검토만 하면 돼."
+                        },
+                        {
+                            "expression":  "some things are better left unsaid",
+                            "dialogue":  "Monica: Do you think things would have been better if you\u0027d just told her the truth?\nMrs. Geller: ...No. I think **some things are better left unsaid.** I think it\u0027s nicer when people just get along.",
+                            "speaker":  "Mrs. Geller",
+                            "meaning":  "어떤 말들은 안 하는 게 더 낫다",
+                            "nuance":  "갈등을 피하거나 관계를 지키기 위해 솔직함보다 침묵을 택할 때 쓰는 표현. 지혜처럼 들리지만 회피의 뉘앙스도 함께 담겨 있다.",
+                            "example":  "She asked me what I thought of her new haircut. Some things are better left unsaid. → 새 머리 어떠냐고 물어봤어. 어떤 말은 안 하는 게 나아."
+                        },
+                        {
+                            "expression":  "I can imagine (반어)",
+                            "dialogue":  "Mrs. Geller: Do you know what it\u0027s like to grow up with someone who is critical of every single thing you say?\nMonica: **...I can imagine.**",
+                            "speaker":  "Monica",
+                            "meaning":  "(문자적) 상상할 수 있어 → (반어) 너무 잘 알지, 직접 당하고 있거든",
+                            "nuance":  "직접 경험한 사람이 \"상상한다\"고 말하는 것 자체가 아이러니. 말은 동의처럼 들리지만 그 안에 불만이나 비판이 숨어 있는 절제된 반응이다.",
+                            "example":  "Working under a micromanager must be exhausting.\" \"I can imagine.\" (said by someone who has one) → \"마이크로매니저 밑에서 일하면 지치겠다.\" \"충분히 상상이 가네.\" (직접 당하는 사람이 할 때)"
+                        },
+                        {
+                            "expression":  "It\u0027s a shame",
+                            "dialogue":  "Shelley: Y\u0027know, **it\u0027s a shame,** because you and Lowell would\u0027ve made a great couple.\nChandler: Lowell? Financial Services\u0027 Lowell, that\u0027s who you saw me with?",
+                            "speaker":  "Shelley",
+                            "meaning":  "아쉽다, 안타깝다",
+                            "nuance":  "어떤 상황이 잘 되지 않아 아쉬울 때 쓰는 표현. \"That\u0027s too bad\"와 비슷하지만 조금 더 진심 어린 안타까움을 담는다.",
+                            "example":  "It\u0027s a shame you can\u0027t make it to the dinner — everyone\u0027s been asking about you. → 저녁 못 온다니 아쉽다 — 다들 네 얘기를 물어봤는데."
+                        },
+                        {
+                            "expression":  "Check it out",
+                            "dialogue":  "Joey: **Check it out,** Giants-Cowboys. (He has a pocket TV)\nChandler: You\u0027re watching a football game at a funeral?",
+                            "speaker":  "Joey",
+                            "meaning":  "이것 좀 봐 / 이거 봐봐",
+                            "nuance":  "뭔가 흥미롭거나 신기한 것을 상대방에게 보여주거나 알릴 때 쓰는 캐주얼한 표현. \"Look at this!\"와 같은 뜻이지만 더 흥분되고 구어적이다.",
+                            "example":  "Check it out — they finally opened that ramen place we\u0027ve been waiting for! → 이것 좀 봐 — 우리가 기다리던 라멘 가게 드디어 열었어!"
+                        },
+                        {
+                            "expression":  "What\u0027d I say?",
+                            "dialogue":  "Rachel: Oh, you-you mean your earrings?\nPhoebe: **What\u0027d I say?**\nRachel: (sticking her foot out) Hm-m.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "내가 뭐라고 했어? (자기 실수를 전혀 인지하지 못할 때)",
+                            "nuance":  "\"What did I say?\"의 축약형. 자신이 잘못 말했는데 전혀 모르고 순진하게 되묻는 상황에서 쓰인다. 인지하지 못한 실수에 대한 진짜 혼란을 표현한다.",
+                            "example":  "You said \u0027Tuesday,\u0027 not \u0027Thursday.\u0027\" \"Wait, what\u0027d I say? → \u0027화요일\u0027이라고 했잖아, \u0027목요일\u0027이 아니라.\" \"잠깐, 내가 뭐라고 했다고?"
+                        },
+                        {
+                            "expression":  "I\u0027m not sure what you\u0027re getting at",
+                            "dialogue":  "Monica: Do you think things would have been better if you\u0027d just told her the truth?\nMrs. Geller: **I\u0027m not sure I know what you\u0027re getting at.**",
+                            "speaker":  "Mrs. Geller",
+                            "meaning":  "네가 무슨 말을 하려는 건지 모르겠어 / 핵심이 뭔데?",
+                            "nuance":  "상대가 돌려 말하거나 암시할 때 요점을 직접 물을 때 쓴다. \"What are you trying to say?\"보다 조금 더 정중한 표현이다.",
+                            "example":  "We\u0027ve all been working really hard lately, don\u0027t you think?\" \"I\u0027m not sure what you\u0027re getting at. → 우리 다 요즘 진짜 열심히 일하고 있잖아, 그렇지?\" \"무슨 말을 하려는 건지 모르겠는데."
+                        },
+                        {
+                            "expression":  "I\u0027d like to think",
+                            "dialogue":  "Chandler: The point is, if you were gonna set me up with someone, **I\u0027d like to think** you\u0027d set me up with someone like him.",
+                            "speaker":  "Chandler",
+                            "meaning":  "나는 ~이길 바란다 / 그래야 한다고 생각하고 싶다",
+                            "nuance":  "기대나 희망을 자신감 있게 표현할 때 쓰는 표현. \"I hope\"보다 약간 더 자기주장이 담겨 있으며, 자신의 가치나 기준을 부드럽게 강조할 때 유용하다.",
+                            "example":  "I\u0027d like to think I\u0027ve been a fair and supportive manager to everyone on the team. → 나는 팀원 모두에게 공정하고 지지적인 매니저였다고 생각하고 싶어."
+                        }
+                    ]
+}

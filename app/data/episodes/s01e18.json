@@ -1,0 +1,1603 @@
+{
+ "id": "s01e18",
+ "season": 1,
+ "episodes": [
+  18
+ ],
+ "code": "118",
+ "title": "The One With All The Poker",
+ "lines": [
+  {
+   "t": "direction",
+   "text": "The whole gang is helping Rachel mail out resumes while whistling the theme from The Bridge on the River Kwai."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, Rach, we're running low on resumes over here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Do you really want a job with Popular Mechanics?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, if you're gonna work for mechanics, those are the ones to work for."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, look, you guys, I'm going for anything here, OK? I cannot be a waitress anymore, I mean it. I'm sick of the lousy tips, I'm sick of being called 'Excuse me...'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rach, did you proofread these?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh... yeah, why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, nothing, I'm sure they'll be impressed with your excellent compuper skills."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(upset) Oh my Goood! Oh, do you think it's on all of them?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh no, I'm sure the Xerox machine caught a few."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross and Chandler are sitting at a table. Rachel is working. Monica and Phoebe enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler and Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey... hi, ladies... uh, can I get you anything? (to Monica, quietly): Did you bring the mail?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Lots of responses."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Monica): Really? (out loud): Sure, we have scones left! (to Monica): OK, read them to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(reading): Dear Ms. Green, thank you for your inquiry, however... oh... (crumples up letter)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(out loud): We have apple cinnamon..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(reading): OK... Dear Ms. Green... yeah... yeah... yeah... No. (crumpes up letter)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(reading): Your Visa bill is huge!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(grabs the bill) Give me that!"
+  },
+  {
+   "t": "direction",
+   "text": "Camera cuts to Chandler and Ross at table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You know, I can't believe you. Linda is so great! Why won't you go out with her again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Is this still about her whole 'The Flintstones could've really happened' thing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, it's not just that. It's just-I want someone who... who does something for me, y'know? Who gets my heart pounding, who... who makes me, uh... (begins to stare lovingly at Rachel)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "...little playthings with yarn?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Could you want her more?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Who?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(sarcastically) Dee, the sarcastic sister from Whats Happening."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, I am totally, totally over her, OK, I just... (Rachel comes over, Ross lays head on table): Hiiii!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi! How are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "We're fine, we're fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK. (walks away)"
+  },
+  {
+   "t": "direction",
+   "text": "Ross keeps staring at her, head on table. Chandler smacks him with a newspaper. Joey enters, Ross and Chandler laugh at him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Shut up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We're not-we're not saying anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uhhhh... Joey cried last night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to the girls) We were playing poker, alright..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "There was chocolate on the three. It looked like an eight, alright?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, guys, you should've seen him. 'Read 'em and weep.'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And then he did."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, now, how come you guys have never played poker with us?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, what is that? Like, some kind of guy thing? Like, some kind of sexist guy thing? Like it's poker, so only guys can play?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, women are welcome to play."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, OK, so then what is it? Some kind of... you know, like, like... some kind of, y'know, like... alright, what is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "There just don't happen to be any women in our games."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, we just don't happen to know any women that know how to play poker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Girls",
+   "text": "Oh, yeah, right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, please, that is such a lame excuse!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I mean, that's a typical guy response."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Excuse me, do any of you know how to play?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Girls",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But you could teach us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Guys",
+   "text": "No."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, the guys are teaching the girls how to play poker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(teaching) OK, so now we draw cards."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So I wouldn't need any, right? Cause I have a straight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, good for you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Congratulations!"
+  },
+  {
+   "t": "direction",
+   "text": "Microwave timer goes off. Monica gets up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "OK Phoebs, how many do you want?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, I just need two... the, um, ten of spades and the six of clubs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. No, uh, Phoebs? You can't-you can't do..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh wait, I have the ten of spades! Here! (gives it to Phoebe)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, no. Uh... no, see, uh, you-you can't do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, no-no-no-no-no-no, that's OK, I don't need them. I'm going for fours."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, you're... (gives up)"
+  },
+  {
+   "t": "direction",
+   "text": "Monica comes back to the table with plates of food."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, here we go. We've got salmon roulettes and assorted crudites."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe and Rachel",
+   "text": "OOooooo!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whoa, whoa, whoa, Monica, what're you doin'? This is a poker game. You can't serve food with more than one syllable. It's gotta be like chips, or dip, or pretz...(look of realization)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(changing subject) OK, so at this point, the dealer..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, you know, we got it, we got it. Let's play for real. High stakes... big bucks..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Alright, now, you sure? Phoebe just threw away two jacks because they didn't look happy..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But... I'm ready, so, just deal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "OK, alright, last minute lesson, last minute lesson. (holds up two cards) Joey... three... eight. Eight... three. (Joey is unamused) Alright babe, deal the cards."
+  },
+  {
+   "t": "direction",
+   "text": "Time lapse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(throws down her cards) Dammit, dammit, dammit!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to Joey): Oh I see, so then, you were lying."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "About what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "About how good your cards were."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Heh... I was bluffing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "A-ha! And... what is bluffing? Is it not another word for... lying?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK, sorry to break up this party, but I've got resumes to fax before work tomorrow... (gets up to leave)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Guys",
+   "text": "Whoa, whoa, whoa!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Rach, Rach, we gotta settle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Settle what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The... Jamestown colony of Virginia. You see, King George is giving us the land, so..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The game, Rachel, the game. You owe us money for the game."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh. Right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You know what, you guys? It's their first time, why don't we just forget about the money, alright?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hell no, we'll pay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, Monica? I had another answer all ready."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And you know what? We want a rematch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well that's fine with me. Could use the money."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Ross): So basically, you get your ya-yas by taking money from all of your friends."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(pause)...Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, and I get my ya-yas from Ikea. You have to put them together yourself, but they cost a little less."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, Rachel, this is poker. I play to win, alright? In order for me to win, other people have to lose. So if you're gonna play poker with me, don't expect me to be a 'nice guy,' OK? Cause once those cards are dealt... (claps hands three times)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(pause)...Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm not a nice guy."
+  },
+  {
+   "t": "scene",
+   "text": "Ross' apartment. Chandler and Joey are there. Ross enters with a pizza."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Alright boys, let's eat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, did you get that from the 'I Love Rachel' pizzeria?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You still on that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, come on. What was with that whole Black Bart speech? (mimicking): \"When I play poker, I'm not a nice guy!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You are way off, pal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, I don't think so, see Ross, because I think you love her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Um.... no. See, I might've had feelings for her at one time-not any more. I just-I..."
+  },
+  {
+   "t": "direction",
+   "text": "Marcel makes a screeching noise in background."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Marcel! Where are you going with that disc?"
+  },
+  {
+   "t": "direction",
+   "text": "Marcel puts a CD in the player."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You are not putting that on again! Marcel, OK-if you press that button, you are in very, very big trouble."
+  },
+  {
+   "t": "direction",
+   "text": "The Lion Sleeps Tonight starts to play. Marcel starts to dance."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Rachel, Monica, and Phoebe are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(opening mail) Can you believe what a jerk Ross was being?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, I know. He can get really competitive."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ha. Ha, ha."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, hello, kettle? This is Monica. You're black."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Please! I am not as bad as Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I beg to differ. The Pictionary incident?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That was not an incident! I-I was gesturing, a-and the plate slipped out of my hand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oooooh. (reads letter) (surprised): Oh! I got an interview! I got an interview!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You're kidding! Where? Where?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(in disbelief): Sak's... Fifth... Avenue."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, Rachel!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, it's like the mother ship is calling you home."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, what's the job?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Assistant buyer. Oh! I would be shopping... for a living!"
+  },
+  {
+   "t": "direction",
+   "text": "Knock on door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "OK, look. That is Aunt Iris. This woman has been playing poker since she was five. You gotta listen to every word she says. (opens door) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Aunt Iris",
+   "text": "Is Tony Randall dead?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't think so."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Aunt Iris",
+   "text": "Well, he may be now, because I think I hit him with my car."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Aunt Iris",
+   "text": "No! That's bluffing. Lesson number one. (walks into kitchen) Let me tell you something... everything you hear at a poker game is pure crap. (to Phoebe): Nice earrings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thank y... (thinks about it)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Aunt Iris",
+   "text": "Girls, sit down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh, Aunt Iris? This is Phoebe, and that's Rachel..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Aunt Iris",
+   "text": "Yeah, yeah, yeah, yeah, yeah, listen, I am parked at a meter. Let's do it."
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, everyone but Rachel is seated around his table. The Lion Sleep Tonight plays in the background."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ross, could we please, please, please listen to anything else?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Alright."
+  },
+  {
+   "t": "direction",
+   "text": "Ross shuts off the CD player. Marcel runs into the bedroom and slams the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm gonna pay for that tonight."
+  },
+  {
+   "t": "direction",
+   "text": "Knock on door. Ross opens it. Rachel enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Guys! Guess what, guess what, guess what, guess what!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Um, ok... the... the fifth dentist caved and now they're all recommending Trident?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Noooo... the interview! She loved me! She absolutely loved me. We talked for like two and a half hours, we have the same taste in clothes, and-oh, I went to camp with her cousin... And, oh, the job is perfect. I can do this. I can do this well!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "That's great! That's wonderful!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God, oh, and then she told the funniest story..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "OK, great. You'll tell us and we'll laugh. Let's play poker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Alright now listen, you guys, we talked about it, and if you don't want to play, we completely understand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh yes, yes, we could play some other game... like, uh, I don't know... Pictionary?"
+  },
+  {
+   "t": "direction",
+   "text": "The guys all duck under the table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ha, ha, very funny, very funny. But I think we'd like to give poker another try. Shall we, ladies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe and Rachel",
+   "text": "Yes, we should. I think we should."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, Rach, do you want me to shuffle those?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, no, thats OK. Y'know, I think I'm gonna give it a go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Alright."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Alright... (shuffles cards expertly, all the guys stare in amazement)"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's Apartment, continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, Phoebs owes $7.50, Monica, you owe $10, and Rachel, you owe fifteen big ones."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But hey, thanks for teachin' us Cross-Eyed Mary. You guys, we gotta play that at our regular game."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Alright, here's my $7.50. (Hands them the money) But I think you should know that this money is cursed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I cursed it. So now bad things will happen to he who spends it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's alright, I'll take it. Bad things happen to me anyway. This way I can break 'em up with a movie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, that just leaves the big Green poker machine, who owes fifteen..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women. (hands over her money)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hmm. Kinda stepped on my point there, Mon."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, everyone is there ready for another poker game."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, you gals wanna hand over your money now? That way, we don't have to go through the formality of actually playing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ooooh, that's fine. We'll see who has the last laugh there, monkey boy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "OK, we done with the chit-chat? Are we ready to play some serious poker?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(holding a card and waving it in front of her face) Hey you guys, look, the one-eyed jack follows me wherever I go. (they look at her) Right, OK, serious poker."
+  },
+  {
+   "t": "direction",
+   "text": "Ross gets up from the table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Excuse me, where are you going?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh... to the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Do you want to go to the bathroom, or do you wanna play poker?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I want to go to the bathroom. (exits)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Alright, well, I'm gonna order a pizza. (gets up)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no-no-no-no-no, I'm still waiting to hear from that job and the store closes at nine, so you can eat then."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's fine. I'll just have a Tic-Tac to hold me over."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, Cincinnati, no blinds, everybody ante. (deals cards)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(looks at her cards) Yes! (everyone looks at her) .... or no."
+  },
+  {
+   "t": "direction",
+   "text": "Ross comes back from bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Alright. (to Rachel): Your money's mine, Green."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Your fly is open, Geller. (he checks it, and zips up)"
+  },
+  {
+   "t": "direction",
+   "text": "Time lapse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, that's... that's 'joincidence' with a 'C'!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh... Phoebe? Phoebe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. Um... I'm out. (throws in cards)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Me too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Me too. Alright, whattaya got."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, you better hop outta the shower, cause... I gotta flush. (lays down cards)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, well, well, hop back in bucko, cause I got four sixes! (lays down cards) I won! I actually won! Oh my God! Y'know what? (collects chips) I think I'm gonna make a little Ross pile. (holds up a chip) I think that one was Ross's, and I think-oh-that one was Ross's. Yes! (Starts singing): Well, I have got your money, and you'll never see it..."
+  },
+  {
+   "t": "direction",
+   "text": "Ross stands up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And your fly's still open..."
+  },
+  {
+   "t": "direction",
+   "text": "Ross looks down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ha, I made you look...."
+  },
+  {
+   "t": "direction",
+   "text": "Time lapse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I couldn't be inner. Monica?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Monica, in or out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(slams down cards) I hate this game!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey slides a plate away from Monica towards Chandler, who hides it under the table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK Joey, your bet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. (the girls look at him, confused) Oh, I'm out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I am very in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Chandler?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Couldn't be more out. (throws in cards)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Me too. Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh, I will see you... and I'll raise you. (throws chips in pot) What do you say... want to waste another buck?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, not this time. (he folds) So... what'd you have?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm not telling. (collects chips)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Come on, show them to me. (reaches for her cards, Rachel covers them up)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No..!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Show them to me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Get your hands out of there! No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Let me see! Show them!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know, I've had dates like this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(deals new hand) Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Plus that shirt doesn't really match those pants."
+  },
+  {
+   "t": "direction",
+   "text": "Ross is visibly upset."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "First of all, I'm not losing..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, you are losing. Definitely losing. (phone rings)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Let's not talk about losing. Just deal the..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(answering phone) Hel-lo, Rachel Green."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(mimicking Rachel) Mee mee, mee-mee mee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on phone) Excuse me. (covers up phone; to Ross) It's about the job."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel walks into kitchen to talk on the phone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Barbara! Hi, how are you? (Listens) Uh-huh. (Listens) No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, plea-Hello? Hello? (hangs up phone, very depressed)"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel goes back and sits down. The rest don't know what to say."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Sorry, Rach."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Y'know, there's gonna be lots of other stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah...(sigh)....OK. Where were we? Oh, OK... five card draw, uh... jacks or better... nothing wild, everybody ante."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look, Rachel, we don't have to do this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes, we do. (pause)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, check."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Check."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm in for fifty cents. (throws it in)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Call."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I see your fifty cents... and I raise you... five dollars. (throws it in)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I thought, uh... it was a fifty cent limit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I just lost a job, and I'd like to raise the bet five bucks. Does anybody have a problem with that?"
+  },
+  {
+   "t": "direction",
+   "text": "Everyone says no and folds, except for Ross, who thinks about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Ross): Loser?"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler, Monica, Joey, and Phoebe back their chairs away from the table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I fold. (lays cards down, and gets up)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?"
+  },
+  {
+   "t": "direction",
+   "text": "Ross thinks it over, finally sits down and picks up his cards."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm in. (throws in chips)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "How many you want?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "One. (Rachel gives him the card.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Dealer takes two. (she deals herself two cards) What do you bet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I bet two dollars. (throws it in)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK... see your two... and I raise you twenty. (throws it in)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I see your twenty, raise you twenty-five. (throws it in)"
+  },
+  {
+   "t": "direction",
+   "text": "The other four look amazed at the large pot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "See your twenty-five...and...uh, Monica, get my purse."
+  },
+  {
+   "t": "direction",
+   "text": "Monica gets up, looks in Rachel's purse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rachel, there's nothing in it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK, then get me your purse."
+  },
+  {
+   "t": "direction",
+   "text": "Monica gets Rachel her purse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "OK, here you go. Good luck."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Monica): Thank you. (to Ross): I saw your twenty-five, and I raise you... seven."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "...teen! (throws in a ten-dollar bill)"
+  },
+  {
+   "t": "direction",
+   "text": "Ross looks in his wallet, pulls out two dollars."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Joey): Joey, I'm a little shy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's OK, Ross, you can ask me. What?"
+  },
+  {
+   "t": "direction",
+   "text": "Ross looks at Joey, dumbfounded at his stupidity."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to Ross): What do you need, what do you need?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Fifteen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright, here's ten. (gives it to him)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Here, I got five, I got five. (Ross takes the money)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Good luck."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Rachel): OK, I am calling your seventeen. What do you got?"
+  },
+  {
+   "t": "direction",
+   "text": "Long pause as they both look at each other."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(lays down cards) Full house."
+  },
+  {
+   "t": "direction",
+   "text": "Ross stares at her. Thinks about it. Puts cards on table, face down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You got me."
+  },
+  {
+   "t": "direction",
+   "text": "Monica and Phoebe get up and start celebrating in the kitchen, pouring wine and singing. Rachel, shocked, goes to join them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to Ross): Ahhh, that's alright. Y'know, that's a tough hand to beat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to Ross): I thought we had them!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, well, when you don't have the cards, you don't have the cards, you know. (looks at Rachel) But, uh... look how happy she is. (smiles)"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler and Joey look at her, and then look back at him. They dive for Ross's hand to see what he had, and he tries to stop them from looking."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, all six are playing Pictionary at Monica's apartment. Monica is drawing a picture, and the three guys are guessing. She draws what looks like an airplane."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Airplane! Airport! Airport '75! Airport '77! Airport '79!"
+  },
+  {
+   "t": "direction",
+   "text": "Timer goes off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, time's up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(pointing at the drawing, upset) Bye... bye... BIRDIE."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's a bird?"
+  },
+  {
+   "t": "direction",
+   "text": "Monica glares at Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's a bird!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica sits, Rachel gets up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK, OK, it's my turn. (reads the answer)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Go."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel starts drawing what looks like a bean."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh.... bean! Bean!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel begins tapping the picture of the bean frantically."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(triumphantly) The Unbearable Likeness of Being!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That, you get? That, you get?"
+  },
+  {
+   "t": "direction",
+   "text": "Monica picks up a glass to take a drink, everyone ducks as though she was about to throw it."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

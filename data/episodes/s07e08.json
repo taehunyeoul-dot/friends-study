@@ -1,0 +1,1406 @@
+{
+ "id": "s07e08",
+ "season": 7,
+ "episodes": [
+  8
+ ],
+ "code": "708",
+ "title": "The One Where Chandler Doesn't Like Dogs",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Monica is in the kitchen, Joey, Rachel, and Phoebe are sitting around the table writing one notepads while Chandler is looking over their shoulders."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey everybody! Happy Thanksgiving!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, no, no. No-no-no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey, Rachel, and Phoebe",
+   "text": "Shhhh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What, are we keeping Thanksgiving a secret this year?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, we're playing this game I learned at work. You have to name all the states in six minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? That's like insanely easy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Now, that's a lot harder than it sounds. You always forget at least one, or in some cases... fourteen (looks over to Monica)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's a stupid game and I wasn't playing against other people, so technically I didn't lose."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? You forgot fourteen states?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Nobody cares about the Dakotas. (That's true in so many ways, trust me, I've lived in one and been to the other.)"
+  },
+  {
+   "t": "direction",
+   "text": "[Chandler's watch beeps]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, okay, time's up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, I got 48."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh that's not bad, Pheebs?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I got tired of naming states. So I decided to list the types of celery, and I have one: regular celery."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, so Rachel's got 48 and Phoebe has the lead in...vegetables, Joey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Say hello to the new champ of Chandler's dumb states game."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow, how many have you got?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Fifty-six!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's. Ross is sitting in the couch doing Chandler's game. Chandler is sitting in his barca-lounger. The girls are in the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! How is New England not a state? Huh? They have a sports-team!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Does South Oregon have a sports-team? (Joey strikes one from his list) There you go."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the girls in the kitchen.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(counting the place settings) How come we have one extra place setting?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "'Cause you invited your assistant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, right. Sorry. But Tag's not coming; his girlfriend came into town, so he's spending Thanksgiving with her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh! Why didn't you tell me? I made him his own individual sweet potato stuffed pumpkin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I was going to, but then I figured, you know... you're food is so delicious and perfect, you can never have too many of those pumpkin things."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Now you think I wouldn't enjoy that, because it is so fake, (Laughs) but I still do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Regular Celery! (Starts to write that on her list) Oh, I already have that. (She gets up and heads for her room)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Done! With time a-to-spare."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oooh that may be a New World's record (Looks at his watch and picks up Ross' pad)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know, I hate to lecture you guys, but it's kinda disgraceful, that a group of well-educated adults and Joey can't name all the states. Did you ever see a map, or one of those round, colorful things called \"a globe?\" Hmm?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uh, Magellan? You got 46 states. (Smiles and hands Ross back his pad)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? That's impossible."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "46. Wow! Who's well educated now, Mr. I-forgot-ten-states?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, I'm out of oven space. I'm gonna turn on Joey's. Please, watch him! Do not let Joey eat any of the food!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I am only one man! (Monica heads out) Okay Ross, time is up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, just give me another minute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look Ross, if you don't know them by now, you will never know them, okay? That is the beauty of this game. It makes you want to kill yourself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This-this is crazy! I can do this! All right, uhh, I bet I can get all 50 before dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, but if you can't...no dinner!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(gets up) All right. Don't look at my list, Ross, 'cause there's a lot on there that you don't have."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering, to Joey and Rachel) Hey, did you guys know, that your oven doesn't work?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But the drawer full of take-out menus is okay, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross, I'm gonna use yours, okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Pshhshhh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler? Can you give me a hand? (Grabs her jacket)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Sure, and Joey; do not let Ross look at any of the maps or the globe in your apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Don't worry, Chandler, it's not a globe of the United States."
+  },
+  {
+   "t": "direction",
+   "text": "[Chandler and Monica head out with some stuff. Phoebe comes out of her room with a bag.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey you guys I'm gonna go out and take a walk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Phoebe, why is your bag moving?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, it's not!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Seriously, it's moving!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What the hell is in there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's just my knitting that's all! (A dog sticks its head out of Phoebe's bag. Everyone looks puzzled.) Yes! I knit this. I'm very good."
+  },
+  {
+   "t": "scene",
+   "text": "Ross' apartment, Monica and Chandler enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross's apartment is nice! How come we don't hang out here more often?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't know. Maybe it's because it smells a little weird. It's like old pumpkins or something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's my pie!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Which smells delicious!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh-oh! Uh-oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We left Joey alone with the food! (Walks towards the window and looks out) Yep! Yep, I knew it! There he is... feeding stuffing to a dog!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Ross is still doing his list. Rachel and Joey are feeding the dog as the phone rings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(answering the phone) Hi Geller-Bing residence. How can I help?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe, why is there a dog in our apartment?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm sorry, who's this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe, there's a dog sitting on my couch!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Tell her, I'm allergic, and I will sue!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, there's no dog here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yes there is! He's black and white and shaggy and [Cut to Monica's apartment] he's sitting next to Rachel and licking Rachel's hand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my god! Where are you? (Looks around.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'll be right there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Phoebe hangs up and someone knocks on the door. She gasps.) They're here already? How are they doing this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(gets up and opens the door) Hi Tag! What are you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "I, uh, wanted to see if your offer to spend Thanksgiving with you is still good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, sure! Come in! (He enters) Well, what-what happened to your girlfriend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "We kinda broke up this morning."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I'm sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Yeah, so she went back to Ohio."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ohio!! Thank you!"
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse, Chandler and Monica enter.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Huh! Where is the dog?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What dog? There-there's no dog here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah that dog left!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(walks to Phoebe's door) Phoebe! Phoebe, open up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "There's no dog in here."
+  },
+  {
+   "t": "direction",
+   "text": "[The dog barks.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Phoebe, we can hear the dog barking!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No that's just me coughing! (Doing some weird coughing noises and the dog barks again. Phoebe comes out of the room.) Oh, good, there you are! Listen, um, I have a dog in my room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What is it doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I'm watching it for some friends who went out of town. Wait. (She bends down, picks up the dog, and waves with one of its paws) Hello, my name is Clunkers. May I please stay with you nice people?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oooh, I wish she could stay here, but Chandler is allergic!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Extremely allergic, okay? If I'm anywhere near a dog for more than 5 minutes, my throat will just close up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's odd, 'cause this dog's been living here for the past 3 days"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(gasping) Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler, if that dog's been here that long, and you haven't had a reaction, maybe you're not allergic to this dog?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, it still has to go, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica and Phoebe",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, it's um..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(interrupting him) Don't do it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Don't do what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to Joey) I have to! Okay? It's time! (Joey shrugs as if to say, \"Do what you have to do\") Okay, I hate dogs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Are you crazy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Are you out of your mind?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Told ya. (Waves bye-bye.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "They are needy, they are jumpy, and you can't tell what they are thinking, and that scares me a little bit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Right, they are scary. (He jumps up, screaming) Ahh, she just ate a treat out of my hand!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wait a minute. Do you not like all dogs? I mean, not even puppies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(scared) Is there a puppy here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "You don't like puppies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to Tag) Okay, you are new!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look, Chandler, I told you, never tell anyone about this dog thing. It's like Ross not likin' ice cream."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You don't like ice cream?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's too cold."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, it's just that dogs make me a little uncomfortable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Phoebe) It hurts my teeth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And I don't wanna say this, I don't you guys to hate me, but uh, I don't think, I can be around that dog anymore. Okay, so either the dog goes, or I go. (An awkward silence ensues.) Oh my god!!"
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse, Ross is still doing Chandler's game. Tag is heading for the balcony.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How can I not get this? I'm a college professor; I got 1450 on my S.A.T.s."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "1250."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Damn, I forgot you were here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right. We're gonna take Clunkers to Ross's. We'll be back in a minute. (Gets up with Monica to do so.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, wait before you guys go, can I just ask you a question?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "When a guy breaks up with his girlfriend, what is an appropriate amount of time to wait before you make a move?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I'd say about a month."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Really? I'd say 3 to 4."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Half hour. (Rachel turns to look at him and he nods yes.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Interesting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "When it's your assistant, I would say never."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, Rach, the big question is, does he like you? All right? Because if he doesn't like you, this is all a moo-point."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Huh. A moo-point?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, it's like a cow's opinion. It just doesn't matter. It's moo."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Monica and Phoebe) Have I been living with him for too long, or did that all just make sense?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Please, don't listen to Joey, okay. Would you look at him? He-he's obviously depressed. He's away from his family; he's spending Thanksgiving with strangers.   What he needs right now is for you to be his friend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You're right, I'm sorry. Thank you. Okay, that's what I'm gonna do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Fine! Take their advice. No one ever listens to me. When the package is this pretty, no one cares what's inside."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the balcony, Tag is looking down while Rachel enters.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "How are you holding up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Not bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah? I'm sorry about your girlfriend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So were you guys together a long time?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "A year. On and off. I kinda thought we'd end up together. I don't anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Now that she broke up with you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. Hmmmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "It's weird. I always used to assume, that I would meet someone and fall in love and be happy and all that was just a given. But lately it's like what if it's not. Do you ever have that feeling?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No...Yeah, all the time, constantly. It's terrifying. But you know that I figure it...it has to work out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Because, uh-it has to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "You have all the answers, don't you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, I know, I do. I really do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Hey, thanks for talking to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, what is a boss for? Hug it out! (They hug)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(through the window) All right, he likes you back! Huh? Told ya, you should go for it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(realizes what he said) Street noise drowned any of that out? (Rachel moves madly towards him) No, all right, I see you later, okay... (Turns away embarrassed)"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "The Balcony, continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "What did Joey say? I like you back?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh, yeah, well, see, he... Joey knows, that I'm-I'm very insecure about my back and, and...you're hugging me, so obviously you are not repulsed by it, yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Wait-wait a minute; that doesn't make any sense."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No? (He shakes his head) All right, here's the truth um, Joey said what he said, because um, I'm attracted to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Wow. (He starts to walk towards the railing.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, I admit it. I have a crush on you, and uh, and, and I know that's crazy because we work together, and-and nothing could ever happen, and the last thing I want to do is-is to freak you out or make you feel uncomfortable. Which is why it would be really great if you said something right about now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "(looking at the street) Oh my god! Those guys are stealing my car! (He points down to the street)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Right there! That's my car! (Sound of a breaking car-window) Hey!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, that's gonna take them a minute. Do you have anything else you wanna get off your chest?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "I can't believe this! (He walks back in again)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(she hurries after him) Wait, we still have time to talk and they're-they're not even in the car yet! (She takes a quick look down the street.) Oh look, there they go, okay. (She hurries in, too)"
+  },
+  {
+   "t": "scene",
+   "text": "Ross' apartment, Monica and Phoebe sitting on the floor next to Clunkers basket."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay Phoebe, we should probably go back now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(doing Clunkers) Please don't leave me, I'll be lonely."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Stop it. Stop! Okay let's go. We can be strong."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, okay."
+  },
+  {
+   "t": "direction",
+   "text": "[They both get up and head for the door. Clunkers whines a little]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my god! Did you hear that? She said Monica! (She goes back to Clunkers again) Oooh, I can't leave her!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You know if you want, we can sneak the dog back in and Chandler wouldn't even know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's not gonna work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I've had that dog there for three days and Chandler had no idea. He's not so smart."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey! I didn't know either."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, but you kinda knew that something was going on, didn't you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, I knew."
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's. Ross lays a lot off small papers, shaped like the U.S. states onto the floor making a map with the states. Phoebe enters"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Where's Chandler?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(comes out of the bathroom) Here I am."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wash your hands!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "How did you...know? (Heads back into the bathroom)"
+  },
+  {
+   "t": "direction",
+   "text": "[Phoebe waves Monica in. Monica sneaks in with the bag with Clunkers in it and heads for Phoebe's room.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey! What's she doing back here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Relax, Ross. She's not made of ice cream!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey look, Phoebe. I, uh, I laid out the states geographically..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(interrupts him) No, no, we don't really have time for this right now. Okay, we have to keep Chandler away from my bedroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, but, but look what I'm..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "See, this is exactly what we do not have time for. (She rushes into her room)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(comes out of the bathroom) Where's Monica?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Um, in Phoebe's room. You can't go in there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why not?"
+  },
+  {
+   "t": "direction",
+   "text": "We can hear the dog whining at a high pitch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Monica's crying. She's very upset about this whole Clunkers thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I, I should go in there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. No, no. She doesn't want to see you right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Because you sent away the dog!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "This is ridiculous. (He heads for Phoebe's bedroom)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, is it? Is it? Look, when Monica and I were kids, we had a dog named Rover. And, uh, one day, my dad decides, he doesn't like dogs. So Monica and her friend...Phyllis...take away the dog. And that was the last time we ever saw him. Don't you see? This is just like that. Only with a few details changed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Okay, I'm in my sweat pants. Bring on the food! (Sees that Chandler has a worried look on his face) What's the matter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Monica's all upset, because I sent Clunkers away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So? Bring the dog back, you're a hero."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, I can be a hero, I could do that. I could, I could do... I, w-w-what if, what if it attacks me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Chandler, it's like a big gerbil."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And that doesn't scare you? (He walks out)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ross, you need some help?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "From you? (He does a weird desperate laughter, like he's almost crying) Yes, please!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(sits down next to Ross) First of all, Utah? Dude, you can't just make stuff up!"
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse, Ross still laying a lot out the states.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I hate America! When I finish this game, I swear I am moving."
+  },
+  {
+   "t": "direction",
+   "text": "[Joey stands up again. Rachel enters the door]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! Tag's still talking to the police."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, ohh! Why, damnit, why did I open my mouth? (In a girlish voice) I have a crush on you; I am attracted to you. (Back to normal again) Gee, I-I know that I freaked him out"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "If you said it like that, you probably did, yeah."
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel walks past Joey towards the couch]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(opens her bedroom door and peeks out) Hey, is Chandler here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, no he went for a walk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, but you cannot tell him... but look whose back!"
+  },
+  {
+   "t": "direction",
+   "text": "[The dog barks, runs out of Phoebe's room and jumps onto the couch]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(gasps) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh No-no-no-no-no-no-no! He went over to Ross' to bring the dog back here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh no, the dog's not going to be there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You think?"
+  },
+  {
+   "t": "direction",
+   "text": "[The door opens and Chandler comes in. Rachel covers the door with a blanket]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi, honey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Please, please, please, don't be mad at me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What? Why, why would..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(interrupts her, to Monica) Shh, wait and see. Maybe we will, maybe we won't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, I went over to Ross' apartment to bring back Clunkers. Y'know, for you, and...(Clears his throat) I left the door open and she must have gotten out and I looked everywhere, all over the apartment, including the roof, which FYI Ross, one of your neighbors, growing weed. I couldn't find him, and I am so, so, so, sorry. But I do know where we could all go ease the pain. (Points up and then over to the street)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "We have good news, look whose back!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(uncovers the dog) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Clunkers?! Oh my god!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's right, she came back all by herself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's a Thanksgiving miracle!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to Clunkers) It is so good to see you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, she came all the way back from Ross' building. Oh, the things she must have seen! And then she climbed up the fire escape and she tapped on the window with her teeny little paw and then we ran to let her in...(Realizes, that Chandler starts to not believing her) I went to far, didn't I? When should I have stopped?"
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse, after dinner. Ross stands up from his self-made map.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, maybe this is so hard, because there aren't 50 states. Let me tell you something, I have 49 states, and there are no more! I-I think, I should be able to eat something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's up to you."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross whines and starts working again. The door opens and Tag enters.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, hi! How are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "I'm okay. I gotta go down to the police station and look at mug shots."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Thanks for having me over, you guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Tag? Y-You're going? (Comes over to Tag) Uh we didn't, uh we didn't get the chance to talk. Uh, so, where did you say you're from again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Colorado."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ah, what good are you. (Walks back to his map dejectedly.)"
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel and Tag go into the hall.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Look, um, I think we should talk about what happened on the terrace."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ah, I-I never should have said what I said. It-y'know what? It just doesn't matter how I feel. I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay? Big day Monday lots to do. So, we're okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Um, I'm not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, god, I know it, that I freaked you out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Yeah, so, please don't fire me for doing this. (He kisses her)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, well, that's one less thing we have to do on Monday."
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, later that night, there is someone knocking on the door and Chandler stumbles out into the living room, turns on the light, looks through the peephole, and opens the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Delaware! (Starting to cry.) Delaware!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(hands Chandler his pad and walks in) I want my turkey now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You got it. (Starts looking at the pad, while Ross got the turkey out of the fridge and starts to unwrap and it) You got Nevada twice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(pauses) I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah. (Throws the pad on the table and heads for the bedroom)"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

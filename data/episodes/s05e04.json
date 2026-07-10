@@ -1,0 +1,1212 @@
+{
+ "id": "s05e04",
+ "season": 5,
+ "episodes": [
+  4
+ ],
+ "code": "504",
+ "title": "The One Where Phoebe Hates PBS",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Rachel has just gotten home and is going through the mail. She finds something that's Monica's and goes over and knocks on her closed bedroom door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(In a sexy voice) Come in. I've been waiting for you."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi! I just wanna-(sees Monica)-Ahhh!!! Oh my God! (She runs out in horror.) Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(pulling on a robe) Okay, I'm sorry! I'm sorry! I-I-I was um, I was taking a nap."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Since when do take naps in that position. Oh God Monica, tell me you were waiting for a guy! Please tell me you were waiting for a guy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yes. Yes, I was. A guy. From work. (Thinks) I'm seeing a guy from work! Ha!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(Gasps) That cute waiter guy from your restaurant, the one that looks like a non-threatening Ray Liotta?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh-huh, that one!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Y'know what, just give me a second and I'll be out of your hair. I'm just gonna grab a jacket. When I get back, I want every little detail. (There's a knock on the door.) Maybe that's him. (Goes to answer the door.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Panicking) Okay, umm, okay, umm... (Rachel opens the door.) It's just Joey and Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why aren't you guys at the movie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, we were! But Ross was talking so loud on his phone they threw us out!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I had to talk loud because the movie was loud!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to Monica and Rachel) He's talking to London!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But why?! Did he get in touch with Emily?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well no, not yet. He's calling everyone on her side of the family hoping that someone will help him get in touch with her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on phone) I-I-I don't care if I said some other girl's name you prissy, old twit!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ross! Way to suck up to the family."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering, happily, with a bottle of champagne, thinking that Monica is the only one there) Ha-ha-ha-(sees everyone)-enh-enh. I'm so glad you guys are all here! My office finally got wrinkle free fax paper!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, the next morning, Phoebe, Chandler, Ross, and Monica are eating breakfast."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering, wearing a tux) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh no-no-no-no-no-no, vomit tux! No-no, vomit tux!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Don't worry, I had it dry-cleaned."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Vomit tux? Who vomited on-y'know what, what you up to Joe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I'm doing this telethon thing on TV and my agent got me a job as co-host!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh that's great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "A little uh, good deed for PBS and a little TV exposure, now that's the kind of math Joey likes to do!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ugh, PBS!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What's wrong with PBS?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ugh, what's right with them?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why don't you like PBS, Pheebs?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, 'cause right after my mom killed herself, I was just in this really bad place, y'know personally. So, I just thought that it'd make me feel better if I wrote to Sesame Street, 'cause they were so nice when I was a little kid! No one ever wrote back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well y'know a lot of those Muppets don't have thumbs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All I got was a lousy key chain! And by that time I was living in a box. I didn't have keys!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm sorry Pheebs, I just, y'know, I just wanted to do a good deed. Like-like you did with the babies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "This isn't a good deed, you just wanted to get on TV! This is totally selfish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whoa! Whoa! Whoa! What about you, having those babies for your brother? Talk about selfish!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What-what are you talking about?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, yeah, it was a really nice thing and all, but it made you feel really good right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. So?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It made you feel good, so that makes it selfish. Look, there's no unselfish good deeds, sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes there are! There are totally good deeds that are selfless."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, may I ask for one example?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, it's... Y'know there's-no you may not!"
+  },
+  {
+   "t": "direction",
+   "text": "They are standing on either side of Chandler as they discuss the point. Chandler, meanwhile, is disgusted with the whole argument."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's because all people are selfish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Are you calling me selfish?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Are you calling you people? (Chandler rolls his eyes.) Yeah, well sorry to burst that bubble, Pheebs, but selfless good deeds don't exist. Okay? And you the deal on Santa Clause right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm gonna find a selfless good dead. I'm gonna beat you, you evil genius."
+  },
+  {
+   "t": "direction",
+   "text": "Ross's phone rings and he answers it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on phone) Hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "(on phone from London) Hello, Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Emily? Emily! Oh my God! Oh my God, it's Emily! (He picks up a lamp and hands it to Chandler, for no reason.) It's Emily everyone! Shush-shush-shhst! (to Emily) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Ross, I'm only ringing to say stop harassing my relatives. Good-bye!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No wait! Look, wait! Okay, you can hang up, but I'm gonna keep calling! I'm gonna, I'm gonna call everyone in England if that's what it takes to get you to talk to me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Really? About what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look you're my wife. We're-we're married. Y'know? I-I love you. I-I really miss you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I miss you to. Well, at least I think I do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to the gang, whispering) She's talking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "(subdued) Yay! (He motions for them to keep quiet, including Chandler who is still holding the lamp Ross handed him, before he goes off to talk to Emily in private.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, Joey, when you said the deal with Santa Clause, you meant?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That he doesn't exist."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Right. (She turns and opens her eyes in shock.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler, Monica, and Rachel are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So Chandler, have you heard about Monica's secret boyfriend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uhh, yeah. She uh, she uh, she uh might've mentioned him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So Mon, when are we gonna meet this new secret waiter man?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ohh, he's really shy. I-I don't think he's up to meeting everyone yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, I don't think he's up to meeting everyone yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't care! I wanna meet this guy who's the best sex she ever had!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler is quite pleased with that statement."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really?! That's what you heard? (To Monica) You said that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I might've said that. (Chandler laughs.) Why is that funny?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because I'm very happy for him! (To Monica) And you, you lucky dog!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, Emily's willing to work on the relationship."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "In London!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "She wants me to move to London."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But you live here! (Ross rolls his eyes.) You know that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What-what-what are you gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I bet if I talk to Carol and Susan I can convince them to move to London with Ben."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, I'm sure your ex-wife will be more than happy to move to another country so you can patch things up with your new wife."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It could happen."
+  },
+  {
+   "t": "scene",
+   "text": "Unitel Video, Studio 55, Joey's telethon, he is being shown around by the stage director."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To the pledge volunteers) How ya doin'? Welcome. Good to see ya!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Stage Director",
+   "text": "This will be your phone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's great. But uh, I'm not really expecting a lot of calls."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Stage Director",
+   "text": "No you answer it and take pledges."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But I'm the host!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Stage Director",
+   "text": "No, Gary Collins is the host. You'll be answering the phones."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You don't seem to understand. See, I was Dr. Drake Remoray."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Stage Director",
+   "text": "Well, here's your phone doctor. (She walks away.)"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Phoebe, Rachel, and Monica are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I cannot believe I can't find a selfless good deed! Y'know that old guy that lives next to me? Well, I snuck over there and-and raked up all the leaves on his front stoop. But he caught me and force-fed me cider and cookies. Then I felt wonderful. That old jackass!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Maybe Joey's right. Maybe all good deeds are selfish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I will find a selfless good deed! 'Cause I just gave birth to three children and I will not let them be raised in a world where Joey is right!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering) Hey, Monica? Can I ask you a cooking question?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Sure!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "If you're cooking on the stove, does that mean that your new secret boyfriend is better in bed than Richard?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Chandler! (Pause) Is he?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, y'know I-I-I think I'm gonna respect the privacy of my new secret boyfriend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why?! I mean if this guy was me and it was me who had learned that it was me who was the best you'd ever had, I'd be going like this. (He jumps up onto the table and starts doing his happy dance.)"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, he's on the phone with Emily."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right Emily, as much as I love you, I'm sorry, I can't move to London without Ben."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I understand that would be difficult."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, would you please consider moving here? I mean you were gonna move here anyway, why can't you just do that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I don't know, it's just..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh-oh-okay, but-but I know, that even though I've been a-a complete idiot up 'til now, I mean, I mean you-you-you have to come here. You have to come here so we can work this out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right, did you just say all right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I did. Now I'm the idiot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, Emily that is, that is so great. It's gonna be so great! We're gonna be like-like-like two idiots in love!"
+  },
+  {
+   "t": "direction",
+   "text": "She laughs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Ross, there's one thing that really scares me still."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes, tell me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Well, you have to understand how humiliating it was for me up on that altar in front of my entire family, all my friends."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know. I am, I am so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "And then after decided to forgive you, seeing you at the airport catching our plane with her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Again, very sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I mean, I can't-I can't be in the same room as her! It drives me mad just thinking of you being in the same room as her!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Emily, there is nothing between Rachel and me. Okay? I love you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "All right. I'll come to New York and we'll try and make this work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh that is so great! That's..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "(interrupting him) As long as you don't see Rachel anymore."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Ross is telling Phoebe, Monica, and Chandler about Emily's ultimatum."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So I asked Emily if she would come to New York, and she said yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh-ohh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No-no-no! Only if I promise never to see Rachel again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?! You can't-what did you tell her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I told her I'd have to think about it. I mean, how the hell am I supposed to make this kind of a decision? (They're all quiet.) I'm actually asking you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, you can't just not see Rachel anymore, she's one of your best friends."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah! But, he can't not exactly see Emily, I mean that's his wife."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's true!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, but you've known Rachel since High School and you cannot just cut her out of your life."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's true!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, you cannot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks for the help, problem solved. (Wipes his hands.)"
+  },
+  {
+   "t": "direction",
+   "text": "The phone rings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(answering it) Hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(on phone) Hey Mon!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh hey Joey! We've been watching all day, when are you gonna be on TV?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "See, there was kind of a mix up in my agent's office, but I'm still on TV and that's good exposure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Looking at the TV) You're not on TV."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, uh, okay, how, how about now? (He waves his hand in front of the woman next to him and you can now see his arm on TV.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, there he is! There he is!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hello New York! (The woman bats his hand out of the way.)"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, the chick and the duck are watching Emeril Live, a cooking show."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emeril",
+   "text": "(on TV.) Now maybe you just like wanna but the whole duck in there! Who cares, y'know? Now I got the legs..."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler enters and sees what they're watching, panics, and runs to turn off the TV."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "How many times have I told you guys, you never watch the cooking channel!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering) Hi Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh, listen, I need that broiling pan that Joey borrowed the other day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh that was yours? Uh, yeah, we used it when the duck was throwing up caterpillars."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "William Sonoma, fall catalog, Page 27."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Expect it in 4-6 weeks. (She starts to leave.) Umm, hey, umm, Joey's gonna be at the telethon for the rest of the day, we have the whole place to ourselves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, so?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well I just, thought maybe you'd wanna book some time with the best you'd ever had."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Y'know what, champ? I think I'll pass."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why? (She hops into the living room and imitates Chandler's happy dance.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What's your point?"
+  },
+  {
+   "t": "scene",
+   "text": "The Telethon, Joey's phone rings and he answers it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(in a bored voice) PBS telethon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(on phone from Central Perk) Hey Joey, I just wanted to let you know that I found a selfless good deed. I just went down to the park and I let a bee sting me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?! What good is that gonna do anybody?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, it helps the bee look tough in front of his bee friends. The bee is happy and I am definitely not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Now, y'know the bee probably died after he stung ya."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Thinks for a moment.) Aw, dammit! (Slams the phone down.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Stage Director",
+   "text": "Back on in 30 seconds people!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey gets up and moves to the other end of his row to talk to the guy sitting there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, excuse me, would you mind switching with me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "PBS Volunteer",
+   "text": "Hey, no way, I'm in the shot man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on man! You've been here all day!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "PBS Volunteer",
+   "text": "Yeah, I-I'm taking pledges here, eh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Stage Director",
+   "text": "We're on in 3, 2, (points to Gary Collins.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary Collins",
+   "text": "Welcome back to our fall telethon. Now if you've been enjoying the performance of Cirque Du Soleil, (As he is speaking, Joey and the volunteer getting into a shoving match.) and you'd like to see more of the same kind of programming, it's very simple. All you have to do (Joey is knocked down.) is call in your pledge and at that time tell the operator, one of our volunteers, what kind of programming you'd like to... (Just as the volunteer sits down, Joey pulls him to the ground.)"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Monica and Phoebe are cooking, Chandler is reading a magazine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Okay, that's it. I cannot make this decision! It is too difficult, so I'm just gonna leave it entirely to the gods of fate. (He holds up and starts shaking a...)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "A Magic Eight ball?! You can't be serious, you can't make this decision with a toy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, it's not a toy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I don't know what else to do. I mean, I either keep my wife and lose one of my-my-my best friends or I keep my friend and get divorced the second time before I'm 30! So-so if anyone has-has a better suggestion, let's hear it! 'Cause I-I got nothing! All right, don't be shy, any suggestion will do. (There are none.) Okay then. Here we go. Magic 8 Ball, should I never see Rachel again? (He turns it over and reads the answer) Ask again later. Later is not good enough. (He shakes it up again and reads the answer.) Ask again later. What the hell! This is broken! It-it is broken!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, let me see. (She grabs the 8 ball.) Will Chandler have sex tonight? (Reads the answer.) Don't count on it. Seems like it works to me."
+  },
+  {
+   "t": "scene",
+   "text": "The Telethon, Joey answers his ringing phone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(in an unenthusiastic voice) PBS Telethon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(on phone) Hi Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I would like to make a pledge. I would like to donate $200."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "$200? Are you sure Pheebs? I mean, after what Sesame Street did to ya?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I'm still mad at them but I also now that they bring happiness to lots of kids who's moms didn't kill themselves, so by supporting them, I'm doing a good thing, but I'm not happy about it. So there, a selfless good deed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And you don't a little good about donating the money?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, it sucks. I was saving up to buy a hamster."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "A hamster? What, those things are like 10 bucks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, not the one I had my eye on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary Collins",
+   "text": "(on TV.) It looks like we have surpassed last year's pledge total! Thank you viewers! The pledge that did it was taken by one of our volunteers...(He walks over to where Joey is sitting.) Oh boy! And may I say one of our sharpest dressed volunteers, (Joey stands up.) Mr. Joseph Tribbiani!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, look-look, Joey's on TV! Isn't that great? My pledge got Joey on TV! Oh that makes me feel-Oh no! (Realizes that her deed made her happy and therefore it's selfish and covers her mouth in horror.)"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, later that day. Monica is coming out of the bathroom carrying her cleaning gear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering) Look, maybe I got carried away before. But there's something you gotta know. If I'm the best, it's only because you've made me the best."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Keep talking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I mean I was nothing before you. Call the other girls and ask. Which wouldn't take long. But when I'm with you, and we're together, OH...MY...GOD."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh-aw my God! Now, I understand if you never want to sleep with me again, but that would be wrong. We're too good! We owe it, to sex!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, if we owe it? (She throws down her cleaning stuff and jumps into his arms.) Oh my... When is Joey gonna be home?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I was kinda hoping we could do this without him. (She starts to take off her latex gloves.) Oh no-no-no, leave the gloves on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But, I just cleaned the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, why don't we lose the gloves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah. (She takes them off.)"
+  },
+  {
+   "t": "direction",
+   "text": "He carries her over to the door and opens it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, let's show them how it's done."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "He starts to carry her into the hallway but hits her head on the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know that wasn't part of it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know!"
+  },
+  {
+   "t": "direction",
+   "text": "He carries her into the hall."
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, Ross is prying at the Magic 8 Ball with a screwdriver as there's a knock on his door which he goes to answer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Hi! Are you ready? We're gonna be late!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "For what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "For Stella! Remember? She's gettin' her grove back in like 20 minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, I uh, totally forgot about that. You mind if I take a rain check? I'm waiting for a call from Emily."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Sure. I guess. Hey, I hear you don't have to go to London. Yay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's not that easy, there's still a lot of relationship stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Like what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Just stuff. Y'know kinda what Emily wants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, why don't you talk to me about it, maybe I can help."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. No. You-you can't help. I mean, I kinda have to do this without your help."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I-I know you can do that too. I'm just, I'm just saying if you need somebody to talk to... Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross? Look, whatever this relationship stuff that Emily wants, just give it to her. Come on, the bottom line here is that you love her. So just fix whatever she wants fixed. Just do it. (The phone starts ringing.) I mean, you're gonna have to try. You'll just gonna hate yourself if you don't. (The phone keeps ringing.) Oh come on answer it! It's driving me crazy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(answering the phone.) Hello. (Listens) Hi sweetie. (Listens.) Good. Look umm, yes I've been thinking about that thing that you wanted me to do and, I can do it. (Rachel gives him a thumbs up.) So will you come to New York? (Rachel wants to know what she said, and he gives her a thumbs up and she goes over and hugs him. All the time not knowing what's going on.)"
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, ??????? is playing, as Chandler peaks his head out of the storage closet and sneaks back to his seat and pretends he's reading something. Then a short while later Monica pokes her head out of the closet and sneaks back to her seat and sits down, pretending as if nothing has happened."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Never done that before."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Nope."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

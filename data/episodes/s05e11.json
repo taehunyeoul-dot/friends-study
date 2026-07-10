@@ -1,0 +1,1351 @@
+{
+ "id": "s05e11",
+ "season": 5,
+ "episodes": [
+  11
+ ],
+ "code": "511",
+ "title": "The One With All The Resolutions",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Monica and Rachel are hosting a New Year's party. So the place is crowded and in a shameless promotion for NBC they're watching Jay Leno's coverage of New Year's from Time Square."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jay Leno",
+   "text": "(On TV to Dick Clark) Is there any entertainment there? What are people doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right! Here we go! 1999! The year of Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(deadpan, standing next to Monica) We're very happy for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What's the matter?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We wanted to kiss at midnight, but nobody else is going to so y'know..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, I'll take care of it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh no, wait! Joey!"
+  },
+  {
+   "t": "direction",
+   "text": "They try to stop him, not sure of what he's planning. He ignores them and goes to talk to Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(hopping) 73! 72! 71!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ross! Ross! Ross, listen! Who are you kissing at midnight, huh? Rachel or Phoebe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well you gotta kiss someone, you can't kiss your sister."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, who's gonna kiss my sister."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Awww, man! Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Dude-dude, who would you rather have kiss your sister, me or Chandler?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's a good point."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh well, since I have that whole history with Rachel, I guess Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Pheebs! Pheebs! Ross wants to kiss you at midnight!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's so obvious, why doesn't he just ask?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Rach! Rach! Listen, I'm gonna kiss you at midnight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, everyone's gotta kiss someone. You can't kiss Ross you got the history."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So? Who would you rather have kiss you, me or Chandler?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, good point."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "(watching the ball drop) 3! 2! 1! HAPPY NEW YEAR!!"
+  },
+  {
+   "t": "direction",
+   "text": "And with that everyone starts playing tonsil hockey. Chandler with Monica, Ross with Phoebe, and Joey with Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Monica) Happy New Year!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Happy New Year."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To Phoebe) Happy New Year, Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(To Joey) Happy New Year, Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So did that do anything for ya?"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel slowly walks away."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, after the party. Everyone has left, except for the gang."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know what? I'm gonna go out on a limb and say no divorces in '99!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But your divorce isn't even final yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Just the one divorce in '99! Y'know what, I am gonna be happy this year. I am gonna make myself happy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Do you want us to leave the room, or?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Everyday I am gonna do one thing that I haven't done before. That my friends is my New Year's resolution."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh! That's a good one! Mine is to pilot a commercial jet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's good one too, Pheebs. Now all you have to do is find a planeload of people who's resolution is to plummet to their deaths."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Maybe your resolution is to not make fun of your friends, especially the ones who may soon be flying you to Europe for free on their own plane."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She has a better chance of sprouting wings and flying up your nose than you do of not making fun of us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "In fact, I'll bet you 50 bucks that you can't go the whole year without making fun of us. Eh, y'know what, better yet? A week."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'll take that bet my friend. And you know what, paying me the 50 bucks could be the \"new thing you do that day!\" (Ross looks at him.) And it starts right now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, my New Year's resolution is to learn how to play the guitar."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ohh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Really?! How come?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, y'know those special skills I have listed on my resume? I would love it would be great if one of those was true."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Do you want me to teach you? I'm a great teacher."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Really? Who-who have you taught?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I taught me and I love me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah that'd be great! Thanks Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Op, look! Claire forgot her glasses! And she's gonna be really needing these to keep an eye on that boyfriend, who, I hear, needs to keep his stapler in his desk drawer, if you know what I'm talking about."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey Rach, maybe your resolution should be to umm, gossip less."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't gossip!"
+  },
+  {
+   "t": "direction",
+   "text": "They all laugh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, maybe sometimes I find out things or I hear something and I pass that information on y'know kinda like a public service, it doesn't mean I'm a gossip. I mean, would you call Ted Kopel a gossip?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well if Ted Kopel talked about his coworkers botched boob jobs, I would."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? They were like this!"
+  },
+  {
+   "t": "direction",
+   "text": "She puts her hands over her breasts and indicates that the coworkers boob job resulted in one pointing up and one pointing down with her hands by pointing up with one hand and down with the other."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross is talking to a beautiful woman as Chandler and Joey enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "I'll see you tomorrow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay! (She leaves.) (To Chandler and Joey.) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler and Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I just asked that girl out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Nice!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nice!! Yeah! Is that part of your resolution, your new thing for today?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes it is. See. (Shows them the piece of paper she gave him with her name and phone number on it.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(reading it) Elizabeth Hornswoggle?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's right, uh, Elizabeth Hornswoggle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Horn-swoggle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You all right Chandler? Is there something funny about that name?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No. No, I just think that maybe I-I'd heard it somewhere before. (Sits down rubbing his temple.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh really! Where? Somewhere funny I'd bet! (Chandler is straining to keep quiet as Phoebe enters.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi, Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh-oh, guess what? I-I have a date with Elizabeth (Talking into Chandler's ear.) Hornswoggle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hornswoggle? (To Chandler) Ooh, this must be killing you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right, see you later."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "See ya! All right Pheebs, I am ready for my first lesson."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. (Joey tries to take the guitar.) Oh no-no-no, you don't touch the guitar! First you learn here, (Points to her head.) then you learn here. (Points to the guitar.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Umm, okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, lesson one: chords. Now, I don't know the actual names of the chords but umm, I-I-I made up names for the way my hand looks while I'm doing them. (She starts to show Joey the chords. Transcribers Note: For this one you'll have to use your imagination, 'cause it would take me 50 pages to describe each one. So if you want to see them, you'll have to wait for this episode to come to a TV near you.) (Holding up her hand and then reconfiguring her hand with each name.) So then, this is Bear Claw. Okay, umm, Turkey Leg and Old Lady. (Joey tries to imitate them.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What an interesting approach to guitar instruction. Y'know some might find it amusing, I myself find it regular."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Phoebe is entering with Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey everybody, Rachel was so good today. She didn't gossip at all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I didn't! Even when I found out...umm, all right, well let's just say I found something out something about someone and let's just say she's gonna keep it. (Goes into her room.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, Pheebs! Check-check this out. (Holds up his hand in one of Phoebe's chords.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, you nailed the Old Lady! (They both laugh at what she said.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah listen so, I thought I was getting better, so on my way home today I stopped by this guitar store and..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Did you, did you touch any of the guitars while you were there? Did you?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Give me your hands. (He does and she smells his left hand.) Strings. Gimme it! (He gives her his right hand and she smells it as well.) Pick. Do you want to learn to play guitar?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Then don't touch one!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering, with Ben) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ben",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi Ben!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ben",
+   "text": "Auntie Monica!! (He runs to hug her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(notices something) Ross is wearing leather pants! Does nobody else see that Ross is wearing leather pants? (Pause, no one speaks.) Someone comment on the pants!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I think they're very nice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I like 'em."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! (Chandler bangs the table in frustration.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I like them a lot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's not what I had in mind! See, people like Ross don't generally wear these types of pants. You see, they're very tight. (Motions to Ross's buttock.) Maybe there's something in that area."
+  },
+  {
+   "t": "direction",
+   "text": "They all speak at once in general approval of his pants selection; Joey asks where he got them. I can't pick out the rest of it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh see, I-I needed a new thing for today and there's this leather store that always smells so good and I thought to myself, \"Wow, (To Chandler) I never really owned a good smelling pair of pants before.\""
+  },
+  {
+   "t": "direction",
+   "text": "No one says anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh come on!! (Storms out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(after he's left) Okay, seriously, what do you think?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You look like a freak."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Awful, absolutely awful. (Plus other negative comments from Phoebe and Monica.)"
+  },
+  {
+   "t": "direction",
+   "text": "Monica starts taking pictures of Ross and Ben, with the flash."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What are you, what are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's my New Year's resolution!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What, to blind my child?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No! To take more pictures of all of us together. I mean I really think it's the best resolution because everyone will enjoy the pictures."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, everyone will enjoy my music as well. (Does a chord and Monica starts taking pictures of him and Phoebe. They both start to strike a pose with the excessive amount of pictures that Monica takes.)"
+  },
+  {
+   "t": "scene",
+   "text": "Elizabeth Hornswoggle's apartment; Ross is there on his date with her. They are sitting on the couch watching a movie. Ross is obviously hot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(talking to himself) My God! These pants are burning up! (He's still wearing the leather pants.) (She snuggles closer.) Oh come on, she wants to snuggle now! What is she trying to kill me? It's like a volcano in here! (Out loud.) Are you hot?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth Hornswoggle",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, it must just be me then."
+  },
+  {
+   "t": "direction",
+   "text": "He shifts on the couch and a ripping sound emanates from his lower regions, the sound reminds one of a brief explosion of gas. In other words, it sounds like he farted. She has a look of horrific wonderment, wondering \"Did he just fart?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That was just the pants on the couch. Umm, hey, do you, do you mind if I use your bathroom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "No, go ahead."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks. (Gets up and as he does so, the sound returns. Without another word he heads into her bathroom.)"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Elizabeth Hornswoggle's bathroom, Ross frantically pulls his shirt out and drops his pants. He exhales in sheer ecstasy as the coolness of the bathroom envelops his legs. He sits on the cast iron bathtub, again gasping in pleasure. He next grabs a magazine and starts to blow air on his exposed legs, but that doesn't work the way he wants it to. So he throws the magazine down, looks around for another idea, and finds one. He jumps up and hops to the sink. He turns on the water and starts to splash some on his legs, cooling them further.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(in ecstasy) Ahhhhhhhhhhhhhh.........."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "(yelling from outside) Hey, my favorite part is coming up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "'Kay!"
+  },
+  {
+   "t": "direction",
+   "text": "He goes to pull up his pants, but can't seem to get them past his knees. He frantically tries to pull them up to no avail. Panic sets in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Phoebe is drilling Joey on the chords as Monica looks on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Tiger! (Joey moves his hand in an attempt to do the chord, in fact he does it with each name.) Dragon! Iceberg!! (He fails.) Joseph, did you even study at all last night?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yes! Yes, I did."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Then do Iceberg!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(thinks) (quietly) G-sharp."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "G-sharp? Have you been studying the real names of the chords? (Joey doesn't answer.) Have you? (He looks away in shame.) Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?! I didn't touch a guitar!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, but you're questioning my method!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, I'm not questioning it, I'm saying it's stupid! (Notices Monica standing between them and smiling.) What?! (The camera clicks, taking another picture.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thank you. (Leaves.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Y'know none of my other student thought I was stupid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Your other student, was you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, well, y'know maybe you just need to try a little harder!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(looking in the Yellow Pages) Look, maybe I need to try a real teacher! Right here! Here! Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and THE KID'S GOT A GUITAR!!!!!! (Storms out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play Bad, Bad Leroy Brown!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering, singing) \"Baddest man in the whole damn town.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, fine! Take his side! (Storms out.)"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel looks shocked, gets over it, notices she's alone, and picks up the phone. The last part of which is something she shouldn't have done, because the phone is already in use. By Monica, and now Rachel can hear every word."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(on phone) I can't wait to be with you! I'll sneak over as soon as Ross picks up Ben. I'll just tell Rachel I'm gonna be doing laundry for a couple of hours."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(on phone) Laundry. Huh. Is that my new nickname? (Rachel is absolutely stunned, she opens her mouth in absolute amazement.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(on phone) Awww, y'know what your nickname is, Mr. Big..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Arghh!! (She quickly hangs up the phone and starts to pace around wondering what to do.)"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler, Joey, and Ross's, The phone rings and Joey answers it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(answering phone) Hello?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(calling from Elizabeth's bathroom) Joey, it's Ross! I need some help!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhh, Chandler's not here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, you can help me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Listen, I'm in Elizabeth's bathroom..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nice!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I-I got really hot in my leather pants so I took them off but they must have shrunk from the-the sweat or-or-or my legs expanded from the heat. Look, I-I can't put them back on. I can't!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh. That is quite a situation. Uh, do you see any like, powder?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Powder! Yeah! Yeah, I have powder! (Grabs some of her shelf.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Good-good, okay, sprinkle some of that on your legs, it'll absorb some of the moisture and then you can get your pants back up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, okay, hold on! (He puts the phone down and proceeds to spread a large amount of powder on his legs and makes another attempt at pulling up his pants. It doesn't work, and without picking up the phone leans down to it.) (Almost in tears.) They're not coming on man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Umm, do you see any-oh, Vaseline?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ohh, I-I see lotion, I have lotion! Will that work?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, sure, spread some of that on there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hold on."
+  },
+  {
+   "t": "direction",
+   "text": "Ross proceeds to apply copious amounts of the lotion on his legs. He literally starts spraying the back of his legs with the lotion, and as he applies some to his butt he makes a happy face like he enjoyed that sensation. After using about half the bottle he again tries to pull up his pants, but at the first sign of resistance, his hand slips off of the pants and hits him in the forehead."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ross? You okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "They're still, they're still not coming on man and the lotion and the powder have made a paste!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Really?! Uhh, what color is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What difference does that make?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I'm just-if the paste matches the pants, you can make yourself a pair of paste pants and she won't know the difference!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Joey, do you have a minute?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Dude, what am I gonna..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To Ross) Uh, Rachel's here, so good luck man, let me know how it works out. (He hangs up the phone and strands Ross in the bathroom.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, Joey, I have such a problem!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh well, you're timing couldn't be better. I am putting out fires all over the place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. Okay. Okay. Joey, I have got to tell you something!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What-what is it, what is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God, it's so huge, but you just have to promise me that you cannot tell anyone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh no, no-no-no-no! I don't want to know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes! Yes! Yes, you do want to know! This is unbelievable!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't care, Rach! Look, I am tired of being the guy who knows all the secrets but can't tell anyone!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? What secrets? You know secrets? What are they?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And you're not supposed to be gossiping!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I know, I know! I just can't keep this one in, so I pick up the phone... (Joey in a childish attempt to not hear what Rachel is about to say, puts his fingers in his ears and starts to scream loudly. Rachel turns and walks out upon seeing that Joey's not gonna listen, and as she exits Chandler walks in and sees Joey in his current state.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm not listening to you!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler seeing that Joey has his eyes closed sneaks over and picks up the chicken. The chicken starts flapping it's wings in protest as Chandler holds the chicken inches from Joey's face. Joey stops yelling and upon opening his eyes sees the chicken, screams, and falls to the ground in horror."
+  },
+  {
+   "t": "scene",
+   "text": "Elizabeth's apartment; Elizabeth is inquiring as to the delay in Ross's exit from her bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Ross, umm, you've been in there for a long time. I'm starting to get kinda freaked out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right, I'm coming out. Hey, can you turn the lights off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "No, let's just leave the lights on."
+  },
+  {
+   "t": "direction",
+   "text": "Ross opens the door and steps into the living room. He has fully removed his pants and holds them wrapped into a ball in front of his crotch. His legs are covered in the powder and lotion paste. He looks terrible."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I had a problem."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Joey is there to apologize to Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, Pheebs?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, I can't talk to you! I don't have a fancy ad in the Yellow Pages!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look, Pheebs, I just, I wanna apologize for, for saying that your method was stupid and-and maybe ask you to be my teacher again. And-and I promise, I won't touch a guitar until you say I'm ready. (After a short pause she hands him her guitar.) You really think I'm ready?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-huh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow! Cool! (He takes the guitar, stands up, and goes to play a note. However, while strumming it, he knocks it out of his hands and it bounces off the table and lands on the floor. Phoebe just stares at the guitar.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(sitting back down) Was the chord at least right..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Ross is returning from his horrible trek back home without pants on. The whole gang is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We heard about your pants, I'm so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This year was supposed to be great! But, it's only the second day and I'm a loser with stupid leather pants that don't even fit!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "No. No, you're not a loser."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look at me! (Chandler squeaks in an attempt not to make fun of him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, hey, look. Look Ross, Ben drew a picture of you! (Shows him Ben's picture.) Huh? You're-you're a cowboy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, be-because of the leather pants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "See? Ben doesn't think you're a loser, he thinks you're a cowboy! Now that's something."
+  },
+  {
+   "t": "direction",
+   "text": "All at once."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That really is something; that's really cool."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Howdy partner!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Maybe I should get another pair! Ooh, y'know, they-they had some with fringe all down the sides. (Chandler starts rubbing his temple again.) I'm gonna go kiss Ben goodnight. (He starts to head for Monica's bedroom.) I can't believe he thinks I'm a cowboy. (Pause.) I would make a good cowboy. (He struts into Monica's room.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, now that everything's wrapped up here, I think I'm, I'm gonna go do my laundry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh yeah, me too. Y'know if this shirt is dirty. (Smells it.) Yep."
+  },
+  {
+   "t": "direction",
+   "text": "They both exit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, I'm gonna go too. I'm gonna go to the airport. I figure if I hang around there long enough, someone's bound to leave one of those planes unattended."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Good luck, honey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Bye! (She exits, leaving Rachel and Joey alone.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, uh, Joey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Umm?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Remember that big thing I was gonna tell you about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, no! (Starts that screaming thing again. Rachel stops him by pulling his fingers out of his ears.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm not gonna tell you, but if you found out on your own, that would be okay and then we could talk about it. Right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, then it wouldn't be a secret. So yeah, that would be okay. Yeah. Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(quietly) Yeah. Well. (Pause.) Hey uh Joe, would mind going over to Chandler's bedroom and get that book back that he borrowed from me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Now? You want me to go over there now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Do you know something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Do you know something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I might know something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I might know something too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What's the thing you know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no, I can't tell you until you tell me what you know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I can't tell you what I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well then I can't tell you what I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, fine."
+  },
+  {
+   "t": "direction",
+   "text": "Silence ensues."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You don't know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, how about I go over there and I will walk into Chandler's bedroom and I will see that thing that I think that I know is actually the thing that I think that I know! (Note: Kudos to Ms. Aniston on the delivery of that line. She said it very quickly and didn't screw up a word. Try it yourself, it ain't that easy.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(gasps) YOU KNOW!!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "AND YOU KNOW!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I know!!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Chandler and Monica?!! Oh, this is unbelievable!! How long have you known?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Too long! Oh my God, Rach, I've been dying to talk to someone about this for so long! Listen, listen, we can't say anything about this to anybody, they're so weird about that! Listen... (Phoebe returns and interrupts them.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey and Rachel",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey! It's raining. I don't want to fly in the rain. So..."
+  },
+  {
+   "t": "direction",
+   "text": "Pause."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, I am going to go for a walk in the rain."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohhh, yeah, me too."
+  },
+  {
+   "t": "direction",
+   "text": "They both exit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's weird. (Pause.) I bet they're doing it."
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe, Ross, and Monica are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering) Oh good, okay, I can't take it anymore. I can't take it anymore. So you win, okay? Here! (Hands him the 50 bucks he's about to owe him.) Pheebs? Flying a jet? Better make it a spaceship so that you can get back to your home planet! And Ross, phone call for you today, Tom Jones, he wants his pants back! And Hornswoggle? What are you dating a character from Fraggile Rock?! (He sits down and sighs in relief.)"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

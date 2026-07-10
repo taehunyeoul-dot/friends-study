@@ -1,0 +1,1572 @@
+{
+ "id": "s05e07",
+ "season": 5,
+ "episodes": [
+  7
+ ],
+ "code": "507",
+ "title": "The One Where Ross Moves In",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler and Joey are there. Joey is looking at a National Geographic and giggling."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you looking at naked tribe's women?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, look. (Shows him the magazine.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's a pig."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know, I know, but look at the knobs on her."
+  },
+  {
+   "t": "direction",
+   "text": "Ross enters and his hair is a mess."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey! (Joey quickly hides the magazine under the couch.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Emily's cousin kicked me out!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, when you're subletting an apartment from your wife's cousin and then you get a divorce, sometimes the cousin suddenly wants his apartment back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "How can he do that? Didn't you sign a lease?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Who needs a lease when it's family!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, you can stay with us! We'll take care of ya!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, yeah! Absolutely! Anything you need man! But you have to promise me the second you are feeling better so that we can make fun of your hair!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You got it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks you guys, I really appreciate this. All right, I'm gonna get packing again. Man, I've been moving around so much I'm beginning to feel like a nomad."
+  },
+  {
+   "t": "direction",
+   "text": "Joey starts giggling."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "He thought you said gonad."
+  },
+  {
+   "t": "direction",
+   "text": "Joey busts out laughing."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica's restaurant, she is getting inspected by the health department, Phoebe is watching."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Health Inspector",
+   "text": "Wow, Monica, if every restaurant is as clean as yours, I'd have a tough time making a living."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, Larry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, do health inspectors work on commission?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "No, bribes."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe laughs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's okay to laugh right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "Yeah, I was just kidding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. (She laughs harder.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "I'll check the kitchen floors."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, knock yourself out, Larry."
+  },
+  {
+   "t": "direction",
+   "text": "He goes into the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yum-my!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Larry?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah! I'd let him check out my kitchen floors."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "(entering) A 98. I deducted 2 points because you are not wearing your chef's hat, and that is a Section 5 violation."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh, look, Larry honey, umm, I wrote the book on Section 5 and I know that you don't have to wear your hat unless you're in the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "And where is your hat?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's in the kitchen, I'll go get it."
+  },
+  {
+   "t": "direction",
+   "text": "She heads for the kitchen door and just after she goes through the door..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "Ahh that's the 2 points."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, you should really read that book you wrote. (To Larry) Wow! You saw the hat in the kitchen and knew that she'd have to go in there hatless to get it. You can have your own health inspector detective show!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "Oh, I don't know about that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, but then I can be you sidekick Vunda."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "Maybe uh, Vunda could give me her number and I can ask her to dinner sometime."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, she would love that! Y'know, 'cause you know all the clean places to eat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "I-I'll call ya."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "Larry goes to leave but heads the wrong way and makes a quick sidestep to go out the right door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "He's so funny! (She imitates what he just did.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Gunther is serving Monica and Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thank you. (To Monica) Mon?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hmm?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "How's Ross doing? Y'know since all the Emily stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "He's not great umm, but he's dealing with it. Oh wait a minute, you're not gonna try..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, honey, please, no, I can't get started with all that Ross stuff again. I mean, he's gonna screwed up for a looong time. And besides y'know, I don't, I don't go for guys right after they get divorced."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Right, you only go for them 5 minutes before they get married."
+  },
+  {
+   "t": "direction",
+   "text": "Danny enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "(To Gunther) Two pounds of Moca Java please."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(To Monica) Danny. Are you guys ever gonna go out again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know! He hasn't called me since that one time when we went out. I see him in the hallway, we flirt, I'm all ha-ha-ha-ha, and nothing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "(To them) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi Danny! (Notices his box of liquor he's carrying.) Wow! Thirsty huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Uh, actually, actually, I'm having a party at my place on Saturday, it's sort of a house warming kind of thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ohh, fun!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Yeah, I'm really looking forward to it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Okay, see ya. (Heads out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, I guess we won't be warming his house."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(laughs) Okay. All right, I see what he's doing! He's not asking me out, because he wants me to ask him out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And you're not gonna do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's right! 'Cause that would give him the control! So now he's all ooh, coming up with this whole I've got a party thing y'know, trying to get me to hint around for an invitation. Blew up in his face, didn't it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So-so there is no party."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, there's a party. There's a party. But the power, that is still up for grabs. You follow me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I think so. Se, he-he's not inviting you to his party because he likes you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Exactly."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, they're entering to find boxes strewn about the apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering from the bathroom) Hey roomies!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Love what you've done with the place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, yeah I know, I know, it's a lot of boxes, but again I really appreciate you guys letting me stay here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Not a problem. And listen, hey! Since you're gonna be here for a while, why don't-I was thinking we uh, put your name on the answering machine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I uh, hope you don't mind, I kinda uh, jazzed it up a little. Check this out. (He plays the greeting, and We Will Rock You starts to play and Ross's voice comes over it.) We will, we will, call you back!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, all right!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Pretty cool, huh?"
+  },
+  {
+   "t": "direction",
+   "text": "They both laugh as Ross heads back to the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To Chandler) You're fake laughing too, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, the tears are real."
+  },
+  {
+   "t": "scene",
+   "text": "A restaurant, Phoebe and Larry are having dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "You look beautiful this evening."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(smiles) Show me the badge again."
+  },
+  {
+   "t": "direction",
+   "text": "He looks around and flashes her his badge and she laughs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Shiny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "Oh, will you mind if I wash up? Because I came straight from work and who knows where these babies (Holds up his hands) have been."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(laughing) You are just nonstop!"
+  },
+  {
+   "t": "direction",
+   "text": "He goes to the bathroom and Phoebe puts some pepper and salt on her food. With the salt she takes a bit and throws it over her left shoulder as she faces us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "(coming back) We're outta here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "Just walking past the kitchen I saw 10 violations! I'm shutting this place down!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(awed) You have the power to do that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "This does. (Shows her his badge.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(excited) Shut it down."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Chandler is entering. As he closes the door, Joey pokes his head up from a box enclosure built using the 2 chairs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nothing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You built a fort didn't ya?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(smiles) Kinda."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(notices something) Oh my God, the air purifier! Ross's air purifier! All I heard through 4 years of college was (makes a humming noise.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Dude, you should've gone out once and a while."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I hate this thing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on, Chandler, Ross is our friend. He needs us right now, so why don't you be a grown up and come and watch some TV in the fort!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Rachel is opening the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, hi Danny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Hey guys, I just uh, wanted to invite you to the party tomorrow night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, thanks! We'll try to stop by."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh, actually, I think I'm gonna be busy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You are?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah! Remember I got that uh, gala."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Yeah, what's the gala for?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's a uh, regatta gala."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Really! You-you sail?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No-no, but I support it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Okay, (To Monica) hope I see you tomorrow night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Take care. (Leaves.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. (Closes the door.) Walked right into that one didn't he?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What one? You wanted him to invite you to the party and he did it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, but he waited until the last minute! So if I said yes, he would know I had nothing better to do than wait around for an invitation to his stupid party. I said, \"No!\" Which puts me right back in the driver seat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Great. So the ball is in his court?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ball? There is no ball."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's and Ross's, Ross is working on his computer and Joey is making a lot of noise."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(glaring at him) Joey, please! (Motions to his computer.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sorry."
+  },
+  {
+   "t": "direction",
+   "text": "Joey starts playing with a toy alligator and has it attack him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ahhhhhhhhhh..."
+  },
+  {
+   "t": "direction",
+   "text": "Notices Ross looking at him and stops. Ross gives him his 'quiet down' maneuver. Okay, this may take a while to explain, so center this on you screen and place your hands about a foot apart with your fingers together and pointing straight up. Now take you fingers and point them at the other hand and making a 90-degree angle with each of your hands and the first knuckle counting up from the wrist. Now take your right hand, no your other right (that was for the dyslexics), and lower it a couple of inches, so that the fingers are pointing at your wrist. Now take your arms and keeping the elbows bent and your hands in front of you spread out your arms, kinda like making a bird's wing. Now hunch your shoulders over and move you hands up and down as if you are trying to tell some one to turn it down. That's Ross 'quiet down' maneuver. Well, there is an accompanying face, but I don't want to try and describe it as well."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering) Hello children!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! Wanna play some foosball? Please?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. (Starts to head for where the foosball table usually is.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No-no, no! We have to move the table into my room, yeah! 'Cause of all the boxes. Come on!"
+  },
+  {
+   "t": "direction",
+   "text": "They go into his bedroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, I have one question. What is the deal with this? (Imitates Ross's 'quiet down' maneuver, but does move his hands up and down he just flaps his hands as if he's waving good-bye.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Bye-bye little puppet Joey hand?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, the quiet down thing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You mean this. (Does the maneuver perfectly.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Um-hmm! Look, I-I-I don't know how much more of this I can take! Did you know he taped over my Baywatch tape with some show about bugs! My God! What if that had been porn?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(gasps) All right look, y'know, this maybe tough but come on, this is Ross! I survived college with him!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, I guess I can hold out a little longer. Let's have a game."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "They start playing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No-no-no-no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "YES!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Uh fellas, (Does the maneuver and gives them a double thumbs up, which Chandler returns as he closes the door.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, so he's out of here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Um-hmm."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Monica, Rachel, and Phoebe are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You guys got anything to eat? I just went down to Johnos for some chicken and it was closed!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I took Larry there to eat but it was all violated. So we shut it down!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Pheebs, if this guy keeps closing down all of our favorite places, where are we gonna eat?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't know, clean places?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Umm, yum!"
+  },
+  {
+   "t": "direction",
+   "text": "There's a knock on the door and Monica answers it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(looking through the peephole) It's Danny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Don't let him in! I'm supposed to be at a regatta gala."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Danny) We'll be right there! (To Rachel) Can't you just say it starts later?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? What kind of a regatta gala starts at night?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "The fake kind!"
+  },
+  {
+   "t": "direction",
+   "text": "She opens the door and Rachel hides behind it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Hey, hi, I need a ladle. You got a ladle?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We have a ladle. (Gives him one.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Thanks, see you at the party."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, great!"
+  },
+  {
+   "t": "direction",
+   "text": "He leaves and she closes the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, guys, you know what Larry would say? He would say, \"See you ladle.\" (Laughs.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler, Joey, and Ross are there. Chandler and Joey are looking through the paper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I-I-I'm done with this. You want anything Ross? Sports? International? Apartment listings?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'll take sports."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Mine! (He grabs it.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right. Uhh, international."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh that's mine too! (Grabs it and Ross looks at him.) I'm Italian!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I guess I can check out those apartment listings, even though there's never anything in here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Not even on page 7?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(looks) Oh yeah! You're-hey, you're right! Here's an affordable place, (reading ad) two bedroom, close to work, ooh, it's available in five weeks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What about that circled one?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I-I don't know, it's kind of expensive for a studio."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But it's available now! Isn't it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, it is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, let's go look at it! (They both jump up.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, let's go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "There we go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh-oh-ooh, hey guys, I was wondering if you guys would uh, maybe chip in on some new air filters for the air purifier? I mean after all, we all are using it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Let's go quicker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah!"
+  },
+  {
+   "t": "scene",
+   "text": "The apartment in the listing, the guys are checking it out. There's one problem though, it's roughly the size of this computer screen. As they enter Joey lets out a whistle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh my God! (Looking around, which doesn't take him long.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, well look at this kitchen, slash bathroom. Well that's great! Y'know so you can cook while in the tub."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Somebody was using his head. Hey, let's check out the rest of the place."
+  },
+  {
+   "t": "direction",
+   "text": "They don't move, just look all around them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I think this is it. I don't know, maybe we should keep looking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But hey, Ross, this place is available now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, you don't want to be stuck with us for the next five weeks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "direction",
+   "text": "He looks at them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To Joey) So, you-you think I should go ahead and take this place?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, it's perfect!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To Chandler) How about you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's a kitchen slash bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right, I see what you guys are saying. I'll uh, I'll go downstairs and fill out an application."
+  },
+  {
+   "t": "direction",
+   "text": "He exits."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We are bad people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "He knew we were trying to get rid of him. He knew! (Pause.) You think we could get a bathtub in our kitchen?"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe is there waiting for Larry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "(entering) Hey, ready for dinner?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, absolutely!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "Great! How about you wanted to go the Italian place down on Bleaker Street right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, I love that place! (Thinks about it.) So, no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "How about Mama Lisettie's?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Enh. Sure!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "(notices something) I wonder how long that milk (on the counter) has been setting out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, no-no, this place is totally healthy! That-this milk is mine. I bought this today, 'cause I was thirsty for milk, y'know. (She takes a swig of it, but has to turn away from him as she makes a face to show that it has gone bad.) Okay, let's go!"
+  },
+  {
+   "t": "direction",
+   "text": "Just as they're about to leave, Gunther comes out of the back carrying two garbage bags. Larry sees this and stops him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "Hey, buddy! (Flashes his badge.) Are you familiar with Section 11-B of the Health Code that requires all refuse material out the back exit?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "But then I'd have to go all the way around the dry cleaner place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "Oh, so you're saying you'd choose convenience over health?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, stop! Larry, okay, can't you just be Larry and not Larry the health inspector guy? Y'know I mean it was really exciting at first but now it's like, okay, so where are we gonna eat ever?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Larry",
+   "text": "Well, I suppose I could give him a warning."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thank you. (To Gunther, who's standing there frozen) Okay, go! Go! Go! (He runs off.) (To Larry) Now, if after dinner you still really need to bust someone, I know a hot dog vendor who picks his nose."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Chandler and Joey are lamenting about how they kicked Ross out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Maybe, maybe we did a good thing, helping Ross get back on his feet!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes that was a nice place!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Not a lot of closet space, but he can just hang his stuff out the window in a bag!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah!"
+  },
+  {
+   "t": "direction",
+   "text": "Pause."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What are we gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know. Maybe pizza?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "About Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh! Oh!"
+  },
+  {
+   "t": "direction",
+   "text": "The phone rings and Joey answers it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hello! (Listens.) Oh yeah! (To Chandler) It's the apartment manager; Ross put us down as references. (To the apartment manager.) Ross is the greatest guy you'll ever meet! Yeah, he's very reliable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(grabbing the phone) Of course he has this big huge dog! That uh, barks into the night. (Listens.) Well, who doesn't love dogs? (Thinks.) Ah, he's a tap dancer! (Listens.) Yes, some would say that is a lost art. (Thinks.) He's a pimp! (Listens.) There you go! Yes, he's a pimp. He's a big, tap dancing pimp! (Pause.) Hello?"
+  },
+  {
+   "t": "direction",
+   "text": "The apartment manager hung up on him and he hangs up the phone and throws in on the chair. Joey motions, \"What the hell was that?\" Chandler makes a face to say, \"Think about it.\" Joey tries to divide 136 by 13; he's confused. Suddenly, light dawns on yonder dunder head. He gets it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ohhhhh!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey motions, \"Now, that's thinking!\""
+  },
+  {
+   "t": "scene",
+   "text": "Downstairs at Danny's party, Monica and Rachel are coming down the stairs and Rachel has on a coat to make it look as if she's just getting back. But just as they reach the landing they see Danny out in the hall talking to a guest, Rachel then quickly pulls Monica back up the stairs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Shoot, shoot, this is never gonna work! He's right there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Just go over and say hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, I have to go downstairs and come back up as if I'm coming home from the regatta gala. Okay? So just go distract him. But don't be sexy."
+  },
+  {
+   "t": "direction",
+   "text": "Monica obeys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, Danny!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Hey! What's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(turns his back to the stairs) Oh, it's a great party! Great food. Y'know, most parties it's all chips and salsa, chips and salsa. (As she's saying this Rachel tries to head downstairs but is blocked by people coming upstairs. She quickly retreats back up the stairs.) (Sees that she has to keep him distracted longer.) So umm, what's this? (Points to his plate.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Salad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ooooh! (Rachel now succeeds in getting downstairs.) And-and-and what-what's this? (Points again.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Bread. Aren't you a chef?"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel returns."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(upon seeing Rachel she points) Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Hey! Rachel!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey! Oh right, tonight was your party."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Oh wow, you look great! Glad you could make it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh well, y'know, the gala had to end sometime."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "Don't go anywhere, I'll be right back. (He heads off.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, sure. (To Monica) All right, whose court is the ball in now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I thought there wasn't a ball?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, come on! He's glad that I came, he doesn't want me to go anywhere, balls flying all over the place!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "(returning, with a friend) Rachel, this is my friend Tom. (To Tom) This is the girl I told you about."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, go on! You telling people about me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Danny",
+   "text": "You two could really hit it off! I'm gonna go mingle. (Leaves.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tom",
+   "text": "So you work at Bloomingdale's, huh? My mom calls it Bloomies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(laughs) Yeah, okay, at ease solider!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tom",
+   "text": "I'm sorry?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, it's all right, you can just drop the act Tommy. I know what's going on here. Your Danny's wingman right? You guys are best buds. Frat bros!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tom",
+   "text": "I'm gonna go talk to uh, a friend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, yeah, you go talk to your friend. You tell him, \"Nice try.\""
+  },
+  {
+   "t": "direction",
+   "text": "He walks off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Man! He just keeps lobbing them up and I just keep knocking them right out of the park!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I think I need a drink."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah!"
+  },
+  {
+   "t": "direction",
+   "text": "They go get a drink."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Ross still has boxes all over the place. Joey is wearing a football helmet, and Chandler is spinning him around in one of the chairs and counting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "98. 99. 100. Okay, go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(getting up) Dude, I'm telling ya! I'm fine! (He tries to take a step and falls flat on his face.)"
+  },
+  {
+   "t": "direction",
+   "text": "He tries to get up again and starts falling backwards and Chandler catches him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Here we go! Here we go!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey. So I uh, I didn't get that apartment. Some problem with my application."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're kidding!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You're kidding, no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. But, the good news is that Phoebe said that I could stay at her place for a while. So..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But you can't stay with Phoebe, Ross! We're-we're roomies!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, you guys don't need me here taking up your space."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, we got plenty of space! There-there's still some over there (Points to where the window is but sees that there isn't any space there and points towards his door.) by-by that speaker. Please, just stay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Are you guys sure about this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Definitely!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes! Ross, you have to stay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, buddy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So I'm a pimp huh? It's okay! Look, I know that sometimes I can be a pain in the ass, but you just have to talk to me. Tell me if something is bothering you. Okay? And for my part I will do everything I can to keep my annoying habits just (Does the 'quiet down' maneuver)."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler and Joey smile, but when Ross turns away look at each other with looks of horror."
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's and Ross's, Chandler is entering and when he closes the door Joey pops his head out of the fort like before, but this time he's wearing a cowboy hat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I see you've had a very productive day. Don't you think the cowboy hat is a little much?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(popping up behind Joey wearing an Indian headdress) Come on, it's fun!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right! (He joins them in the fort and comes up putting on a bonnet.) Isn't this a woman's hat?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Dude, stop talking crazy and make us some tea!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler does so."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

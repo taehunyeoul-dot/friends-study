@@ -1,0 +1,1565 @@
+{
+ "id": "s09e13",
+ "season": 9,
+ "episodes": [
+  13
+ ],
+ "code": "913",
+ "title": "The One Where Monica Sings",
+ "lines": [
+  {
+   "t": "dialogue",
+   "speaker": "Aired",
+   "text": "30/01/2003"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Monica's"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah! Yeah! OK! Sure! Look! Can we...can we talk about what happened here last night?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Sure! Just give me a second to get all huffy and weird like you! Do you believe that who ever did something over here last night did what they did or didn't do ...I mean come on!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "OK you...you really don't know what I am talking about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "OK! Last night after the party I saw Rachel kissing that jerk from her office out on your balcony."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Our balcony? Seriously? That's so funny because I told Monica we should put lights on our balcony. And she said \"No, no. It's too cold, nobody will go out there.\" And I said \"Maybe if we put some light out there they will\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Right that's why I came over to talk about. Hum...I saw Rachel kissing some guy on your balcony, even though there were NO LIGHTS !"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So are you gonna...talk to her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why...Why should I? I mean if she wants to move on, that's fine!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You know when \"That's fine\" sounds true when someone yells it and spits!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No I'm serious. I mean she wants to date people? Fine! I don't care but...at least she could have told me. You know I...I've been putting my life on hold and just concentrating on Emma but if she wants to go out there kissing guys she barely knows, then so will I ! Very funny! Ross is gay! Ah! Ah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No no no. Good. So you're moving on? Do you have any idea where you're moving?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know. I mean I have plenty of opportunity. Just just now there were some women at the coffee house smiled at me. And then the other day on the subway a woman \"accidentally\" sat on my hand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Dude, don't rub my face in your crazy single life!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, and how about this? There is an anthropologist at school who totally came on to me during the inter-departmental Potluck dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why did I get married?!"
+  },
+  {
+   "t": "direction",
+   "text": "[Opening Credits]"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! Let me ask you guys something. I have a new headshot taken tomorrow right and the photographer said she thinks I should have my eyebrows waxed. Is that weird for a guy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well it depends."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "On...?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "On how far along he's in the sex change process!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No I totally disagree. No I think it's fine for a guy to do something like that. Such you an actor. Not that you need to, your eyebrows are..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ok! Stop it you guys! Stop staring! You're freaking me out!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Your knuckles are kinda hairy too..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh man! I have to get those done too?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow! Talking about high maintenance"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey hey! You dye your hair!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm a woman!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Arghhh! Double standards!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh before I forget, are you coming to Mike's piano bar tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Only if I don't have to get up and sing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But everybody sings. It's so much fun! Last time this adorable old man got out there, forgot all of the words, flipped out and everyone booed him off the stage. So funny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's just, I'm not good at singing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh! What's the matter? Are you scared? You're afraid I'm a better singer? You're afraid I'm gonna beat you at singing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No no, it's not working on me. Wow! I must be growing up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK fine! Please come and support Mike. You don't have to sing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So I don't have to sing and I can just sit there and pass judgments on others?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "While drinking..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi guys! Listen I really need your help. I think I did something really stupid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well yes Rachel but you got something so beautiful out there"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No not that. I kissed Gavin last night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my god."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You kissed him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. It was after the party, we were on the balcony and..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait wait wait. I was at home the whole time. How did I missed that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It was the end of the party, you were probably ironing wrapping paper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh yeah...So how did you end up kissing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You know we were all alone and he was being really nice to me and, oh and he gave me this scarf..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I thought you hated him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You know honey, there is a thin line between love and hate, and it turns out that line...is a scarf!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So are you thinking of starting up something with this guy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know. It's so complicated. I work with this guy, you know, I have the baby, and I have Ross, and I just...I don't know what to do and I have to be at the office and see Gavin in ten minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Sounds like you need to think about what you want, talk to Gavin, and you definitely should talk to Ross"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Or...I could call in sick and not deal with it at all..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow! Five-month maternity leave, you're back for four days, kiss a co-worker, call in sick, they are lucky to have you!!"
+  },
+  {
+   "t": "scene",
+   "text": "Beauty salon"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Salon girl",
+   "text": "Hi"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey. I'm here for my eyebrow appointment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Salon girl",
+   "text": "Name?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Chandler Bing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Salon girl",
+   "text": "Ok. Very good. Have a seat right over here Mr. Bing and Sonia will be right with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "OK Thanks."
+  },
+  {
+   "t": "direction",
+   "text": "Joey touches the hot wax). I touched the stuff"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sonia",
+   "text": "I'll take care of it"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thanks. Do you get a lot of guys in here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sonia",
+   "text": "Oh absolutely."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh good..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sonia",
+   "text": "Are you looking to meet somebody?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right let's just do this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sonia",
+   "text": "We'll get to the wax in a minute. First I want to tweeze some of the strays, ok? This may sting just a little bit..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Please I have an extremely high threshold...Holly Mother Of God! My face! My face!! I'm all right! I'm all right! Just a little bit of shock that's all but I'll be fine you can go again. I'm OK (He tries to avoid the tweezers) Dammit! Woman!! How Hoooow!"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey it's the most eligible man in NY. How's the moving on going?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Not well. I went on the subway again and someone did sit on my hand but that person was neither female nor wearing pants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well maybe you're going about this the wrong way. You know I mean think about it. Single white male, divorced three times, two illegitimate children. The personal ad writes itself...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's funny...Do you think you'll ever work again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What are doing? You know I can only dish it out!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I can't believe Rachel just moved on and didn't say anything to me"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Maybe she didn't move on, you know...maybe that kiss was just an impulsive one-time birthday thing"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No no, about a month ago she gave her number to some guy in a bar."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Did she go out with him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. When he called, I...I threw the message away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ah! The high road..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know what? Enough! Enough talking! I have to get moving! Hey check out those two blondes over there! Hey come with me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you trying to get everybody divorced?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You don't have to do anything. It will just be easier if it is the two of us, like college, remember? You...you break the ice with some kind of jokes so that they know you're the funny one and I swoop in with some interesting conversation, so they'll see that I'm the brilliant, brooding, sexy one..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I thought I had to make the jokes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Don't you have to be at work?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh come on! Hello! Hi! My name is Chandler, here's my friend Ross right here, and we were wondering you know if you're up for it. We only need six more people for a human pyramid...Swoop!! Swoop!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hum...So...hum...Oh hey I noticed you were reading the paper...another flood in Europe? Here's a question: \"Would you... would you rather drown or be burnt alive?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Blonde girl",
+   "text": "Sorry...we were just leaving"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We still got it!"
+  },
+  {
+   "t": "scene",
+   "text": "Ross'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Who is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "Gavin! I brought you some soup."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "I heard you were sick..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Right! Yeah! Hold on, I'll be just clean up in here a little bit! Hello Gavin"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "I missed you at work today. How are you feeling?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I a not gonna lie to you, I'm pretty sick"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "Oh! Good! Because I was having a totally paranoid moment when I thought you called in sick to avoid me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no no no"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "So I had fun last night"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So did I"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "Exactly how contagious is this thing you have? I mean is it a cold for standing on the balcony or did a monkey bite you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's just a cold"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "Do you have fever? Let me see. Hum..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? What's the matter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "What's Ross doing to you on that picture?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh he's dusting me with a fossil brush. He thought it would be funny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "Right. Right. Ross. So what's the deal with you guys? I don't want to get in the middle of anything"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh you're not. You're not gonna get in the middle of anything, don't worry about Ross really, really. (She hears the noise of the key in the lock) Oh! Hide! That's Ross! Hide! Hide!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "Yeah! But you said not to worry about..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I lied! And I'm not sick! Just stay behind the curtain!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Molly",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Molly! You're not Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Molly",
+   "text": "No I'm here to take Emma to your mother's, remember?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Right, right, yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Molly",
+   "text": "Don't panic!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Molly",
+   "text": "There is a man behind your curtain. I have a mace in my purse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! That's OK! That's OK! That's OK! No no no no! This is my business associate Gavin. He's just being silly. Gavin come out from behind that curtain!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "Hi! Gavin! Please to meet you. It was my idea to stand there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Molly",
+   "text": "Hello! I just go and get Emma."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "So hum...Why did I have to hide?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I thought it was Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "So what if it was? I thought there was nothing going on between you two..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "There isn't. There is totally isn't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "You hear a key in the hole and you jump like a young bronco coming out of a chute for the first time. I used to be a rodeo clown."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right. Look. Gavin...I...I guess I felt guilty that you were here, which I shouldn't. You know Ross and I are not in any relationship but...he is the father of my child, and you know we do live together and plus there is just so much history...you know it's just...I don't know, I'm sorry, I'm just all over the place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "It's OK. I know it's probably not my place but can I give you a piece of advice?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "I think you should talk to Ross about all this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "People keep saying that. Oh I'm sorry Gavin"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "Don't be. It's just bad timing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So seriously...rodeo clown?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gavin",
+   "text": "One of the best, ma'am, one of the best..."
+  },
+  {
+   "t": "scene",
+   "text": "Mike's piano bar"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "\"No time for losers, 'cause we are the champions of the world...!\" Thank you!"
+  },
+  {
+   "t": "direction",
+   "text": "Mike kisses Phoebe"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Oh she's my girlfriend. That's not just how we do it here. I got to get a break and when we come back we've got Kenneth singing \"I touch myself\"...I'm not here to judge!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi hi...Oh you have got to sing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No I told you I can't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But you would have so much fun and you have a really nice voice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What have you heard me sing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All the time when you're cooking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah you're always singing \"Yummy yummy yummy, I've got love in my tummy\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah I do rock that one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK so isn't there a little part of you that wants to get up there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Just a little but...it's just so scary! I don't even know what I would sing..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Well I've got a book around..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "\"Delta Dawn\""
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi! I could help not notice, but that's an unusual necklace"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "You already hit on me an hour ago"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Right, so that's a firm \"no\". I cannot believe this, I just keep striking out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't get it neither, I mean you're obviously desperate, you're asking women how they want to be killed"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This is great. Rachel's gonna keep kissing guys until she finds the one she wants and I'm gonna die alone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "By drowning or...?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "Why would he break up with me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Her friend",
+   "text": "I don't know sweetie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "All I ever wanted was just love him and have him love me back. I mean, am I so unlovable?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know! (he stands)"
+  },
+  {
+   "t": "scene",
+   "text": "Piano bar"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "All right, that was Kenneth with his much too literal rendition of \"I touch myself\". Coming up next we've got Monica singing \"Delta Dawn\"."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait wait! I can't sing in front of all these people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Just pretend they're not even here! It's OK Monica, when that spotlight hits you it so bright you won't see anyone anyway."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi! I'm Monica and I'm gonna be singing \"Delta Dawn\""
+  },
+  {
+   "t": "direction",
+   "text": "\"Delta Dawn, what's that flower you have on? Could it be a faded rose from days gone by? ...\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Can you totally see through her shirt ?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Like an X-Ray. Bad day not to wear a bra."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "\"To take you to his mansion in the sky-y?\""
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, I need your help."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wow, it seems serious. What seems to be the problem, Ashley Judd?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look, I'll get new headshot taken, all right, so I want to get my eyebrows shaped"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I am sorry, moment to make fun of that, please!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You may be a sissy but I'll still (pound you out on ground). All right, it hurts so bad, I could only let her do one eyebrow and now... they don't match!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's like a baby caterpillar chasing its mama!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, look, you got to help me out, ok? Look, I have the magic marker, I want you to fill in the skinny one so I don't look stupid for my pictures."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok. First of all, this is green!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What the hell am I supposed to do!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, I will help you out but you have to promise me you will not tell anyone what I am about to tell you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What, what."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok, you know how most kids get their allowance from mowing the lawn or taking out the garbage, well I earned mine by plucking the eyebrows of my father and his \"business\" partners."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, well, I guess you don't need my help Victor Victoria!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ok all right, no, no, no, no, I do, I do, I do, I need your help, but Chandler I don't know if I can take anymore plucking. It hurts so bad!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, not with my combination of ice cubes, aloe Vera and my gentle self-loathing touch."
+  },
+  {
+   "t": "scene",
+   "text": "Piano Bar"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "\"Take me to the mansion in the sky-y\". I am sorry, the song is over. Did you see me out there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Every little bit of you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can't believe I did this. I can't believe I'm singing for the people, and they liked me! Hey, did you hear that one shouting \"look at those tips\"! I mean, did I really help you get a lot of tips?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Mon', not that you didn't sound good, but..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Good? Didn't you hear them...I was great! Thank you so much for making me do this. That's is the best gift ever."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Also a good gift? Underwear."
+  },
+  {
+   "t": "scene",
+   "text": "Ross'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "Thank you so much for letting me do this. Public bathrooms freak me out, I can't even pee, let alone do anything else."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But, what's great is that you don't mind talking about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "It's so amazing I met you the same day that Eric broke up with me, because it's like you lose a boyfriend, you get a boyfriend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh-ah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "No don't worry, this is not some rebound thing. I am totally over Eric."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(pfew). Good choice Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, hey! Hi, there you are, I've been looking for you everywhere!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, yeah, hello, well, now, here I am."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Listen, my mum is not bringing the baby back until nine o' clock. So I was hoping you and I could have a chance to kind of talk... somebody here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, yeah, yeah that's Michelle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Who?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, just this woman I've been seeing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You've being seeing someone?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, didn't I mention that? Yeah, I mean, we haven't being going out for too long, but rather there is this amazing connection between us. I-I mean, in fact just before you came in she called me her boyfriend. I thought it was a little too soon, but it was also, you know, it was kinda nice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "What are you taking amoxicillin for?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How great is this? You are already comfortable enough to look through my stuff. Oh, I am sorry Michelle, that's my roommate, Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi, and I am also Emma's mother."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "Ah, who is Emma?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I told you about my daughter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "This is your daughter? I can be your new mummy!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And done!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God! I didn't feel a thing ! Hey, are you still looking for a job because you can tweeze circles around that sadistic bitch at the saloon"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Thanks. You wanna see what it looks like?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, yeah. Hey, they totally match! They look great! They look great! How you doing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, yeah, I think it looks pretty good. I was a little worried I was uncovering a birthmark right about there, but it turned out to be a little piece of chocolate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thank you so much."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No problem."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Listen that's a pretty girly hour we just spent, we should add some manly make up for it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Comb my eyelashes."
+  },
+  {
+   "t": "scene",
+   "text": "Piano Bar"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, for my next song I think I'll sing something a little more upbeat. All right? Oh, how about the Pointer Sisters \"I am so excited\". And make it bouncy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh you'll probably take care of that on your hands."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I am sorry I am late. You'll understand when you'll see Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey, you're just in time, I'm about to sing another song!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really? In front of all this people?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And they love me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes, she gives the people what they want."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, watch!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "\"Tonight's the night we're gonna make it happen, tonight we'll put all other things aside. Give in this time and show me some affection...\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are those my wife's nipples?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh? Isn't that funny? I didn't see that before, I wouldn't have let her go up again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I gotta stop this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, who cares, they still love me! \"I am so excited...\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You, touching yourself, out!"
+  },
+  {
+   "t": "scene",
+   "text": "Ross'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wow. She does that a lot!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "Ross, you didn't tell me you were a doctor!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What, what, wait a minute! You haven't even told her you were a doctor, yet? How long have you known her, like an hour?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "Actually about an hour and a half."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I told you it wasn't long, but there is an amazing connection between us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "You feel that too? Oh, I thought that was just me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Are you kidding?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "Hey, do you want to go away this weekend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "We'll see."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, Ross, what's going on here, are we just bringing strange women back to the apartment now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know, are we just kissing guys on balconies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "How do you know about that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Through the magic of sight! I was here, putting our child to sleep..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "Emma."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "When I happened to look through the window and I see you kissing a guy you know, for what? A week?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, that's what this is all about? Did you bring her up here to get back at me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "No, actually, see I had to pee, 'cause I can't use public bathrooms because the doodie parasites."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok, Michelle, it's time to go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "Well, call me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Michelle",
+   "text": "No, wait, you don't have my phone number!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know, if it's meant to be, I'll guess it. Bye, bye."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Score."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I am sorry, did you not like her, because I was hoping that we could come to one of your kissing parties on the balcony."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God, I can't believe you're making such a big deal about this. It was one kiss, one guy, one time!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, really!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, really!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What about the guy from the bar?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? Who?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The guy you gave your number to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Whoa, how do you know about that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Because he called here looking for you. So don't tell me this...this kissing this guy from work is a one time thing, ok? You've been out there in bars and on balconies for over a month now. And you didn't even have the courtesy to tell me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why didn't I get that message?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "From the guy in the bar, why didn't I get that message?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Because I folded it up and put in my pants pocket. Do you...do you not look there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I never gave it to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God. You know what? Who you think you are? Who are you to decide what messages I should or should not get?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Who am I?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I am the guy who's taking care of our baby while you're out at bars meeting guys!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God, I cannot believe this. You know I actually came in here hoping to have a mature conversation with you About us! But I can't do that with someone who hides my messages and brings crazy women back to my apartment!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "None of the sane ones wanted to come back with me! That's not the point. Ok? The point is you...you are the one Who moved on and didn't tell anyone!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, Ross, this is just so messed up! What's wrong with us? You know when people hear about our situation they Always ask, \"what, you live together but you're not a couple? And you have a baby, isn't that weird?\" And I say \"No. You know what, it's not, because it works for us!\" But you know this doesn't work. In fact this is the opposite of working!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, clearly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And you know, we said that we would, we would live together as long as this makes sense. An maybe this, you know, Just doesn't make sense anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, maybe not. So what you wanna do?"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi. Can Emma and I live here for a while?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ha, oh, of course."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Your eyebrows look weird."
+  },
+  {
+   "t": "direction",
+   "text": "[Ending Credits]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "\"Jeremiah was a bullfrog. Was a good friend of mine, never understood a single word he said, but I helped him drink his wine.\" So you just touch yourself for anything?"
+  },
+  {
+   "t": "direction",
+   "text": "END"
+  }
+ ]
+}

@@ -1,0 +1,1626 @@
+{
+ "id": "s01e11",
+ "season": 1,
+ "episodes": [
+  11
+ ],
+ "code": "111",
+ "title": "The One With Mrs. Bing",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "A Street: Monica and Phoebe are walking to a newsstand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Do you think they have yesterday's daily news?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Just wanna check my horoscope, see if it was right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God. (Grabs Phoebe and turns her away) Phoebe. Don't look now, but behind us is a guy who has the potential to break our hearts and plunge us into a pit of depression."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Where? (Turns to face him) Ooh, come to Momma."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "He's coming. Be cool, be cool, be cool."
+  },
+  {
+   "t": "direction",
+   "text": "The guy walks past them"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Guy",
+   "text": "Nice hat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica and Phoebe",
+   "text": "(in unison) Thanks."
+  },
+  {
+   "t": "direction",
+   "text": "The guy walks on"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "We should do something. Whistle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We are not going to whistle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Come on, do it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Do it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Do it do it do it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Shouts to the guy) Woo-woo!"
+  },
+  {
+   "t": "direction",
+   "text": "The guy turns round, startled. Monica points to Phoebe. The guy gets hit by a truck"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can't believe you did that!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Hospital, the guy is in a coma and Mon and Pheebs are visiting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I just wish there was something we could do. (Bends down and talks to him) Hello. Hello, Coma Guy. GET UP, YOU GIRL SCOUT! UP! UP! UP!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe, what are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Maybe nobody's tried this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, but did you see the dents in his knuckles? That means he's artistic."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, he's a lawyer, who teaches sculpting on the side. And- he can dance!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I wish all guys could be like him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Monica and Phoebe are telling everyone about their coma guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are there no conscious men in the city for you two?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "He doesn't have anyone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, we-we feel kinda responsible."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I can't believe you said woowoo. I don't even say woowoo."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, she's coming up! She's coming up! (Turns on the TV)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jay Leno",
+   "text": "(on TV) Folks, when we come back we'll be talking about her new book, 'Euphoria Unbound': the always interesting Nora Tyler Bing. You might wanna put the kids to bed for this one."
+  },
+  {
+   "t": "direction",
+   "text": "Everyone has settled down to watch, except Chandler"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know, we don't have to watch this. Weekend At Bernie's is on Showtime, HBO, and Cinemax."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No way, forget it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "C'mon, she's your mom!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Exactly. Weekend At Bernie's! Dead guy getting hit in the groin twenty, thirty times! No?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Chandler, I gotta tell you, I love your mom's books! I love her books! I cannot get on a plane without one! I mean, this is so cool!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, well, you wouldn't think it was cool if you're eleven years old and all your friends are passing around page 79 of 'Mistress Bitch.'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "C'mon, Chandler, I love your mom. I think she's a blast."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You can say that because she's not your mom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, please..."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel opens the door to Paolo"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paolo",
+   "text": "Bona sera."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, hi sweetie. (They kiss)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "When did Rigatoni get back from Rome?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Last night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ah, so then his plane didn't explode in a big ball of fire?... Just a dream I had- but, phew."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey hey hey! She's on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paolo",
+   "text": "Ah! Nora Bing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jay Leno",
+   "text": "(on TV) ...Now what is this about you-you being arrested i-in London? What is that all about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Your mom was arrested?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Shhh, busy beaming with pride."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "(on TV) ...This is kind of embarrassing, but occasionally after I've been intimate with a man..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Now why would she say that's embarrassing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Shhh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "(on TV) ...I just get this craving for Kung Pow Chicken."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "THAT'S TOO MUCH INFORMATION!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jay Leno",
+   "text": "(on TV) Alright, so now you're doing this whole book tour thing, how is that going?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "(on TV) Oh, fine. I'm leaving for New York tomorrow, which I hate- but I get to see my son, who I love..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Awww!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "This is the way that I find out. Most moms use the phone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jay Leno",
+   "text": "(on TV) Y'know, don't take this wrong, I-I just don't see you a-as a mom, somehow.. I don't mean that, I don't mean that bad..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "(on TV) Oh no, I am a fabulous mom! I bought my son his first condoms."
+  },
+  {
+   "t": "direction",
+   "text": "The gang turn to look at Chandler"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "...And then he burst into flames."
+  },
+  {
+   "t": "scene",
+   "text": "The Hospital, it's a montage of Monica and Phoebe's visit to the hospital with My Guy playing in the background.  It starts with Monica reading a newspaper to him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Let's see. Congress is debating a new deficit reduction bill... the mayor wants to raise subway fares again... the high today was forty-five... and- oh, teams played sports."
+  },
+  {
+   "t": "direction",
+   "text": "[Next is a shot of them dragging an enormous plant into the room, then Monica knitting a sweater, then Phoebe singing, then Phoebe shaving him and chatting to Monica]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What about Glen? He could be a Glen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Nah... not-not special enough."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh! How about Agamemnon?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Waaay too special."
+  },
+  {
+   "t": "scene",
+   "text": "A Mexican Restaurant, Monica, Phoebe, Joey, Chandler and his mom are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "I am famished. What do I want... (Looks at Chandler's menu)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Please God don't let it be Kung Pow Chicken."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "Oh, you watched the show! What'd you think?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I think you need to come out of your shell just a little."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Entering) What is this dive? Only you could've picked this place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "Oooh, c'mon, shut up, it's fun. Gimme a hug. (They both sit down) Well, I think we're ready for some tequila."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I know I am."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "Who's doing shots?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "There y'go. Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, I'm not really a shot drinking kinda guy."
+  },
+  {
+   "t": "direction",
+   "text": "Enter Rachel and Paolo. They are both somewhat flustered"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi! Sorry- sorry we're late, we, uh, kinda just, y'know, lost track of time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "...But a man can change. (Downs a shot)"
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse. Ross is now clearly drunk. He is holding up a shot glass to his eye like a jeweller's eye.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Anyone want me to appraise anything?"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel feeds something to Paolo. He eats it and licks her hand"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Mrs. Bing, I have to tell you, I've read everything you've ever written. No, I mean it! I mean, when I read Euphoria at Midnight, all I wanted to do was become a writer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "Oh, please, honey, listen, if I can do it, anybody can. You just start with half a dozen European cities, throw in thirty euphemisms for male genitalia, and bam! You have got yourself a book."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Myyy mother, ladies and gentlemen."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Mrs. Bing on the telephone.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "Yeah, any messages for room 226?"
+  },
+  {
+   "t": "direction",
+   "text": "Ross emerges from a toilet marked 'Chicas'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "You okay there, slugger?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, I'm fine, I'm fine. (A woman emerges from the toilet behind him and he tries to pretend he was in the other one)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "What is with you tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Nothing. Nothing nothing nothing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "(To phone) Okay, thank you. (To Ross) It's the Italian Hand-Licker, isn't it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. It's the one he's licking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "She's supposed to be with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "Oh, Ross, listen to me. I have sold a hundred million copies of my books, and y'know why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The girl on the cover with her nipples showing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "No. Because I know how to write men that women fall in love with. Believe me, I cannot sell a Paolo. People will not turn three hundred twenty-five pages for a Paolo. C'mon, the guy's a secondary character, a, y'know, complication you eventually kill off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "When?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "He's not a hero. ...You know who our hero is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The guy on the cover with his nipples showing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "No, it's you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Please."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "No, really, c'mon. You're smart, you're sexy..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "You are gonna be fine, believe me."
+  },
+  {
+   "t": "direction",
+   "text": "She kisses him on the cheek"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh-oh..."
+  },
+  {
+   "t": "direction",
+   "text": "...Then full on the mouth"
+  },
+  {
+   "t": "direction",
+   "text": "Enter Joey"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhhhh.... I'll just pee in the street."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, the next morning. Joey is getting the door in his dressing gown-it's Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, is Chandler here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "direction",
+   "text": "Ross drags Joey into the hall and slams the door"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, uh, about last night, um, Chandler.. you didn't tell... (Joey shakes his head) Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Right. No big deal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "In Bizarro World!! You broke the code!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What code?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You don't kiss your friend's mom! Sisters are okay, maybe a hot-lookin' aunt... but not a mom, never a mom!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler opens the door and startles them. He picks up the paper"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What are you guys doing out here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh.. uh.. Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, well, you don't have your racket."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, no I don't, because it's being restrung, somebody was supposed to bring me one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, well you didn't call and leave your grip size."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, you guys spend waaaay too much time together. (Goes back inside and shuts the door)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, I'm scum, I'm scum."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ross, how could you let this happen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You don't think my mom's sexy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well... not in the same way..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, I think we're getting into a weird area here..."
+  },
+  {
+   "t": "direction",
+   "text": "Monica and Rachel's door opens and Rachel and Paolo emerge"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What're you guys doing out here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, not playing raquetball!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "He forgot to leave his grip size!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "He didn't get the goggles!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well,sounds like you two have issues."
+  },
+  {
+   "t": "direction",
+   "text": "She and Paolo walk a little way down the hall"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Goodbye, baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paolo",
+   "text": "Ciao, bela."
+  },
+  {
+   "t": "direction",
+   "text": "They kiss. Ross is watching them"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Do they wait for me to do this?"
+  },
+  {
+   "t": "direction",
+   "text": "Joey and Ross go into Monica and Rachel's apartment"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So are you gonna tell him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why would I tell him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "How about 'cause if you don't, his mother might."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Entering) What are you guys doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhhhh.... he's not even wearing a jockstrap!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "...What did I ask?"
+  },
+  {
+   "t": "scene",
+   "text": "Hospital. Phoebe is there stroking Coma Guy's hair, when Monica enters with a bunch of balloons."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What are you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Nothing, I just thought I'd stop by.. y'know, after the uh... that I.. y'know, so what are you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm not really here. Just thought I'd drop these off...on the way.. my way... Do you come here a lot? Without me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No. (Monica brushes Coma Guy's hair in the other direction) No! No! ...So, um, do you think he's doing any better than he was this morning?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How would I know? I-I wasn't here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Really? Not even to, um, change his PAJAMAS?! (Whips back the sheet to reveal him wearing new pajamas.)"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Ross is talking to Chandler. Joey is making a snack at the bar."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're my friend. I-I had to tell you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can't believe it. Paolo kissed my mom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, um, I don't know if you noticed, but he had a lot to drink, and you know how he gets when he's drun..uh... (He has caught sight of Joey scowling at him) I can't do this, I did it, it was me, I'm sorry, I kissed your mom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I was really upset about Rachel and Paolo, and I think I had too much tequila, and Nora- um, Mrs. Mom- your Bing- was just being nice, y'know, and- But nothing happened, nothing- Ask Joey, Joey, uh, came in-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Joey) You knew about this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh... y'know, knowledge is a tricky thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I spent the entire day with you, why didn't you tell me?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, hey, hey, you're lucky I caught them when I did, or else who knows what woulda happened."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks, man, big help."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Ross) I can't believe this! What the hell were you thinking?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I wasn't- I mean, I-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know, of all my friends, no-one knows the crap I go through with my mom more than you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can't believe you did this. (Walks toward the door)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Chandler-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Me neither, y'know what-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm still mad at you for not telling me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What are you mad at me for?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Chandler-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You gotta let me slam the door! (Leaves; slams the door)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Shouting after him) Chandler, I didn't kiss her, he did! (To Ross) See what happens when you break the code?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Joey-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ah! (Points to door) Huh? (Leaves and slams the door)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, everyone is there except for Chandler.  Rachel is writing something and Monica walks up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Reading) 'A Woman Undone, by Rachel Karen Green'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. Thought I'd give it a shot. I'm still on the first chapter. Now, do you think his 'love stick can be liberated from its denim prison'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Reads) Yeah, I'd say so. And there's no 'j' in 'engorged'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Walks up with her guitar) Hey Rach."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Going to the hospital tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You just asked me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, maybe it was a trick question. (Plays a few chords) Um, Rachel can we do this now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. (Writes a little more) I am so hot!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To Ross, on the couch) Now, here's a picture of my mother and father on their wedding day. Now you tell me she's not a knockout."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I cannot believe we're having this conversation."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "C'mon! Just try to picture her not pregnant, that's all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(Into microphone) Central Perk is proud to present Miss Phoebe Buffay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thanks. Hi, um, 'kay. I'd like to start with a song that's about a man that I recently met, who's, um, come to be very important to me. (Monica gives her a look) 'Kay. (Sung:)"
+  },
+  {
+   "t": "direction",
+   "text": "You don't have to be awake to be my man,"
+  },
+  {
+   "t": "direction",
+   "text": "As long as you have brainwaves I'll be there to hold your hand."
+  },
+  {
+   "t": "direction",
+   "text": "Though we just met the other day,"
+  },
+  {
+   "t": "direction",
+   "text": "There's something I have got to say..."
+  },
+  {
+   "t": "direction",
+   "text": "She sees Monica sneaking out) Okay, thank you very much, I'm gonna take a short break! (Runs out, knocking over the mike stand"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(Into mike) Okay, that was Phoebe Buffay, everybody. Woo!"
+  },
+  {
+   "t": "direction",
+   "text": "Enter Chandler"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What was that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, uh, Phoebe just started a..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, I believe I was talking to Joey, alright there, Mother-Kisser? (Goes to the counter)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Laughing) Mother-Kisser... (Sees Ross's look) I'll shut up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Chandler, can I just say something? I-I know you're still mad at me, I just wanna say that there were two people there that night. Okay? Two sets of lips."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, well, I expect this from her. Okay? She's always been a Freudian nightmare."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, well, if she always behaves like this, why don't you say something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because it's complicated, it's complex- Hey, you kissed my mom!"
+  },
+  {
+   "t": "direction",
+   "text": "People turn to look"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To the rest of Central Perk) We're rehearsing a Greek play."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's very funny. We done now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No! Okay, you mean, you're not gonna talk to her, you're not gonna tell her how you feel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That would be no. Look, just because you played tonsil tennis with my mom doesn't mean you know her. Alright? Trust me, you can't talk to her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, 'you' can't, or (Points to Chandler) you can't? (Chandler grabs his finger) Okay, that's my finger. (Chandler twists it and Ross goes down on one knee) That's, that's my knee. (To Central Perk) Still doing the play. Aaah!"
+  },
+  {
+   "t": "scene",
+   "text": "The Coma Guy's Room, Monica bursts in, closely followed by Phoebe. There is no sign of Coma Guy.  His bed is empty."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Alright, whadyou do with him?"
+  },
+  {
+   "t": "direction",
+   "text": "There is the sound of a flushing toilet and Coma Guy emerges from the bathroom"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh! You're awake!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Look at you! How, how do you feel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Coma Guy",
+   "text": "Uh, a little woozy, but basically okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You look good!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Coma Guy",
+   "text": "I feel good! ...Who are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm Phoebe Buffay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm Monica Geller. I've been taking care of you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, we both have."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Coma Guy",
+   "text": "So, the Etch-a-Sketch is from you guys?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, actually it's just from me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I got you the foot massager."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You know who shaved you? That was me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I read to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I sang. (To Monica) Hah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Coma Guy",
+   "text": "Well,... thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, my pleasure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're welcome."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Coma Guy",
+   "text": "So. I guess I'll see you around."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What, that's it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "\"See you around?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Coma Guy",
+   "text": "Well, what do you want me to say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, I don't know. Maybe, um, \"That was nice?\" Admit something to me? \"I'll call you?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Coma Guy",
+   "text": "Alright, I'll call you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't think you mean that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and \"See you around!\" Let's go, Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Y'know what? We thought you were different. But I guess it was just the coma."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's Chandler is talking with his mom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, just knowing you're gonna be there is enough."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "Alright, well, be good, I love you. (Kisses him and goes to leave)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You kissed my best Ross! ...Or something to that effect."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "(Reentering) O-kay. Look, it, it was stupid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really stupid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah. No. No..."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the hallway, Joey is listening to Chandler and his mom's conversation through the door as Ross walks up.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ah, the forbidden love of a man and his door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Shh. He did it. He told her off, and not just about the kiss, about everything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're kidding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, no. He said \"When are you gonna grow up and start being a mom?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Then she came back with \"The question is, when are you gonna grow up and realise I have a bomb?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "'Kay, wait a minute, are you sure she didn't say \"When are you gonna grow up and realise I am your mom?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That makes more sense."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, what's going on now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I dunno, I've been standing here spelling it out for you! (Goes back to the door) I don't hear anything. Oh, wait, wait, wait. (Looks through the spyhole)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Whaddya see?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey runs off down the hall. Ross tries Monica and Rachel's apartment, but it is locked so he has to stand in the hall and pretend he wasn't listening. Chandler and his mom come out"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "You okay, kiddo?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "Alright. (Kisses him)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Nice save."
+  },
+  {
+   "t": "direction",
+   "text": "She walks down the hall"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Very politely) Mrs. Bing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Bing",
+   "text": "Mr. Geller."
+  },
+  {
+   "t": "direction",
+   "text": "She leaves"
+  },
+  {
+   "t": "direction",
+   "text": "Ross knocks on Monica and Rachel's door"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You mean that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, why not. (They shake hands) So I told her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah? How'd it go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Awful. Awful. Couldn'ta gone worse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, howdya feel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Pretty good! I told her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, see? So, maybe it wasn't such a bad idea, y'know, me kissing your mom, uh? Huh? (Wags his finger at Chandler, then puts it down) But.. we don't have to go down that road."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Rachel is handing out copies of her book to the gang."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. Now this is just the first chapter, and I want your absolute honest opinion. Oh, oh, and on page two, he's not 'reaching for her heaving beasts'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What's a 'niffle'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You usually find them on the 'heaving beasts'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Alright, alright, so I'm not a great typist..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wait, did you get to the part about his 'huge throbbing pens'? Tell ya, you don't wanna be around when he starts writing with those!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Alright, that's it! Give it back! That's it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Nooo!"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

@@ -1,0 +1,1505 @@
+{
+ "id": "s07e01",
+ "season": 7,
+ "episodes": [
+  1
+ ],
+ "code": "701",
+ "title": "The One With Monica's Thunder",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Chandler, Joey, Rachel, and Phoebe are standing around the table drinking champagne as Ross enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, what's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I found a note on my door, \"Come to Monica's quick, bring champagne and a Three Musketeers bar.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(grabbing the candy bar) Yeah I'll take that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Monica and I are engaged."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh my God. (Hugs Chandler.) Congratulations."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Where is she?"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Monica out on the balcony.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(yelling at the top of her lungs) I'm engaged!!!!!! I'm engaged!!!!"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut back inside.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, she's been out there for twenty minutes, I'm surprised you didn't hear her on the way over."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I thought it was just a kid yelling, \"I'm gay! I'm gay!\" Can I bring her in?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh no, let her stay out there. It's sweet."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Monica.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm getting married!!!! I'm gonna be a bride!!!! (Someone else yells at her.) No, I will not shut up because I'm engaged! (He yells again.) Ohh, big talk! Huh, why don't you come over here and say that to me?! Huh, buddy?! Yeah, my fiancee will kick your ass! (Chandler starts to look worried.) Come on, apartment 20! Apartment 20!"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut back inside.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Ross) Okay, you get her in here. (To Joey) You bolt the door. I'll be in the closet."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, continued from earlier, everyone is now in the living room drinking champagne."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay! Wait-wait-wait! Shhh! (Bangs on her class with a spoon to make a toast.) Okay, umm, I just wanna say that...I love you guys so-so much and-and thank you for being here on my special night. (Chandler clears his throat.) Our special night. I mean it just wouldn't be my-our-our night, if you all weren't here to celebrate with me-us-Damnit!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's okay, I want this to be your night too. (Raises his class.) To Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Awww, come on-wait-stop it. Okay, to Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "To Monica!"
+  },
+  {
+   "t": "direction",
+   "text": "They all say to Monica, clink their glasses, and drink."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So have you decided on a band for the wedding? Because, y'know, I'm kinda musical."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah Pheebs, honey, she just got engaged a couple of hours ago. I doubt she's even had time to..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well speaking of chiming in, remember the time you burned down my apartment?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(To Monica) Yeah, you're on your own."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Y'know what we should do? We should all get dressed up and go to have champagne at The Plaza."
+  },
+  {
+   "t": "direction",
+   "text": "They all agree and start to go and get ready."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But I-I-I can't stay too long, I gotta get up early for a commercial audition tomorrow and I gotta look good. I'm supposed to be playing a 19-year-old. (Everyone stops in their tracks upon hearing this.) What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So when you said, \"Get up early,\" did you mean 1986?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You guys don't think I look 19?"
+  },
+  {
+   "t": "direction",
+   "text": "A brief silence ensues."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, 19! We thought you said 90!"
+  },
+  {
+   "t": "direction",
+   "text": "They all politely laugh and stop just as quickly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay everybody, let's go! Let's go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "They all leave and Joey comes back in quickly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To Phoebe) Hey, is uh the rest of my candy bar around here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh honey no, you ate it all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I was afraid of that."
+  },
+  {
+   "t": "direction",
+   "text": "Walks out and after he closes the door Phoebe turns around and takes a bite out of what is left of his candy bar."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's bedroom, they're getting ready."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(looking at her hand) Y'know what shoes would look great with this ring? Diamond shoes! (Sees Chandler sitting on the bed.) You're not getting dressed. (Chandler quietly folds over the comforter on the bed making a spot for her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Know what I mean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, but I don't think we have time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "There's gonna be a wedding. You're gonna be the bride. Two hundred people are going to be looking at you in a clean white dress."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(lustily) Let's do it! (She kisses him and they fall back onto the bed.)"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, time lapse, Chandler is fully dressed and slowly walking out of the bedroom with a distressed look on his face."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(chasing after him) Chandler! It happens to lots of guys! You-you-you were probably tired, you had a lot of champagne, don't worry about it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(motioning with his hands) I'm not worried, I'm uh, I'm fascinated. Y'know it's like uh, Biology! Which is funny because in high school I uh, I-I failed Biology and tonight Biology failed me. (Exits as Phoebe enters from her room with her guitar.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Check it out. Okay, I can play this when the guests are coming in. Okay. (Singing)"
+  },
+  {
+   "t": "direction",
+   "text": "\"First time I met Chandler, I thought he was gay."
+  },
+  {
+   "t": "direction",
+   "text": "But here I am singing on his wedding day!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "If you would've let me finish, it goes on to say that he's probably not gay."
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Chandler is looking at the foosball table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Sure, you guys don't have this problem, you're made of wood. (Rachel comes out of the bathroom) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You look great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(quietly) Oh, thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You okay over there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know, y'know? I feel a little umm... No, y'know what? Nevermind, I'm gonna be fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, don't worry about it I mean you probably were tired, you had a lot of champagne, it happens to everybody."
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel exits into the hallway just as Ross is coming up the stairs.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow! Happy Monica's night!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well thank you, you too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, do you believe this? Do you believe they are actually getting married?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well sure. But I get married all the time so..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, I guess. I-I... I mean, do-do you think we're ever gonna have that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You mean, we-you and me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no-no-no-no-no, no, no! We, you with someone and me with someone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh good, you scared me for a minute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Shake it off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I mean-no, it's just 'cause, it's just 'cause you and I were like a nightmare. (Screams.) No, but there was some good times."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, absolutely. Y'know like it was umm..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Surely you can think of something good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, just give me a minute! (Thinking) Oh well, yes, I can think of one good thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well you uh, you were always really good at the uh, at the uh the stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah? I was good at the stuff huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh-hmm, uh-hmm, yeah, yeah, I really liked your hands."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "My hands?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to his hands) Way to go guys. Y'know, you-you were really good at the stuff too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I know. Hey, y'know what we never did? (Ross looks at her.) Oh no, not that. (Ross nods okay.) We uh, we never had bonus night!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "A what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Y'know, bonus night. Y'know, when two people break up but they get back together for just one night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "One night, just-just sex. No strings attached?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah-yeah, we never had that,"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No."
+  },
+  {
+   "t": "direction",
+   "text": "[Silence.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, this is getting a little crazy. I mean, I'm-I'm sure it would be amazing but I...gotta say I really-really don't think it would be a good idea. Y'know? I really, really...don't."
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Chandler is playing Playstation, Crash Team Racing to be exact (he's in last on Hot Air Skyway to be more exact) as Joey enters from his room desperately trying to look like a 19-year-old. He's got the wool cap, he's got the cut-off Knicks jersey over the faded T-shirt, and he's got the whole pants-around-the-knees-showing-off-the-boxers thing that rich, white, suburban kids have adopted in a desperate and extremely futile attempt to try to look like they're from the inner-city."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "'Sup? 'Sup dude?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(putting his hands up) Take whatever you want, just please don't hurt me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So you're playing a little Playstation, huh? That's whack! Playstation is whack! 'Sup with the whack Playstation, 'sup?! Huh? Come on, am I 19 or what?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, on a scale from 1 to 10, 10 being the dumbest a person can look, you are definitely 19."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on man, really how old?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Young! You're a man-child okay?! Now go get changed because everybody's ready and please, oh please, keep my underwear!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow thanks! (He goes into his bedroom and closes the door.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Joe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uhh, you've had a lot of sex right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "When? Today? Some, not a lot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, it's just the reason that I'm asking is because I kind of eh, uh, I was unable to-I mean I really wanted too, but I couldn't.... There huh-hmm, there-there was an incident."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Don't worry about that man, that happens."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's happened to you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! Once."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, what'd you do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I did it anyway."
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Monica is in the living room and Phoebe is in her room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe! Come on! Let's go! (Knocks on her door.) Come on! (Phoebe enters with guitar and not ready to go.) Why aren't you dressed yet?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm sorry, but I just wrote the best dance song for your wedding. Check this out. (Gets ready to play.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(grabs the guitar away from her) No, Phoebe, I'll tell you what, if you get ready now I'll let you play it at the wedding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Really?! Oh that's so exciting! Thank you! Thanks Mon! Oh but Mon, if you touch my guitar again I'll have to pound on you for a little bit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Fair enough, now go get ready!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. (She goes to get ready.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'll get everybody else (Does so), finally we can start celebrating my-(She gasps and is stopped by the sight of Ross and Rachel making out in the hall.) I'm sorry, uh apparently I've opened the door to the past."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, continued from before the commercial break. Monica is walking into the apartment followed by Ross and Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, Monica. Mon, uh what-what you just saw..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(interrupting) Can I ask you just a little question, huh? Why tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "See, I've been waiting my whole life to be engaged, and unlike some people I'm only planning on doing this once. So, uh y'know, maybe this is selfish and I'm sorry about it, but I was kinda hoping tonight could just be about that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh honey, but it is just about..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It is! It is!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No it's not! No! No! Now it's about you and Ross getting back together!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "See yeah umm, you kinda stole my thunder!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay! Ho-ho! We did not steal your thunder because we are not getting back together!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. No. And you know what? Nobody even saw!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's true."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Honey I swear it we just kissed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It was just a kiss. (Phoebe enters and overhears this.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You guys kissed!!!!! What does this mean?!! Are you, are you getting back together?! Can I sing at your wedding?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thunder being stolen!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay come on Phoebe, it's nothing! Monica, come on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look let's not make a big deal out of this! It was a one time thing. It doesn't even matter!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler and Joey enter and overhear that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God! I cannot believe you guys are talking about this! The problems in the bedroom are between the man and the woman!!! All right?!! Now Chandler is doing the best he can!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(angrily) I don't think that's what they were talking about Joe!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What a great night, Chandler can't do it, these guys kissed... (Points to Ross and Rachel.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You guys kissed! Oh my-this is huge!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No-no, it's really not huge."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And; people thinking it's huge has led Monica to believe that we are stealing her thunder. (To Monica) Which we are not!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, we're still talking about it, aren't we?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well yeah, that and Chandler's problem."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Monica-Monica-Monica-Monica, listen-listen, listen, listen, would-would it make you feel better if we all stop talking about Ross and Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yes that would be lovely."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You got it. Okay. Now, I can pass for 19 right?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, you can pass for 19."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Seriously?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Seriously? Seriously, no! You can play your own age which is 31!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(gasps) I'm 30!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, you are not! You're 31."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(realizes) Aww crap!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, so The Plaza! Okay, we'll get us some Mai Thai's, (To Chandler) maybe no more for you though."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Y'know what? I-I think that umm, I don't feel like going to The Plaza."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Honey, Monica, this is ridiculous! Look..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No-no, I-I really don't want to talk about it! I don't! (To Rachel) Especially with you. (Goes into her room.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Psss, that is whack!"
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse, Phoebe is playing the guitar for Joey.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(she's strumming something) Yeah? (Joey nods yes.) Okay, I think I'll play it at the wedding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! Well, I think we'll see if they actually let you play. Huh? I mean they tell you anything you want to hear like-like, \"You look 19,\" and then they just take it away like-like, \"No you don't.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I don't think Monica is gonna take this away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wouldn't she?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Would she?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Would she? (He smells something and gasps as he realizes what it is.) You ate my candy bar!"
+  },
+  {
+   "t": "scene",
+   "text": "Rachel's bedroom, she's pacing as Ross knocks on her door and opens it a little to stick his hands in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Guess who? (Enters fully.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, I just realized we kinda let some stuff up in the air..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What do you think Monica mean when she said she didn't want to talk, especially with me? I mean, why not especially you and me? We were both out there kissing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Still thinking about it huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Come on! Serious-ser-ser-seriously, what did she mean by that? (Mimicking Monica.) Especially you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(loosening his tie) Oh, who cares?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I care!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(tightening his tie) And so do I."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Y'know what, I-I have to go talk to her, would you let me just get changed?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay. Sure. (Sits down on her bed.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Am I going to let you watch me undress?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(sitting up) No! (Exits.)"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's bedroom, they are both getting undressed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can't believe her, y'know it's just-it's so typical."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Now Monica, I know you're upset, but don't forget. There is going to be a wedding, you are going to throw the bouquet, and then there's going to be a honeymoon, maybe in Paris."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Paris?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We will take a moonlit walk on the Rue de la (mumbles something)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Keep talking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Then we will sprinkle rose pedals on the bed and make love. Not just because it's romantic, but because I can!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I love you!"
+  },
+  {
+   "t": "direction",
+   "text": "They start making out and both start to feel something growing below the belt line."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(in a French accent) Bonjour, monsieur."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, don't say anything, you might scare it away."
+  },
+  {
+   "t": "direction",
+   "text": "There is a knock on the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's Paris, who knows we're here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(opening the door) Hi Pheebs, what's up? (She enters.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, you said I could sing at your wedding so, I'm just gonna need a small deposit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Y'know, just some good faith money to hold the date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Pheebs, we're not giving you a deposit for our wedding!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I see. (Exits angrily.)"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the living room, Joey is eating a sandwich."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "They break your heart, don't they?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Y'know, I don't really their permission."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! If you wanna sing at their wedding, well you sing at their wedding!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah! And if you wanna look 19, then you... You gotta do something about your eyes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?! What's wrong with my eyes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "They give you away! There's just-there's just too much wisdom in there. (Joey nods in agreement.) Just put some tea bags on there for like 15 minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And that'll get rid of my wisdom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Maybe just 10 minutes for you."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut back to Monica and Chandler's room, they are making out again as there's another knock on the door.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, give her the deposit! Give her the ring! I don't care!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica opens the door to Ross and Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Monica, what did you mean before when you said you didn't want to talk to anyone, especially me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What a great apology! (To Monica) And you accept! Okay, bye-bye!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No-no, seriously-seriously, what was the especially me part about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, let's just say it's not the first time you've stolen my thunder."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To Rachel) Hey, here's a thought."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel ignores him and follows Monica into the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Monica, what are you talking about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "My Sweet Sixteen! Remember, you went to third base with my cousin Charlie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering) Ahh, third base."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's all everybody at the party could talk about!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Monica, y'know what? The only reason I did that was because your party was so boring!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(gasps) We had a characturist!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(singing, angrily)"
+  },
+  {
+   "t": "direction",
+   "text": "\"Whenever I get married, guess who won't get to sing?"
+  },
+  {
+   "t": "direction",
+   "text": "Somebody named Geller! And somebody else named Bing!\""
+  },
+  {
+   "t": "direction",
+   "text": "Exits."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Monica, your Sweet Sixteen was like a million years ago."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And yet, here we are doing it again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ugh, Monica I don't want to steal your stupid thunder!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh please! Why else would you have made out with Ross?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Got me. (He shows of his hands.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, easy mimey, the moment has passed, it ain't gonna happen!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I just thought it would be nice if I could have just this one night!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I swear, I never wanted any part of your night!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, is that why you did it the secret hallway where nobody ever goes?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, Rachel, I've been thinking. I don't think us getting together tonight is such a good idea. I'm calling it off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Ross) Why to save your dignity my man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(ignoring them) Monica, why? Why would I ever want to take away from your night?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't know! I don't-maybe you're feeling a little resentful. Maybe ah, maybe you thought you'd get married first! Maybe you can't stand the fact that your formally fat friend is getting married before you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh wow. That-y'know what? That is so unfair. Y'know what? Now I want to steal your thunder! Come on Ross, let's go have sex!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross tries to dismiss it by making that sound, but decides to go for it and follows Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(yelling after them) I can't believe you're gonna have sex on my engagement night!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, somebody should. (Monica glares at him.)"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Rachel's bedroom.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look uh, if we're gonna do this..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "We're not gonna do this, all right? She's just gonna think that we're doin' it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I see, so everybody wins."
+  },
+  {
+   "t": "direction",
+   "text": "There's a knock on the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Who is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(outside the door) It's Monica, open up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay well Ross! Stop it please! Wait a minute! (Motions for him to follow her lead, but he angrily shakes his head no. So she pokes him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oww!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, you like that baby? (Monica bursts in followed by Chandler.) May we help you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I just wanted to say that I hope you do have sex tonight and I hope that you guys get back together, but I must warn you, the night that you announce your engagement I'm going to announce that I'm pregnant!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "How is that ever going to happen?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right Monica, do you want to know why I was with Ross tonight?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know why!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No you don't know why!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay! Why?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Because! Because I was sad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What do you mean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Look, I am so...so happy for you guys, but you getting married just reminds me of the fact that I'm not. I'm not even close. And I don't know, maybe I just wanted to make myself feel better. And I know that that's dumb, but oh my God you were so depressed when Ross got married that you slept with Chandler!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross looks at Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Ross) I don't care, she slept with me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Anyway sweetie, I am, I'm so sorry I ruined your night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(starting to cry) I'm sorry I almost made you sleep with Ross. (They hug.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(deadpan) Well, I'm going to take off. (To Chandler) Congratulations man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(at the door) And uh, Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What can I say, you missed your chance. From now on the only person who's going to enjoy these bad boys (holds up his hands) is me. (Quickly realizes what he said and exits disgustedly.)"
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Phoebe is singing outside Monica and Chandler's door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(singing)"
+  },
+  {
+   "t": "direction",
+   "text": "\"We thought Phoebe would leave, but she just stayed and stayed."
+  },
+  {
+   "t": "direction",
+   "text": "That's right, I'm here all night, and Chandler will never get l...\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(interrupting her just in time) Hey! Here's a dollar, consider it a deposit. Please sing at our wedding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. (Goes back to bed.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Now... (Starts singing again) \"Who will perform the ceremony! Who will perform the cer-(Chandler enters and grabs her guitar and closes the door behind him)-Oh-oh! All right, I'll pound on him in the morning."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

@@ -1,0 +1,1546 @@
+{
+ "id": "s10e09",
+ "season": 10,
+ "episodes": [
+  9
+ ],
+ "code": "1009",
+ "title": "The One With The Birth Mother",
+ "lines": [
+  {
+   "t": "dialogue",
+   "speaker": "Produced by",
+   "text": "Robert Carlock and Wendy Knoller"
+  },
+  {
+   "t": "direction",
+   "text": "Final check by Kim"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Everyone's sitting on the couch.Monica and Chandler enter"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We're just here to say goodbye, we're off to Ohio."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, right! Your adoption interview!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yep, we're gonna meet the lady who could be carrying our baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I can't believe it. When you guys come back, you're gonna have a baby! That is so weird!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And so incorrect!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She's only a couple of months pregnant. She liked our application but who knows if she's gonna like us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Come on, she's gonna love you guys!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uhm, thank you, but we're really trying not to get our hopes up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And a lot could still get in our way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah. I mean, this girl could decide against adoption or she could like another couple better.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What are you gonna name the baby?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can develop a condition in which I talk and talk and no one hears a word."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But just think, ok? What if everything goes right? What if this woman does pick you guys?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God. She's gonna pick us!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So we're standing firm on the 'not getting our hopes up'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You know, I know that things could still go wrong but if they don't? If this works out, we're gonna have a baby Chandler, a baby!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, but..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God, it's gonna WORK! We're gonna make it work! I'm gonna be a mummy and (to Chandler) you're gonna be a daddy! All right, I'll see you suckers. I'm gonna get me... A BABY! {she leaves)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, screw it, I'm gonna be a daddy!!"
+  },
+  {
+   "t": "direction",
+   "text": "OPENING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Phoebe's speaking to a girl."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Joey) Hey, who's Phoebe with?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm gonna say someone I'm gonna have sex with. (the girl leaves and Phoebe goes toward the couch) (to Phoebe) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So... who's your friend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, that's Sarah. No, no. Don't you get any ideas, ok? No, I'm not setting you up with any more of my friends!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "OW, why, why, why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Because you'll date her once, sleep with her and then forget she exists!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, name one friend of yours that I did that with."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Mandy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Mandy, uh? Uh... really hot blonde, big boobs?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know why I don't remember her, huh? (he winks at Rachel)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Do you think I'm someone else?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ok, I may not have treated your friends well in the past, but I have grown up a lot, really. Honest, Rach?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, believe it or not, it's true. When Joey and I were together, he was wonderful. He was thoughtful and mature. And for the one week that we went out, he didn't sleep with anybody else!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(pointing at himself) Growth!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Fine, I'll give you her number."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ok, thank you. And I promise you I will not forget this one. (he starts writing on his hand) Mandy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "SARAH!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Saraaah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey you guys, I need some fashion advice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(he takes a baby blue beret out of a shopping box and puts it on) How does this look?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, it's a little low... pick up a little... (Ross picks it up) a little bit more... (he picks it up again) a little bit more... (he takes it off) There you go! (pause) Now throw it away!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "C'mon! This looks good!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, please, trust me. I buy 30 fashion magazines a month. Now, I don't know who's running for president or who that... NATO guy is, but I do know that you have to get as far away as you can from that hat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Damnit! I have this date tomorrow night and I have to look cool!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, you know, if you want fashion help, Rachel and I are going shopping tomorrow. You're more than welcome to come with us, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really? That would be great. I mean, I have to do something, she kinda teased me about how I dress."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I can see why, nice shirt!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're wearing the same shirt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Stupid Gap on every corner!"
+  },
+  {
+   "t": "scene",
+   "text": "The Adoption Agency in Ohio. Monica and Chandler are entering with a man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Agency guy",
+   "text": "Please, make yourself comfortable and I will back in a moment with Erica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, thank you.(the man leaves) Uh, well this is it. Are you OK?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah. Just weird, you know. It's like: \"Hi, I'm Chandler. May I have the human growing inside you?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh, we're gonna be great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You're gonna be great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well... obviously!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Agency guy",
+   "text": "(he enters with Erica) Monica, Chandler. I'd like you to meet Erica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi. It is so, so nice to meet you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "(whispering) Hi..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Thank you so much for agreeing to see us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Agency guy",
+   "text": "I'll let you get acquainted."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "So, it's Monica and Chandler. I only know you as file 0W33815-D."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's what our friends call us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Gosh, you know, you're just such an amazing couple. It's... kind of intimidating."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't know about that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "You're kidding me? I mean, it's enough that you are a doctor. But on top of it, you're married to a reverend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(astonished) I don't think that's exactly..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(overlapping) Let her finish, doctor."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, my friend Sarah had a great time last night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah! So you're gonna call this one back?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nope."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What are you talking about? Sarah's great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, really? You know what your great friend did? We're out to dinner, ok? (he starts talking about the date and we can see what happened through a flashback video) We're getting along, having a really nice time. I was thinking she was really cool. And then, out of nowhere..."
+  },
+  {
+   "t": "direction",
+   "text": "Sarah picks up some fries from Joey's plate and Joey looks very angry. Then we're back to Central Perk and Joey does a you-see-what-I-mean look to Phoebe"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's it? That's why you won't go out with her again? So, she took some fries, big deal!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, hey, look! It's not about a few fries... it's about what the fries represent."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "ALL FOOD!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm sorry, I can't believe I set you up with such a MONSTER!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, hey, hey, hey. Look. I take a girl out, she can order whatever she wants! The more, the better! All right? Just don't order a Garden salad and then eat my food! That's a good way to lose some fingers!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel enters from the main door"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to Rachel) Oh"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thank God you're here. Listen to this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Joey and my friend were out last night and having dinner and she reaches over and takes a few of his fries..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Oh, no!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey looks satisfied"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What? You know about the plate thing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, yeah. Joey doesn't share food. I mean, just last week we were having breakfast and he had a couple of grapes on his plate and ..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to Joey) You wouldn't let her have a grape?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no! Not me! Emma!"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe looks horrified and she turns to watch Joey"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(mad and pointing a finger to himself) JOEY DOESN'T SHARE FOOD!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I still think that it's a stupid reason not to call someone again. You are calling her! And if you need to, just get an extra plate of fries for the table!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(he thinks a little, considering the option and seems to be quite satisfied) I like that! A sharing buffer! Yeah! I'll order some extra fries! Maybe a plate of onion rings. Yeah. And a shrimp cocktail. And some buffalo wings. Maybe an individual pizza, uh? And some mozzarella sticks. (he looks absorbed in his food thoughts) What were we talking about?"
+  },
+  {
+   "t": "scene",
+   "text": "A clothes store. Ross and Phoebe are shopping"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to Ross) This place is awesome!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know, we should just go, I'm not gonna find anything here! This stuff is ridiculous!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel arrives with a lot of clothes"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ah, this place is great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rach, come on, I'm not gonna wear any of this! (he picks up a shirt) Nothing silver. (Rachel sighs). Ok? Nothing with hair! (Rachel sighs again) And nothing with padlocks on it! (Rachel heaves a long disappointing sigh)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, look, I know that some of this stuff is out there, but I mean, come on, look at this, look at this sweater! (she picks up a blue sweater). I mean, this is just beautiful!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(feeling the fabric) Wow, this is really soft (he looks the price). Three hundred and fifty dollars?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, down from seven hundred, you are saving like two hundred bucks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Both logic and math are taking a serious hit today."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe (walking to Ross carrying a black leather jacket): Hey, check this out! It's totally you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross wears the jackets and look at himself in the mirror"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Actually this looks like pretty good! Yeah!(he turns and watches his back and there's a sign on the back of the jacket, \"boys will be boys\") Boys will be boys?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What? They will be!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right, that's it, I'm getting out of here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, no, no, no! Ross, wait! Come on! You know, there's other stuff. Here's a nice shirt, look at these nice pants..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, actually these might look pretty good on me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes, they will! You know what you should do? Just go take a walk, all right? I know your size and I'm... I'm gonna pick up some really good stuff for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes! And I know what looks sexy on guys. Please, just wear what I suggest, and she's gonna go nuts for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, you're saying, uh, if I wear these pants I might be getting into hers?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Phoebe) Why do men keep talking to me like this?"
+  },
+  {
+   "t": "scene",
+   "text": "The Adoption Agency in Ohio. Monica and Chandler are still talking with Erica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, the fact that I am a doctor, and my wife's a reverend, that's important to you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Yeah, I read some great applications, but then I thought \"who better then a minister to raise a child!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Amen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Plus I thought the baby would be in good hands with a doctor!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh, good hands. (she holds Chandler hands) Healing hands."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Reverend, can I ask? Does the bible say anything about adoption?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It says \"Do it!\". And behold she did adopt onto them a baby. And it was good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Wow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, wow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "I was wondering you both have such serious jobs. (to Monica) Would you have time to take care of a baby and your flock?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, you know, my flock is good, I mean, yeah, my flock pretty much takes care of themselves at this point. Good flock. Flock, flock, flock."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "(to Chandler) Being a doctor must take up a lot of time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No-ot for me it doesn't."
+  },
+  {
+   "t": "direction",
+   "text": "The agency guy enters the room"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Agency guy",
+   "text": "So, how's everything going in here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "We're great, I think I may have asked all my questions."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Agency guy",
+   "text": "Do you have any question for Erica?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, actually. So, you read a file that you liked and you gave the agency the serial number and they contacted us?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Agency guy",
+   "text": "Yes, our system assures total anonimity. We're very proud of it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You should be. You're really on top of stuff.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Agency guy",
+   "text": "(to Erica) Well, then if there's nothing else, then the two of us should talk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Actually, I don't think we have to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We don't?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Yeah, when I read about you two, I was pretty sure I wanted you, but I just thought we should meet face to face. (to the agency guy). I've made my decision. I choose them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God, this is great! This is so great! (to Chandler, who looks bewildered). Did you hear that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, I did."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Erica) Hey, thank you. Thank you so much. (they hugs). You are SO going to Heaven!"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. Rachel and Phoebe walk in, loaded with bags."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "We got some really great stuff!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, yeah but I am not sure about some of the bra's I got."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Really? Do you wanna try some of them on for me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh! okay. Wait, are we in Joey's imagination?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(looking into one of her shopping bags) Oh no! I took one of Ross' bags by"
+  },
+  {
+   "t": "direction",
+   "text": "mistake, and one of mine is missing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "oh, well, Ross probably has it, you can get it from him later."
+  },
+  {
+   "t": "scene",
+   "text": "Ross walks into Central Perk, wearing a pink and white ladies shirt. Joey is on the couch"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Joey) So? What do you think? (Shows himself - Joey observes him with a strange look on his face.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I think were not wearing the same shirt anymore!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(not getting it) Yeah! Yeah! Rachel picked it out for me. She told me to trust her and you know what? I'm glad I did! I turned quite a few heads on my way over here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(now laughing a little) Dude, I really don't think you should be wearing that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I see, somebody is afraid of a little competition with the ladies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(looking a little agitated now) Looks like someone IS the ladies!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're just jealous because you couldn't pull this off. Yeah, now if you'll excuse me (getting up and taking his coat) I have a date. (As he is walking out, everyone turns and stares at him) See? (To Joey) ALL eyes on ME!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's hotel room. They enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We are NOT signing those papers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's wrong. They made a mistake. They think we're somebody else."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "God works in mysterious ways."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You have gotta stop!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But she liked us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "She likes Doctor Chandler and Reverend Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, if you think about it, I am kind of like a Reverend. I mean, as a chef, I serve God, by feeing the hungry and poor. (looks very convinced about what she just said)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Your Veal Chop is $34,95!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "C'mon Chandler, I think we have been given an opportunity. I mean, the mistake has already been made. They are writing up the paper right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "But we are not the one she chose! How can you feel okay about this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(very emotional) Because... We may not be who she thinks we are but no-one will ever love that baby more than us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I know.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I mean, who knows how long it's gonna take for someone else to give us a baby? What if, what if no one ever picks us?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "oh, honey.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Almost crying) Please.. please, we are so close."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Monica, I want a baby too, but this woman is giving away her child. She deserves to know who it's going to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(realizes Chandler is right. She's almost crying) okay, right. (They hug)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, we'll tell the truth and who knows, maybe she'll like us for us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(sniffing) Maybe she will. Uh! Why couldn't I have been a Reverend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You're Jewish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Technicality!"
+  },
+  {
+   "t": "scene",
+   "text": "A restaurant. Joey is on his date with Phoebe's friend, Sarah. They are sitting opposite each other on a table for two. Their waiter approaches with two plates."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Waiter",
+   "text": "A garden salad for the lady (sets the plate down)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, that looks great! Good ordering!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Waiter",
+   "text": "Seafood platter for the gentleman and extra fries. Enjoy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "Mmmh, those fries look delicious."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "oh, I didn't know you liked French fries. Help yourself! What's mine is yours. (Sarah reaches over and takes a few fries)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "(looks over at Joey's platter) Oh wow, are those stuffed clams?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uuuh.. yes, they are my stuffed clams."
+  },
+  {
+   "t": "direction",
+   "text": "Sarah, is grinning and starts to reach over to Joey's plate to take a few clams"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "How about those fries though, huh? (Holds the plate between Sarah's fingers and his plate, thus blocking her from reaching his)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "They are delicious (takes a few from the plate, puts one in her mouth and places the rest on her plate, then starts to reach over to Joey's platter again)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Spotting her movements takes her hand into his own) You are beautiful, you know that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "Oh, that is so sweet.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh (grinning, trying to hold in his impatience with her) okay.. (she takes her hand back)"
+  },
+  {
+   "t": "direction",
+   "text": "Then she reaches over again and Joey moves his plate a little to the left, and she misses, then she reaches out again, and he moves his plate to the right , so she misses again. She tries a third time and this time, Joey pushes his plate so far to the left, it drops off the edge of the table"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Visibly annoyed) NOW look what you did!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "What? what is the matter with you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't like it when people take food off of my plate, okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "But you just said \"What's mine is yours\"?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "WELL, I DIDN'T MEAN IT!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "Fine, I'm sorry, I didn't think it was that big a deal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm sorry, I'm overreacting. Okay, It's just when it comes to food, I have certain rules, okay, I mean (bends down and with his plate and his hands, scrapes the dropped dinner back onto the plate and puts it back on the table) There are things you do..and you now, things.. (takes something from the plate and blows it a little) that you don't do (He takes a bite from it)."
+  },
+  {
+   "t": "direction",
+   "text": "Sarah looks a little disgusted"
+  },
+  {
+   "t": "scene",
+   "text": "Ross and his date walk into a lobby. They are both wearing their jackets"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Girl",
+   "text": "Wow, this place looks great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh! You are gonna love it! (The girl is looking in the other direction as Ross is taking off his own coat, revealing the pink and white ladies shirt) and I'm so glad, we're finally doing this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Girl",
+   "text": "Me too! (starts to take her coat off)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Here (gets behind her to help. When the coat comes off we see she is wearing the exact same shirt Ross is wearing. They look at each other, shocked. They abruptly put their coat back on) So this was fun! (They leave the room and head into opposite directions)"
+  },
+  {
+   "t": "scene",
+   "text": "Back at the restaurant with Joey and Sarah. Joey is holding Sarah's hands"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I really am sorry about, you know..before. I just want to make sure you know that I really do like you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "Sure (smiling) Just not as much as clams."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Jokingly) Well, stuffed clams."
+  },
+  {
+   "t": "direction",
+   "text": "The waiter arrives with their deserts"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Waiter",
+   "text": "Chocolate Torte for the lady, cheesecake for the gentleman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, excuse me sir, there seems to be some sort of red crap on my cheesecake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Waiter",
+   "text": "Yes, that's Raspberry coule."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(More to himself than anyone else) So stupid, ordering cheesecake, trying to"
+  },
+  {
+   "t": "direction",
+   "text": "be healthy. (pushes it aside"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "(tasting hers) Oh my God! (Looks at the waiter and then to Joey)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, all right, I'll just have what she's having instead."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Waiter",
+   "text": "Oh, I'm sorry sir, that was our last piece."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "Mmmm! Mmm!"
+  },
+  {
+   "t": "direction",
+   "text": "Sarah's beeper starts bleeping"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "Oh, no! This is work. I should call in. Can you excuse me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah, sure. No problem."
+  },
+  {
+   "t": "direction",
+   "text": "Joey's looking at Sarah's dessert, and takes her plate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "What are you doing? I thought you don't share food."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure I do. (holding up his own dessert) Coule?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "(laughing) No. If I can't have your clams, you can't have my dessert. This is a two way street."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(laughing) Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sarah",
+   "text": "Really! Now this all better be here when I come back. (puts her plate back at her side of the table)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, of course. I can control myself. (laughs uneasily and Sarah leaves the room)"
+  },
+  {
+   "t": "direction",
+   "text": "Joey sits sideways on his chair, looking at Sarah's chocolate torte, and then looking away from it, nervously playing with his fork, drumming with it on the table every now and then."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to the torte) Stop staring at me!"
+  },
+  {
+   "t": "direction",
+   "text": "He then straightens himself, and looks at the torte"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why, just a tiny little..."
+  },
+  {
+   "t": "direction",
+   "text": "He takes a little piece of Sarah's dessert. At first he doesn't think it's that special, but then..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh-oh!"
+  },
+  {
+   "t": "direction",
+   "text": "TIME LAPSE"
+  },
+  {
+   "t": "direction",
+   "text": "Sarah enters the room again, and stops when she sees her dessert is missing. Joey has emptied her plate, and has a chocolate covered mouth, just like a kid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm not even sorry."
+  },
+  {
+   "t": "scene",
+   "text": "The Adoption Agency in Ohio. Monica and Chandler are entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Adoption Agency guy",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Agency guy",
+   "text": "So, these are the preliminary forms for an open adoption. There's a lot to go over, but I'll explain everything as we go through it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(pointing to a picture on the table) I-Is... Is that a picture?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Yeah. It's a sonogram they took of the baby last week. I thought you might want to see it. (gives it to Monica, who looks at it for a long time, and then shows it to Chandler)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Look, doctor!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler takes Monica's hand, and gets serious) Look, before we sign anything we really have to talk...(pause) We're not who you think we are."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Agency guy",
+   "text": "I don't understand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The agency must have made some mistake. My wife is not a reverend and I'm not a doctor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Agency guy",
+   "text": "That's impossible."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I could perform an operation on you and prove it if you'd like."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Agency guy",
+   "text": "I'll go check your file. Excuse me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "So who are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, our names really are Monica and Chandler. We're from New York."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, but the important thing to know about us, is how much we would care for this little baby. (holds up the sonogram)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "So you lied to me before?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, we... (makes quotation signs in the air) \"bore false witness\"... See I could be a reverend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "I can't believe this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But we were hoping that since we told you the truth that you still might consider..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Giving you my baby? You think I'd give you my child after this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, you don't have to decide right now, but if you could just look at our file..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "I don't want to look at your file! This is over."
+  },
+  {
+   "t": "direction",
+   "text": "She leaves the room, but Chandler runs after her. They meet in the hallway."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Erica wait!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "I've nothing to say to you. (walks a few paces)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You have every reason to be upset. We did lie. But only because we've been waiting and trying to have a baby for so long. Now we don't know how long it's gonna be before we can get another chance again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Why don't you ask the reverend to pray on it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Erica, please. Just consider us. Ask them to see our file. Our last name's Bing. My wife's a chef and I'm in advertising."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Oh yeah. I actually liked you guys. But it doesn't matter, because what you did was wrong. (walks away again, but Chandler catches up with her again)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "But you did like us. And you should. My wife's an incredible woman. She's loving and devoted and caring. And don't tell her I said this but the woman's always right... I love my wife more than anything in this world. And I... It kills me that I can't give her a baby... I really want a kid. And when that day finally comes, I'll learn how to be a good dad. But my wife... she's already there. She's a mother... without a baby... Please?"
+  },
+  {
+   "t": "direction",
+   "text": "They look at each other. We switch back to Monica. Chandler opens the door and she turns to look at him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You still want that baby?"
+  },
+  {
+   "t": "direction",
+   "text": "Monica plays those words back in her mind and then smiles and runs to Chandler, who is twisting with joy. They hug."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "God bless you Chandler Bing!"
+  },
+  {
+   "t": "direction",
+   "text": "COMMERCIAL BREAK"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Joey's on the couch when Ross walks to him, with his jacket closed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Turns out this sweater is made for a woman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(nods) So, why are you still wearing it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Because it's soft... Hey, so how was your date?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh... Not so good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, looks like it's just the two of us tonight, huh old buddy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, and you know what? We could do a lot worse."
+  },
+  {
+   "t": "direction",
+   "text": "they shake hands the way friends would. There's a muffin on the table, and Ross breaks off a piece and wants to put it in his mouth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(shouting to Ross) JOEY DOESN'T SHARE FOOD!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross puts the piece back on the plate"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

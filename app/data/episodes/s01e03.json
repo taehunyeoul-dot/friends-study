@@ -1,0 +1,1485 @@
+{
+ "id": "s01e03",
+ "season": 1,
+ "episodes": [
+  3
+ ],
+ "code": "103",
+ "title": "The One With the Thumb",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, everyone but Phoebe is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering) Hi guys!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hey, Pheebs! Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey. Oh, oh, how'd it go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Um, not so good. He walked me to the subway and said 'We should do this again!'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Ohh. Ouch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? He said 'we should do it again', that's good, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh, no. Loosely translated 'We should do this again' means 'You will never see me naked'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Since when?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Or, or, y'know, um, 'I think we should see other people' means 'Ha, ha, I already am'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And everybody knows this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. Cushions the blow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh, Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? Wh- hello? The Millners' farm in Connecticut? The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....Oh my God, Chi Chi!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Chandler is helping Joey rehearse for a part."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "\"So how does it feel knowing you're about to die?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "\"Warden, in five minutes my pain will be over. But you'll have to live with the knowledge that you sent an honest man to die.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, that was really good!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thanks! Let's keep going."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. \"So. Whaddya want from me, Damone, huh?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "\"I just wanna go back to my cell. 'Cause in my cell, I can smoke.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "\"Smoke away.\""
+  },
+  {
+   "t": "direction",
+   "text": "Joey takes out a pack of cigarettes and a lighter.  He fumbles and drops the lighter.  Then he lights a cigarett, takes a drag, and coughs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I think this is probably why Damone smokes in his cell alone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Relax your hand!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey lets his wrist go limp."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Not so much!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whoah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright, now try taking a puff."
+  },
+  {
+   "t": "direction",
+   "text": "Joey tries and visibly winces."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright.. okay. No. Give it to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No no no, I am not giving you a cigarette."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's fine, it's fine. Look, do you wanna get this part, or not? Here."
+  },
+  {
+   "t": "direction",
+   "text": "Joey reluctantly gives him the cigarette."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Don't think of it as a cigarette. Think of it as the thing that's been missing from your hand. When you're holding it, you feel right. You feel complete."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Y'miss it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Nah, not so much. Alright, now we smoke. (Takes a puff.) Oh.. my.. God. (He continues to smoke.)"
+  },
+  {
+   "t": "scene",
+   "text": ", Central Perk, everyone except Phoebe and Rachel is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, no, no. They say it's the same as the distance from the tip of a guy's thumb to the tip of his index finger."
+  },
+  {
+   "t": "direction",
+   "text": "The guys stretch out their fingers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's ridiculous!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Can I use.. either thumb?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(carrying a tray of drinks) Alright, don't tell me, don't tell me! (Starts handing them out.) Decaf cappucino for Joey.. Coffee black.. Late.. And an iced tea. I'm getting pretty good at this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Yeah. Yeah, excellent."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(leaving to serve others) Good for me!"
+  },
+  {
+   "t": "direction",
+   "text": "The gang swaps all the drinks for what they ordered as Phoebe enters.  She sits down without saying hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Y'okay, Phoebe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah- no- I'm just- it's, I haven't worked- It's my bank."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What did they do to you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's nothing, it's just- Okay. I'm going through my mail, and I open up their monthly, you know, STATEMENT-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Easy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "- and there's five hundred extra dollars in my account."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, Satan's minions at work again..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes, 'cause now I have to go down there, and deal with them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What are you talking about? Keep it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's not mine, I didn't earn it, if I kept it, it would be like stealing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, but if you spent it, it would be like shopping!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. Okay, let's say I bought a really great pair of shoes. Do you know what I'd hear, with every step I took? 'Not-mine. Not-mine. Not-mine.' And even if I was happy, okay, and, and skipping- 'Not-not-mine, not-not-mine, not-not-mine, not-not-mine'..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We're with you. We got it."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler leans over the back of the couch out of sight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. I'd- just- I'd never be able to enjoy it. It would be like this giant karmic debt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Chandler, what are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(puling him up) Hey. Whaddya doing?"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler tries to shrug nonchalantly but eventually he has to exhale a mouthful of smoke."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oh! Oh, God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What is this?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm smoking. I'm smoking, I'm smoking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I can't believe you! You've been so good, for three years!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And this- is my reward!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hold on a second, alright? Just think about what you went through the last time you quit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, so this time I won't quit!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Ohhh! Put it out!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right! I'm putting it out, I'm putting it out. (He drops it in Phoebe's coffee.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, no! I- I can't drink this now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright. I'm gonna go change, I've got a date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "This Alan again? How's it goin'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "'S'going pretty good, y'know? It's nice, and, we're having fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So when do we get to meet the guy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Let's see, today's Monday... Never."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oh, come on! Come on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No. Not after what happened with Steve."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What are you talking about? We love Schhteve! Schhteve was schhexy!.. Sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Look, I don't even know how I feel about him yet. Just give me a chance to figure that out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, then can we meet him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Nope. Schhorry."
+  },
+  {
+   "t": "scene",
+   "text": "Iridium, Monica and Paula are at work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paula",
+   "text": "Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know. I just wish that once, I'd bring a guy home that they actually liked."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paula",
+   "text": "Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy.."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Chandler is smoking out on the balcony, Phoebe is absent."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Let it go, Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, well, you didn't know Chi Chi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Do you all promise?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Yeah! We promise! We'll be good!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(shouts to Chandler) Chandler? Do you promise to be good?"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler makes a 'Cross my heart' sign.  It starts to rain and he taps on the window."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You can come in, but your filter-tipped little buddy has to stay outside!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler sulkilty picks up a garbage can lid and uses it as an umbrella."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe enters, walks to the couch, sits down, and begins to read a letter without saying hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, Pheebs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "'Dear Ms. Buffay. Thank you for calling attention to our error. We have credited your account with five hundred dollars. We're sorry for the inconvenience, and hope you'll accept this- (Searches in her purse) -football phone as our free gift.' Do you believe this?! Now I have a thousand dollars, and a football phone!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What bank is this?"
+  },
+  {
+   "t": "direction",
+   "text": "The intercom buzzes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey. It's him. (On the intercom) Who is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alan",
+   "text": "(on the intercom) It's Alan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(shouting to Chandler) Chandler! He's here!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler comes in, dripping wet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to all) Okay, please be good, please. Just remember how much you all like me."
+  },
+  {
+   "t": "direction",
+   "text": "She opens the door and Alan enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi. Alan, this is everybody. Everybody, this is Alan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alan",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hi, Alan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alan",
+   "text": "I've heard schho much about all you guyschh!"
+  },
+  {
+   "t": "direction",
+   "text": "Everyone laughs."
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse, Alan is leaving.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Alan) Thanks. I'll call you tomorrow. (Alan exits, to all) Okay. Okay, let's let the Alan-bashing begin. Who's gonna take the first shot, hmm?"
+  },
+  {
+   "t": "direction",
+   "text": "Silence."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "C'mon!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "...I'll go. Let's start with the way he kept picking at- no, I'm sorry, I can't do this, can't do this. We loved him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Loved him! Yeah! He's great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait a minute! We're talking about someone that I'm going out with?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And did you notice...? (She spreads her thumb and index finger.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Guys",
+   "text": "(reluctantly) Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Know what was great? The way his smile was kinda crooked."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes, yes! Like the man in the shoe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "...What shoe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "From the nursery rhyme. 'There was a crooked man, Who had a crooked smile, Who lived in a shoe, For a... while...'"
+  },
+  {
+   "t": "direction",
+   "text": "Dubious pause."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "...So I think Alan will become the yardstick against which all future boyfriends will be measured."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What future boyfriends? Nono, I th- I think this could be, y'know, it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Really!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, yeah. I'd marry him just for his David Hasselhof impression alone. You know I'm gonna be doing that at parties, right? (Does the impression)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know what I like most about him, though?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The way he makes me feel about myself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Yeah..."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Monica is alone as Ross, Rachel, Chandler, and Joey enter dejectedly in softball gear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi.. how was the game?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "WE WON!! Thank you! Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Fantastic! I have one question: How is that possible?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Alan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "He was unbelievable. He was like that-that-that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base-Alan, second base-Alan, third base-..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I mean, it-it was like, it was like he made us into a team."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yep, we sure showed those Hassidic jewellers a thing or two about softball.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Can I ask you guys a question? D'you ever think that Alan is maybe.. sometimes.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "..I dunno, a little too Alan?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, no. That's impossible. You can never be too Alan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, it's his, uh, innate Alan-ness that-that-that we adore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I personally could have a gallon of Alan."
+  },
+  {
+   "t": "scene",
+   "text": "A street, Phoebe walks up to a homeless person (Lizzie) she knows."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, Lizzie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lizzie",
+   "text": "Hey, Weird Girl."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I brought you alphabet soup."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lizzie",
+   "text": "Did you pick out the vowels?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes. But I left in the Ys. 'Cause, y'know, \"sometimes y\". Uh, I also have something else for you. (She searches in her purse.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lizzie",
+   "text": "Saltines?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, but would you like a thousand dollars and a football phone?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lizzie",
+   "text": "What? (She opens the envelope Phoebe has given her.) Oh my God, there's really money in here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lizzie",
+   "text": "Weird Girl, what are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, I want you to have it. I don't want it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lizzie",
+   "text": "No, no, I ha-I have to give you something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, that's fine, no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lizzie",
+   "text": "Would you like my tin-foil hat?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No. 'Cause you need that. No, it's okay, thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lizzie",
+   "text": "Please, let me do something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, alright, you buy me a soda, and then we're even. Okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lizzie",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler's office, Chandler looks around, opens his desk drawer, takes a puff of a cigarette, sprays around some air freshener, and takes some breath spray.  He types for a little while, opens the drawer again, and takes another drag of the cigarette.   While not paying attention, he sprays the breath spray around the room, takes a squirt of air freshener and gags."
+  },
+  {
+   "t": "scene",
+   "text": "A Street, Phoebe and Lizzie are at a hot dog vendor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lizzie",
+   "text": "Keep the change. (To Phoebe) Sure you don't wanna pretzel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, I'm fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lizzie",
+   "text": "(leaves) See ya."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe opens the can and reacts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Huh!"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe is telling everyone about her discovery."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "A thumb?!"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe nods."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Eww!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know! I know, I opened it up and there it was, just floating in there, like this tiny little hitch-hiker!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, maybe it's a contest, y'know? Like, collect all five?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Does, um, anyone wanna see?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Nooo!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler lights a cigarette."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oh, hey, don't do that! Cut it out!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's worse than the thumb!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, this is so unfair!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, why is it unfair?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So I have a flaw! Big deal! Like Joey's constant knuckle-cracking isn't annoying? And Ross, with his over-pronouncing every single word? And Monica, with that snort when she laughs? I mean, what the hell is that thing? ...I accept all those flaws, why can't you accept me for this?"
+  },
+  {
+   "t": "direction",
+   "text": "An awkward silence ensues."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "...Does the knuckle-cracking bother everybody?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I-I could live without it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, is it, like, a little annoying, or is it like when Phoebe chews her hair?"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe spits out her hair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, now, don't listen to him, Pheebs, I think it's endearing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, (Imitating Ross) \"you do, do you\"?"
+  },
+  {
+   "t": "direction",
+   "text": "Monica laughs and snorts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know, there's nothing wrong with speaking correctly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "\"Indeed there isn't\"... I should really get back to work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, 'cause otherwise someone might get what they actually ordered."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh-ho-hooohhh. The hair comes out, and the gloves come on."
+  },
+  {
+   "t": "direction",
+   "text": "They degenerate into bickering and Chandler happily starts to smoke, undisturbed."
+  },
+  {
+   "t": "scene",
+   "text": "Iridium, Monica and Paula are working."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Did you ever go out with a guy your friends all really like?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paula",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay.. Well, I'm going out with a guy my friends all really like."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paula",
+   "text": "Waitwait.. we talking about the coyotes here? All right, a cow got through!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Can you believe it? ...Y'know what? I just don't feel the thing. I mean, they feel the thing, I don't feel the thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paula",
+   "text": "Honey.. you should always feel the thing. Listen, if that's how you feel about the guy, Monica, dump him!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know.. it's gonna be really hard."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paula",
+   "text": "Well, he's a big boy, he'll get over it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, he'll be fine. It's the other five I'm worried about."
+  },
+  {
+   "t": "scene",
+   "text": "Cental Perk, Joey and Ross are persecuting Chandler about his smoking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Do you have any respect for your body?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Don't you realise what you're-you're doing to yourself?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, y'know, I have had it with you guys and your cancer and your emphysema and your heart disease. The bottom line is, smoking is cool, and you know it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(holding the phone out to Chandler) Chandler? It's Alan, he wants to speak to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really? He does? (taking the phone) Hey, buddy, what's up! Oh, she told you about that, huh. Well, yeah, I have one now and then. Well, yeah, now. Well, it's not that big- ..well, that's true,.. Gee, y'know, no-one- no-one's ever put it like that before. Well, okay, thanks! (He hands the phone back and stubs out his cigarette.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Ross, who has wandered up) God, he's good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "If only he were a woman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "direction",
+   "text": "They give each other a dubious look."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, everyond except Monica and Joey is watching Lambchop."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay. I think it's time to change somebody's nicotine patch. (Does so.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering) Hey. Where's Joey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Joey ate my last stick of gum, so I killed him. Do you think that was wrong?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I think he's across the hall."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thanks. (Goes to fetch him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(finishing changing Chandler's nicotine patch) There y'go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(deadpan) Ooh, I'm alive with pleasure now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey Pheebs, you gonna have the rest of that Pop-Tart?.. Pheebs?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Does anyone want the rest of this Pop-Tart?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, I might!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Sorry. ..Y'know, those stupid soda people gave me seven thousand dollars for the thumb."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "You're kidding. Oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "And on my way over here, I stepped in gum. ...What is up with the universe?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(dragged in by Monica, he has just gotten out of the shower) What's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Nothing. I just think it's nice when we're all here together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Even nicer when everyone gets to wear their underwear.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh, Joey.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, God! (Hurriedly closes his legs.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(turns off the TV) Okay.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oh! That was Lambchop!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Please, guys, we have to talk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wait, wait, I'm getting a deja vu...no, I'm not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, we have to talk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "There it is!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan."
+  },
+  {
+   "t": "direction",
+   "text": "They all gasp and clutch each other."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Is there somebody else?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, nononono.. it's just.. things change. People change."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "We didn't change.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So that's it? It's over? Just like that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You know.. you let your guard down, you start to really care about someone, and I just- I- (starts chewing her hair)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Look, I- I could go on pretending-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "-but that wouldn't be fair to me, it wouldn't be fair to Alan- It wouldn't be fair to you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Who-who wants fair? Y'know, I just want things back. Y'know, the way they were."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm sorry.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(sarcastic) Oh, she's sorry! I feel better!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(tearful) I just can't believe this! I mean, with the holidays coming up- I wanted him to meet my family-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'll meet somone else. There'll be other Alans."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oh, yeah! Right!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Are you guys gonna be okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey hey, we'll be fine. We're just gonna need a little time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(dubious) I understand."
+  },
+  {
+   "t": "scene",
+   "text": "A Restaurant, Monica is breaking the news to Alan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alan",
+   "text": "Wow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm, I'm really sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alan",
+   "text": "Yeah, I'm sorry too. But, I gotta tell you, I am a little relieved."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Relieved?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alan",
+   "text": "Yeah, well, I had a great time with you.. I just can't stand your friends."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, everyone is mopping around and eating ice cream."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Remember when we went to Central Park and rented boats?.. That was fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. He could row like a viking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering) Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Mmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So how'd it go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, y'know.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Did he mention us?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "He said he's really gonna miss you guys. (dubious look)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You had a rough day, huh.. c'mere. (She sits down and Ross strokes her forehead.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "...That's it. I'm getting cigarettes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "No no no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(leaving) I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(shouting as he leaves) If you never smoke again I'll give you seven thousand dollars!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(returns) Yeah, alright."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

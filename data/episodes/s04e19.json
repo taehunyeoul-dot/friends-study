@@ -1,0 +1,1520 @@
+{
+ "id": "s04e19",
+ "season": 4,
+ "episodes": [
+  19
+ ],
+ "code": "419",
+ "title": "The One With All The Haste",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Rachel's bedroom; Rachel is awoken by a man singing in the next apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Singing Man",
+   "text": "(singing, duh) Morning's here! Sunshine is here! The sky is clear, the morning's here! The morning's here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "HEY!! Do you have to do that? It's Saturday!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Singing Man",
+   "text": "Oh come on! Morning's here! (Starts singing) Morning's here! The morning is here! Sunshine is here!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel slams shut her window and storms into the living room, where Joey and Monica are eating breakfast."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I hate this apartment! I hate the color of these walls! I hate the fact that this place still smells like bird! I hate that singing guy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Are you kidding? I love that guy! (Starts singing) Morning's here! Morning is here-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Stop it! I will kill you. I hate the fact that my room is so small."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, I have all the space I need. Just do what I did."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Monica, you don't even have a bed, you sleep in a ball on the floor!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Y'know what? I am really tired of your bellyaching! Okay, I-I worked really hard at making this a nice place for us to live!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm sorry. I'm so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "See, this is a great apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Shut up! This place is a hole!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's bedroom; Ross and Emily are making out. Ross as a new feature."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Oh, blimey, I still can't believe you've got an earring!"
+  },
+  {
+   "t": "direction",
+   "text": "Yep, it's a little gold loop."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Huh? I know, I know. Who am I? David Bowe? (Shakes his head around, pretending like he's jamming.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "He does that?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, I don't know, whatever."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I think it makes you look really dangerous."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I know. Y'know what, I never would've gotten this if it weren't for you. No really, when I'm with you I'm-I'm like this whole other guy, I love that guy! I mean, I love you too, a lot, but that guy! I-I love that guy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I love both of you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah?"
+  },
+  {
+   "t": "direction",
+   "text": "They kiss."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I wish I didn't have to go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Then don't. Stay here. Just don't go so soon to London, just one more day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Ohh, Ross, please!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "One more day, seriously/"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Don't do this to me, again. You'd know I'd stay here in a minute, but I'd really miss so much work, they'll fire me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, then you can stay as long as you want."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I wish I could."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh no. Don't, don't, don't start packing. Come on! (She puts some clothes into her bag, and Ross throws them out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I don't think you understand packing. Look, I just don't want to leave it to the last minute. Last time I left in such a rush, I left my knickers here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, I know, I uh, I tried them on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "You didn't!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. No, I didn't. I didn't want to be that guy."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's erm, Chandler and Joey's, Joey and Chandler are watching one of those Kung Fu movies and imitating the moves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering, wearing Santa pants) Hello!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ho! Ho! Ho!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Excuse me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Your pants!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, yeah! You like 'em? I just, I went to a used clothes store and got a bunch of maternity stuff. These are sooo comfortable!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhh, Pheebs, those are uh, those are Santa pants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Santa pants. (Phoebe still doesn't get it.) Santa Claus's pants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Nuh-uh! They're maternity pants. They even came with a list of baby names. (Pulls out a sheet of paper which lists who's been naughty and who's been nice.) See, these names are good, and these names are bad. (Finally, she figures it out.) Ohh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So-Hey, Pheebs! So, how are the elves?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't know! How are the-the-the-the, y'know-You're clothes aren't funny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, guys, what-what should I wear to a Knicks game?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uhh, a T-shirt that says, \"I don't belong here.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You have Knicks tickets?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, my mom got my dad's season tickets in the divorce, so she just gave them to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, apparently, they're pretty good seats."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(examining the tickets) Oh my God! Those are almost right on the floor!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Do you guys want these?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah we do!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, well you got 'em."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Both",
+   "text": "All right!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Just give us our apartment back!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Boy! I didn't see that coming!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you serious?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, come on! We know what these are worth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, what, do you think we're stupid?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're not stupid. You're meaner than I thought."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What do you say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Forget it! Okay, I'm not giving up my bachelor pad for some basketball seats!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You're bachelor pad?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Have you even had a girl up here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No. But uh, Joey has, and I usually talk to them in the morning time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, you do!"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Joey is whining to Chandler about the tickets."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(ignoring him) Yes, Gunther, can I get two cups of chino, please?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "Good one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on, season tickets! Season tickets, do you know what that means?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Forget it! Okay, I'm not giving up the apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh come-look, when I was a kid my dad's company gave season tickets to the number one salesman every year, all right? My dad never won! Of course, he wasn't in the sales division, but still, I never ever, ever forgot that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey, guys! (They both notice his new little friend)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "We don't make enough fun of you already?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh yeah, Emily convinced me to do it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You do know that Wham broke up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I like it, and Emily likes it, and that's what counts. So uh, how are you guys doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh-no, don't try and talk all normal with that thing in your ear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Where is Emily?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ugh, she's saying good-bye to her uncle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Man, didn't she like just get here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah!! Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Easy tiger."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I just, I hate this so much! I mean, every time I go pick her up at the airport, it's-it's so great. But at the same time I'm thinking, \"Well, I'm gonna be right back there in a couple of days, dropping her off.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So what are you going to do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Nothing! There's nothing to do! I mean, she lives there, I live here. I mean, she-she'd have to uh, move here. She should move here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I could ask her to live with me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you serious?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I mean, why not! I mean, I mean why not?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because you've only known her for six weeks! Okay, I've got a carton of milk in my fridge I've had a longer relationship with!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look guys, when I'm with her it's-it's-it's like she brings this-this-this great side out of me. I mean I-I-I love her, y'know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And I love the milk! But, I'm not gonna some British girl to move in with me! (Realizes that made no sense.) Joey, you say things now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right look, Ross, he's right. Emily's great, she's great! But this way too soon, you're only gonna scare her!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't want to do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No! You don't want to wreck it, you don't want to go to fast!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, no, you're right, I know, you're right, I'm not, I'm not gonna do it. All right, thanks guys. (Gets up to leave.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, no problem, just remember to wake us up before you go-go."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's erm, Chandler and Joey's, later that same day. Joey and Chandler are eating pizza, and Phoebe is trying to knit something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's too hard. Too hard!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering with Rachel) All right boys, last chance for the tickets!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Or I'll give them to my new boyfriend, Joshua."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wait-wait-wait-wait! (To Chandler) Come on! Come on, let's trade! The timing's perfect, I just clogged the toilet!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look, I want those basketball seats as much as you do! Okay, but we can't leave in the small apartment after we've lived here! Didn't you ever read Flowers for Algernon?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yes! Didn't you ever read Sports Illustrated?! No! I didn't read yours! But come on, we can go to the game tonight!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look, the only way I will even consider this is if they offer a lot more than just season seats."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It's the Knicks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Screw the Knicks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whoa!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I didn't mean that. I just meant that the apartment is worth so much more."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And the Knicks rule all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, the Knicks rule all!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, so? Are you gonna do it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No. No. We're not gonna do that, y'know why? Because its not an even trade."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, okay, look, what if you could keep the apartment and get the tickets?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Done!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Let me finish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm talking about a bet, winner takes all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh, we could end up with nothing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Or you could end up with everything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh, I like that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, so what do you say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, just do it!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Op, op, I'm convinced!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on man, you know I'd do it for you! Because, you're my best friend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, but you can't use that again for a whole year. I'm in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, this is so exciting! Ooh, God, what are you going to bet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, okay, well, I think we should let Phoebe decide, because she's the only who's impartial, and she's so pretty."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. Umm, ooh, ooh-oh, I have a game!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "This is great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What's the game?! What's the game?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, well, it doesn't have a name-oh, okay, Phoebeball! No, it doesn't have a name. Umm, okay, Monica, what is your favourite thing about trees?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "They're green?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Good! Good! Five points!"
+  },
+  {
+   "t": "direction",
+   "text": "They both rejoice; Chandler is totally confused."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, Joey, same question."
+  },
+  {
+   "t": "direction",
+   "text": "He looks to Chandler, who doesn't have a clue."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhh, they're tall."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, three points. Both fine answers, but we were looking for leafy, leafy."
+  },
+  {
+   "t": "direction",
+   "text": "Joey turns and is angry that Chandler didn't come up with the answer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's not even a game!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? Shut up! We're winning!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You wanna finish this right now? All right, we get a deck of cards, high card wins. What do you say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Fine, let's do it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I have cards!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah! Here! (She grabs a deck out of her purse) Oh no, these are the trick deck. Okay. Here yes. Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, you guys uh, you guys pick first"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. (She picks a card.) Four."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's a low one!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! Okay. (Joey picks a card.) Phoebe, you look, I can't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What make you think I can?! (Shields her eyes from it.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. Okay. (He looks at the card.) Ace!"
+  },
+  {
+   "t": "direction",
+   "text": "Both Joey and Chandler and Monica and Rachel jump up and down for joy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why are you screaming and hugging?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Because we won our apartment back!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What? Ace is high! Jack, queen, king, ace!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No! Ace is low! Ace, two, three, four!"
+  },
+  {
+   "t": "direction",
+   "text": "They all look to Phoebe to settle this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't know. Ooh! Ooh! Look it! (She fans out the trick deck.) Ah-ha!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, cut, let's pick again, pick again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Come on apartment! Come on apartment! (Picks a card.) Oh! I know queen is high!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh-huh, not as high as...(picks a card) It worked! King!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah baby!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But, we pick again! We pick again!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Tickets please! (Rachel hands over the tickets) That's courtside baby!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Seriously, good game though. Good game. (He tries to congratulate them, but they pull away.) (To Chandler) What are they so mad about? They get the apartment back!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No they didn't!"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, Emily has packed as Ross returns."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I packed while you were gone. I left some knickers under your pillow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(laughs) Move in with me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Don't be scared, I-I know it sounds crazy and-and people will say it's too soon, but just-just think, think how great it will be."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Ohh, no. Ugh. Oh, leaving London, my whole family lives there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "My job!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, so, you-you'll get a job here! I mean, I'm always hearing about uh, them foreigners coming in here and stealing American jobs; that could be you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Yeah, but it-it-it's my whole life-you come to England."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I can't. I would, I really would, but my son is here; I can't leave him. Isn't-you don't think there's any way?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Ohh, I don't think so. I mean it would be different if it was way into the future -and-and-and we were getting married or something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Oh no, no, right I shouldn't have said married. Uh, please don't go freaky on me. I didn't mean it. Well, I didn't say it; I take it back!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, no, don't. Why don't we?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Why don't we what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Get married."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "You are mad!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No! No! I'm not! It's-it's-it's perfect! I mean it's better than you just-just moving here, 'cause it's us together forever, and that's-that's what I want."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "We've only known each other for six weeks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, I know, so what? I mean, who's-who's to say? Does that me we-we can't do it? Look, huh, I was with Carol for four years before we got married and I wound up divorced from a pregnant lesbian. I mean, this, this makes sense for us. Come on! I mean, on our first date we ended up spending the whole weekend in Vermont! I mean, last night I got my ear pierced! Me! This feels right. Doesn't it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "My parents are going to be really mad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Is that-are you saying yes? Is that yes?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Yes."
+  },
+  {
+   "t": "direction",
+   "text": "They kiss and hug."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes! We're getting married?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "We're getting married!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Come here, come here. Uh, (He takes the earring out.) ow! Emily, will you marry me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Yes."
+  },
+  {
+   "t": "direction",
+   "text": "He tries to put it on her finger."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Ohh, it's a bit small."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Damn! I thought that was going to be romantic as hell!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "It was."
+  },
+  {
+   "t": "direction",
+   "text": "They kiss."
+  },
+  {
+   "t": "direction",
+   "text": "Commerical Break"
+  },
+  {
+   "t": "scene",
+   "text": "The hallway, Joey and Chandler are coming back from the game."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Those were like the best seats ever."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah. Hey! Should we give these shirts to the girls? Y'know, kinda like a peace offering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh yeah, that's very nice. Plus, y'know they were free and they're too small."
+  },
+  {
+   "t": "direction",
+   "text": "He knocks on the girls' door and walks in. Surprise! The girls, obviously using Star Trek technology, have completely moved everything in both apartments back to their original positions, all in the time it took for the guys to go to a basketball game. Wow! Anyhoo, Chandler is stunned, and Joey doesn't even realise it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh. Oh, God! (He starts running around like a chicken with his head cut off.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, want a beer? (Hands him a beer and sits down in one of the chairs.) (Jumping up.) WHOA!!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I KNOW!!!"
+  },
+  {
+   "t": "direction",
+   "text": "They both sprint to what used to be their apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Open up! Open up! Open up!"
+  },
+  {
+   "t": "direction",
+   "text": "A very angry Monica opens the door with the security chain still on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We'll discuss it, in the morning! (Slams the door shut.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What the hell is going on?!"
+  },
+  {
+   "t": "direction",
+   "text": "It's Rachel's turn to open the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "We took our apartment back!! (Slams the door shut.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(opening the door) I had nothing to do with it. (Closes the door.) (Opens the door.) Okay, it was my idea, but I don't feel good about it."
+  },
+  {
+   "t": "direction",
+   "text": "She goes to close the door, but Chandler puts his foot it in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We are switching back, right now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, we're not! We're not leaving!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, you're gonna have to leave sometime, because you both have jobs, and as soon as you do, we're switching it back! There's nothing you can do to stop us! Right, Joe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't want to move again!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't care, this is our apartment! And they stole-you stole it-our apartment, and we won that apartment fair and square, twice! And I am getting it back right now. I'm getting back right now!"
+  },
+  {
+   "t": "direction",
+   "text": "They open the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right. We figured you might respond this way, so we have a backup offer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh no-no-no, no more offers. You can't offer anything to us!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Let us keep the apartment and..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "As a thank you, Rachel and I will kiss for one minute."
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse. The guys are entering their apartment.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Totally worth it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That was one good minute!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Good night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Good night."
+  },
+  {
+   "t": "direction",
+   "text": "They both go back into their old rooms and shut the doors. Of course, Chandler has to close both sections of his door."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the girls apartment.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Men are such idiots."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah! Can you believe that something that stupid actually got us our apartment back?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's so funny to think if you'd just done that right after the last contest, no one would have had to move at all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, let-let-let's pretend that's not true."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, scarf's done. (It's not really a scarf, it's just a bunch of yarn that Phoebe has tied together. Just then, Ross and Emily enter dragging with them Joey and Chandler.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Come on! Come on. Come on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What-what's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ross has some big thing to tell everyone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uhh, okay, it's uh, Emily and I, we decided to uh, to get married."
+  },
+  {
+   "t": "direction",
+   "text": "The gang is stunned."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What? Oh, are you pregnant too?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Umm, no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "When, when did-how, how did you..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "We, we just decided to uh, to go for it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I mean, we know it's a bit hasty but, uh, it just feels so right, so..."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel slowly walks in from her bedroom. She is stunned speechless."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(turning around.) Umm, uh, I was just telling the guys..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, I-I heard. (Pause, everyone looks at each other, waiting for Rachel's reaction.) I think it's great! (Hugs Ross.) Ohh, I'm so happy for you!"
+  },
+  {
+   "t": "direction",
+   "text": "Seeing Rachel's apparently okay with this, the rest of the gang jumps up to congratulate Ross and Emily on their pending nuptials."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, well, that's great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Ross) I can't believe you're getting married!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. (They hug again.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Monica and Rachel made out. (Giggles like a schoolboy and Monica glares at him.)"
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's bedroom, he is awoken by the singing guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Singing Man",
+   "text": "(singing) Morning's here! The morning's here!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey joins him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Both",
+   "text": "Sunshine is here! The sky is clear, the morning's here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Singing Man",
+   "text": "Hey! You're back!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! (Singing) Get into gear!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Singing Man",
+   "text": "(singing) Breakfast is near!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Both",
+   "text": "The dark of night has disappeared!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Singing Man",
+   "text": "I'll see you tomorrow morning!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(happily) Okay!"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

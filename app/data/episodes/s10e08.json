@@ -1,0 +1,1865 @@
+{
+ "id": "s10e08",
+ "season": 10,
+ "episodes": [
+  8
+ ],
+ "code": "1008",
+ "title": "The One With The Late Thanksgiving",
+ "lines": [
+  {
+   "t": "dialogue",
+   "speaker": "Produced by",
+   "text": "Robert Carlock & Wendy Knoller"
+  },
+  {
+   "t": "direction",
+   "text": "Final check by Kim"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Monica and Chandler enter, the others are sitting on the couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey guys!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We need to talk to you about something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah. We don't feel like we can host Thanksgiving this year."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Are you kidding?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, it's just with uhm, work and the stress of adoption, we just don't feel like we have the energy. Plus, we don't think it's fair that every year the burden falls on us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(skeptical) That doesn't sound like you... That's Monica talking!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, no! We made this decision together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "She's putting words in your mouth!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Don't you put words in people's mouths, you put turkey in people's mouths!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I can't believe this! This is Emma's first Thanksgiving!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, it's not!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's not? (whispering to Ross) When was she born?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, personally I think it's great you're giving yourself a break."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thank you, Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Sure. It's just as well... I mean, last year wasn't very good. I think she's losing her touch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What? You are way off, lady!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Am I? Really? Am I? Well, why don't you cook Thanksgiving dinner and prove me wrong! Well, think about it, think about it, you'll be trying to top than you did last year. You'd be in competition... with yourself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's my favourite kind! Okay, we are doing this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Don't let yourself get manipulated this way!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, stay out of this, Chandler! This is between me... and ME!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We are supposed to make these decisions together! Did you not watch the Doctor Phil I taped for you?"
+  },
+  {
+   "t": "direction",
+   "text": "OPENING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's apartment. Rachel and Monica are in there, and Phoebe enters"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi! Happy Thanksgiving!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, yeah, happy needless-turkey-murder day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You guys, I ordered some chocolate pies from that bakery on Bleecker. Could you pick them up for me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're not making the pies yourself?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, no, no, I don't make chocolate pies. When I was younger I-I enter in this pie-eating contest. I ate so many that just the thought of them made me sick."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Did you at least win the contest?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "2 minutes, 12 pies and a part of one tin! Okay, I see you guys at 4."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Can't wait!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This dinner is gonna be so great! In your face, last year \"me\"!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica leaves"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey Rach."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What's Emma doing today?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, let's see... uh... I know that she has a meeting with her lawyer and then she has to make a very big poop. Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I wanna enter her in a baby beauty pageant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God! That's the creepiest thing I've ever heard!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, but, well, before you say no, my friend Susanne is entering her kid and compared to Emma she's a real dog!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Phoebe, all babies are beautiful!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(sarcastic) Oh... okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, just the idea of pitting one baby against another, I mean, you know, and judging who's cuter just for a trophy..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And a thousand dollars."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "...is something I'm very interested in! Oh please, do not tell Ross. He still believes that (in a deep voice, mocking Ross) what's in the inside is important..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, oh, and Emma needs a cowgirl outfit for the competition."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Where am I gonna get a cowgirl outfit on Thanksgiving?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I was thinking..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, take the clothes of Joey's Cabbage Patch Kid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's apartment. Chandler is watching TV and Monica is cooking"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Chandler's laughing) Did someone drop the baton again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why come all the way from Kansas to do that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(she tastes what she has cooked) I don't get older. I just get better!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You know what just occurred to me? This could be our last Thanksgiving just the two of us. I mean, we could be getting a baby soon!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You don't know that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Somebody is gonna pick us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, but we haven't heard a thing from the adoption agency and it has been weeks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm telling ya! It's gonna happen. Next year it's gonna be you, me and the little Hemingway Bing. (pause) What, he's my favourite author!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Name one of his books."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(after a long pause) \"The Firm\"?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, let's see... uhm, okay, the turkey is in the oven, the stuffing is ready..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You know, you always cook this meal all by yourself. Let me help this year."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, Chandler, that's sweet. But you don't have to do everything Doctor Phil tells you to do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm serious, let me do something, just not the turkey or the stuffing, nothing \"high profile\"."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, let's see... Oh, the cranberry sauce, it is easy to make and no-one really cares about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Tell me more."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, I'm gonna go check on something across the hall. You start by washing these (she gives Chandler a bowl with cranberries. Then, while she's going outside, she sees him with a bottle of soap in his hands) Not with soap!! (she leaves)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You obviously haven't tasted my Palmolive potatoes!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross and Joey enter"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey! Hey, guess what Joey has!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Three tickets to today's Rangers game!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Dude, I wanted him to guess."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, they're great seats too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Guess where they are?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Center ice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Did I do something to you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hmm, the game's at one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Dinner is at four, we'll never gonna make it back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So we'll leave before it's over, we'll be back in time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You say that now, but it could take us a long time to get back home. Plus Joey could get lost and and they could have to page us to go pick him up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Dude, two times that happened!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look, Monica has been working hard all day, she didn't wanna host this thing in the first place, we shouldn't go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "He's right, man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Right, I guess. Alright, so see you at four."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. (pause) And get ready to taste my very special cranberries. Or should I say... chanberries!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's some gentle comedy, dude. (he and Ross leave)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "We're still going at the game, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "scene",
+   "text": "Baby beauty contest"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Host",
+   "text": "This is contestant number sixteen, Rebecca..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh Phoebe, listen. Well, I think we gotta go. This place is really freaking me out. I've been watching this guy over there, I don't think he came with a kid!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "We can't leave now! There was this one baby, Haley, who was favourite to win and she got croup, so she had to stay home! This competition just blew wide open, folks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, I think... It's just too weird, I just saw a one year old running around with pantyhose on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I know, we should have been more prepared. (she looks around) It's okay. Now, the way I see it, our real competition now is Cameron. Oh my God, they just took her sweater off. Look at those arms! Hello Michelin Man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, Phoebe! Come on! You know what, it's already three o'clock and they haven't even gotten to Emma's group yet. We gotta go, we got dinner!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(panicking) But Emma's got what it takes, she could go all the way!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, you have to calm down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. Rachel, the hottest babies in the Tri-State Area are in this room right now! I overheard one of the judges say that not one of them holds a candle to Emma!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You heard them say that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, okay. Alright, let's give to these babies something to cry about!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Good! Oh yay! Let's get down to business! Emma needs some makeup!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, she's gonna look all washed out next to the other contestants!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No Phoebe, I am not letting you put makeup on my baby!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why not!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Because I already did!"
+  },
+  {
+   "t": "scene",
+   "text": "Madison Square Garden"
+  },
+  {
+   "t": "direction",
+   "text": "there's a lot of shouting and yelling"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, Bob, get off the guy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh! What a game, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know, yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I can't believe Chandler is missing this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. I am sorry he's not here too, but I got to say, (takes some nachos from a plate on the seat where Chandler should have been) I am really enjoying Nacho Chair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, I'd probably enjoy it more if you didn't keep batting my hand away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ohhhh! These seats are great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know, I know! When I was here for Holidays on Ice (Joey looks around worried hoping no one heard that) I was sitting so far away Michelle Kwan couldn't read my banner!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(looks at the time) Wow, hey, we'd better get going. If we don't leave right now, we'll be late for dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, but it's a kind game! So we're a little late, you know, the girls will be there, let's stay just for one more goal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "One more fight!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Monica's apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Where is everybody? They're forty-five minutes late!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can't believe they are not here! I slave and I slave for what? They've ruined cranberry day!"
+  },
+  {
+   "t": "scene",
+   "text": "The corridor. Ross and Joey have just arrived."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "How late are we?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Forty-five minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow (He opens his apartment door and throws their stuff in.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(handing him his coat) Here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. Rachel and Phoebe are already there, okay? So they probably started without us. We could just slip in and no-one needs to know where we were! (he raises his hands and on his right one there's a Rangers foam finger)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You may want to lose the foam finger!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, no, no, no, no, no. You just want to put it on your hand!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel, Phoebe and Emma arrive"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You are not at Thanksgiving?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, we're late!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What are you doing here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "We're late too! (Rachel screams)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "We figured we could be late because you guys were gonna be on time (he points the foam finger at the girls)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Don't point that thing at me, Tribbiani!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, nobody's here? Monica's gonna kill us!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, where were you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, yeah, what's with the trophy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh, we were at the Spelling Bee!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And I won!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You won an adult Thanksgiving day spelling bee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes! (spells it) Y-E-S. Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Let me see this... (he takes the trophy from Rachel's hands) Grand Supreme Little Darling, New York Division."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. That's me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You entered Emma into a Beauty Pageant?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "And it looks like she put makeup on her!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wait a second, wait a second, where have I seen that cowgirl outfit before..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I can't believe this, she's our daughter! That you would treat her like some kind of showdog is inexcusable!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She won a thousand dollars!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So this is an annual thing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(realizing) Oh! That's Alicia Mae Emory's outfit!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You guys, there are people in there who are not getting any happier!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. What are we gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I don't know, you guys figure it out, I got to put Emma down for a nap."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right. Hey Rach, while you're in there, throw something on Alicia Mae."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Alright, what are we gonna say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ooh, we'll say that we were mugged! You can't get mad at someone who's been mugged!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, good, that's good, but you don't look like you were mugged!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No. Here (he tears off the pocket from Ross' shirt, and tears off everything below that as well.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Joey) HEY!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica's apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Do you hear something? (Chandlers stands up and goes to the door to look out from the peephole)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(peeping) They're out there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ohhh! Let me see! Oh God, I can't believe this! They're an hour late and they're just staying out there, talking!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(peeping) Everything is so distorted! Looks like Joey has a giant hand! Which says \"Rangers\" on it. They went to the game!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(gasps) Oooh! They are in for a world of pain!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(looking through the peephole again) Ross' shirt is torn."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh! They're late and they're sloppy!"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the hall]"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel comes out of her apartment}"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Alright, Emma is napping... (then to Ross) what happened to your shirt?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I got mugged. And they stole my pocket."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "We're just... we're trying to figure out an excuse. Hey! Ooh! How about this: We can say that Monica told us 5 o'clock, not 4 o'clock. That way we're right on time! (Others start to agree but she continues) OR... or, we can plant PCP in the apartment and call the cops on her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(sarcastic) That would be a good way to get rid of all the PCP we have lying around."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You know what, we just say that she said it was 5 o'clock. We'll just act casual. We're not late, we're right on time. (When she finishes talking, a note is pushed from under Monica's and Chandler's door, into the hall. Ross picks it up and reads it out loud)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Reading the note) We know you're out there. (Rachel gasps)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(whispering) Who do you think its from?"
+  },
+  {
+   "t": "direction",
+   "text": "[time lapse - they are still in the hall]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, God. This is bad. This is so bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, let's just go in there and face them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I'm not going in first. I bet that vein on Monica's forehead is popping like crazy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I hate that thing, it's like a... bolt of lightning."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, hey, I have an idea. Why don't we play rock-paper-scissors, and whoever loses goes in first. (they all agree) Ready? (they do the rock-paper-scissor thing with they hands and Rachel has paper, Phoebe and Ross both have rock, while Joey is doing a strange upward wiggling with his fingers. They all look a him confused)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(smiling from ear to ear) Ah-haah! I win!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What is that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's fire. Beats everything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, really? Does it beat water balloon? (She places her hand over his \"fire\" and mimics a bursting water balloon, thus putting the fire out)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh! Well played, Phoebe Buffay, well played."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Alright, enough, enough, come on. Let's just all go in at the same time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Alright, okay. (Phoebe reaches for the door, and tries to open it but it's locked)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's locked."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wha...? Oh sure, now they lock it, but when they're having sex on the couch, its like: \"Come on in, my butt is surprisingly hairy\"."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Alright, come on... (starts to knock on the door) Alright, you guys. We're so sorry we're late. Please let us in, so we can have dinner together."
+  },
+  {
+   "t": "direction",
+   "text": "[cut to Monica and Chandler]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No! Everything's cold. The turkey's dried out and the... the stuffing is all soggy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, and there's a bowl of cranberry sauce that... (speaking lower to Monica) what happens to cranberry sauce?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Rolling her eyes) Nothing. It's fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(relieved) Oh thank God!"
+  },
+  {
+   "t": "direction",
+   "text": "[cut to the hall]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Come on you guys, we're sorry, alri...? Our subway broke down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(looking through the peephole) That's a lie, you went to the game, I can see Joey's hand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Joey, who is wearing a blue, 3 foot hand) FOR THE LOVE OF GOD TAKE IT OFF!! (takes it off his hand and throws it on the floor)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You guys, come on, it doesn't matter why we're late. We're all here now, please let us in so we can have some of your delicious turkey. (A slice of turkey on a piece of aluminum foil is slid under door)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I had a dream once about a fax machine that did that. (Ross picks it up)"
+  },
+  {
+   "t": "direction",
+   "text": "[cut to Monica and Chandler]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's all the turkey you're gonna get."
+  },
+  {
+   "t": "direction",
+   "text": "[cut to the hall]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How are we gonna decide who gets this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(holds his fist up) WATER BALLOON! (he stuffs the slice in is mouth and gives the foil back to Ross)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What are we gonna do? I'm starving."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(gasps) Oh, I just remembered. We do have something to eat. Monica put something in our oven this morning."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah!"
+  },
+  {
+   "t": "direction",
+   "text": "[cut to Monica and Chandler]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, you touch that and you will be sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Guys, I'd listen to her. The vein is bigger than I've ever seen it. (Monica looks at Chandler)"
+  },
+  {
+   "t": "direction",
+   "text": "[cut to the hall]"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel comes out of the apartment holding a pot. Joey holds in anticipation and Rachel opens it"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Huh... OH MY GOD IT'S BRUSSELS SPROUTS. (they all look appalled)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's worse than no food."
+  },
+  {
+   "t": "direction",
+   "text": "[cut to Monica and Chandler]"
+  },
+  {
+   "t": "direction",
+   "text": "Monica looks insulted"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "HA-HA! All you got was Monica's stinky Brussels sprouts!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Stinky?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Please let me stay on this side of the door."
+  },
+  {
+   "t": "direction",
+   "text": "[cut to hall]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I know... I still have my old key! (She goes in to get it and comes back with her keys) We can just unlock the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I don't know if that's such a good idea. They clearly don't want to be with us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You know what? I don't want to be with them either, but it's Thanksgiving and we should not want to be together, together. (Goes to unlock the door)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to Ross) Just get in there and make a face to face apology, you know? Look them in the eye. I know I can get them to forgive us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm telling ya... (his eyes open wide and he looks like his eyes are about to pop out. He stares at Ross like this without blinking) I can do it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Staring back, and then breaks off) (To Phoebe and Rachel) Yeah, he can do it!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel finally manages to open the door, but the door chain is on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey sticks his head through the gap. Monica and Chandler are now sitting at the dinner table. There is another smaller table full of food standing in front of the front door"
+  },
+  {
+   "t": "direction",
+   "text": "Monica and Chandler do not look amused by Joeys head in the door"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh! It all looks so beautiful: the turkey, the stuffing..."
+  },
+  {
+   "t": "direction",
+   "text": "Monica is now smiling"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The cranberries...?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh! Enough! A monkey could have made 'em!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(still with his door wedged in the door gap, now opens his eyes wide and stares at Monica and Chandler as he did with Ross earlier in the hall) Hey listen guys, we feel really terrible."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "He's doing that weird eye contact thing. Don't look at him, don't look at him! (They both look away)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on you guys, we want you to know we're (His eye widen even more) very very sorry. (Monica and Chandler are now covering their eyes with their hands) (then to the others in the hall) Right guys?"
+  },
+  {
+   "t": "direction",
+   "text": "Ross head appears above Joey's, Rachel's below Joey's and Phoebe's at the bottom"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I feel terrible."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe and Rachel",
+   "text": "So, so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(smiling) Now let's not ruin this day. You worked so hard. Let's move past this and try to have a nice meal all together, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The floating heads do make a good point."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, they do seem to feel pretty bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Gets up) Okay, okay. You two (to Phoebe and Rachel) go get the dessert. And I'll let you in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Dessert?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, I asked you and Phoebe to pick up the pies. You did remember, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Pies, oh, we thought you said priiiize (goes to the hall and comes back with Emma's trophy in her hand). Here! (gives it to Monica)."
+  },
+  {
+   "t": "direction",
+   "text": "Monica takes it and reads the label"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Grand Supreme Little Darling?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Congratulatioooons!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God! YOU FORGOT THE PIES? Well, I cannot believe this. You force me to make dinner, then you're an hour late and you forget the one little thing that I asked you to do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really girls, not cool."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, you manheads aren't any better. You lied about going to the game. You knew it would make you late, and you still went anyway."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! I'm getting a little tired of this okay? We said we're sorry. It's Thanksgiving for Pete's sakes! A day of forgiveness!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's a day to be thankful."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to Ross, mouthing) Don't make me come up there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's too late for apologies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Fine! Let's just go. I don't need your stupid dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That would be a lot more convincing if you weren't drooling."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ewww, is that what that is?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sorry!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Come on you guys, let's just do our own Thanksgiving."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah! I'll cook!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah! Let's go out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! You three have a nice Thanksgiving."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "The three of us?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! You, Chan, and the vein!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica gasps and holds her forehead. Phoebe, Rachel and Ross pull back their heads"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ha!"
+  },
+  {
+   "t": "direction",
+   "text": "When Joey tries to pull back his head, he notices he is stuck"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh-oh! I'm stuck!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey, that is not gonna work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No seriously... I'm really wedged in here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'll pull you through."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(in agony) aaw-ahhh-aaahhh STOP! STOP! I'm worried about damaging my head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "A little late for that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Alright, hurry up, you gotta do something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, well, this does not change anything. (to Chandler) Okay, we need to get something to grease the sides of his face."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uhm, we've got turkey grease."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Bring it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I just wanna say that I'm sorry I referred to the vein as a seperate person..."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler gives Monica a footlong \"eye dropper\" with the turkey grease in it"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Here you go!"
+  },
+  {
+   "t": "direction",
+   "text": "She squirts some of the grease along Joey's face."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, that smells good!"
+  },
+  {
+   "t": "direction",
+   "text": "And he starts licking the grease which trickles down his face. Monica also squirts some on the other side of his face, and his tongue follows her movements."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, try it."
+  },
+  {
+   "t": "direction",
+   "text": "Joey tries to pull back at all his might."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It isn't working."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, we're gonna have to unscrew the chain."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well hurry, I can't feel my ears!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Can you ever feel your ears?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Interesting..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler, where are your tools?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(sarcastically) Oh, I left them on my bulldozer... I don't have tools!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I do, but Rachel borrowed them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I lent them to Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I gave them to Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I left them at the park."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(looking at Joey's butt) I'm finding it really hard not to mess with him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I've already stuffed a bunch of Brussel sprouts down his pants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Nice!"
+  },
+  {
+   "t": "direction",
+   "text": "The phone rings in Chandler and Monica's apartment"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, I have to get that. Now when I get back, I want you and your friends to be gone. Thanksgiving is over. The Vein has spoken."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It's really starting to hurt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, look, I'm gonna pull on the door and you guys push as hard as you can. Maybe we can get enough room to wiggle him out, okay? Okay, so PUSH!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Just a sec., we're kind in the middle of something here."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel, Ross and Phoebe have their hands full and are stuffing all kinds of things down Joeys pants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh! Stop putting things down my pants!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Come on guys, PUSH!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! Come on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey and Chandler",
+   "text": "PUSH! PUSH! PUSH!"
+  },
+  {
+   "t": "direction",
+   "text": "The chain breaks loose from the wall, and because Joey was pushing with all his might, he propells into the kitchen, towards the table with all the food. This table has wheels underneath it, and when Joey falls on this table, he rides into the living room, with all the food falling off, until finally Joey also falls off... Joey gets up quickly, a bit agitated, and acting as nothing happened. He is covered in food stains."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "My cranberries!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(looking at himself) Man, I've got food all over me."
+  },
+  {
+   "t": "direction",
+   "text": "He licks his fingers, liking it. He offers Chandler a taste."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Argh! I can't believe what you did. Monica's gonna kill you!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica enters from the spare bedroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to Monica) Look! Look! Look what the... Look what... Look what the floating heads did!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(very emotional) I don't care."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler can't believe what he's hearing. He looks at Monica, then at the others, then back at Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That was the adoption agency..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "WE'RE GETTING A BABY!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you serious? (they hug)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "There's a pregnant woman in Ohio, and she picked us!"
+  },
+  {
+   "t": "direction",
+   "text": "They all cheer and Rachel, Ross and Phoebe join in for a group hug. Joey also joins, but he stands back a bit, because he is all sticky of the food on him"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm so happy for you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This Thanksgiving kicks last Thanksgiving's ass!"
+  },
+  {
+   "t": "direction",
+   "text": "They all cheer and hug again, but Joey's eating the food off his shirt"
+  },
+  {
+   "t": "direction",
+   "text": "COMMERCIAL BREAK"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Monica's apartment. The table is set, and there's food on the tables again. They're all there, toasting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "To Monica and Chandler... and that knocked up girl in Ohio."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm just so happy you guys are finally getting a kid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know. Have you considered pageanting?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can't believe they called, and we're actually getting a baby. (she kisses Chandler)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, I know how you feel..."
+  },
+  {
+   "t": "direction",
+   "text": "Monica and Chandler are looking curiously at Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure. I went through the exact same thing with Alicia Mae Emory... The waiting, the wandering... Then one day... I get that call from Toys \"R\" Us... She was in stock!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That is the exact same thing."
+  },
+  {
+   "t": "direction",
+   "text": "THE END"
+  }
+ ]
+}

@@ -1,0 +1,1568 @@
+{
+ "id": "s10e03",
+ "season": 10,
+ "episodes": [
+  3
+ ],
+ "code": "1003",
+ "title": "The One With Ross' Tan",
+ "lines": [
+  {
+   "t": "dialogue",
+   "speaker": "Produced by",
+   "text": "Robert Carlock and Wendy Knoller"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's apartment"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, you and Rachel tonight, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. It's actually our first official date"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wow! So tonight may be the night! You're nervous?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Naa, no. This is the part I'm actually good at."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What must it be like not to be crippled by fear and self-loathing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(pause) It's OK!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "How can you be so confident?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I... I know exactly what I'm gonna do!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really? Like you have a routine?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, no no no no. See. Each woman is different.You have to appreciate their uniqueness."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, I do six things! First, I look deep in her eyes. Then, I kiss her. Next I take my hand and I softly graze her thigh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You mean like this? (he starts touching his thigh in a funny and awkard way)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "NO! Not like that, no no. No, like this. (He starts lightly grazing Chandler's thigh)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, I see what you mean, that's quite nice. (They look at each other, both embarassed)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "More foosball?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "...and beer!!"
+  },
+  {
+   "t": "direction",
+   "text": "OPENING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Ross and Chandler are on the couch"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross and Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Chandler) Hey sweetie! (they kiss)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(looking at Monica's legs) WOW!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey! Stop staring at my wife's legs! No no! Stop staring at your sister's legs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm sorry, it's just... how did you get so tan?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "She went on one of those spray-on tan places."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Eh, you got a spray-on tan?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler gets pedicures!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(laughing) Why, why you do, like with the-the toe separators?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Monica) Why...why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Still, I can't believe that's sprayed on... I mean, it looks really good. I wonder if I should get one!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Sure, then you should get a mini skirt so you can really show it off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, do you get colours or just French tips?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "There. Here's their card."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks. (he takes the card) Hey, I know where this place is! It used to be an X-rated video... (pauses when he realizes what he is saying) florist. (he goes away)"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe enters"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey Phoebe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, you won't believe who moved back to town."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know, Amanda! Ah! She called me too! She's the worst!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Who's Amanda?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She's this girl who used to live in the building before you did. Then she moved to England and she picked up this fake British accent. On the machine this is her message. (she apes Amanda using an awful British accent) \"Monica, darling! It's Amanda calling!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you trying to do a British accent?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(pause) (to Phoebe) Chandler gets pedicures!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Just so I know, how many more of those can I expect?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You know what Amanda said to me when she got me on the phone? (apes Amanda in a british accent) \"Oh, so sorry to catch you on your Mo-Bile!\" If-if you don't wanna get me on my mo-Bile, don't call me on my mo-Bile!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know, and she's always bragging about all the famous people she's met."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I know! \"Oh...I slept with Billy Joel\". All right, who hasn't?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, what are we gonna do! I don't wanna see her!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ugh, Let's just cut her out!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Cut her out of our lives! Just ignore her calls and dodge her 'till she gets the point!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, I guess we could try that, but... it seems so harsh! (to Chandler) Have you ever done that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, had it done to me though. Feels good !"
+  },
+  {
+   "t": "scene",
+   "text": "At the tanning salon. Ross and a male assistant are walking through a hall"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Assistant",
+   "text": "Alright Mr. Geller! Right this way! So, how dark do you wanna be? We have one, two or three."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well... I like how you look, what are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Assistant",
+   "text": "Puerto Rican."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Two, I think a two."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Assistant",
+   "text": "You've got to face the red light. When the red light goes on the spraying is about to start so close your eyes. When the spraying stops, count to five. Pat yourself down to avoid drip marks then turn around so we can get your back. Got it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Spray, count, pat, then turn, spray, count and pat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Assistant",
+   "text": "Wow, you catch on quick."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I have a PhD, so... (assistant walk out, not impressed by this statement)"
+  },
+  {
+   "t": "direction",
+   "text": "Ross takes his bathrobe off and he enters the tanning booth. He stands up in front of the red light and the sprayer starts and sprays his face and torso"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "One Mississipi, two Mississipi, Three Mis...(the sprayer starts again, spraying him in the face and torso again) WAIT! WAIT! I'm not-I've not finished counting!! (he leaves the booth) (the assistant enters the room)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You sprayed my front twice!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Assistant",
+   "text": "You've never turned?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I barely even got to three Mississippi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Assistant",
+   "text": "Mississippi? I said count to five'!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mississippilesly? (pause) Well, how bad is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Assistant",
+   "text": "Ain't that bad yet, but it keeps getting darker for the next four hours."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, how dark is it gonna get?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Assistant",
+   "text": "You got sprayed with two two' s and..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm a four?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Assistant",
+   "text": "Yeah, but you're back's a zero. You're gonna wanna even that out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(sarcastically) Really!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Assistant",
+   "text": "You might wanna get back in there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(annoyed) Ok!"
+  },
+  {
+   "t": "direction",
+   "text": "The assistant leaves and Ross goes back in the spray-on tan booth and turns his back to the spray nozzles, facing the back wall"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wait, wait a minute, there's no light on the back wall! How do I know when it's gonna start? Hello? (he slowly turns and the spraying begins, on his face) Ah, oh, ah! (he turns, but then he turns again and is sprayed in the front again) Ah! (he spits and angrily goes out of the spray-on tan booth and the assistant enters the room) The same thing happened again!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Assistant",
+   "text": "You got two more twos?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(hysterically) I'm an eight!"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. Joey and Rachel enter the room"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thanks for dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I thought you paid. (Rachel does not answer and seems puzzled) Ha, guess we won't be going back there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "direction",
+   "text": "Joey and Rachel start kissing"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey what do you say, we move this onto the likes of the couch?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I say 'cheesy line', but ok."
+  },
+  {
+   "t": "direction",
+   "text": "They move on the couch and start kissing again. Joey does his grazing on Rachel's thigh and she slaps his hand"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What's the matter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I am sorry, I don't know, I am sorry, I don't know why I did that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey and Rachel",
+   "text": "Okay"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, so sorry."
+  },
+  {
+   "t": "direction",
+   "text": "They start kissing again and, when Joey grazes her thigh, she slaps him on his hand again"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I am sorry! Again... I don't know, I don't know what happened, I must be nervous!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't get it, Chandler loved it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, ok, ok. I promise, I promise, I promise, I won't do it again. I really do. I promise. This is gonna be great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ok."
+  },
+  {
+   "t": "direction",
+   "text": "They start kissing again and when Joey grazes, she slaps him three times, on the hand, and on both cheeks"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(a little giddy) Uh, was that good for you?"
+  },
+  {
+   "t": "scene",
+   "text": "Monica's apartment. Monica and Phoebe are reading magazines when the phone rings and Phoebe reaches to pick it up"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Phoebe) No, no, don't get it. Let the machine pick up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, yeah. Could be Rachel asking if someone could baby-sit again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It could be Amanda!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, you're right! I was just kidding about Rachel. Babysitting is a gas!"
+  },
+  {
+   "t": "direction",
+   "text": "The machine picks up the phone"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "Hello Monica. It's Amanda calling again. I am in the neighborhood hoping I can pop by your flat!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You're from Yonkers! Your last name is Buffo-Martisis!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "Let's see.. to assure you get this directly, ring me back on my mobile."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, don't hold thy breath!"
+  },
+  {
+   "t": "direction",
+   "text": "Sound of dialing numbers is heard from the speaker of the machine"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hello? Is someone on the line?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "Yes, I was looking for Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hang on, she's right here. (he enters the living room and hands the phone to Monica) Someone's on the phone, for ya."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We weren't picking up, it's Amanda!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to Amanda) I get pedicures!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi Amanda! Actually now... it's... is not a good time. Dinner tomorrow night? (Phoebe mouths 'no') Ok, Phoebe and I will see you then!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why, why, why didn't you just say no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, I said 'no' to her coming over now! I couldn't say 'no' twice! I get this uncontrollable need to please people!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(leaving) Fine, fine! You would not hold up well under torture!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And you would?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I did!"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. Joey and Rachel are sitting on the couch"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Rach, you sure you wanna do this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Absolutely! Absolutely. I d... it's just a little weird, it's you, and it's me, it's just gonna take some getting used to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ok. Well, how, how can we make it easier?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, let's work from the top down! (Joey nods, but then puzzled because he does not get it) Just work the bra, Joe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ok, yeah, got it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel and Joey",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "They start kissing and Joey starts to undo her bra, but fails completely"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "This thing welded shut?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, turn around, I got to get a look at this thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey starts trying to undo her bra, but it won't go.The elastic band snaps back, hurting Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sorry!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well this is romantic!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm sorry! (He stands up) This never happened to me before! I'm an expert at taking off bras! I can do it with one hand! I can do it with my eyes closed! One time I just looked at one, and it popped open! I blame your bra!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's a standard issue bra clasp!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Then I blame you! Yeah! That's right! You threw me off with all your slapping!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok well, well I'm really, I'm sorry about that Joey, but do you think that maybe on some level, you don't want to take off my bra?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(contemplates for a few moments what Rachel just said) NAH! I don't have another level!!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's apartment"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler is at the table reading; Monica puts some food for him on the table. Ross walks in looking very tanned. Chandler and Monica look up at him smiling."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hold on! There is something different."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I went to that tanning place your wife suggested."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Was that place... The Sun?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh! And it gets worse! (Turns his side to Chandler and Monica and pulls up his shirt. There's a distinct line across his body, where his belly is very tanned and his back is very pale.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh My God! You can do a duet of Ebony and Ivory all by yourself!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How could you mess this up? It's so easy? You go into the booth, you count to five and you turn around!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(looks at her suspiciously) How do you count to five?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "One Two Three..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Yells) Damnit! (Goes to the door to leave. Rachel just enters, sees him and starts laughing)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(laughing) oooh! Oh oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Still yelling) I Know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "oh oh! What is up with Miss Hawaiian Tropic?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "How was your date with Joey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, it was good.. until we got back to our apartment, and then we were fooling around and he started to put his hand up my leg and I kept slapping it away!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You didn't like that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, it wasn't just me, alright? He freaked out too! He couldn't even undo my bra!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow, really? One time he just looked at my bra and it popped open."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler starts looking at her bra"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I do not know what's wrong with us, I mean, we have kissed before and that's been great! But this time it was leading somewhere and I was very aware of the fact that it was Joey touching me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, you guys have been friends forever. Remember the first time that you kissed Ross? How weird that was? You couldn't stop laughing? You got through that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(looking thoughtful) Ok, that's true. That's true, we can do this. You're right, you're right, we can do this. We're just gonna power through!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey walks in"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey Chandler can I talk to you for a second (points to the hall)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(To Joey) No need!! Problem solved, we are powering through (At which point she grabs his hand and pulls him back to their apartment)."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler resumes staring at Monica's bra"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(sees what he is doing) Chandler, stop! It is not going to pop open!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(without taking his eyes off the bra) You don't know! (Monica just smiles)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe is sitting on the couch. Monica walks in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey Phoebe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Is Amanda here yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(sits down) Oh good. Good, look I'm so sorry, for screwing up that cutting-her-out plan. But I have a new plan. Chandler agreed to call here in a few minutes with an emergency."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh! Well, what kind of emergency that gets us both out of here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, what do you think of Mike and Chandler being in a car accident?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(makes a face) Are you kidding, I love it!"
+  },
+  {
+   "t": "direction",
+   "text": "A blonde woman walks in. Supposedly Amanda"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "Hi! (Phoebe and Amanda hug)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "(To Monica) Hello!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica holds her hands out for a hug, but instead of hugging her, Amanda hangs her purse on one of Monica's extended arms."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "(In a fake British accent) It's so nice to see you! Both of you! Look at me. Look how young I look! (gives her coat to Monica as well) Oh gosh! We have so much to catch up on! But first things first: touch my abs (at which point she grabs both Phoebe and Monica's hands and places them both on her stomach) I don't exercise at all! (she pulls them down to sit.) Oh gosh, so Monica, you're married!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(beaming) Yeah! Yeah! His name is Chandler and..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "(To Phoebe) Smell my neck! (Phoebe does so) It's not perfume! It's me! It's my natural scent!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica looks shocked"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Musty!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "Oh! Gosh! This is brilliant. Gosh, it's just like old times. I'm so happy you two are friends again!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "When were we not friends?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "Well, it was 1992, and I remember because that was the year I had sex with Evil Knievel (She starts laughing very proudly)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ehm, we were friends in 1992."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "(to Phoebe) No I distinctly remember you were dodging her (points at Monica) calls and trying to avoid seeing her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(To Phoebe) You were going to cut me out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well...kinda."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh My God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "Oh! Bugger. Should I not have said that? I feel like a perfect arse!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah well, in America you're just an \"ass\"."
+  },
+  {
+   "t": "direction",
+   "text": "Monica's mobile starts ringing. She picks it up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Into the phone) Hello? Chandler, what's wrong? (She listens) Oh my God, are you alright? (listens some more) Yeah, I'll be right there. (She hangs up and speaks to Amanda) I'm so sorry, but Chandler was in a car accident. (She gets up)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Also gets up and starts taking her purse) Oh my God. Was Mike with him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Nope! (She turns and leaves)"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's apartment."
+  },
+  {
+   "t": "direction",
+   "text": "Joey comes running in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To Rachel) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey! Got champagne?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yes ma'am, ready to Power through!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Excellent! Stick it in the ice bucket, the phone is off the hook, and in the interest of powering through (Starts to remove her bra from under her clothes)..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh! (When she's done she throws her bra at him)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok (starts to light some candles) Sexy, sexy, very sexy, sexy. (Claps her hands and jumps at Joey, clearly very excited) Alright! Lets do it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ok, you're scaring me a little bit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Get over it soldier, we've gotta do this! (She pulls him towards her and throws him onto the barcalounger) Ok. Aha! You like that huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh! yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You like that? (She climbs on the barcalounger seductively, putting her knees next to Joey's hips.) Let's take this into high gear (She pulls the barcalounger lever and seat reclines. She puts one of her knees between his legs and begins to kiss his neck.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "uh uh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah baby, I'll show you how we do it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, no, no! You kneed me in my misters!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? Oh my God! I'm so sorry. Joey? Are you ok?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(He just sits there, legs very close together with a painful look on his face) Soldier down!"
+  },
+  {
+   "t": "direction",
+   "text": "[Monica and Chandlers apartment.]"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler is sitting on the couch reading. Monica walks in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We are not friends with Phoebe anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "If she asks, I protested a little, but ok!"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe and Amanda walk in"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh Chandler! Thank God you're alive. Monica, can I talk to you outside for a minute?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I have nothing to say to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "(announces more to herself than anyone else) Wow, my flat is twice this size!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Please, Monica? In the hall?"
+  },
+  {
+   "t": "direction",
+   "text": "They both walk to the door and enter the hallway."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "Ooh, that accident must have been terrible. You look positively ghastly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, aren't you a treat."
+  },
+  {
+   "t": "scene",
+   "text": "The hallway"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can't believe you tried to cut me out. Why Phoebe, why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It was right after we were living together and you were driving me crazy, okay? You were really controlling and compulsive and shrill."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm still all those things!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're also so generous and kind and scrappy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(starts smiling) I am scrappy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Exactly! Look, no matter what I tried to do, I couldn't keep you out of my life. Of all the people I have cut out, you were the only one who ever clawed her way back in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's because I'm scrappy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, you are. And I'm so glad that you fought your way back in, because I don't know what I would do without you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I won't know what I would do without you."
+  },
+  {
+   "t": "direction",
+   "text": "They hug"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, I guess we should go back in. When you gave me another chance, I guess we should do the same for Amanda."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, I guess you're right."
+  },
+  {
+   "t": "direction",
+   "text": "They both enter the apartment again, where Amanda is \"dancing\" for Chandler, but she's really terrible at it"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amanda",
+   "text": "Can you believe it. I've never had any professional dance training."
+  },
+  {
+   "t": "direction",
+   "text": "Monica and Phoebe look at each other and leave the apartment again"
+  },
+  {
+   "t": "scene",
+   "text": "A different spray-on tan center"
+  },
+  {
+   "t": "direction",
+   "text": "Glenda, who works here, and Ross are walking to the room with the spray-on tan booth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Glenda",
+   "text": "Now, let me explain how this works. You go into the booth, and..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm gonna stop you right there, Glenda. Okay? Does it look like this is my first time, huh? Now I want 4 two's... and I want them all on my back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Glenda",
+   "text": "(quietly) Okay..."
+  },
+  {
+   "t": "direction",
+   "text": "Ross enters the room, takes off his robe and enters the booth. He stands with his back to the nozzles and then realises that this booth has nozzles at both sides of the wall"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wait a minute, there's two sets of nozzles, which one is it?"
+  },
+  {
+   "t": "direction",
+   "text": "He turns around frantically from side to side."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Which... which... which... Which one is it?"
+  },
+  {
+   "t": "direction",
+   "text": "He then stops turning, facing one of the nozzles, which starts spraying in this face and front again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "OH! SON OF A BITCH!"
+  },
+  {
+   "t": "direction",
+   "text": "He now turns to the other side, which also starts spraying his face and front."
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's"
+  },
+  {
+   "t": "direction",
+   "text": "Joey and Rachel are both sitting on the couch. Joey keeping his knees pressed against each other"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What is the matter with us?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I know what's the matter with me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, I mean with us, you know. I mean, is it supposed to be this... difficult?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler enters the apartment"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That fake British woman is a real bitch, but she sure can dance... Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi! Hey, listen, can we ask you a question? When you and Monica first hooked up, was it weird going from friends to... more than that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Kinda... you know, sneaking around, having to hide from you guys..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, no, no... No, I mean... se-x-u-ally..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, was there a part of you that... felt like it was... really wrong?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Actually, no. No, it felt right. You know, it felt like uhm... I can't believe we haven't been doing this the whole time."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel and Joey are still looking at Chandler, slowly letting his words get to them"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can tell from your expressions that that's the good news you were hoping for... Well, I'm gonna go continue to... spread the joy.(Chandler leaves the apartment. Joey sighs)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, just because it happened that way for them doesn't mean it has to happen that way for us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, yeah... Absolutely. I mean, just because something's difficult doesn't mean that you quit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Right, totally."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, so we just keep trying and trying until we... do it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, and if doesn't work, then we'll be just one of those couples that never have sex."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's a... pla-an."
+  },
+  {
+   "t": "direction",
+   "text": "They both stare for a while, and then look at each other"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(sighs) Wow... I did not see this coming."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't get it. I mean, I was so sure this was what I wanted."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hmmm... Me too..."
+  },
+  {
+   "t": "direction",
+   "text": "She puts her head on Joey's shoulder and Joey kisses her on her head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I wonder how Monica and Chandler could do it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I guess they weren't as good friends as we are."
+  },
+  {
+   "t": "direction",
+   "text": "Lifts her head from Joey's shoulder"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Aah... I bet you're right."
+  },
+  {
+   "t": "direction",
+   "text": "They look at each other for a while"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I love ya."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Love you too... Alright, I'm going to bed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, me too."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel gets up, and Joey tries to get up, but halfway up he sits down again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh, yeah, I'm not going anywhere for a while."
+  },
+  {
+   "t": "direction",
+   "text": "Joey takes the ice-bucket with the champagne bottle in it and puts it on his sore spot"
+  },
+  {
+   "t": "direction",
+   "text": "ENDING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment."
+  },
+  {
+   "t": "direction",
+   "text": "Ross is reading a National Geographic on his sofa when Chandler knocks on the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Dude, it's Chandler. Let me in."
+  },
+  {
+   "t": "direction",
+   "text": "Ross's face is now a VERY dark shade of brown."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Go away! I don't want to see anybody."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I know, I went to the tanning place and the same thing happened to me. You have to let me in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really? Did you count Mississipily?"
+  },
+  {
+   "t": "direction",
+   "text": "Ross walks to the door and opens it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Dude, you're not tanned."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, I just had to get a picture of this."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler holds up a camera and takes Ross's picture."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I see you later!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross closes the door"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

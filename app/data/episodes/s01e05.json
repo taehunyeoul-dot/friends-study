@@ -1,0 +1,1402 @@
+{
+ "id": "s01e05",
+ "season": 1,
+ "episodes": [
+  5
+ ],
+ "code": "105",
+ "title": "The One With the East German Laundry Detergent",
+ "lines": [
+  {
+   "t": "dialogue",
+   "speaker": "With Minor Adjustments by",
+   "text": "Dan Silverstein"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, all six are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Would you let it go? It's not that big a deal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Come on! You guys can pee standing up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We can? All right, I'm tryin' that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, ok, you know what I don't get? The way guys can do so many mean things, and then not even care."
+  },
+  {
+   "t": "direction",
+   "text": "Long pause."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Multiple orgasms!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, all are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, Saturday night, the big night, date night, Saturday night, Sat-ur-day night!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No plans, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Not a one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Not even, say, breaking up with Janice?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, right, right, shut up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler, nobody likes breaking up with someone. You just gotta do it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, I know, but it's just so hard, you know? I mean, you're sitting there with her, she has no idea what's happening, and then you finally get up the courage to do it, and there's the horrible awkward moment when you've handed her the note."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why do you have to break up with her? Be a man, just stop calling."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You know, if you want, I'll do it with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, thanks, but I think she'd feel like we're gangin' up on her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, I mean you break up with Janice and I'll break up with Tony."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Tony?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, you're breaking up with Tony?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, I know, he's sweet, but it's just not fun anymore, you know? I don't know if it's me, or his hunger strike, or, I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(waitressing) Does anybody want anything else?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, yeah, last week you had a wonderful, nutty, chocolatey kind of a cakey pie thing. (Rachel gives him a dirty look) Nothing, just, just, I'm fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to Rachel) What's the matter? Why so scrunchy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's my father. He wants to give me a Mercedes convertible."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That guy, he burns me up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, well, it's a Mercedes if I move back home. Oh, it was horrible. He called me young lady."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ooh, I hate when my father calls me that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Did he give you that whole \"You're-not-up-to-this\" thing again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, yeah, yeah. Actually, I got the extended disco version, with three choruses of \"You'll never make it on your own\"."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(rhythmically) Uh-huh, uh-huh."
+  },
+  {
+   "t": "direction",
+   "text": "Angela, a beautiful woman in a tight dress, enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "Hi, Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "My god, Angela."
+  },
+  {
+   "t": "direction",
+   "text": "Angela takes a seat at the counter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow, being dumped by you obviously agrees with her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Are you gonna go over there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, yeah, no, ok, but not yet. I don't wanna seem too eager. One Mississippi, two Mississippi, three Mississippi. That seems pretty cool. (he walks over to her) Hey, Angela."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "(casually) Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You look good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "That's because I'm wearing a dress that accents my boobs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You don't say."
+  },
+  {
+   "t": "direction",
+   "text": "Cut to Ross and Rachel, talking next to one of the tables."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, uh, Rachel, what are you, uh, what're you doing tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, big glamour night. Me and Monica at Laundorama."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, you uh, you wanna hear a freaky coincidence? Guess who's doing laundry there too?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Who?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Me. Was that not clear? Hey, why don't, um, why don't I just join you both, here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Don't you have a laundry room in your building?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes, I do have a laundry room in my building, um, but there's a.... rat problem. Apparently they're attracted to the dryer sheets, and they're goin' in fine, but they're comin' out all.... fluffy. Anyway, say, sevenish?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Sure."
+  },
+  {
+   "t": "direction",
+   "text": "Cut back to Joey and Angela at the counter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "Forget it Joey. I'm with Bob now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Bob? Who the hell's Bob?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "Bob is great. He's smart, he's sophisticated, and he has a real job. You, you go on three auditions a month and you call yourself an actor, but Bob..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on, we were great together. And not just at the fun stuff, but like, talking too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "Yeah, well, sorry, Joe. You said let's just be friends, so guess what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "We're just friends."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Fine, fine, so, why don't the four of us go out and have dinner together tonight? You know, as friends?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "What four of us?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You know, you and Bob, and me and my girlfriend, uh, uh, Monica."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment, Joey is there, trying to convince Monica to pose as his girlfriend. His plan is to hook Monica up with Angela's boyfriend Bob and then take Angela back for himself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Monica, I'm tellin' you, this guy is perfect for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Forget it. Not after your cousin who could belch the alphabet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(looking out window) Oh, god help us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ugly Naked Guy's laying kitchen tile. Eww!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What's going on here? You go out with tons of girls."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(proud) I know, but, I made a huge mistake. I never should have broken up with her. Will you help me? Please?"
+  },
+  {
+   "t": "scene",
+   "text": "Ross' apartment, Chandler is over."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on phone) Ok, bye. (hangs up) Well, Monica's not coming, it's just gonna be me and Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh. Well, hold on camper, are you sure you've thought this thing through?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's laundry. The thinking through is minimal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's just you and Rachel, just the two of you? This is a date. You're going on a date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Nuh-uh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yuh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So what're you saying here? I should shave again, pick up some wine, what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, you may wanna rethink the dirty underwear. This is basically the first time she's gonna see your underwear-you want it to be dirty?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(sheepish) No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, and uh, the fabric softener?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok, ok, now what is wrong with my Snuggles? What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear. Ok, I can pick something else up on the way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "There you go."
+  },
+  {
+   "t": "scene",
+   "text": "A fancy restaurant, Joey and Monica are there, meeting Angela and Bob, who Monica thinks is Angela's brother."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thank you. So what does this Bob guy look like? Is he tall? Short?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yep."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Which?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Which what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You've never met Bob, have you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, but he's..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my god, Joey, for all we know this guy could be horribly..."
+  },
+  {
+   "t": "direction",
+   "text": "Angela and Bob walk in. Bob is good-looking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "Hey, Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "...horribly attractive. I'll be shutting up now."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler and Phoebe are there, both ready to break up with their significant others."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Where are they? Where are they?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "This is nice. We never do anything just the two of us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's great. Maybe tomorrow we can rent a car and run over some puppies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Eww, I don't wanna do that."
+  },
+  {
+   "t": "direction",
+   "text": "Janice and Phoebe's boyfriend, Tony, walk in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Here we go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, have a good break-up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, Janice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh, my god, I am so glad you called me. I had the most supremely awful day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, that's not good. Can I get an espresso and a latte over here, please?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping...(looks through her bags)... and I got you, I'm looking, I'm looking, I'm looking, I got you..."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler sees Phoebe breaking up with Tony. She talks to him for a few seconds, hugs him, and then he leaves. Chandler is amazed how easy it was for her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(covering) What... did you get me there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "I got you...these. (pulls out a pair of socks)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Bullwinkle socks. That's so sweet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's great."
+  },
+  {
+   "t": "direction",
+   "text": "The drinks arrive, and Chandler downs his espresso in one gulp."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I'm gonna get another espresso. Can I get you another latte?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "(holding the full cup) No, no, I'm still working on mine."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler walks over to the counter where Phoebe is, and is asking her about the break-up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, it was really hard."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, yeah, that hug looked pretty brutal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, you weren't there."
+  },
+  {
+   "t": "scene",
+   "text": "The Launderama, Rachel is there, waiting for Ross. An old woman takes Rachel's clothes off the machine and begins loading it with her things."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Comin' through. Move, move."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, 'scuse me. I was kinda using that machine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Yeah, well, now you're kinda not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But I saved it. I put my basket on top."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Oh, I'm sorry, is that your basket? It's really pretty. Unfortunately, I don't see suds."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "No suds, no save. Ok?"
+  },
+  {
+   "t": "direction",
+   "text": "Ross arrives."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What's goin' on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi, uh, nothing. That horrible woman just took my machine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Was your basket on top?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, but, there were no suds."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, you know, no suds, no save."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No suds? Excuse me, hold on a second. (to woman) That's my friend's machine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Hey, hey, hey, her stuff wasn't in it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, hey, hey, that's not the rule and you know it."
+  },
+  {
+   "t": "direction",
+   "text": "The woman and Ross stare at each other. Finally she takes her stuff out of the machine and leaves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to the crowd in the laundromat) All right, show's over. Nothing to see here. (to Rachel) Ok, let's do laundry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That was amazing. I can't even send back soup."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, that's because you're such a sweet, gentle, uh...Do you, uh, do you...Oh, hey, uh you must need detergent."
+  },
+  {
+   "t": "direction",
+   "text": "Ross pulls out a huge box of laundry detergent."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What's that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uberveiss. It's new, it's German, it's extra-tough."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel starts to load her clothes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rach, do you uh, are you gonna separate those?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh god. Oh, am I being like a total laundry spaz? I mean, am I supposed to use like one machine for shirts and another machine for pants?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rach, have you never done this before?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, not myself, but I know other people that have. Ok, you caught me. I'm a laundry virgin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, well, don't worry, I'll use the gentle cycle. Ok, um, basically you wanna use one machine for all your whites, a whole nother machine for colors, and a third for your uh, your uh, delicates, and that would be your bras and your under-panty things."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(holds a pair of panties in front of Ross) Ok, Well, what about these are white cotton panties. Would they go with whites or delicates?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(visibly nervous) Uh, that, that, that would be a judgment call."
+  },
+  {
+   "t": "scene",
+   "text": "Fancy restaurant, Monica, Joey, Angela, and Bob are seated at the table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Joey) He is so cute. (to Angela and Bob) So, where did you guys grow up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "Brooklyn Heights."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bob",
+   "text": "Cleveland."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How, how did that happen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my god."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I suddenly had the feeling that I was falling. But I'm not."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Fancy restaurant, Joey and Bob are talking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So, you and Angela, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bob",
+   "text": "Yep. Pretty much."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're a lucky man. You know what I miss the most about her? That cute nibbly noise when she eats. Like a happy little squirrel, or a weasel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bob",
+   "text": "Huh, I never really noticed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, yeah, yeah, listen for it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bob",
+   "text": "Monica, Monica is great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, but it's not gonna last. She's too much for me in bed. Sexually."
+  },
+  {
+   "t": "scene",
+   "text": "The ladies' bathroom at the restaurant, Monica and Angela are talking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I've gotta tell you, Bob is terrific."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "Yeah, isn't he?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "You know what else? He's unbelievable in bed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow. My brother never even told me when he lost his virginity."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Angela",
+   "text": "Huh. That's nice."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe is coaching Chandler on how to break up with Janice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, you can do this. It's just like pulling off a Band-aid. Just do it really fast, and then the wound is exposed."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler walks back to couch, where Janice is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Janice. Hi, Janice. Ok, here we go. I don't think we should go out anymore. Janice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "All right. Well, there you go. (she gets extremely wound up, and begins to try and calm herself down) Stop it, stop it, stop it."
+  },
+  {
+   "t": "scene",
+   "text": "The laundromat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? (the buzzer on the washer goes off) I'm sorry, that's all the time we have. Next on Ross...(opens up the washer) Uh-oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What uh-oh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(not wanting to tell her) Uh-oh, uh-oh, the laundry's done. It's, uh, it's a song. The laundry song that we sing. (singing) Uh-oh the laundry's done, uh-oh, uh-oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, what's the matter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Nothing, nothing. Lee-lo, the laundry's done."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Come on, show me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right, all right, it's just that you left a red sock in with all your whites, and now, everything's kinda pink."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, everything's pink."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it could happen to anyone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. What am I doing? What am I doing? My father's right. I can't live on my own! I can't even do laundry!"
+  },
+  {
+   "t": "direction",
+   "text": "The woman who had tried to steal the washing machine walks by, and laughs."
+  },
+  {
+   "t": "scene",
+   "text": "The fancy restaurant, Angela has her hand in Bob's shirt, and Monica is very uncomfortable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?"
+  },
+  {
+   "t": "direction",
+   "text": "Her and Joey walk away from the table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my god."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hello! Were we at the same table? It's like... cocktails in Appalachia."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on, they're close."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Close? She's got her tongue in his ear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, like you've never gotten a little rambunctious with Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey, this is sick, it's disgusting, it's, it's-not really true, is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, who's to say what's true? I mean..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my god, what were you thinking?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, look, I'm not proud of this, ok? Well, maybe I am a little."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(hits him lightly) Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(leaving) I'm outta here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wait, wait, wait. You want him, I want her. He likes you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up."
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse, Monica accidentally spilled her drink on Bob's shirt and is wiping it off. Joey is making eyes at Angela.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story."
+  },
+  {
+   "t": "direction",
+   "text": "Angela is eating chicken wings and making the weasel-like noise Joey had told Bob about."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, waiter, one more plate of chicken wings over here."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler is still trying to ease things over with Janice, and there are about a dozen empty Espresso cups in front of him. He is extremely wired."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, (Chandler flails his hand out and hits Janice in the eye)... boom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Ow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, my god, I'm so sorry. Are you ok?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Ow. Um, it's just my lens. It's just my lens. I'll be right back."
+  },
+  {
+   "t": "direction",
+   "text": "She leaves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to Phoebe) I hit her in the eye! I hit her in the eye! This is the worst break-up in the history of the world."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my god. (Chandler downs another espresso.) How many of those have you had?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, I don't know, a million?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Chandler, easy, easy. Go to your happy place. La la la la la la la."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right."
+  },
+  {
+   "t": "direction",
+   "text": "Janice returns from the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm not fine. Here she comes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wait here. Breathe."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe goes over to speak to Janice. She talks to her for a few seconds, and then Janice immediately smiles, hugs her, waves to Chandler, and leaves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "How do you do that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's like a gift."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We should always always break up together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I'd like that."
+  },
+  {
+   "t": "scene",
+   "text": "The Launderama. Rachel is sorting her now-pink clothes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You got the clothes clean. Now that's the important part."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I guess. Except everything looks like jammies now."
+  },
+  {
+   "t": "direction",
+   "text": "The same woman walks over and takes Rachel's laundry cart."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Whoa, I'm sorry. Excuse me. We had this cart."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Yeah, well, I had a 24-inch waist. You lose things. Now come on, get outta my way."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel looks at Ross, who motions to her to get the cart back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm sorry, you know, maybe I wasn't being clear. Uh, this is our cart."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Hey, hey, hey there aren't any clothes in it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, hey, hey, hey, quit making up rules!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Let go!"
+  },
+  {
+   "t": "direction",
+   "text": "They struggle for the cart. Finally, Rachel climbs inside of it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, listen, missy. If you want this cart, you're gonna have to take me with it!"
+  },
+  {
+   "t": "direction",
+   "text": "She thinks it over, and then walks away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Ross) Yes! Did you see that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You were incredible! Brand new woman, ladies and gentlemen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I could not have done this without you."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel stands up and kisses Ross. He is stunned. A moment of silence follows."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok, um, uh, more clothes in the dryer? (Ross turns and bangs his head on an open dryer door.) I'm fine, I'm fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Are you sure?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross, Rachel, and Phoebe are there. Ross has an icepack to his head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, are you sure you're ok?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Does it still hurt?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(seeing Rachel's clothes) What a neat idea. All your clothes match. I'm gonna do this."
+  },
+  {
+   "t": "direction",
+   "text": "Monica and Joey enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, how'd it go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Excellent."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We ripped that couple apart, and kept the pieces for ourselves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What a beautiful story. Hey, I'm fine by the way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(notices his head) Oh, I'm sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Where's Chandler?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, he needed some time to grieve."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler runs by the window outside, joyous."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm free! I'm free!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That oughta do it."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

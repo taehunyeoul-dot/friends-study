@@ -1,0 +1,1328 @@
+{
+ "id": "s09e16",
+ "season": 9,
+ "episodes": [
+  16
+ ],
+ "code": "916",
+ "title": "The One With The Boob Job",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Chandler and Monica's apartment. Chandler and Monica are looking through some papers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Did you see our bank statement? Can this be right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know...God. I haven't seen my savings take a hit like this since I was a kid and they came up with double-stuffed Oreos. What happened to all our money?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm not sure what they did, but I'm inclined to blame Enron."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I guess with you doing the internship, we're just spending more than we're bringing in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Maybe I should quit and get a job that pays."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, But you're finally doing something that you love! I can't ask you to give that up. Though it'd be nice if the thing that you love was y'know... finding gold."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You know what? You know what? I think we're making too big a deal out of this. ok? So we pay our bills a little late this month and maybe next month we cut back on a few things. And maybe we start eating out of Joey's refrigerator for a change. You're chef... what can you make out of backing soda and beer?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok worse case scenario is...we borrow some money from my parents."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No! We're not borrowing money."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because we don't do that. We are Bings! And if there's one thing my father taught me was... well to always knock before going into the pool house... but the other thing was never borrow money."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow! I Had no idea you had this much pride."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's right! I do! And I'm your man. And I'm going to get us through this situation even if it means you working twice as hard."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe's apartment. Mike and Phoebe seem to have finished watching a movie on television."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "I'm gonna go. (He kisses Phoebe on the cheek)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why??"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "I haven't been home in a couple of days and I need to get some more clothes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh...you don't have to go, I have something that will fit you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "I put that tube top on as a joke."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I want you to stay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "I want to stay too but I've gone as bad as much use out of these boxers as I can.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why don't you turn them inside ou..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Done it. (Phoebe becomes a little more subdued) I'll be back in a couple of hours."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'll miss you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Me too. (He leaves. A few moments later, he enters again.) You know what? I just realised something. I don't wanna go home."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Great! Ok...I'll go get the tube top."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "No, no! What I mean is, I hate going back to my apartment now... and partly because I live above a known crack den but... mostly because when I'm there, It's just, I really miss you. So.. do you want to move in together?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow, Mike Hannigan...You sure know how to make a girl say \"Hell yeah!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "So we're doing it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah! Let's do it! Let's live together! (They embrace and Mike kisses Phoebe) Oh god, we're really going to move in together!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I've always wanted to live with a guy. \"Pick up your socks!\" \"Put down the toilet seat!\" \"No! We're not having sex anymore!\" It's gonna be fun!"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. Monica enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Listen...I need to know that what I'm about to ask you, will never get back to Chandler."
+  },
+  {
+   "t": "direction",
+   "text": "Joey frowns...then looks as if he understands"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'd be lying if I said I haven't thought about it myself. Chandler is my best friend, it would be wrong. Good...(He winks)...But wrong."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Looks exasperated) Ok first of all...It would be great. But that's not what I'm here to talk to you about. I need to borrow some money."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Aww, I don't know Monica y'know... erm... lending friends money is always a mistake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But Chandler lent you money!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And I think he would tell you it was a mistake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Come on...I just need it for some rent and..and some other bills."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh...how much?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Two thousand dollars?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Two thousand dollars!? What do you think I am? I soap opera star!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's right I am! (Opens drawer and rummages through it. Rachel enters)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi you guys!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey & Monica",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oo...what's in the bag?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh er... well you know Emma started crawling? I realised that this place, is very unsafe for a baby. So I went to the store and got some stuff to baby-proof the apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh...baby-proofing... Why is this such a big deal now? Y'know, when I was a kid it was like.. \"Whoops! Joey fell down the stairs!\" or er.. \"Whoops! Joey electrocuted himself again!\" Huh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Anyway erm, are you going to get a handyman to install this stuff?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. I was just going to do this myself. (Joey makes a sarcastic laugh.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're gonna do it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, Why? You don't think a woman can do this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, women can. You can't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Monica...would you please tell Joey that he is a pig?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You're a pig. And you can't do this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wha!? What!? Come on! I found the hardware store all by myself!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "The hardware store is right down the street."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "There is a hardware store right down the street?"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Ross, Chandler and Monica are sitting on the couch. Phoebe and Mike enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey you guys! Ok, we've got great news."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Phoebe and I are moving in together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica, Chandler, Ross",
+   "text": "Congratulations!/Good for you!/Great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know it's so exciting! You know I've never lived with a guy before."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well you know it's just like living with a girl. Only they don't steal your makeup. Unless they're playing \"This is what my sister would look like\" (Looks at Chandler)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah.... she's not so cute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "I'm gonna go to the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, well you put down the toilet seat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Yes dear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Is that a bit you guys do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh huh...we're playing you two."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We don't do that! Tell her we don't do that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes dear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I can't believe you guys are moving in together. That's, that's great! I mean...I'm happy for you guys.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I hear wedding bells."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Monica slow down! Ok? I'm just excited to be living with him. You know I mean, I don't know, Can I see someday being married to Mike? Sure! Yeah. Y'know..I can picture myself walking down the aisle in a wedding dress that highlights my breasts in an obvious yet classy way. But do I want that house in Connecticut...you know..near the good schools where Mike and I can send Sophie and Mike Junior.. Oh my god I do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Phoebe, I had no idea you were so conventional."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know! I guess I am! Oh my god! Load up the Volvo I want to be a soccer mom!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "You ready to go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah! You bet roomy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Don't you mean..groomy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "What are you talking about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh please, these guys, we haven't even moved in yet and they have us picking out china patterns. (Mike seems to gag a little...and laughs nervously. They begin to leave. Phoebe bolts back)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "China patterns!!!!!"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. Rachel is fiddling with the drawer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "This is easy...Can't do this! (Moves away...and finds her sweater sleeve stuck to the drawer) Oh! Wow! Seriously I can't do this. (Fiddles more)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Chandler sits on the couch. Joey sits at the round table"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey Joe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Listen er..I need to ask you a favor but you can't tell Monica anything about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I thought you didn't have secrets from Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And that would have made the official party line. (Joey nods) Monica and I are having a little financial trouble."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What? What do you mean you know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Err... I just figured it out! You know, I mean you're not working and the economy is bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh! Right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to himself) That's the fastest I have ever thought!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Anyway, err... I need to borrow some money."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh! Sure! How much? Two thousand dollars?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes! Two thousand dollars exactly! How do you know that! (Joey begins writing a cheque)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Err...Well I...Know how much you used to make and I know how much your rent is. (shrugs)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh ok."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To himself) I am on fire!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler (Stands up and walks to Joey): Listen...this is really nice. Do you... (sees his chequebook) Did you write a cheque to Monica for two thousand dollars? Did Monica borrow money from you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Err... Kind of."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can't believe her! Did she tell you we were having money problems?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh no no no no no... It wasn't... It wasn't because of your money problems, it was for something for her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Something personal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What would she get for herself for two thousand dollars that she wouldn't tell me about?"
+  },
+  {
+   "t": "direction",
+   "text": "Woman with huge breasts cuts across them. Takes Joey's coffee"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Excuse me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Boob job."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't want her to get a boob job! That's crazy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well it's...It's not that crazy okay? Making them smaller, that would be crazy."
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe's apartment. Phoebe and Mike are packing stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Well hey, I wanna ask you about Monica's little \"groomy\" joke."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh! Alright. Well I think the reason people laugh is becuase it's a play on the word roomy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "I get the joke. Sophisticated as it was. Now the thing I wanna say is... maybe we should have talked about this before. Us living together, you're not expecting a proposal, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh no! No no! Not at all. We're just moving in right now. See where it goes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Yeah well, that's the thing. For me it's as far as it can ever go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What do you mean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Look. Phoebe, I-I love you. Very much. But I never want to get married again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh. Wow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "It's just my first marriage was, you know such a disaster. I kind of lost faith in the whole idea."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Was it really that bad?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "At one point near the end she deliberately defecated....."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, well that's bad. But don't you think it might be different with someone else? Perhaps a blonde who always uses a toilet. Except for once in the ocean."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Look it's not about who I would marry. And I was certain the first time I got married it would last forever. And I was totally wrong!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But it's just..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Look Phoebe, It's not about you. I just never wanna get married again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "I'm sorry. Are you ok with that? Cause if not...maybe us moving in together isn't the best idea."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No! I definitely don't wanna get married. No I just wanted to make sure you didn't want to too. Whew! Coz you know when we move in and you start changing your mind there's gonna be hell to pay mister!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Trust me, I will never..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah I get that."
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. Rachel is flipping through magazines. Handyman is installing things. Monica enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So you gave in and decided to call someone?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, I don't know who I was kidding. I can barely use chopsticks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Handyman",
+   "text": "You're all set. (picks up his bag and starts to leave)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh thank you so much. (Picks up the guy's spirit level) Oh oh wait! You forgot your erm...Your game. (hands it to him)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Handyman",
+   "text": "Thanks....."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler enters"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey Rach! There she is...My perfectly proportioned wife."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Don't look at me I never get his jokes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thank you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh no..don't thank me. Thank you. You know there's not one thing I would change about you? Not one single thing! And definitely not... two... single things."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, you're being wierd. Do you want sex or did you do something bad?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No no! I just love the way you look, I am warm, for your form."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok..You know the old classics you know,You look nice? They're still ok."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well yes yes... You look nice can mean that your face looks nice. I want to compliment your body. I mean..I wouldn't change it. At all. And more specifically, I wouldn't want anything to get any bigger."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I mean, You wouldn't want any part of me to get any bigger would you? Don't answer that."
+  },
+  {
+   "t": "direction",
+   "text": "He leaves"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Just when you thought that dude couldn't get any wierder."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know why do you think he was so worried about me getting bigger?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know! I mean, what brought that on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my god. We're trying to get pregnant so he's probably starting to freak out about the fact that my body is going to change."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No you really think that's what it is?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You heard him! \"No bigger!\" \"You're perfect!\" \"Just don't get any bigger!\" Oh my god he sounded just like my high school wrestling coach. You know what? I'm going to have to talk to Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah! If you don't I will! Of course your body's gonna change. Your breasts are gonna get bigger, your ass is gonna get bigger, you're gonna lose bladder control. (she starts sobbing) God! It's just such a magical time!"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment. Phoebe is at the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Listen, I wanted to ask you something about marriage."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh great now you're seeking me out to make jokes? I mean I can see for all hanging out but to come to my home!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No...I really wanted to know how you feel about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Mike doesn't ever wanna get married."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Never?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Never."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "wow, are you still going to move in with him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I want to, but I just want you to tell me that marriage isn't really that big a deal. You know that I won't, I won't be missing out on anything. That marriage stinks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, marriage... stinks! I mean if you wanna see a man gain weight and a woman stop shaving? Get them married."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's not how you really feel is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I'm sorry. Look I don't think that's what you wanna hear right now but I can't help it. I love marriage."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Seriously? You divorce-o?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "If you have to call me name, I prefer \"Ross the Divorcer\". It's just cooler. Look, I know my marriage isn't exactly work out. But I love to be that committed to another person. And Carol had some good times before she became a lesbian... and once afterward. I'm sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's ok that's how you feel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But come on! I mean living together will be great! I mean you guys have so much fun and you love Mike."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I do love Mike."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah see? And you are so excited about moving in together before, and you know what? You should be. It's a big deal!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah I guess you're right. Yeah thanks. This helped. Thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The Divorcer, to the rescue!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's not cooler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah I just hurt it."
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. Joey enters carrying a tub of ice cream. He sets it on the table, takes off his jacket and struggles with the drawer. It cannot be opened."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Rach?! (He walks over to the fridge to put it in, but it cannot be opened either) Rachel!!!!? (He walks to the bathroom and tries to lift the toilet seat cover. It won't come up.) So I can't do anything I like????"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Monica's apartment. Chandler enters. Rachel and monica are seated at the table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey Rach! Ah........ Perfection. (kisses monica) Wouldn't change a thing. Not a thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "About that? Erm...I'm going to change."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "But honey you don't have to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm going to get bigger!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Honey I... I love your breasts the way they are!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Argh. fascist"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, my breasts are going to get bigger weather you like it or not! And you know what? It's not just my breasts. My ass is going to get bigger too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "your ass?!?!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Man, don't be surprised if her hands and her feet get bigger too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "They...do that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's kind of a package deal!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "God why why would you want to do that to yourself!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I thought I was something that we both wanted!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright look, if it means that much to you, a may be able to get on more with the big boobs. But the giant ass and the big clown feet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my god Chandler! If you can't handle this, what are you going to be like in the hospital? With the blood and the screaming and the little present that's shooting out of her!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(sedated) What?"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. He's prying open the drawer with a crowbar to no avail. Monica, Rachel and Chandler enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey! Why did you tell Chandler that Monica was getting a boob job?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Because she is!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey, Chandler knows I borrowed the money."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Mmmm hmm! For your boob job!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica, Rachel, Chandler",
+   "text": "It's over/Joe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "OK so I'm out four thousand dollars and nobody's boobs are getting any bigger?"
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe's apartment. Ross is helping with the packing, Phoebe and Mike are also there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey! What do you guys think about this. \"Ross: The Divorce-Force\"."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Better."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Very cool."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey Pheebs, you know I'm i'm really glad you came to talk to me the other day and I hope I was a little helpful."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah you were helpful! Yeah, no, thanks you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Good, good. Yeah coz the more I thought about it, the more I realised I don't think marriage is neccessarily the right path for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What do you mean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I know the other day in the coffeehouse you were caught up in the whole soccer mom thing? but is that really you? I mean can you honestly picture yourself in a Volvo?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "They are awfully boxy..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know you'd be so bored with marriage. I mean it's so... normal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh huh."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler, Monica, Joey and Rachel are carrying a couch through the door"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey hey, can I help?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well! We er..climbed up four flights of stairs, manueveored a narrow hallway, dodged a rabid pitbul... but these last three feet are where it gets really tricky."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know sometimes your words... they hurt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey uh, where do you guys want this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, seriously coz this is really heavy. (She suddenly lets go) I mean not for me because i'm only pretending to hold this, but for these guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Just one last time erm... the marriage thing... there's no wiggle room? None at all?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "No but... You don't want to get married either right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Right. Except that I do want to get married."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(voice strained) Couldn't have this conversation down at the truck huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "You wanna get married?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Someday."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Aaaaand....... hernia."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I haven't exactly had a normal life and I never really felt I was missing out on anything but it just feels that now it's my turn some of the regular stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "But if you wanna get married why didn't you say something before?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Because I just didn't know how much I wanted it. And I love you, and I wanted to live with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "I want to live with you too! Let's do that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But I don't think I can! it was ok to move in when I didn't know what was gonna happen, but I can't move in knowing that nothing is ever gonna happen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Can we at least try living together? I mean you might change your mind about marriage."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Are you gonna change yours?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Me neither. I think I need to be with someone who wants what I want."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "But I don't want this to end."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't want it to end either."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "I can't believe this is gonna end. I guess I'll have my stuff packed up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Ok... so...(They hug) Goodbye."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler/Joey/Rachel/Monica",
+   "text": "Bye bye Mike!/Cya mike!/Bye mike!/Bye bye now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm so sorry Pheebs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We're all sorry... (They have a group hug)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ah, look on the bright side, I mean you won't have to live with this ugly chair! That was here already huh? I love you. (they hug again)"
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. Joey is struggling with the fridge. He finally gets it open and falls on the floor"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "AH HAH! I DID IT! HA HA! Alright... (He takes a box out, about to close fridge, then thinks.) Better take all I can carry. Who knows when i'll be able to get in here again!"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

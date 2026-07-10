@@ -1,0 +1,1453 @@
+{
+ "id": "s10e02",
+ "season": 10,
+ "episodes": [
+  2
+ ],
+ "code": "1002",
+ "title": "The One Where Ross Is Fine",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's apartment. The scene starts where we took off in the last episode with Ross seeing Joey and Rachel kissing. Rosss tares at them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, Ross, I realise that you didn't expect to walk in and see that, but.. Let me explain, okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "We weren't doing anything!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Rach, he just saw us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Shhh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But what you saw, that is the extent of it, okay? One kiss."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, come on, that is a lie. We also kissed in Barbados."
+  },
+  {
+   "t": "direction",
+   "text": "Joey (to Rachel): Dude, chill! (to Ross) Okay, we also kissed in Barbados, but we didn't plan it, okay? And the only reason that that happened was because I saw you kissing Charlie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, you started it! I've got to chill."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look, we probably should have talked to you about this before it ever happened, but.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "We feel so terrible about this, Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, but it did happen, so..."
+  },
+  {
+   "t": "direction",
+   "text": "Ross looks shocked and says nothing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross? (to Joey) Can we just close the door?"
+  },
+  {
+   "t": "direction",
+   "text": "OPENING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's apartment. Continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, say something. Anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So you two are..?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey and Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And have you .. ed?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, no, no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, no, no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But if I hadn't walked in here, would you..?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Probably."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel looks at him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, this is not how we wanted you to find out about this. You have every right to go nuts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm not going nuts. Do you see me go nuts?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, but you know what I mean."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, hey, hey... If you two are happy, then I'm happy for you. (Squeaky.) I'm fine!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Absolutely. (Very Squeaky.) I'm fine! Totally fine. I don't know why it's coming out all loud and squeaky, 'cause really, (deep voice) I'm fine. I'm not saying I wasn't a little surprised to see you guys kissing. I mean, at first I was like.. (Screams.) But now that I've had time to absorb it; Lovin' this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ross.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's all working out! Me & Charlie, and you two. You know what we should do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Calm ourselves?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. We should all have dinner. Yes, we'll do it tomorrow night. I'll cook!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look, don't you think that will be a little weird?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Weird? What? What's weird? The only thing weird would be if someone didn't like Mexican food, because I'm making fajitas!! (Storms off.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I do like fajitas."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Monica and Chandler are there. They have lots of brochures about adoption in front of them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "God, this adoption stuff is so overwhelming. There's inter-country adoption, dependency adoption.. There are so many ways to go, and this is like the biggest decision of our lives."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "There's a hair in my coffee."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey guys!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, have you seen Frank Jr., 'cause he's meeting me here with the triplets."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You know, it's funny. Every time you say \"triplets,\" I immediately think of three hot blonde 19-year olds."
+  },
+  {
+   "t": "direction",
+   "text": "Monica glares at him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's sweet. Drink your hair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, what's all this stuff?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, they're brochures from different adoption agencies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, babies! Oh, this one is so cute, get this one!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's not really how it works."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, how does it work?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, if you're having a hard time, you should talk to my friends, Bill and Colleen. They adopted a kid. I'm sure they'd help you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thanks, that would be great. Hey, honey, wouldn't that be great?"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler looks like he did the time he swallowed the toy in 605 TOW Joey's Porsche. It's the hair in his coffee."
+  },
+  {
+   "t": "direction",
+   "text": "Frank Jr. and the triplets enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Alright, alright, alright. Remember what we talked about. When we're in a public place, there are certain rules."
+  },
+  {
+   "t": "direction",
+   "text": "The triplets scream and run amok in the coffeehouse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "That's not what we talked about!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Good to see you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Good to see you, too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi Frank."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Hi, how you doin'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, my goodness, they've all gotten so big!"
+  },
+  {
+   "t": "direction",
+   "text": "Little Chandler is pulling Chandler's sweater, while Leslie is throwing bagels at him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Which one is which again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Oh, that's Frank Jr. Jr. pulling the tampons out of the lady's purse. And that's Chandler climbing on Chandler, and that's Leslie throwing bagels at him."
+  },
+  {
+   "t": "direction",
+   "text": "Monica (reads a form in her lap): \"Willing to adopt triplets?\" No!"
+  },
+  {
+   "t": "scene",
+   "text": "The hallway in Ross's building. Joey and Rachel are on their way to Ross's dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ah, can I just say I know we're doing this for Ross, and that's cool, but if it was up to me, this is not what we'd be doing on our first date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, what would we be doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'd take you out for a romantic night. Some champagne, fancy dinner, feel you up on the carriage ride home..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Feel me up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "In a carriage!"
+  },
+  {
+   "t": "direction",
+   "text": "Charlie walks up to them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, Charlie!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Hi, hi. So.. Dreading this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, you bet."
+  },
+  {
+   "t": "direction",
+   "text": "Joey sees that she's carrying a small red bag."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So, did you bring a little something for Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Actually.. It's stuff you left at my apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh. Oh, thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "And you know, you can just give me my stuff whenever you want."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I didn't throw any of that out.."
+  },
+  {
+   "t": "direction",
+   "text": "They enter Ross's apartment. Ross is already quite hyper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I thought I heard voices! Hi Charlie! (Kisses her.) Hi Joey. (Hugs him.) And.. Oh! You're gonna have to introduce me to your new girlfriend. (Laughs.) I'm just kidding, I know Rachel, I know. (He squeezes her hand.) Come, please come in. Come in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, well, we brought you some wine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh! That is so thoughtful. (To Joey.) She's a keeper. And what did you bring me? (Grabs the bag that Charlie brought for Joey.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, actually, that's.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Underwear, a toothbrush, and Van Halen CD. I can use all these things!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Gosh, Ross, you know, you seem a little..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? Fine? Because I am! Aren't you? Aren't you? Aren't you? You see? Who else is fine?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, listen, hey, Ross. Why don't you try to relax, okay? Maybe have a drink."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know what? That is a very good idea. I'm gonna go make a pitcher of Margaritas."
+  },
+  {
+   "t": "direction",
+   "text": "Does a Mexican dancing-thing before going to the kitchen."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Frank Jr., Phoebe and the triplets are there. The triplets are now sleeping on top of each other on the couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, god. So adorable. Look at them sleeping there like angels."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Yeah, I really cherish these moments, 'cause before you know it, they're gonna be awake again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, they may be a handful, but they're so cute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, god, the last time I babysat them, they did the funniest thing.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "I haven't slept in four years!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's a, that's a long time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "You just don't know how hard it is, Phoebe. There's just so many of them. You know, two I can handle. Two's great. You just hold one in each hand, but what do I do when the third one runs at me with his bike helmet on. I've got no more hands to protect my area! There's three of them, Phoebe, three!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, I know, Frank. I counted them when they were coming out of my area."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Sometimes I think that.. Oh, no, no, no, I can't say it, it's too horrible. No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "No, I can't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my god, Frank, are you thinking of leaving? Because I didn't have those triplets so you could just run out on them!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Oh, no! I would never do that. No. I just was thinking that, you know, maybe you could take one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?! You can't separate them! That's terrible. Which one?"
+  },
+  {
+   "t": "scene",
+   "text": "Bill and Colleen's apartment. Chandler and Monica enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thank you so much for seeing us. Phoebe has told us such great things about you guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Colleen",
+   "text": "Oh, please, we're happy to help."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bill",
+   "text": "We went through the same thing when we were adopting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, a lot of malfunctioning wee-wees and hoo-hoos in this room, huh?"
+  },
+  {
+   "t": "direction",
+   "text": "Bill and Colleen look shocked."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I mean, you have a lovely home."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, we appreciate anything you can tell us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Colleen",
+   "text": "Well, actually, I think this might help."
+  },
+  {
+   "t": "direction",
+   "text": "She gives Monica a big binder that's perfectly in order."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Colleen",
+   "text": "It's pretty much all the information you need."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my god!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Colleen",
+   "text": "Everything is broken down into categories, and then cross-referenced, and then colour-coded to correspond with the forms in the back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thank you. (To Chandler.) I think I just had a tiny orgasm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bill",
+   "text": "I know the process is frustrating, but it's so worth it. Adopting Owen was the best thing that ever happened to us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's great. (To Monica.) Can I see the book?"
+  },
+  {
+   "t": "direction",
+   "text": "Monica looks at him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You want me to wash my hands first, don't you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's.. It's just so pretty and white."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Colleen",
+   "text": "The bathroom is down the hall, to your left."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler leaves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Colleen",
+   "text": "I would have told him to do it too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Can I adopt you?"
+  },
+  {
+   "t": "direction",
+   "text": "Cut to the hall. Owen is wearing his scout-uniform and is looking through a box when Chandler walks up to him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, you must be Owen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Owen",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm Chandler. Hey, I was in the scouts too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Owen",
+   "text": "You were?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, in fact my father was a den-mother."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Owen",
+   "text": "Huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You know how to use a compass?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Owen",
+   "text": "I have a badge in it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You do? That's fantastic!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Owen",
+   "text": "You wanna see it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'd love to, but I gotta get back to talking to your parents. They're telling us all about how they adopted you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Owen",
+   "text": "What?!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Owen",
+   "text": "I'm adopted?"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler tries to come up with a good answer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I got nothing."
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment. Ross is totally wasted, but he's still drinking all the margaritas."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The first batch of margaritas was not so great, but the second batch is gooooood."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, maybe the next batch, we could all get some."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, guys, this is fun, isn't it? You know? Just the four of us. Just hangin'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Dude, are you okay? And when are the fajitas gonna be ready?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm fine! Hey, I'm great! I'm just.. I'm just proud of us. There's no weirdness, no tension."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No awareness."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "We make a great foursome. We should do more stuff together. Ooh! Let's take a trip. Okay, where do you think we - we can go?"
+  },
+  {
+   "t": "direction",
+   "text": "The oven timer pings in the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "My fajitas!!"
+  },
+  {
+   "t": "direction",
+   "text": "He runs off to the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Look, Charlie, I just want you to know. Ross is just having a little trouble adjusting to the thought of Joey and me. You know, he normally doesn't drink like this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Oh, you know what? This is nothing. My father is a raging alcoholic."
+  },
+  {
+   "t": "direction",
+   "text": "Joey and Rachel don't know how to respond to that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Oh, I'm sorry, have I made this evening uncomfortable?"
+  },
+  {
+   "t": "direction",
+   "text": "Ross enters carrying a frying pan with fajitas - without any oven mitts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Fajitas! Be careful, very hot plate, very hot plate!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, you don't even have oven mitts on!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross laughs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That is gonna hurt tomorrow!"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Frank Jr., Phoebe and the triplets are there. Continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, well, this is crazy. Can't seriously be talking about me taking one of your kids, can we?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "No, of course we're not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Insane."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Alice would never go for it, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Oh, I don't know, she's pretty tired, too, I think we've got her onboard."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, just you know, for argument's sake, you know, hypothetically. Which one would you be willing to give up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Frank Jr.Jr.?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Oh, you'd be getting a really good one. I mean, you know, he's really funny. Like, the other day he made up this joke."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "What's green and says \"hey, I'm a frog\"? A talking frog! (Laughs.) Oh, no, you can't have him, he's too funny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, alright, that's fine. What about Leslie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Oh, no, no. Not Leslie. No, she's, she's the only one that knows how to burp the alphabet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Alright, so that leaves Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Oh, no, no, you can't have Chandler, no. No, no. She's my little genius. I got big hopes for her. She's gonna be a doctor or a realtor.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow, Frank. I think we just ran out of kids."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "Oh, I think you're right. Oh, wow. Phoebe, I don't think I can give one of them up. I mean, you know, they drive me crazy, but they're my babies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm sorry, Frank. I didn't realise things were so bad. You know, I'll help out more. I can - I can babysit any time you want. You name the day, and I'll be there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "How about tomorrow?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, that's not good. But you know, I can move some stuff around, and I'll be there. You and Alice just take the whole day together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Jr.",
+   "text": "You'd do that for us?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Are you kidding? That's what sisters are for."
+  },
+  {
+   "t": "direction",
+   "text": "Frank Jr. (looks at the triplets): Look at them! Aw. I love you so much. (Strokes Leslie's hair, and she moves a little.) Oh crap, don't wake up, don't wake up!"
+  },
+  {
+   "t": "scene",
+   "text": "Bill and Colleen's apartment. Chandler comes running into the living room. Monica is the only one there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Where are Bill and Colleen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "They're in the kitchen getting something to eat. Can you believe how nice they are?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We have to leave!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why? What did you do in the bathroom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I didn't get to the bathroom. I bumped into Owen on the way, and he didn't know he was adopted. And there's a slight chance I may have told him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my god, where's my purse? No, you know what? I can replace everything in there. Get that binder, and let's go!"
+  },
+  {
+   "t": "direction",
+   "text": "Bill and Colleen enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Colleen",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bill",
+   "text": "Some little snacks for everybody. Oh, you don't have to eat the sour worms. Those are for Owen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Colleen",
+   "text": "I'll go get him in a second. By the way, you should know we haven't told him he's adopted yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "But kids are so intuitive. Don't you think on some level he already knows?"
+  },
+  {
+   "t": "direction",
+   "text": "Owen comes running in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Owen",
+   "text": "I'm adopted?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "See? Intuitive!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bill",
+   "text": "What? Where did you hear that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Owen",
+   "text": "He told me! And he paid me 50 dollars not to tell."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Which technically now you should give back!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Colleen",
+   "text": "You told him he's adopted?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm so sorry, but you should have a sign out there or something. Or at least whisper it to people when they come in the door. \"Owen doesn't know he's adopted, and he also thinks that Santa is real.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Owen",
+   "text": "He isn't?!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler (to Monica): We have to get out of here, baby!"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment. Rachel, Joey and Charlie are eating fajitas when Ross enters from the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Everyone? I would like to make a toast to Rachel and Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ooy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And to love. Ah, love. L-O-V-E, love. L is for life. And what is life without love?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my god, are we supposed to answer?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "O is for \"oh, wow!\" The V is for this very surprising turn of events, which I'm still fine with by the way. E is for how extremely normal I find it. That you two are together. And now one day you might get married and have children of your own."
+  },
+  {
+   "t": "direction",
+   "text": "Ross chokes up and pauses. Rachel and Joey look at him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Dude, are you okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Totally."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, you don't seem okay."
+  },
+  {
+   "t": "direction",
+   "text": "Ross (on the verge of tears): I'm sorry, it must be the pressure of entertaining. I think everyone would feel better if we had some flan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Wait, Ross. Ross. I - I have to take off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "I'm sorry, I have a really early class in the morning, but this has been lovely."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wasn't it? And you thought it would be awkward with Joey and that you never really liked Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "You're on fire! I'll call you in the morning, okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Alright."
+  },
+  {
+   "t": "direction",
+   "text": "Ross goes to the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "God, Rachel, what Ross just said that is just so.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, that's okay, girls tend not to like me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Bye."
+  },
+  {
+   "t": "direction",
+   "text": "Ross enters from the kitchen with three plates with flan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, I guess it's just flan for three! Hey, hey, that rhymed!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You know what, Ross? I think we're gonna take off too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, oh. Of course. God, I'm so stupid. You guys are a couple now. I mean, you probably just want to be alone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, no, it's just that it's getting late..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, hey, it's fine. It's totally fine. We've got plenty of margaritas. It's all good."
+  },
+  {
+   "t": "direction",
+   "text": "The oven timer pings again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't even know what that's for."
+  },
+  {
+   "t": "direction",
+   "text": "He goes back to the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You know what? I think I'm gonna stay here and make sure he's okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, that's probably a good idea."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. I'll see you in the morning."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh-huh. Okay. You know what, Joey, I don't think he's ever gonna be okay with this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It doesn't look good, does it?"
+  },
+  {
+   "t": "direction",
+   "text": "They kiss each other on the cheek, and Rachel leaves."
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment the next morning. Ross is very hung-over on the couch as Joey enters with a cup of coffee for him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Morning. Here you go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks. Did you stay here all night?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So you took off my pants and shoes?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, no, no. You actually did that when you were dancing to the Chicago-soundtrack. Look, Ross, about, about Rachel and I. Listen, you don't have to worry about that, okay? Because nothing is gonna happen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What do you mean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, she and I said from the beginning that we weren't gonna do anything unless you were okay with it. And clearly.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, what are you talking about? I'm fine!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It's okay, Ross, alright? I totally understand. Of course you're not fine. You're.. You're Ross and Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Except we're not. I mean, we haven't been a couple in like, six years. Oh my god, is that right? Has it been that long?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's what I hear, yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This is crazy. I mean, six years? And because of me you guys aren't gonna be together? Can I ask you something? Really, what is this thing with you and Rachel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on, I mean, you know me, you know..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm crazy about her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And she feels the same way?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I think so."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, then, maybe it's time we all moved on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, but, Ross, I mean, you're not okay with it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, but I wanna be. Hey, I will be. Besides, I'm with Charlie, right? Oh my god, I'm still with Charlie, aren't I? I mean, she didn't see the dance, did she?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, no, no, no, that was - that was just for me. Are you sure about this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, I'm sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And we're okay?"
+  },
+  {
+   "t": "direction",
+   "text": "Ross smiles and holds up his hand for a high-five, but he has forgotten about his burnt hands. He gasps in pain as Joey grabs his hand."
+  },
+  {
+   "t": "direction",
+   "text": "ENDING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Monica and Chandler enter to find Phoebe there with the triplets."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, Phoebs"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uhm, we just wanna give you a heads-up. Bill and Colleen hate us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Owen didn't know he was adopted, and Monica told him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Still, he had to find out sometime."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, but how would you like it if someone told the triplets that you gave birth to them?"
+  },
+  {
+   "t": "direction",
+   "text": "The triplets stare at him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm gonna go tell Emma she was an accident. (Runs off.)"
+  },
+  {
+   "t": "direction",
+   "text": "THE END"
+  }
+ ]
+}

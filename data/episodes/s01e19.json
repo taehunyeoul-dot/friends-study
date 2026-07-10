@@ -1,0 +1,1378 @@
+{
+ "id": "s01e19",
+ "season": 1,
+ "episodes": [
+  19
+ ],
+ "code": "119",
+ "title": "The One Where the Monkey Gets Away",
+ "lines": [
+  {
+   "t": "direction",
+   "text": "{Transcriber's Note: The credits list two characters, Tia and Samantha, who I assume are the sweaty women Joey and Chandler meet. However, I don't know which is which, so I've simply called them Woman #1 and Woman #2.}"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Rachel is talking to a customer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, okay, I checked. We have: Earl Grey, English Breakfast, Cinnamon Stick, Camomile, Mint Medley, Blackberry, and.. oh, wait, there's one more, um.. Lemon Soother. You're not the guy that asked for the tea, are you? (Guy shakes his head) Okay."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Monica enters with some mail."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Mail call, Rachel Green, bunk seven."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thank you. (Examines it) Oh, cool! Free sample of coffee!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh good! 'Cause where else would we get any?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh. Right. ...Oh great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Country club newsletter. My mother sends me the engagement notices for 'inspiration.' Oh my God! Oh my God, it's Barry and Mindy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Barry who you almost...?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Barry who I almost."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And Mindy, your maid of...?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Mindy, my maid of. Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Takes it) That's Mindy? Wow, she is pretty. (Sees Rachel's look) Lucky. To have had a friend like you."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Rachel and Ross are eating Chinese."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Marcel. Bring me the rice, c'mon. Bring me the rice, c'mon. Good boy. Good boy. C'mere, gimme the rice. (Marcel brings the rice) Thank you, good boy. Well, I see he's finally mastered the difference between 'bring me the' and 'pee in the'. (Rachel ignores him) 'Bring me the' and- Rach?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I'm sorry. Oh, this is so stupid! I mean, I gave Barry up, right? I should be happy for them! I am, I'm happy for them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. Oh, oh, I guess it would be different if I were- with somebody."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Whoah, uh, what happened to, uh, 'Forget relationships! I'm done with men!' The whole, uh, penis embargo?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I don't know. I guess it's not about no guys, it's about the right guy, y'know? I mean, with Barry, it was safe and it was easy, but there was no heat. With Paolo, that's all there was, was heat! And it was just this raw, animal, sexual..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wait-wait. I, I got it. I was there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I mean, do you think you can ever have both? Y'know? Someone who's like, who's like your best friend, but then also can make your toes curl?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes. Yes. Yes! Yes, I really do! In fact, it's funny, very often, someone who you wouldn't think could-could curl your toes, might just be the one who..."
+  },
+  {
+   "t": "direction",
+   "text": "Enter the other four"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "...Gets interrupted. Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi, how was the movie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wonderful!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So good!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Suck-fest."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Toootal chick-flick."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I-I'm sorry it wasn't one of those movies with, like, y'know, guns and bombs and, like, buses going really fast..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, I don't need violence to enjoy a movie. Just so long as there's a little nudity."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "There was nudity!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I meant female nudity. Alright? I don't need to see Lou Grant frolicking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica and Phoebe",
+   "text": "Hugh! Hugh Grant!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Alright, I've gotta go. C'mon, Marcel! C'mon! We're gonna go take a bath. Yes we are, aren't we? Yes, we are."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "They're still just friends, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(To Marcel) And I will see you tomorrow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's right, you're gonna spend tomorrow at Aunt Rachel's, aren't you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, hang on, hang on. Does Aunt Monica get a say in this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "'Pwease, Aunt Monica, pwease?' Oh, unclench. You're not even gonna be there."
+  },
+  {
+   "t": "scene",
+   "text": "Joe-G's Pizza, the guys are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can't believe we are even having this discussion."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I agree. I'm, like, in disbelief."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I mean, don't you think if things were gonna happen with Rachel, they would've happened already?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm telling you, she said she's looking for a relationship with someone exactly like me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "She really said that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I added the 'exactly like me' part... But she said she's looking for someone, and someone is gonna be there tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "'Tonight' tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I think it's perfect. Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can't remember the last time I got a girl to take care of my monkey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Rachel is taking care of Marcel and they are watching a soap opera."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Now, now the one in the feather boa, that's Dr. Francis. Now, she used to be a man. Okay, now look, see, there's Raven. We hate her. We're glad she's dying. Okay- (Marcel pushes down a cushion to reveal a shoe) Wh- wh- Marcel, are you playing with Monica's shoes? You know you're not supposed to pl- whoah. Marcel, did you poo in the shoe? (Takes the shoe into the kitchen) Marcel, bad monkey! Oh! Oh! (She notices the newsletter and taps the contents of the shoes onto it, then folds it shut) Sorry, Barry. Little engagement gift. I'm sure you didn't register for that. (She leaves the apartment holding the newsletter at arm's length. However, she leaves the door open. Marcel runs out in the opposite direction. There is a shot from the TV and Rachel runs back in) Who died? Who died? Roll him over! Oh, c'mon, roll him over! Oh...! Well, we know it wasn't Dexter, right Marcel? Because- (Looks down and notices he is missing) Marcel? Marc- (Notices the open door)"
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse. Now everyone but Ross and Phoebe is back at Monica and Rachel's.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "How could you lose him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know. We were watching TV, and then he pooped in Monica's shoe-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait. He pooped in my shoe? Which one?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know. The left one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Which ones?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh. Oh, those little clunky Amish things you think go with everything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Entering) Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Whoah, ooh, why is the air in here so negative?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Rachel lost Marcel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh no, how?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "He- he pooped in my shoe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Which one?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Those cute little black ones I wear all the time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, which one? The right or left? 'Cause the left one is lucky..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "C'mon, you guys, what're we gonna do, what're we gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Alright alright. You're a monkey. You're loose in the city. Where do you go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, it's his first time out, so he's probably gonna wanna do some of the touristy things. I'll go to Cats, you go to the Russian Tea Room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, my, God, c'mon, you guys! He's gonna be home any minute! He's gonna kill me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, we'll start with the building. You guys take the first and second floor, Phoebe and I'll take third and fourth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, what'm I gonna do? What'm I gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, you stay here, and just wait by the phone. Spray Lysol in my shoe, and wait for Ross to kill you."
+  },
+  {
+   "t": "direction",
+   "text": "They all leave"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Anybody wanna trade? Oh..."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to a hallway in the building, Monica and Phoebe are knocking on a door. Mr. Heckles emerges.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "Whaddyou want?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Mr. Heckles, our friend lost a monkey. Have you seen it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "I left a Belgian waffle out here, did you take it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why would you leave your Belgian waffle in the hall?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "I wasn't ready for it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "A monkey. Have you seen a monkey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "Saw Regis Philbin once..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, thank you, Mr. Heckles. (They move off)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "You owe me a waffle."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Monica and Rachel's.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(On the phone) Okay, he's a, he's a black capuchian monkey with a white face... (Enter Ross) ...with, with Russian dressing and, and pickles on the side. Okay. Thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey. How did, uh, how'd it go today?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Great! It went great. Really great. Hey, is that wine?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. You, uh, you want some?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I would love some. But y'know what? Y'know what? Let's not drink it here. I'm feeling kinda crazy. You wanna go to Newark?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, okay, yeah, we could do that, but before we head off to the murder capital of the North-East, I was, uh, kinda wanting to run something by you. Y'know how we were, uh, y'know, talking before about, uh, relationships and stuff? (Uncorks the wine) Well-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God, Ross, I cannot do this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, quick and painful. (Starts to cork the wine)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God... Okay. Alright. Alright. Okay. Ross, please don't hate me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, what? What-what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Y'know Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "...Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I kind of... I kind of lost him."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to outside the window, with Ross reacting with disbelief. The shot pans back until we see Marcel sitting on the window ledge.]"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Angry) I- I- I ca- I can't believe this. I mean, all I asked you to do was keep him in the apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I know, I know, I'm sorry-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, y'know what, I guess it's partially my fault. Y'know, I shouldn't've, uh, asked you to start off with a monkey. I should've started you off with like a pen or a pencil."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(Tearfully) Ross, I'm doing everything that I can, I've got everybody looking for him, and I- (Door buzzer goes and she runs to get it) Oh! Who is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Intercom",
+   "text": "Animal Control."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "See? I've even called Animal Control!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You called Animal Control?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh-huh... why... do you not like them?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Marcel is an illegal exotic animal. I'm not allowed to have him in the city. If they find him, they'll take him away from me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "O-okay, now see, you never ever ever told us that..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's right, I.. 'cause I didn't expect you were gonna invite them to the apartment!"
+  },
+  {
+   "t": "direction",
+   "text": "A knock on the door. Rachel swiftly opens it"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi, thanks for coming."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "(Animal Control) Somebody called about a monkey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, y'know what? That was a complete misunderstanding! (Ross puts his arms around her and they act all sweetness and light)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, we thought we had a monkey, but we-we didn't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Turned out it was a hat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Cat!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Cat! What'm I saying? Cat!"
+  },
+  {
+   "t": "direction",
+   "text": "Luisa nods, but then Monica and Phoebe run in"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi. We checked the third and fourth floor, no-one's seen Marcel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "My uncle Marcel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, is that who the monkey's named after?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "Oookay. Are you aware that possession of an illegal exotic is, uh, punishable by up to two years in prison and confiscation of the animal?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God. You'd put that poor little creature in jail?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Pheebs, you remember how we talked about saying things quietly to yourself first?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes, but there isn't always time!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Look. I'm sure there's some friendly way to reconcile this! Um, have a seat. First of all, we haven't been introduced, I'm Monica Geller."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "Oh my God, you are! And you're Rachel Green!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "Luisa Gianetti! Lincoln High? I sat behind you guys in home room!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Luisa? Oh my God! Monica! It's Luisa!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "The Luisa from home room!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "You have no idea who I am, do you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, none at all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "None."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "Well, maybe that's because you spent four years ignoring me. I mean, would it have been so hard to say 'Morning, Luisa'? Or 'Nice overalls'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, I'm- I'm so sorry!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "Ah, it's not so much you, you were fat, you had your own problems. (To Rachel) But you? What a bitch!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Be that as it may, d'you think you could just help us out here on that monkey thing? Y'know, just for old times' sake? Go Bobcats?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "I could... but I won't. If I find that monkey, he's mine. (Leaves)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Dun-dun-duuuur! Sorry."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to another part of the building. We see Marcel jump in through a window and run down some stairs, then Chandler and Joey come down from the upper floor without noticing.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Marcel?"
+  },
+  {
+   "t": "direction",
+   "text": "They come to a door and silently agree to try it. A very sweaty woman emerges"
+  },
+  {
+   "t": "direction",
+   "text": "Woman No. 1: Hi, can I help you?"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler and Joey are dumbstruck for a moment"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Um, we're kind of having an emergency and we-we were looking for something..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "A monkey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes have you seen any?"
+  },
+  {
+   "t": "direction",
+   "text": "Woman No. 1: No. No, haven't seen a monkey. Do you know anything about fixing radiators?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Um, sure! Did you, uh, did you try turning the knob back the other way?"
+  },
+  {
+   "t": "direction",
+   "text": "Woman No. 1: Of course."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh. Then, no."
+  },
+  {
+   "t": "direction",
+   "text": "Another sweaty woman comes to the door and speaks to her friend"
+  },
+  {
+   "t": "direction",
+   "text": "Woman No. 2: Did I put too much rum in here?"
+  },
+  {
+   "t": "direction",
+   "text": "Joey and Chandler shoot each other glances"
+  },
+  {
+   "t": "direction",
+   "text": "Woman No. 1: Just a sec. (To Chandler and Joey) Hope you find your monkey. (She starts to shut the door"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, nononowaitwaitwaitnono! Uh... we may not know anything about radiators per se, but we do have a certain amount of expertise in the heating and cooling... mileu."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, aren't we kind of in the middle of something here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, but these women are very hot, and they need our help! And they're very hot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "We can't, alright? (To the women) We're sorry. You have no idea how sorry, but... We promised we'd find this monkey. If you see him, he's about yea high and answers to the name Marcel, so if we could get some pictures of you, you'd really be helping us out."
+  },
+  {
+   "t": "direction",
+   "text": "The women quickly shut the door"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, from now on, you don't get to talk to other people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Marcel?!"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Monica and Phoebe searching the basement.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Both",
+   "text": "Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh-my-God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Whaaat!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Something just brushed up against my right leg!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, it's okay, it was just my left leg."
+  },
+  {
+   "t": "direction",
+   "text": "Marcel makes a monkeyish noise. He is sitting in the corner"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Look, Phoebe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah! Oh, c'mere, Marcel! Oh, Marcel, c'mere!"
+  },
+  {
+   "t": "direction",
+   "text": "Luisa appears on the stairs"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "Step aside, ladies! (She loads a gun)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What're you gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "Just a small tranquiliser."
+  },
+  {
+   "t": "direction",
+   "text": "In slow motion we see Phoebe look at Marcel, then at Luisa. She jumps toward Marcel just as Luisa fires the gun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Run, Marcel, run! Run, Marcel! (Marcel runs off and Luisa runs after him. Monica goes to check up on Phoebe) Are you okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, think so. Oh! (She notices the tranquiliser dart has hit her in the butt and removes it) Huh. (Sways back) Whoah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh gosh."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Marcel walking along a hallway. He notices a banana on the floor and picks it up. The hand of an unseen person grabs him and carries him away. Then cut to Ross and Rachel on the street outside.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Marc- oh, this is ridiculous! We've been all over the neighbourhood. He's gone, he's-he's just gone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, you don't know that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh come on. It's cold, it's dark, he doesn't know the Village. (Kicks a sign in frustration) And now I have a broken foot. I have no monkey, and a broken foot! Thank you very much."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, I said I'm sorry like a million times. What do you want me to do? You want me to break my foot too? Okay, I'm gonna break my foot, right here. (Kicks the sign) Ow!! Oh! Oh my God, oh my God! There, are you happy now?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, yeah. Y'know, now that you kicked the sign, hey! I don't miss Marcel any more!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Y'know, it is not like I did this on purpose."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, no no no. Nono, this is just vintage Rachel. I mean, things just sort of happen around you. I mean, you're off in Rachel-land, doing your Rachel-thing, totally oblivious to people's monkeys, or to people's feelings..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't even wanna hear it, you're just..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, forget it, okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? What?"
+  },
+  {
+   "t": "direction",
+   "text": "A man carrying a box of bananas walks past them. They stare for a minute and then hobble after him"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Both",
+   "text": "Hey! Hey, Bananaman!"
+  },
+  {
+   "t": "direction",
+   "text": "Scene 4: Everyone in the hall outside Mr. Heckles' door. Ross is carrying the box of bananas. He bangs on the door"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, this is so intense. One side of my butt is totally asleep, and the other side has no idea."
+  },
+  {
+   "t": "direction",
+   "text": "Mr. Heckles opens the door"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi, did you order some bananas?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "What about it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Gimme back my monkey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "I don't have a monkey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Then what's with all the bananas?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "Potassium."
+  },
+  {
+   "t": "direction",
+   "text": "There is a monkey-like noise from within and Ross pushes past Mr. Heckles and enters his apartment"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Marcel? Marcel? Okay, where is he? Where is he? Marcel? Marcel?"
+  },
+  {
+   "t": "direction",
+   "text": "Marcel jumps into view wearing a pink dress. Everybody gasps"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Marcel! What've you done to him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "That's my monkey. That's Patti, Patti the monkey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Are you insane? C'mere, Marcel, c'mon. (Marcel starts to go to him)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "C'mere, Patti. (Marcel turns round)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "C'mere, Marcel. (Turns to Ross)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "C'mere, Patti. (Turns to Mr. Heckles)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "(Out of shot) Here, monkey. Here, monkey! Here, monkey! (Marcel runs to the door and into Luisa's cage, which she slams shut) Gotcha."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, gimme my monkey back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "That's my monkey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "You're both gonna have to take this up with the judge."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Heckles",
+   "text": "That's not my monkey. Just the dress is mine, you can send that back whenever."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Alright, I want my monkey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, c'mon, Luisa!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "Sorry, prom queen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To Rachel) You had to be a bitch in high school, you couldn't've been fat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Alright. In high school I was the prom queen and I was the homecoming queen and the class president and you... were also there! But if you take this monkey, I will lose one of the most important people in my life. You can hate me if you want, but please do not punish him. C'mon, Luisa, you have a chance to be the bigger person here! Take it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Luisa",
+   "text": "Nope."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Alright. Well then how about I call your supervisor, and I tell her that you shot my friend in the ass with a dart?"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's. Rachel and Ross are there. Ross is trying to get the dress off Marcel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It'll be nice to get this off finally, won't it? Yes it will. (Marcel resists) Or we can leave it on for now, that's fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Y'know, with the right pair of pumps, that would be a great little outfit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Listen, I'm- I'm sorry I was so hard on you before, it's just I..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, Ross, c'mon. It's my fault, I almost lost your..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, but you were the one who got him back, y'know? You, you were great. ...Hey, we uh, we still have that, uh, that bottle of wine. You in the mood for, uh, something grape?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That'd be good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Alright. (He goes to get the glasses. Then he hesitates and turns off the main light. Rachel looks round and he acts surprised) The, uh, the neighbours must be vacuuming. (He sits down and starts to pour the wine) Well, so long as we're here and, uh, not on the subject, I was thinking about, uh, how mad we got at each other before, and, um, I was thinking maybe it was partially because of how we, um..."
+  },
+  {
+   "t": "direction",
+   "text": "Barry bursts in"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Barry",
+   "text": "Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Barry?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Barry",
+   "text": "I can't. I can't do it, I can't marry Mindy. I think I'm still in love with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross and Rachel",
+   "text": "Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "We have got to start locking that door!"
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Monica, Joey, Phoebe, and Chandler are looking through Monica's high school yearbook"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This is me in The Sound of Music. See the von Trapp kids?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Nope."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's because I'm in front of them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Eh. I thought that was an alp."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, high school was not my favourite time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I dunno, I loved high school. Y'know? It was just four years of parties and dating and sex."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, well I went to boarding school with four hundred boys. Any sex I had would've involved a major lifestyle choice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Gosh, doesn't it seem like a million years ago?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh. Oooh! Ooh! Ooh! (She stands up and starts to dance around) Ooh! My butt cheek is waking up! Oooh! Ooh!"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

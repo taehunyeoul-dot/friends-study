@@ -1,0 +1,1289 @@
+{
+ "id": "s10e15",
+ "season": 10,
+ "episodes": [
+  15
+ ],
+ "code": "1015",
+ "title": "The One Where Estelle Dies",
+ "lines": [
+  {
+   "t": "dialogue",
+   "speaker": "Produced by",
+   "text": "Robert Carlock & Wendy Knoller"
+  },
+  {
+   "t": "direction",
+   "text": "[Flashback scene from last week, Monica and Chandler's kitchen, Rachel, Ross, Monica and Chandler are there.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jennifer",
+   "text": "Previously on Friends..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "How did the job stuff go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "He offered me one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(gasps) You know what? This calls for a bottle of Israels finest."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "The job is in Paris. (we see Ross stare in disbelief)"
+  },
+  {
+   "t": "direction",
+   "text": "FADE OUT"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, God! Please, somebody say something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So if you take this job you'll be moving to Paris?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Or facing a bitch of a commute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I know, it's huge, and it's scary, and it's... really far, far away from you guys, but this is such an incredible opportunity for me. And I've already talked to them about our situation with Emma, and they said they'll do whatever we need to make us feel comfortable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I mean, I'll fly back and forth, they'll fly you out... Anything we want."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "My boss said I might be getting a new lamp in my cubicle. (Monica looks at him and can't really place what he just said)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right, we'll work it out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thank you! Thank you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, yeah! (they hug) You sure this is what you want?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I think it is. (Ross looks very sad. Phoebe and Joey enter.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, what's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I got a really incredible job offer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, great! All right!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Good for you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's in Paris."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What? No, no, no! No, no... no... no, no... No, too much is changing, okay? First, Phoebe getting married (to Phoebe) Congratulations! (pointing to Monica and Chandler)... and then these two move into a stupid house in the stupid suburbs..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, this afternoon you said you'd be supportive..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, it comes and goes. I wouldn't trust it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Look, you guys... this is really, really important to me. And it means a lot if you could try to get on board."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Of course we can. Congratulations. (they hug, but Joey shakes his head.) Yay! (she gestures Joey to come and join in) Joey..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, no, no. My hugs are reserved for people STAYING IN AMERICA."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(walking towards Joey) Joey, it would mean so..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! No! Get your France-going-arms away from me. (He walks out, and Rachel follows him)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You okay with this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, it makes me feel sad, but..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Talking to Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I see."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, Rachel moving to another country? Not being able to see her every day. How can I be okay with this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know, but what are we gonna do? She really needs this job."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Do you think if the Ralph Lauren people offered her her old job back, she would take it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How is that gonna happen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Is this the best way to use one of your three magic wishes?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know. I could talk to her boss. Yeah! I met him at that Christmas party. We really hit it off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You mean the guy who kept calling you Ron?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I didn't say we were brothers."
+  },
+  {
+   "t": "direction",
+   "text": "OPENING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Phoebe's reading a newspaper. Chandler and Monica walk in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey Phoebe. Hey, tell me what you think. All right. The house next door to the one that we're buying in Westchester? Just went on the market. I wanna take a look at it, but Chandler doesn't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We close escrow tomorrow, so seeing another house can only confuse us, and we're easily confused. We're not very bright."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But what if it is better than ours? Should we at least look?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What do you think Pheebs?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I think that shirt makes you look like you should work at a Baskin Robbins... Anyway... Hey, isn't Joey's agent Estelle Leonard?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "She died."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You're kidding!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's terrible!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, last Saturday. Wow! She was the first black man to fly solo across the Atlantic. (Chandler and Monica look puzzled) Oh, wait a minute, I read the wrong one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, she was just an agent."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey's gonna be *so* upset."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I know. *He* always wanted to be the first black man to cross the Atlantic."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, we cannot tell Joey about this. He's already flipping out about everything that's changing. This will push him over the edge."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Seriously, you don't think we should tell him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, not for a little while. Let's just give him a few days to get used to everything else."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What if he reads it in the paper?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Unless Snoopy says it to Charlie Brown, I think we're okay."
+  },
+  {
+   "t": "scene",
+   "text": "Ralph Lauren. Mr Zelner's office. Ross knocks on the door and enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "May I help you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, I'm a friend of Rachel Green's. Uhm, actually we met at the Christmas party about two years ago."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "Oh right, uhm, Don?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Close. Ron. (shakes hands)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "Uh... What can I do for you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uhm, well... I'm here to see if you'll give Rachel her job back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "Ah, did she ask you to come here and do this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, no. At first I have to get you to agree. Then we'll see if she wants to come back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "Wow, that is tempting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, she loved her job here. And let's face it: you're not gonna find anyone who did it as well as she did it. Isn't that true?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "She is good!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(surprised) Huh, I took a shot there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "But I'm sorry. There's nothing I can do... Ah, it's not true, there is... nothing I want to do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I see... Thanks very much. (he gets up and walks to the door. On his way out he looks at the photographs Mr Zelner has near his door. He picks one up.) Is this your son?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "Yeah, his name is Ross. (Ross looks very surprised) What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, nothing, it's just, it's close to Ron. Does he.. Does little Ross like dinosaurs by any chance?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "Yeah, they're all he talks about, why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How would he like to come with me to the Museum of Natural History after everyone else has left, just the two of us, and he can touch anything he wants. (Mr. Zellner looks shocked). I just heard it as you must have heard it and that's not good. Let me start again. I'm a paleontologist, you'll be there with us and the touching refers only to bones... fossils!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "You can really arrange that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You let Rachel come back, and it's done."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "Well, I guess having Rachel back wouldn't be the worst thing in the world."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah! Yes! Thank you! This is great. Thank you so much. And I swear, your kid is going to have the time of his life."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "That's great. I worry about little Ross. He's always reading, he's collecting rocks and he's obsessed with dinosaurs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "He'll be fine."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Phoebe's reading, Joey has just entered the room"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey. Everything ok?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm just mad at my agent."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Estelle? Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "There's a part in a TV movie that I would be perfect for and I didn't even be put up for it! She'd better have a good reason."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm guessing she does."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well (taking his cell phone out of a pocket) I'm wanna hear it, because she keeps doing this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, no, no, wait, wait, wait. All right, I gotta go. Just listen. Promise me, that you will wait a minute before you call her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ok. Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Because a promise between friends means never having to give a reason. (she leaves)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I love that saying!"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe is outside, taking her cell phone out of her bag and making a call. Joey is inside, and his mobile phone starts ringing)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hello?"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe (doing Estelle): Joey, it's Estelle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I was just gonna call you! That's weird."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe-Estelle",
+   "text": "It's a little coincidental, but believable. (Joey nods in agreement). Listen, I'm sure you're wondering why I didn't get you an audition for that TV movie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, actually I am!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe-Estelle",
+   "text": "I guess I dropped the ball there. Whoopsie!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's it? You know, it seems all you do lately is drop the ball."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe-Estelle",
+   "text": "Don't take that tone with me. Who you think you are? Alan Lemond, the first black man to fly solo across the Atlantic?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, no, look. All I'm saying is that you're my agent, ok? And you're not getting me into any auditions and I'm tired of it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe-Estelle",
+   "text": "What are you saying?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm saying that... (pause). This isn't working for me anymore, ok? Estelle, you're fired. Goodbye. (he hangs up the phone)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Man, tough week for Estelle!"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. Rachel's there and Ross enters the room with a stuffed dinosaur"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Emma left her stuffed t-rex at my house. You know she can't sleep without it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, well, she's asleep now. Stop forcing that thing on her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, you're not gonna believe what happened to me today! Ralph Lauren called, and gave me my job back!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Nooo!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yee. I mean, it was so weirdest thing. They fired me and then out of nowhere they just hire me back! I mean, that place must have been falling apart without me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, you're not going to Paris."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, I'm still going."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wh... wh...what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "When the Louis Vuitton people found out that Ralph Lauren wanted me back, the offered me more money! Isn't that great?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeeeah! (They high-five)"
+  },
+  {
+   "t": "scene",
+   "text": "house next to the one the Bings are moving into. Chandler and Monica knock, a lady opens the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi. We're buying the house next door, and we were wondering if we could just take a look around."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lady",
+   "text": "Oh, sure. I'm showing it to someone else right now, but please, look around."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It feels like we're cheating on our house. And if we're gonna cheat, shouldn't it be with like a hot, younger house, that does stuff that our house won't do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ours is so much better! This living room is smaller, the dining room looks like a cave! What a hole!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lady",
+   "text": "So? What do you think?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Love it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lady",
+   "text": "Well, we already have one offer on it, and I think the lady upstairs is goning to make another one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "They could be our neighbors, what are they like?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lady",
+   "text": "Oh, the woman upstairs is very nice. She and her husband have two kids, he's on Wall Street and she..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler and Monica are speechless)."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler (to Monica): Sure."
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. He's there and Phoebe comes in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey Joey, want come with me to... are you ok?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I just... I just feel bad about firing Estelle. This is got to be killing her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, that wouldn't kill her. Ordinary embolism might."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know. She's got to be taking it hard, I was like her only client. Except for this guy who eats paper. And I'm guessing he eats more money than he makes. Look, I know she's not a great agent, but she did stick with me for ten years. I'm gonna call her and hire her again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, no, no! Don't call her! You wait for her to call you (Joey considers it)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Because patience is the road to understanding (she thinks) which ... is the key... to a happy heart."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(impressed) You blow me away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(picking up her bag) All right, so promise you're gonna wait for her to call you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I promise. And that means, never having to give a reason. (Phoebe stops herself from laughing and leaves)"
+  },
+  {
+   "t": "scene",
+   "text": "The house Monica and Chandler are viewing. Janice comes down the stairs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "What a small world!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And yet I never run into Beyonce!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Realtor",
+   "text": "You two know each other?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh, we go way back. Before Monica made an honest man out of him, Chandler used to be my little love muffin! (does her irritating laugh). So? Are you guys thinking of getting this house too? Ooh! Are we gonna have a bidding war? I'd better warn you, I'm a toughie (playfully punches Chandler, who tries to get away from her)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(at Janice's punching) Don't, don't! (looks disgusted)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, actually, we're buying the house next door. (Janice gasps)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Monica and with bulging eyes) Why!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(looks confused and scared) I don't know why."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Ooh, that decides it then. I was on the fence. But knowing that you two would be our neighbors? Ah! now we have to get it! (Chandler and Monica are utterly shocked) Ellen, we're going to talk numbers. (Grabs Ellen by her elbow and pulls her outside)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "This can not be happening!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, the realtor said another couple made an offer. Maybe the Janice's won't get it! Maybe the other couple will."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The only way that that is going to happen, is if the other couple are the Hitlers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Thinks a little more) Okay, Okay, (clapping her hands) All right. What if we got both houses? Huh? We can turn this house into a guest house."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That is a great idea! And by the way, I don't mean to sound distasteful, but when did you start crapping money!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, you come up with an idea."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright alright, we still have three hours till escrow closes on our house. We can still get out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But we love our house."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Will we love it so much with her next door? And she's gonna be louder out here too. Just the crickets and (apes Janice's voice) \"Oh My God\"!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, but if we don't get this house, she's stil gonna show up wherever we go! I mean, at least if she's here, it eliminates the element of suprise. I mean, never again will you have to hear the three words that make your balls jump back up inside your body. (She shows this with her index finger, mimicking it pushing something up)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(looks afraid, but at the same time, knows she's right) Well, we have to do something. We can't have her living next door. (Janice's laughs loudly outside) Oh, that does it too. (Motions with his index finger like Monica did)"
+  },
+  {
+   "t": "scene",
+   "text": "Mr. Zellner's office. There is a knock on the door."
+  },
+  {
+   "t": "direction",
+   "text": "r Zelner: Who is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(enters) It's me. Ron. (Mr. Zellner looks annoyed) Look, I um, I now Rachel turned you down but I think there is a way you might be able to get her to come back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "This may surprise you, but re-hiring fired employees, is not my main job."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Just hear me out. How would you feel about offering her a raise? (looks hopeful)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "(obviously amused) Not good, Ron."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Perhaps I can persuade you. What if you can give your son this (Takes a huge egg out of his back) genuine pterodactyl egg (whispers) replica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "(Takes a long look at the egg while he considers it) Wow, that's pretty cool (Takes the egg from Ross)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Huh? So? We have a deal?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "Okay, you got it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes! yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "This is gonna make me very popular."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, (grins) Believe me, the ladies, they love it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr Zelner",
+   "text": "(looks at Ross, for a long moment, confused) I meant with my son."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Good, 'cause the ladies, not so much. (shakes his head, give him a thumbs up and leaves)"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. He walks in reading his mail, and plays back his messages on the answering machine"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Answering machine",
+   "text": "Joey, this is Al T. Booker, (Looks annoyed that he called him) the guy who eats paper. I'm sure you've heard that Estelle passed away. (Looks shocked) I wanted to let you know there's a memorial for her at the Westside chapel, tomorrow at ten. Hope you can make it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God. (Still in shock when his mobile rings, he picks it up) Hello?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(on the other side of the line, still pretending to be Estelle) Joey, it's Estelle. (Joey's eyes bulge up, he looks afraid)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Estelle?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, I wanted to call and tell you that there's no hard feelings for firing me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(still scared) Ok-ay. I just, I can't believe you're calling me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I didn't think I should just drop by..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, no, no! (Starts looking around the room, terrified) Don't drop by, don't drop by!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Anyway, you did what you had to do. I'm okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Can I ask you something? Uhm, what's it like there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Looks around) It's alright. Look kiddo, I gotta go. Good luck with the career. You're gonna be huge."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thanks for everything Estelle. Bye. (Hangs up and reads the phone display) \"out of area\". Boy, I'll say."
+  },
+  {
+   "t": "scene",
+   "text": "The house next door to Chandler and Monica's new house. Chandler is pacing worriedly through the living room when Janice enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Well... I just talked to Sid, we are definitely putting in an offer on the house... a-a-and I'll bet we get it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The Hitlers will be so disappointed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "All right, I got to run. Tell Monica I say goodbye. And... I'll see you later, neighbor. (Janice laugh)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wait! I just want you to know that... I'm so happy you're going to be here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh, me too... (laughs)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because... that way... we can pick up where we left off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I never stopped loving you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh... my..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, yeah, yeah! I want you... I need you... I must have you Janice Litman Goralnik Neihosenstein."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Chandler, what are you talking about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Now that you live next door, we can be together every day. Sid and Monica never have to know a thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "I don't know what to say... I mean, you know, obviously we have this... heat between us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(stunned) Obviously."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "But I love my husband. And I know you love your wife. Now, I don't think we should get this house now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Don't say that. Don't tangle the dream and take it away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Chandler, one of us has got to be strong."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I understand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Although, maybe just... one last moment of weakness... (she kisses Chandler flat on the mouth. Chandler squirms. When she's finished, he looks at her lovingly but uneasily.) Goodbye Chandler Bing. (She leaves)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(speaking as in pain) They're never coming down now."
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment. Ross is working on his laptop when Rachel enters with Emma."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You are never going to believe what happened to me today."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ralph Lauren called again and they offered me more money."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "They did?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. It was the weirdest thing. Zelner called me and he said we'll do everything we can to get you back. And that I should thank some Ron... I don't even know what department that guy's in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, what are you gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I took it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's great! So you're staying in New York!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Both",
+   "text": "YAY! WHOO! YAY!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're excited, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(hesitant) Ye-ah. Yeah! You know, the money's great. It's certainly the easier choice..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Right!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, you know, was I looking forward to going to Paris? Sure. You know, was I excited about working in the fashion capital of the world? Ooh, absolutely... Oh...! Yeah, but you know, this is... it's fine. I'm fine going back to a job where I've pretty much gotten everything out of that I possibly can... (she sits down, and Ross who is stunned to hear all this follows her example)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uhm, I hadn't no you... I had no idea you were so excited about Paris. Uhm, I mean, you said you were scared."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well yeah, but I mean, it was good scared though, you know? Like when I-moved-to-New-York scared. Or uhm, when I-found-out-I-was-gonna-have-Emma scared... But this is... fine. This is gonna be good. (they both stare around)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(after a long pause) You should go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's what you want. You should go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You really think so?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I really do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But I already told Zelner that I would come back..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(picks up a skull of some carnivore from his side table and puts it in the same bag in which he brought the pterodactyl egg to Zelner) I'm sure he'll understand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right. ALL RIGHT! I'm gonna do it. I'm gonna go to Paris."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah! I'm going to Paris. Thank you, Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, yeah, oh! (They hug)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Oh, I'm so happy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Then I'm happy too. (They're still hugging - fade out)"
+  },
+  {
+   "t": "direction",
+   "text": "COMMERCIAL BREAK"
+  },
+  {
+   "t": "scene",
+   "text": "Estelle's memorial service. Joey is giving a speech. Next to him is a blown op photograph of Estelle behind her desk and there's a man standing next to him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thank you all for coming. We're here today to pay respects to a wonderful agent and a beautiful woman... (Joey looks at the photograph) ..inside. As Estelle's only two clients we would like to say a few words. (Joey looks for his notes. The man next to him is chewing something.) Dude, where's my speech? (the man swallows something and looks at Joey.) That is entertaining. Al Zebooker everybody. (he applauds and Al shows that there's nothing left in his mouth.)"
+  },
+  {
+   "t": "direction",
+   "text": "THE END"
+  }
+ ]
+}

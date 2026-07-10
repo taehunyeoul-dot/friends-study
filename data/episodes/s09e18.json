@@ -1,0 +1,1567 @@
+{
+ "id": "s09e18",
+ "season": 9,
+ "episodes": [
+  18
+ ],
+ "code": "918",
+ "title": "The one with the lottery",
+ "lines": [
+  {
+   "t": "dialogue",
+   "speaker": "Teleplay",
+   "text": "Sherry Bilsing - Graham & Ellen Plummer"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Story",
+   "text": "Brian Buckner & Sebastian Jones"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk - Chandler, Monica, Phoebe, Ross and Rachel are sitting on the sofas. Joey enters"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Monica, hey, can I borrow the Porsche?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Alright!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But ehm...what is it not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(abashed) A place to entertain my lady friends."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And what else is it not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(even more abashed) A place to eat spaghetti."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Very good! (Gives him the keys) What do you need it for anyway?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh well, the powerball lottery is upto 300 million and they don't sell tickets here in New York, so..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! So you're driving up to Connecticut?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(hesitates for a moment)Yeah Connecticut...Not West Virginia."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, maybe I'll drive you up there! I'd like to buy some tickets myself!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah with Chandler not getting paid, we could really use 300 million dollars."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, because if I was at my old job we'd say 300 million? No thank you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey will you get me tickets too?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah me too. oh! I have an idea. Why don't we all pitch in 50 bucks, we'll pool our money together and then if we win, we'll split it!"
+  },
+  {
+   "t": "direction",
+   "text": "Everyone almost simultaneously except Ross: yeah thats a great idea!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No thanks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You don't wanna win the lottery?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(in a mocking voice)Uh...sure I do, and I also wanna be King of my own country and find out what happened to Amelia Earhart."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Still on Amelia Earhart?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The woman just vanished!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Seriously, Ross, you don't want in on this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No! Do you know what your odds are of winning the lottery? I...I mean you have a better chance of being struck by lightning 42 times."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes but there's six of us so we'd only have to get struck by lightning 7 times."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I like those odds!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Seriously you guys, I can't believe you're going to spend 250 dollars on the lottery, I mean that's such a bunch of boohaki."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(looking around at the others)I'll ask. (To Ross) Boohaki?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh oh, we think Emma is about to start talking so we're trying to be careful about what words we use in front of her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah so get ready to hear alot of ehm...boohaki, goshdarnit and brotherpucker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How do you know she's gonna start talking?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well when I talk to her I almost feel like she understands what I'm saying."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Kinda like Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(who wasn't paying attention)What's that now?"
+  },
+  {
+   "t": "direction",
+   "text": "Opening credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's apartment. Monica, Chandler, Rachel and Joey are in the kitchen"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "God! Look at all these tickets! It's so exciting! You know I haven't won anything since the sixth grade."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Pie eating contest?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh! You assume because I was heavy that's the only way I could win something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, I saw a picture of you covered in blueberries."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(smiling)That was a good day!"
+  },
+  {
+   "t": "direction",
+   "text": "Suddenly Ross comes running into the apartment"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(yelling to Monica)They're towing your car, they're towing your car!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm parked in a garage on Morton!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(panting)They're towing a car. And I am seeing...spots."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(sounding panicky)Oh my god Ross! You don't have Emma! And Rachel you don't have Emma! (Starts yelling) Where's Emma? Who has Emma!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey relax! My mother picked her up two hours ago. You were there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(not yelling anymore)I was?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Racel",
+   "text": "Yes and you talked to her..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I did?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She dropped off a casserole?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah! The casserole lady."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Ross)So, did you come by to watch us win the big bucks?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, uh... and then I figured after you win, we could all go out to the balcony and see a night rainbow with gremlins dancing on top of it!"
+  },
+  {
+   "t": "direction",
+   "text": "phone starts ringing and Chandler comes running out of the bathroom"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(hysterical)Don't touch the phone! I'll get it, I'll get it, I'll get it!! (picks up the phone)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Monica)Think he washed his hands?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(into receiver)Hello? Hey Charlie, what do you know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Monica)What's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler is supposed to find out if he's getting an assistent job at his ad agency. But out of the 15 interns, they are only hiring three."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh! Tough odds!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(mockingly)Yeah if only it were a sure thing like your 24 state lottery!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(smiling)Look who's coming around!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(still on the phone)Damnit. Alright call me when you know more."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(excited)Did you get it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "One of the slots got filled."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Still excited)By you!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Sense the tone! No that kid Nate got it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh! I hate that guy! I mean come on kid! Pull up your pants!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, there's two spots left right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah...I mean I want this so much! I mean, I wanna get one, I want my friend Charlie to get one...Except I don't care about Charlie."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe enters"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(excited)Hey you guys! Ok, you're not going to believe this! I just saw my psychic and she said I was definitely gonna win the lottery tonight!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey that reminds me, I thought we could use some extra luck so I brought a wishbone home from work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(mockingly)A psychic AND a wishbone? Guys! Give someone else a chance!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, who wants to do it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh can I? Vegetarians never get to do the wishbone. It's really not fair either! You know, just because we don't eat the meat doesn't mean we don't like to play with the carcasses!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, hey Rach?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no, I'm good, I don't wanna get that turkey smell all over my hands."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'll do it!! It'll get the casserole stink off of mine."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe and Joey both grab one side of the wishbone"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I hope I win!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, it doesn't really matter ... you're both wishing for the same thing, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I can't tell you what I'm wishing for! Else...you know...won't come true!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Right! .. but we \"know\" what you're wishing for!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Can't really say!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I understand, but you're wishing for what we think you're wishing for, aren't you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(slightly irritated)I'm not really comfortable with these questions!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel, Chandler and Monica",
+   "text": "Please, just do it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "One, two, three!"
+  },
+  {
+   "t": "direction",
+   "text": "they break the wishbone"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I won, hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know what, I'm sure your wish is gonna come true, but, you guys - just in case, maybe a genie will come out if we rub this lamp! (rubs lamp, stops because it's very hot) Ah!! That thing gets hot!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You know, Ross, just keep making your jokes. How are you gonna feel if we actually do win?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, you're not gonna win."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I know, I know, the odds are against us, but somebody has to win, and it could be us! And then how you gonna feel? You know, we're gonna be all like \"oh everybody, let's take our helicopters up to the cape\" and you're gonna be all like \"oh, I can't guys, I'll meet you guys up there, I gotta gas up the Hyundai\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok, I've heard myself on tape and I sound nothing like that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can see the headline now: \"Lottery winners' friend filled with regret eats own arm\"."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why would I eat my own arm?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well you wouldn't, but we own the paper, we can print whatever we want."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You know what, Ross? I'm gonna throw in 50 bucks for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Because I know that you think the lottery is \"boohaki\" but we're all here and gonna watch the numbers and have fun. And you're my brother, and I want you to be a part of this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You don't have to do that, I'll pay for myself. But just the fact that you want me to have fun with you guys - that's so sweet! Come here (they kiss and hug)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Get a room!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok, so now that you're in, what are you gonna do if we win?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know, probably just invest it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ooh! Calm down ..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Seriously, that's your fantasy? To invest it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I'm sorry, did I say \"invest it\"? I meant \"be cool and piss it all away\" (Joey and Chandler pleased)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh, ooh, I know! We should pool all own money and buy the Knicks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't really care about the Knicks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, you will when I pick you as starting forward."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(touched) You would do that? I never get picked!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You know, I'm not sure a sports team is the way to go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're not gonna let me buy the Knicks?? I can't believe you're taking this away from me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You're right, it has been you dream for over 15 seconds."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Rachel) Uh, how long until they announce the numbers, Mommy?"
+  },
+  {
+   "t": "direction",
+   "text": "pause"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(looks around) I'll take this one too (to Ross) Uh ... Mommy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I've gotten into the habit of calling Rachel \"Mommy\" when we're around Emma. Which I now realize we are not ..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm hoping that if she hears it enough it will be her first word."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Although if we're gonna do that, we should probably call me \"Daddy\" too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oooh, I like that, \"daddy\" (in a sexy tone)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I ... I was just talking about Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(still in sexy tone) Oooh, is daddy getting angry? Is daddy gonna spank me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(tries to be sexy too) Well that depends ... have you been a baaad gi .. (stops) no I can't."
+  },
+  {
+   "t": "direction",
+   "text": "Phone rings, Chandler picks up"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hello? Hello? Oh, hey Charlie. Did anybody else hear? ... What? Susan got it?? How? Oh man, I would have slept with him!! .. Alright, bye. (hangs up)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Dude, I'm sorry. But hey, there's one spot left, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well no, Charlie's gonna get that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, don't say that! You got just as good a chance as anybody else of getting that job!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "He's the boss's son."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Come on, lottery!! (everybody cheers)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ooh, you guys, it starts in like 20 minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, here we go. We need to sort out the tickets as quickly as possible to see if we've won. So does anybody have any ideas how to organize this? (doesn't let them answer) Ok, how about this: we divide them into 6 groups of 40, and the remaining 10 can be read by whoever finishes their pile first."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ooh, I have another idea!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm sorry, idea time is over."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, well, are all the tickets in the bowl?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What about the ones you have on the nightstand?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "There are no tickets on the nightstand!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes there are, I just saw them a few minutes ago."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel get suspicious"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Un, no you didn't! You must be mistaken!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Honey, there are like 20 tickets on the nightstand!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler, sense the tone!!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel comes out of their bedroom waving tickets"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, well, well, look what mommy found!!"
+  },
+  {
+   "t": "direction",
+   "text": "everyone's shocked"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, fine!! I bought 20 extra tickets for me and Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh! The psychic also said that I would be betrayed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I can't believe this, I thought we were all in this together!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, you just got in 5 minutes ago!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "3 minutes ago!!! I don't know why that's important ..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I was with you the whole time we were in Connecticut, when did you even get those?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "When you were reading the dirty magazines without taking off the plastic!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to Ross) I'll show you how."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, well Monica, suppose one of your \"special\" tickets win? How are you gonna feel when you win the lottery and you lose all your friends?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Please ... if I win the lottery, you guys are not gonna leave me. Someone gave me a basket of mini-muffins last week and I couldn't get rid of you for 3 days!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Chandler, would you just tell her what she did was wrong?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to Mon) She's right, you shouldn't have bought tickets just for us ..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ahhh! (shocked)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Let me finish ... (to everyone else) however, it doesn't look like I'm gonna get this job so I can't afford to have principles, so screw you, the tickets are ours!! (takes tickets from Rachel)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "There's the man I married!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, believe me.If you win the lottery, it's the last you're gonna hear from us!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Fine! Don't be my friends! I'll buy new friends! Yeah, and then I'll pay for their plastic surgery so they'd look just like you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(surprised) OH! Alright, you know what? That's it! I want my share of the tickets (picks up the bowl)!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I want my tickets too (takes the bowl from Rachel)! And I'm buying the Knicks! And Steffi Graff, ah ah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Than I want mine, too (takes the bowl from Joey)! And if I win I'm gonna put it all into a very low-yield bond."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, you guys! We've got to keep all the tickets together (takes the bowl from Ross and puts it on the table)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, no! We should divide them up (picks up the bowl) and I should get extra because we used my card to buy them!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, if anybody gets extra tickets, it should be me! This all thing was my idea! (takes the bowl from Monica)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, yeah! Thanks for inventing the lottery!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, that's it! Just give'em to me! I'll split them up! (she tries to snatch the bowl from Joey's hands but she can't, so she pinches his nipple and she manages to take it)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(in pain) Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(she takes the bowl from Rachel's hands and she starts running around the room and yelling) OOOOOHHHHH!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(trying to stop her) Hey, hey!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(keeping on running and yelling) OOOOOHHHHH! (she stops) Fine, I can't take it anymore! I'm putting an end to this! (she goes out to the balcony)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, if she jumps, I get her tickets."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, no! (they all go towards the balcony but they get jammed in the window)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "If we are not doing it together, we're not doing it at all! So, say goodbye to your tickets! (She holds out the bowl, and makes as to drop the tickets on the street)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Everyone",
+   "text": "NO!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Don't come any closer!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Can I come a little bit closer, valuable things are getting squished..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, what's more important, your friends or money?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Everyone but Monica",
+   "text": "Friends!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Money! (they all look at her) Friends..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey Monica, what about your extra tickets?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "They're all in there! Even these five that I hid in my bra (takes some tickets out of her bra and gives them to Phoebe)..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Monica!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, good! (pause) You guys were so scared! There was no way I was gonna dump this...(a pigeon swoops down, scaring Phoebe who drops the bowl on the street) Oh God, no! (pause) I think I broke your bowl."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Go, go, go!!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's apartment."
+  },
+  {
+   "t": "direction",
+   "text": "All are returning from the street after picking up dropped lottery tickets"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What a beautiful night to be running around the street, looking for tickets. And the wind sure made it fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe, we lost half of them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So, what? Monica, we have the winning ticket! My psychic said I was gonna win, remember?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Weird.. your psychic didn't mention anything about the scary pigeon..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "As a matter of fact she said that's how I am going to die. (pause ) So, excuse me for being a little skittish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(looking at the answering machine) Hey, there's two messages. These could be from work!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, play them!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok, here we go! (he pushes the play button)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Message",
+   "text": "(Phoebe's voice) \"Hello. Th-this is the pigeon from the balcony calling to apologise\" (they all turns to look at Phoebe) \"I sh.. I shouldn't have knocked the tickets out of the pretty lady's hand. It-it was all my fault. Not hers. Bye. Coo.\""
+  },
+  {
+   "t": "direction",
+   "text": "they all keep staring at Phoebe"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I bet that was very hard for him to do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Second message",
+   "text": "\"Hey Chandler, it's Charlie\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "This is..shhh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Second Message",
+   "text": "\"Listen, oh... it turns I got the last spot. I'm really sorry man, it was a lot of fun working with you. Give me a call if you want.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh God, I am so sorry honey..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oh, so sorry man! Sorry!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, it is so unfair. It's like that time they promoted Sandra over me at work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, is she related to Ralph Lauren?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, she was just much better at job than me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Guys, the drawing is about to start!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(To Ross) You know what? We should call my mum's house and say goodnight to Emma before she goes down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh yeah, it's a good idea!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(she hugs Chandler) Honey, you've been really strong about this, I know how badly you wanted that job."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, you know, I really thought I deserved it. (pause) But... let's go win the lottery... I mean, we still have 130 chances to win, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(she draws out a ticket from a pocket of her pants) 131! (they kiss)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on the phone) Goodnight sweetheart! I love you. And remember, you're daddy's little girl... (covering the phone, to Rachel) Phoebe's totally ruined that for me... (he passes the receiver to Rachel)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi mum, put her back on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(sitting on the sofa in front of the tv) Rach, come on! They are announcing the numbers! My God, I can already feel myself changing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "TV",
+   "text": "\"Here we are, the official Powerball numbers! We have 53\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I got that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, we have one too!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We are on a roll, people!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(calling Rachel) Come on!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on the phone) Mum, please!I know you love your new lips, but I can barely understand you! Would you, please, just let me say goodnight to my daughter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "TV",
+   "text": "\"And number 29! Here we go! The Powerball is 7\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Check your numbers! Make me rich!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(she goes towards the others and she's very excited) Guys, you're not gonna believe this! I was just saying goodnight to Emma and she said her first words!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And what did she say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She said \"gleba\"!! (she celebrates)"
+  },
+  {
+   "t": "direction",
+   "text": "they just look at her for a moment; then they go back to checking the tickets"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Make me rich!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Ross) Isn't that amazing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh yeah, no no no...that's great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why-why aren't you more excited?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, Rach...oh...\"gleba\" is not a word."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, but of course it is!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, what does it mean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know all the words."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm just, I'm just glad I didn't miss my daughter's first words (goes back to checking the tickets)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes you did, gleba is a word!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok, use it in a sentence."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok... \"Emma just said gleba\"!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's not a word!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, okay, okay, fine, I'm gonna look it up (she goes and picks up the dictionary)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, oh, ok, great. You know what, while you're at it she said another word the other day, why don't you, why don't you look up: pbbqqt...."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel glares at him"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(searching the dictionary) Alright, okay, okay, gleba, gleba... (excited) Gleba! Ha! Here it is: the fleshy, spore-bearing inner mass of a certain fungi."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel shows Ross the definition on the dictionary, giving him a smug look; then she squints at the dictionary, as though unsure what to make out of it"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "She's gonna be a scientist! (kisses Rachel on the head, very moved)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(checking the last ticket) Damnit! anybody got anything?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm still looking through mine..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Just double checking (does so)...no, no, no...(takes off a shoe and takes a ticket out of it) No!"
+  },
+  {
+   "t": "direction",
+   "text": "phone rings"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(answering phone) Hello? Hold on. It's your boss."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ah, the \"I'm sorry I rejected you\" phone call. I'm not used to getting it from guys. (on the phone, getting up from the sofa) Hey, Steve."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Chandler, hi! I'm sure you've heard we filled the three positions. We just felt that with your maturity and experience, you wouldn't be happy being someone's assistant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh no no no no, I'd love to be somebody's assistant! Answering phones, getting coffee, I live for that stuff! And I'm not too mature... farts, boobies, butt cracks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Chandler, you were the strongest person in the program. We're offering you the position of junior copywriter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Me, that guy who just said butt cracks?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Yes, that's right. We're excited about the level of sophistication you'll be bringing to the job."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok well, thanks, you won't regret it. I'll see you tomorrow (hangs up)."
+  },
+  {
+   "t": "direction",
+   "text": "he idly goes to the sofa, starts browsing a magazine. Everybody stares at him"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What? (pause) Oh, yeah, I'm gonna be a junior copywriter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Everybody",
+   "text": "(excited) Oh my God, congratulations!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh sweetie, I'm so proud of you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Does that mean I get the good loving tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You bet! No TV or anything! (she gets up from the sofa and goes to the kitchen area)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to Chandler) Hey, that is so great about the job."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Thanks, man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And I like to think I had a little something to do with it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really? What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, before, with the wishbone... I didn't wish we would win the lottery, I wished you'd get the job."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(smiling, surprised) Oh yeah? (looks towards the kitchen, worried) Listen, don't tell Monica, she'll rip your heart right out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You know what? There is a little part of me that really thought we were gonna win."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Me too. So much for my dinosaur/Amelia Earhart theme park."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You guys, what was the Powerball number again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica and Ross",
+   "text": "Seven."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "We won."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "We won!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Let me see!"
+  },
+  {
+   "t": "direction",
+   "text": "they all jump up excitedly and try to see the ticket"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Don't tear it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Phoebe, you don't have any of the first five numbers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know that, but look, we've got the Powerball number, we've won 3 dollars!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wow, you'd think we should get that over 20 years or go for the big payout."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(still very excited) I don't care, I've never won anything before, I can't believe this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So Pheebs, what are you going to do with your $3?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's not all mine. We all get 50 cents."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You know what? You can have mine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Me too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Me too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Me too."
+  },
+  {
+   "t": "direction",
+   "text": "they all look at Ross"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I guess if everybody else is..."
+  },
+  {
+   "t": "direction",
+   "text": "Closing credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. They're all sitting there as usual, except Joey. Gunther is serving a nearby table."
+  },
+  {
+   "t": "direction",
+   "text": "Joey comes in from the back of the coffee house"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(sitting in a chair) Hey guys, so I just called the Powerball hotline, can you believe it? Nobody won."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I beg to differ (shows him her cup of coffee and her plate of cookies)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "Maybe nobody won the jackpot, but there was this guy in here earlier, and he found the ticket on the street, right outside, and won $10,000 (goes to the counter)."
+  },
+  {
+   "t": "direction",
+   "text": "They all glare evilly at Phoebe"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(hides her mouth behind the cup and speaks in the \"pigeon voice\" from before) Coo, again. Don't blame the pretty lady. It was not her fault. It was me, the pigeon, coo! (pause) Seriously, stop staring at her."
+  },
+  {
+   "t": "direction",
+   "text": "Joey stares around dumbly looking for the \"talking pigeon\""
+  }
+ ]
+}

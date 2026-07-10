@@ -1,0 +1,1497 @@
+{
+ "id": "s03e05",
+ "season": 3,
+ "episodes": [
+  5
+ ],
+ "code": "305",
+ "title": "The One With Frank Jr.",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, there is lumber all over the apartment"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey-hey-hey. So what happened? A forest tick you off?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No. Y'know how we're always saying we need a place for the mail."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I started building one. But then I decided to take it to the next step."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You're building a post office?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, an entertainment unit, with a mail cubby built right in. It's a one day job, max."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. (notices that Joey is wearing some really tight jeans) My word! Those are snug."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah. These are my old work pants, Sergio Valente's."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler goes to his bedroom and opens the door. However, only the top half opens, and he trips into his bedroom over the bottom half."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Power saw kinda got away from me there."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Outside Central Perk, Phoebe is pacing back and forth waiting for someone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(joining Phoebe outside) Hey Pheebs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Any sign of your brother?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, but he's always late."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I thought you only met him once?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, I did. I think it sounds y'know big sistery, y'know, 'Frank's always late.'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well relax, he'll be here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, I know, I'm just nervous. Y'know it's just y'know Mom's dead, don't talk to my sister, Grandma's been sleeping a lot lately. It's like the last desperate chance to have a family, y'know, kinda thing. You're so sweet to wait with me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, actually Gunther sent me. You're not allowed to have cups out here, it's a thing. (takes her cup and goes back inside)"
+  },
+  {
+   "t": "scene",
+   "text": "inside Central Perk"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Does anyone else think David Copperfield is cute?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, but he told me, he thinks your a fox."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, Janice, likes him. In fact she likes him so much she put him on her freebie list."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Her what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, we have a deal, where we each get to pick five celebrities that we can sleep with, and the other one can't get mad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ah, the heart of every healthy relationship. Honesty, respect, and sex with celebrities."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So, Chandler, who's on your list?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ah, Kim Basinger, Cindy Crawford, Halle Berry, Yasmine Bleeth, and ah, Jessica Rabbit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Now, you do realize that she's a cartoon, and way out of your league?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I know, I know, I just always wondered if I could get her eyes to pop out of her head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, Monica, who would yours be?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "First, I need a boyfriend, then I can have a list."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It's just a game Mon. (makes a 'Can-you-believe-her' face to the rest of the gang.) Rach, how about you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I don't know, I guess, Chris O'Donnel, John F. Kennedy, Jr., Daniel Day Lewis, Sting, and Parker Stevenson."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Spiderman?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hardy Boy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Peter Parker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What about you honey, who would be on your list?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well I-I-I, that kind of thing requires some serious thought. First, I'll divide my perspective canidates into catergories...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(coughing) What a geek!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering) Everbody this is Frank! This is my half-brother Frank."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oh, hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "This is everybody. This is Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "How are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey-hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "This is Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Whoa!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "And this is Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Whoa!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm gonna get coffee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Hey, how do you guys get anything done?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We don't, really."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, so, now, do you guys have a lot of big plans?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah! Yeah, no, we're gonna connect, y'know bond, and everything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Yeah, I was thinking that maybe we could go down to Time Square and pick up some ninja stars. And, oh, um, my friend Larry, he wants me to take a picture of a hooker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You know, we don't really take advantage of living in the city."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Joey is drilling a hole in the wall and the drill comes out the other side really close to Chandler's head. Chandler then rushes out to talk to Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, I'm sorry. Did I get 'ya?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, you didn't get me!! It's an electric drill, you get me, you kill me!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Calm down, do you want this unit or not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I do NOT want this unit!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, you should've told me that before, I'm not a mind reader. Hey, we're out of beer. I'm going to Monica's."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Fine! (goes into his room and slams the door, then he slams the bottom half of the door.)"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Joey is entering"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey! Where 'ya headin' in those pants? 1982?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh Monica, listen, I ah, I saw down at the hardware store, they got those designer tiles on sale. If you ever want to redo the bathroom floor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why, what's wrong with my bathroom floor?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nothing. It's just old and dingy, that's all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I highly doubt that. (they both go to the bathroom)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah. If you ah, move your hamper, you see what color the tile used to be. (Monica gasps) Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can't live like this! What are we gonna do? What are we gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Relax. Here hold this (hands her his beer). This old stuff just comes right off. (he bends down to try and lift some tile right in the middle of the floor, in his tight pants.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's a little more than I wanted to see."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(manages to pry off only a small piece) Aw! Look at that, every inch of this stuff is glued down. It'd take forever to pry this up. You should ah, you should just leave it. (starts to walk away, but Monica grabs him)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can't leave it! You gouged a hole in my dingy floor."
+  },
+  {
+   "t": "direction",
+   "text": "Joey places the toliet brush and holder over the hole, which is in the middle of the floor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Eh! There you go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You know that's nice, y'know we could put it back there after the surgeons remove it from your colon!"
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe's, Frank and her, are sitting on the counh, watching TV"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(sits up) Oh, ew!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah I know what I wanted to ask you. Um, can you roll your tongue? Because I can, and my Mom couldn't, and I thought y'know, I figured that was something I got from our Dad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "What, wait, you mean like this? (does it)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, yeah. You can do it to. (tries to do it, but can't)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Your not doing it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh right, yeah okay, my Mom could, and I can't. We don't have that...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "When's your birthday?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Feburary 16th."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "I know a guy who's the 18th."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow, that's close. When's yours?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "October 25th."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's the same month as Halloween. So, um, what kinda things do you like to do at home?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Melt stuff."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross is working on his list"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, I've got three of my five."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Three of your five, what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Celebrities I'm allowed to sleep with."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God! You are giving this a lot of thought."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, it's hard okay, I only have two spots left."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, so who do you got it narrowed down to?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, Elizabeth Hurely...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oooh-hoo, very attractive, forgiving."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Susan Sarandon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Eh, y'know what, she's to political, she probably wouldn't let you do it, unless you donated four cans of food first."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And!! Isabella Rosselini."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ooh-hoo. Very hot, very sexy. But ah, y'know she's too international, y'know she's never gonna be around."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, you gotta play the odds, pick somebody who's gonna be in the country like all the time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, 'cause that's why you won't get Isabella Rosselini, geography."
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe's, Frank is melting a plastic spoon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay so, by melting, you meant melting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So is it like art?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Yeah, you can melt art. Hey, can I use your phone?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Um, yeah sure. Why you wanna call your Mom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "No, I wanna melt it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, well um, not right now. Y'know I'm just gonna go to bed, I think the fumes are giving me a headache."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "(starts laughing) Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "G'night, bro."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "G'night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Here. (gives him a fire extinguisher) Y'know, just in case."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Oh, excellent. (starts to melt the fire extinguisher's hose.)"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Phoebe is eating breakfast with Monica while Frank is playing with num-chucks on the balcony"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What kind of karate is that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No kind. He just makes it up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So how's it going with you guys?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So far, it kinda blows. I don't know, I just thought y'know that he'd feel more like a brother y'know, like you and Ross, just like close and connected and...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh honey, we're close now but you-you wouldn't believe the years of-of nugies, and wedgies, and flying wedgies, and atomic wedgies, and....(Phoebe shakes her head like she doesn't understand) That's where the waistband actually goes over your head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ah!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, we used to drive each other crazy playing the shadow game."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, how do you play the shadow game?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, how do you play the shadow game?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I just asked you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I just asked you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't have time for this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, that is what the game is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Which you just gave up really quickly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering) Have you seen Joey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What's the matter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, just this! (turns around and has a paint lid stuck to the back of his pants.) Y'know what it's my fault really, because the couch is usually where we keep the varnish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(yelling from bathroom) Hey, does somebody wanna hand me one of those tiles."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "He's retiling my floor. (they both run to the bathroom)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yo!! Spackel boy! Get up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ah-ah-ah, now you started this, you will finish it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "He started mine first!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Build the unit Cinderelly, lay the tile Cinderelly."
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe's, Phoebe and Frank are watching TV."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Whoa! Big octopus."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. (phone rings and Phoebe answers it) 'Hello. (listens) Oh my God, I totally forgot! (listens) Well can't someone else do it. (listens) But, I have company. (listens) Yeah, no look, that's all right I'll come in.' (hangs up phone) Um, Frank, I'm really sorry but I have to go to work. It's-it's one of my regulars and he's insisting that I do 'um."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Hey, what kind of work do you do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh! I'm a masseuse. I give people massages and stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "You-you work at one of those massage parlors?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, y'know we don't call it that, but yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "(starts laughing) Wow! That's wild! No, I had no idea."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All righty. I'll be back in-in a little bit. Unless you wanna come with me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "You mean like watch?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, no, you can get one yourself. It'll be on the house! Y'know what are big sisters for?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Well, I don't think this, y'know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, no, no, I wouldn't do you myself, I mean that would be weird. Yeah, no, I'll get one of the other girls to do it. Oh, this will be so much fun! Hey! Are you excited?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Yeah! Hey, do Monica and Rachel work there?"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's bathroom, Joey and Monica are admiring the new floor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's beautiful! It's like the first bathroom floor there ever was. (Chandler tries to go to the bathroom) Whoa! Are you going in there for?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What, like a number?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi! Bye! (runs to the bathroom)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, I'm done with my choices, these are final. (holds up a little card)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, it's about time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh, very official."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, yeah, well y'know Chandler printed it up on his computer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And who laminated it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That would be me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right let me see. (grabs the card) Uma Thurman, Winona Ryder, Elizabeth Hurely, Michelle Pfieffer, and Dorothy Hammel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, it's my list."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay honey, you do realize she only spins like that on ice."
+  },
+  {
+   "t": "scene",
+   "text": "Healing Hands Inc. (Phoebe's work), Frank is being ushered in, by the arm, to the room Phoebe is in by another girl."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Ow!-Ow!-Ow! Ow! Ow! Ow! Ow! Ow! Ow! Y'know, ow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!-Hey! What's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "She broke my arm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Girl",
+   "text": "He touched my fanny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "No, she touched mine first!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Girl",
+   "text": "That's my job!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "So wait, what's the deal here, I can have sex with you, but I can't touch you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe and Girl",
+   "text": "Ewww!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You can't have sex with her!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Girl",
+   "text": "What'd you think I was, a hooker?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "No, your a masseuse, it's cool, I'm not a cop."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, Jasmine, can you, can you ask Mr. Whiffler if he can wait for like five minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jasmine",
+   "text": "Fine. (starts to leave, and points at Frank) I don't like you!! (leaves)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(turns around and hits Frank) So that's what you thought I did!! God! That's not what I do!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Wait that's-that's, what that's not what you do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Nooo! Why would you think that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "I don't know, I mean, y'know, this is the city y'know, I just, I mean, I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Whatever, it's the perfect end to the perfect weekend anyways."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Oh, wait, no your right, no it was perfect and I can't believe that I screwed it up so bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You really thought it was perfect?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Well, no, maybe-maybe it wasn't perfect, but y'know it was pretty cool, y'know, 'cause we had all those great talks y'know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, um, which ones in particular were great for you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Well y'know about the tongue thing, y'know, and how I told you about my likes and my dislikes..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "How-how I like to melt stuff, and how I dislike stuff that doesn't melt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Right, okay, um-mm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Yeah, y'know I feel like I can really talk to you 'cause y'know you're my sister, y'know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, I guess I do, yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Then I go feel your friend up and make you mad at me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I-I wasn't hopping mad, y'know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "You hopped a little bit. Yeah, I really sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. All right, this is my favourite part of the weekend, right now, this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "This?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Oh come on we went, we went to Time Square, we found ninja stars, I almost got arm broken by a hooker..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "She wasn't a hooker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Well, when I tell my friends about her she will be."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, everyone is there, helping to lift the entertainment center into place"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, on three. One....Two...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why don't we just go on two."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why two?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Because it's faster."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, I coulda counted to three like four times without all this 'two' talk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, but in the future..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay!! Okay!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Come on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Heavy thing, not getting lighter!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, one...two..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So we are going on two?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "All right!! (they lift it into place, however there is one small problem, the unit is so long that it blocks some of both of their bedroom doors.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, good job Joe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow, it's big!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah-yeah, so big that it actually makes our doors look smaller!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Maybe, my ruler's wrong."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Maybe all the rulers are wrong."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look it's not that bad. So what, it blocks a little of your door, a little of my door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, y'know what I got a better idea. How-how 'bout it blocks none of mine door and a lot of yours? (throws his shoulder into the center to try and move it, but it doesn't move.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, listen, before I forget that side is still wet."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Rachel is serving some guy coffee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay sir, um-mm, let see if I got this right. Ah, so this is a half-caf, double tall, easy hazel nut, non-fat, no foam, with whip, extra hot latte, right? (the guy nods) Okay, great. (she starts to walk away and under her breath) You freak."
+  },
+  {
+   "t": "direction",
+   "text": "Isabella Rosselini enters"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Gunther) Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Isabella",
+   "text": "(to Gunther) Um, coffee to go, please."
+  },
+  {
+   "t": "direction",
+   "text": "Ross recognises her and goes over to the couch, mouthing 'Oh my God'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Isabella Rosselini. (points to her)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Are you serious? (they all look) Oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Damn! I can't believe I took her off my list."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why? 'Cause otherwise you'd go for it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, maybe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh-oh, you lie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What you don't think I'd go up to her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, it took you ten years to finally admit you liked me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, well missy, you better be glad that list is laminated."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You know what honey, you go ahead, we'll call her an alternate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, hold my crawler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rach, are you really gonna let him do this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Honey, he's about to go hit on Isabella Rosselini. I'm just sorry we don't got popcorn."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Isabella) Hi! Hi, I'm Ross, you don't know me, but I'm a big, big fan of yours. I mean, Blue Velvet, woo-oo hoo! Um, I was wondering if I could um, maybe buy you a cup of coffee? (Gunther hands her change) Or maybe reimburse you for that one?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Isabella",
+   "text": "Aren't you with that girl over there? (points at Rachel, who waves back)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, yeah, kinda. Um, but that's okay, see we have an understanding, um, see we each have this list of five famous people, (gets his out) so I'm allowed to sleep with you. No, no, no, it's flattery."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Isabella",
+   "text": "I'm sorry. (starts to leave)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh no, no, no, wait, wait, Isabella. Don't, don't just dismiss this so fast. I mean this is a once in a lifetime opportunity..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Isabella",
+   "text": "Yeah, for you. Is that the list?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Um, yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Isabella",
+   "text": "May I see it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Um, no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Isabella",
+   "text": "Come on! (grabs the list)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But, okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Isabella",
+   "text": "(reading it) I'm not on the list!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Um, see, but that's not the final draft."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Isabella",
+   "text": "It's laminated!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, um, okay see, you were, you were on the list but my friend, Chandler (Chandler waves) brought up the very good point that you are international, so I bumped you for Wynona Rider, local."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Isabella",
+   "text": "Y'know it's ironic..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Isabella",
+   "text": "...because I have a list of five goofy coffee house guys and yesterday I bumped you for that guy over there. (points at a guy and leaves)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to the rest of the gang) We're just gonna be friends."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, they are admiring the entertainment center"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Y'know what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Umm?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I bet 'ya ya I could fit in there. (points to a hole in the center)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I've got five bucks says you can't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Get out your checkbook, mister."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, I think I have the cash."
+  },
+  {
+   "t": "direction",
+   "text": "Joey successfully enters the entertainment center, and Chandler closes the door on Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You are dogged man! I totally fit!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, you got me. (picks up a 2x4 and puts it through the handles so that the doors won't open) I'm out five big ones! (puts the money in the crack between the door and frame) Here you go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thank you. Cha-ching! (Chandler starts to leave) Oh, well hello Mr. Lincoln. Better luck next time buddy. (Chandler leaves and closes the door) And the drinks are on me!"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

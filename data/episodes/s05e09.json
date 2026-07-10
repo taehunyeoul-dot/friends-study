@@ -1,0 +1,1325 @@
+{
+ "id": "s05e09",
+ "season": 5,
+ "episodes": [
+  9
+ ],
+ "code": "509",
+ "title": "The One With Ross's Sandwich",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, the entire gang is there, eating breakfast. Phoebe is on the couch, fidgeting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What am I sitting on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Top of the world? Dock of the bay? (He tries to think of another but can't) I'm out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(taking something out of the couch) Ew-eww!! Undies!"
+  },
+  {
+   "t": "direction",
+   "text": "She throws them into the kitchen and Rachel picks them up with the handle of a large spoon. Chandler and Monica have horrified looks on their faces."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right! Who's are they? Who's are they?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, they're not mine!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, they're Joey's! They gotta be Joey's!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel turns and stares at him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, they're mine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "See? They're Joey's! J-J-J-J-J-Joey's!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why are they here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know uhh... (Pause as he thinks about it.) Well, I'm Joey. Yeah, I'm disgusting, I take my underwear off in other people's homes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, get 'em out of here! What's wrong with you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(waving them in his face) Take 'em! (Joey makes a noise and jumps out of the way.) Joey, you can touch them! They're your underwear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(reluctantly taking them) Chandler? A word."
+  },
+  {
+   "t": "direction",
+   "text": "Follows Joey into their apartment and shrugs on his way out."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the guy's apartment.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's it! I'm tired of covering for you two! This has got to stop! (Realizes he still has the underwear in his hand.) Ahh! (Throws them towards Chandler's room.) And tighty-whiteys! What are you, 8?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering) Thank you Joey, thank you so much!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh hey, no, you're not welcome. Okay, look, I hate this! You guys keep embarrassing me! (To Monica) Yesterday, Rachel found your razor in our bathroom and I didn't know what to say, so I said it was mine and-and that I was playing a woman in a play. And one thing led to another and (He puts his leg on the chair and pulls up his pants leg to reveal that he now has shaved legs.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(inspecting his leg) Wow! And around the ankles, y'know that is a tough spot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, it was! All right, listen, I can't..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(interrupting him) All this lying has been hard on us too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh-oh, yeah-yeah, I bet all the sex makes it easier!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, yeah actually."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We'll try to be more careful okay? It's just that, we don't want everyone to know because this is going really well, and maybe the reason it's going really well is because it's a secret."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I know it sounds really weird, but we're just so bad at relationships."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We are! Help us!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Help!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right! But, (To Monica) you do it with me once."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Didn't think so."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Joey, Chandler, Monica, and Rachel are there as Phoebe enters with her nose stuck in a book."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, Phoebe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi, Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What are you reading?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, Wethering Heights. I'm taking a literature class at the New School and I have to finish it for the first session tomorrow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I didn't know you were taking a class. That is so cool."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah! Well, I really liked that Lamaze class I took! Y'know and this time I thought I'd go for something, y'know a little more intellectual, with a less painful final exam."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Honey that sounds like fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah! Ooh, you should come with me! Oh yeah, then I'd have someone to sit with!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah! Okay-ooh, but are you going to have time to read it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I read that in high school."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "This is going to be so much fun! Okay-shhh, I have to finish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering, depressed) Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What's wrong buddy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Someone at work ate my sandwich!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, what did the police say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "My Thanksgiving leftover sandwich. I can't believe someone ate it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ross, it's just a sandwich!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Just a sandwich? Look, I am 30 years old, I'm about to be divorced twice and I just got evicted! That sandwich was the only good thing going on in my life! Someone ate the only good thing going on in my life!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, look, I-I have enough stuff for one more sandwich, I mean I was going to eat it myself, but (motions that he can have it.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(quietly) That-that would be incredible. Thank you so much. I-I still can't believe someone ate it!! I mean, look, I left a note and everything."
+  },
+  {
+   "t": "direction",
+   "text": "Shows the note to Chandler who reads it aloud."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(reading) Knock-knock. Who's there? Ross Geller's lunch. Ross Geller's lunch, who? Ross Geller's lunch, please don't take me. Okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm surprised you didn't go home wearing your lunch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, look you wanna hold onto your food? You gotta scare people off. I learned that living on the street."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really?! So what would you say Pheebs? Stuff like uh, \"Keep your mitts off my grub?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Say Ross, when you picture Phoebe living on the street, is she surrounded by the entire cast of Annie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, this will keep them away from your stuff. (Writes him a note and the gang reads it.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Whoa! Ohh!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe, you are a bad ass!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Someday I'll, tell you about the time I stabbed the cop."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, he stabbed me first!!"
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe's class, the class has already started and Rachel walks in late."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(To Phoebe) Sorry I'm late, but I left late."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So Pheebs, what is the book about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I thought you said you read it in high school."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well yeah, but then I remembered I started it and there was this pep rally and I was, I was on top of the pyramid but anyway-umm, what is this book about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, umm, it's this tragic love story between Cathy and Heathcliff and umm, it takes place on like these really creepy mores in England. Which I think represents the wildness of Heathcliff's character. I totally get symbolism."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Teacher",
+   "text": "How would you characterize the theme of this book, uh let's see here (looks at his attendance sheet), Rachel Green?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Umm, well I would have to say that it's a, it's tragic love story."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Teacher",
+   "text": "Well, that's sort of a given, but yes. Anyone else?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh-oh-oh, symbolism! And uh, the-the uh, wildness of the mores, which I think is-is mirrored in the wildness of Heathcliff's character."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Teacher",
+   "text": "Excellent! What Rachel has shrewdly observed here..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(To Rachel) You completely stole my answer!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, honey that was pretty obvious."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well how would you know?! You didn't even read it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Teacher",
+   "text": "What do you think? You in the blue shirt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I think that uh, yours is a question with many answers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Teacher",
+   "text": "Would ya care to venture one?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Would you care to venture one?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Teacher",
+   "text": "Are you just repeating what I'm saying?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Are you just repeating what I'm saying?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Teacher",
+   "text": "All right, let's move on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay then."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Monica is there as Phoebe and Rachel return from the class."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah but why didn't you just say that you didn't read the book?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Be-because I didn't want him to think I was stupid! I mean, that was really embarrassing what happened to you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Phoebe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Phoebe! You're note, amazing! Not only did no one touch my sandwich, but people at work are actually afraid of me. Yeah, a guy called me mental! Mental Geller, yeah, I always wanted a cool nickname like that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, the best you got in high school was Wet Pants Geller."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That was the water fountain! Okay?! Anyway, people are writing reports for me, uh pushing back deadlines to meet my schedule, I'm telling you, you get tough with people you can get anything you want. (Joey walks by with a cup of coffee.) Hey Tribbiani, give me that coffee! Now!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey casually pushes Ross over the back of the couch and sits down proud of himself."
+  },
+  {
+   "t": "scene",
+   "text": "The hallway, Joey is returning from a date with Cynthia."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cynthia",
+   "text": "God, this was really fun! I've been wondering if you were going to ask me out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So you uh, still wondering?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cynthia",
+   "text": "No, we just went out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're smart. I like that."
+  },
+  {
+   "t": "direction",
+   "text": "He goes to open the door to his apartment, but finds it locked. As he's getting out his keys, Chandler and Monica quickly jump up from making out in the living room and run to Chandler's bedroom. The apartment has about 20 candles burning all over the place. Joey opens the door and ushers Cynthia in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cynthia",
+   "text": "Oh, candles! (Notices something.) What is that? A blanket? A video camera? Oh my God! (As she storms out, Rachel returns and overhears the conversation.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh no-no-no-no, wait-wait-wait!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cynthia",
+   "text": "I can't believe you thought that you were going to video tape us having sex on the first date! (She storms away and Rachel enters to confront Joey.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hiya."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, is what she just said umm-Oh my God. (Looks around the room.) You were actually gonna... (Chandler picks this moment to return to the living room.) (Rachel stares in shock.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What is going on here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And with Chandler in the next room. What are you, what are you sick?"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler silently pleads with Joey to cover for them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm Joey. I mean, I'm disgusting. I make low-budget adult films. (Points at Chandler, angrily.)"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler, Joey, and Ross's; continued from earlier. Joey is closing the door after Rachel leaves and is about to confront Chandler and Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You guys promised you'd be more careful! I mean, come on! The good Joey name is being dragged through the mud here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We're so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I'm telling everyone about you! That's the only way to explain the underwear and the video camera that doesn't make me look like a pig!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No-no, wait! There's got to be a better explanation. You can tell them you had to make an adult film for your (Thinks) adult film class."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I like that. But no-no, how does that explain why Rachel found my underwear at your place?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh-I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, get ready to come out of the non-gay closet!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, just wait, please. I promise we'll come up with something. Just give us a little more time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right. Hey, but it better make me look really, really good. (Starts for his room.) Oh, and another thing, the video camera? Nice!!"
+  },
+  {
+   "t": "scene",
+   "text": "The Museum of Prehistoric History (Ross's work); Ross is in the break room eating lunch as his boss, Dr. Leedbetter walks in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Leedbetter",
+   "text": "Umm, Ross. May I have a word with you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, of course, Donald."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Leedbetter",
+   "text": "We've been getting reports of some very angry behavior on your part."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Leedbetter",
+   "text": "Threatening letters, refusal to meet deadlines, apparently people now call you mental."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Proudly) Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Leedbetter",
+   "text": "We want you to speak to a psychiatrist."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh no, you-you don't understand. Ugh, this is so silly. Umm, this is all because of a sandwich."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Leedbetter",
+   "text": "(laughs) A sandwich?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. You see my-my sister makes these amazing turkey sandwiches. Her secret is, she puts a, an extra slice of gravy soaked bread in the middle; I call it the Moist Maker. Anyway, I-I put my sandwich in the fridge over here..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Leedbetter",
+   "text": "(laughs) Oh, you know what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Leedbetter",
+   "text": "I-I'm sorry. I, I-I-I believe I ate that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You ate my sandwich?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Leedbetter",
+   "text": "It was a simple mistake. It could happen to anyone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(getting upset) Oh-oh really? Did you confuse it with your own turkey sandwich with a Moist Maker?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Leedbetter",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Do you perhaps seeing a note on top of it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Leedbetter",
+   "text": "There may have been a-a joke or a limerick of some kind."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(getting angry) That said it was my sandwich?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Leedbetter",
+   "text": "Now-now calm down. Come look in my office, some of it my still be in the trash."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(jumping to his feet in anger) What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Leedbetter",
+   "text": "Well, it was quite large. I-I-I-I-I had to throw most of it away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You-you-you-you (trying to remain in control) threw my sandwich away!"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to an outside shot of the museum.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(losing control, we hear him shout outside) MY SANDWICH?!!!"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to a shot of a park.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "MY SANDWICH!!!!!! (Ross's scream scares a flight of pigeons away.)"
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe and Rachel's class; Rachel walks in, on time this time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(sitting down) So umm, what's this book about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You didn't read this one either?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I was gonna, but I accidentally read something else."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Vogue! Hey, so tell me about this Jane Eyre woman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No! You should've read it yourself!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Come on Phoebe! Don't be such a goodie-goodie!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Fine! Okay, all right, so Jane Eyre, first of all, you'd think she's a woman, but she's not. She's a cyborg."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "A cyborg?! Isn't that like a robot?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, this book was light years ahead of its time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Teacher",
+   "text": "(entering) Sorry I'm late. Let's get started. So, what did everybody think about Jane Eyre?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, Rachel and I were just discussing it and she had some very interesting insights."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Teacher",
+   "text": "Well, go ahead Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh, thank you Phoebe. Umm, well, what struck me most when reading Jane Eyre was uh, how the book was so ahead of its time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Teacher",
+   "text": "If you're talking about feminism, I think you're right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, well, feminism yes, but also the robots."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler is on the couch as Monica joins him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey. Okay, so umm, since that video camera thing didn't work out uh, I thought that I would give you just a little preview. (Hands him a Polaroid.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(gasps) You're naked in this picture!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know."
+  },
+  {
+   "t": "direction",
+   "text": "Ross walks in, eating cotton candy. Monica nudges Chandler who hides the picture in his magazine. Ross sits down on the chair, he seems kinda out of it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(in a stupor) Hey Chandler. (Sees Monica.) Monica!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross, are you okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm fine! I saw a psychiatrist at work today."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "On account of my rage."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Which I may say, right now, is out of control."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "He gave me a pill for it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "A pill?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh-huh. Well, when the psychiatrist told me I had to take a leave of absence because I yelled at my boss I started to get worked up again, so he offered me a tranquilizer. And I thought was a good idea so, I took it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait a minute, they're making you take time off work?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And you're okay with that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know. It's going to be weird not having a job for a while, but I, I definitely don't care about my sandwich."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Rachel and Phoebe are returning from class."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering, angrily) Ugh, that was so embarrassing! I can't believe you let me go on and on like that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(smiling) I'm sorry. It was just so funny when you started comparing Jane Eyre to Robocop."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That was not funny!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I snapped! Okay? You weren't taking the class seriously."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, come on! What is the big deal? I thought this was going to be something we could do together! Y'know, I thought it would be fun!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, yeah! Fun is good, but y'know I also wanted to learn. Y'know, people are always talking about what they learned in high school and I never went to high school."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh. Oh, so you really wanted to learn. Yeah, y'know, Pheebs I just wanted to have fun. Ohh, you know who you should go with?"
+  },
+  {
+   "t": "scene",
+   "text": "The Class; Monica has taken Rachel's spot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(yelling and waving her hand in the air) I know! I know! I know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Teacher",
+   "text": "Monica, you asked the question."
+  },
+  {
+   "t": "direction",
+   "text": "She sits back defeated, and Phoebe groans with disgust."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler, Joey, and Ross's; Joey returns carrying a bucket of chicken, and starts going through the mail. While doing this, Monica's picture falls out. He bends over to pick it up and gasps. While he's staring at the picture, Rachel decides to come over and sees him looking at the picture."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(sees the picture) Oh my God! That's Monica!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh no-no-no! No-no-no-no-no-no-no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You get away from me!! You sick, sick, sick, sick-o!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering, with the rest of the gang) What's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey has got a secret peephole!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(Sees the picture) Oh no! No! No! No! (Monica gasps as well.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes! He has a naked picture of Monica! He takes naked pictures of us! And then he eats chicken and looks at them!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross stares in shock at him as he angrily puts down the chicken and takes off his coat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Look! (Shows Ross the picture.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(covering his eyes) Dude! That's my sister! (She shows the rest of the gang.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(grabbing the picture) Give me that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, wait! Just wait. Everybody just calm down. Okay? Let's give our friend Joey a chance to explain why he's such a big pervert!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No! I am not a pervert! Okay? It's just... I just... Kinda..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, look! Look. I think I can explain this."
+  },
+  {
+   "t": "direction",
+   "text": "He walks over and stands behind Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thank you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Joey's a sex addict."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?!! (He turns around and stares at Chandler who's silently pleading with Joey to go along with it.) No I'm not!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's okay! It's good! It's good. It's a disease!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No! No! I am not a sex addict!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yes you are! That's the only way to explain all this stuff!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No it isn't! No, it's not. Because you can also explain it with the truth!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, what is the truth?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, what's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(thinking) I slept with Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well let's....let's see what everybody thinks of that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You slept with my sister?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh yes, but it was, we just did it once uh, in London."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This is not good for my rage. (Takes another pill.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Monica, is this true?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Of course it's true! How else would you explain all the weird stuff that's been going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yes it's true."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, but if it only happened that one time, how come we found your underwear in our apartment the other day?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ahh-oy! That was the underwear I was wearing that night in London. Right Monica?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I guess I wanted to keep it (Pause) as a souvenir."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "My God Monica!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you sure Joe? Are you sure you're not just a sex addict?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No! If anyone's a sex addict here, it's Monica! Yeah. Yeah. She has been trying to get me back in the sack ever since London!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So that's why she gave you a naked picture of herself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That makes sense!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And the video camera?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhh, Monica?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I guess I set up the video camera to try and entice Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But sadly I could not be enticed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm Monica. I'm disgusting. I stalk guys and keep their underpants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I think we've all learned something about who's disgusting and who's not. Eh? All right, now, I'm going to get back to my bucket. I'm only eating the skin, so the chicken's up for grabs. (Offers it to everyone.)"
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Phoebe's class; the class has ended and Phoebe is talking to one of her classmates."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I really thought you making a good point. I mean y'know, until you got cut off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "A Female Student",
+   "text": "Yeah, what's up with that girl Monica?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't know! I didn't come with her!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering, happily) All right everybody! Everybody guess what? I just convinced Paul to give us a test next week!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "A test?!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Come on! Tests make us all better learners! Oh yeah! (Running out) We should have essay questions!!"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

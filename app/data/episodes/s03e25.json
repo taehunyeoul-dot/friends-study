@@ -1,0 +1,1631 @@
+{
+ "id": "s03e25",
+ "season": 3,
+ "episodes": [
+  25
+ ],
+ "code": "325",
+ "title": "The One At The Beach",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, everyone except Phoebe is there. Bonnie is telling them of her sex-capades."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to Bonnie) So ah, your first sexual experience was with a woman?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "All right, I was 15, it was my best friend, Ruth, and we got drunk on that hard cider, and then suddenly, I don't know, we were, we were making out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Tell it again. (pause, we see Rachel is not amused.) Seriously."
+  },
+  {
+   "t": "direction",
+   "text": "[cut to Rachel and Monica at the counter.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Monica) I mean is that woman capable of talking about anything else but sex?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, sure. Well y'know, earlier she was talking about geography."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey, she was listing the countries she's done it in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I think we all learned something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering, hurridly) Hey, you guys! Look what I found! Look at this! (She hands Chandler a picture) That's my Mom's writing! Look."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(reading the back of the picture) Me and Frank and Phoebe, Graduation 1965."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Y'know what that means?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That you're actually 50?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No-no, that's not, that's not me Phoebe, that's her pal Phoebe. According to her high school yearbook, they were like B.F.F. (Ross and Bonnie look at her quizzically) Best Friends Forever."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That is so cool."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know! So this woman probably could like have all kinds of stories about my parents, and she might even know like where my Dad is. So I looked her up, and she lives out by the beach. So maybe this weekend we could go to the beach?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Yeah! Yeah, we can!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "(to Ross) Shoot! I can't go, I have to work!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's too bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(sarcastic) Ohh, big, fat bummerrr."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So great! Okay! Tomorrow we're gonna drive out to Montauk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, Bonnie had sex there!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel turns and gives him a look, and Joey quickly apologises."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Outside Central Perk, Chandler and Monica are waiting for Phoebe to arrive with the cab."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(watching a happy couple walk by, arm in arm) Would you look at them. Am I ever gonna find a boyfriend again? I gonna die an old maid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You're not gonna die an old maid, maybe an old spinster cook."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(sarcastic) Thanks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey now besides, if worst comes to worst, I'll be your boyfriend."
+  },
+  {
+   "t": "direction",
+   "text": "At that suggestion Monica starts laughing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why is that so funny?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You made a joke right? So I laughed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ha-ha-ha. A little to hard. What am I not ah, boyfriend material?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, no. You're Chandler. Y'know, Chandler! (hits him on the arm)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, so we've established my name, and hit me. But theoretically y'know, I mean say we weren't friends, say it's a blind date. I show up at your door, and I'm like (in a fake voice) \"Hey, nice to meet, ya. Hey, oh-hey.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well I'd probably be scared of a guy using a fake voice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(walking up carrying a brown paper bag) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, hey! Oh good, you brought food!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, it's just my luggage."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe drives up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler, Monica, and Joey",
+   "text": "Hey!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Woo-hoo! All right! Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I am having the best karma this week. First, I find this woman who knew my parents, and then my client with the fuzzy back gives me his beach house."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah? What about ah, that bike messenger you hit?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I wasn't talking about his karma."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(approaching) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey-hey, check out the hat!"
+  },
+  {
+   "t": "direction",
+   "text": "She is wearing this giant straw hat, the brim on it must be at least, least foot wide."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What a minute, I know that hat! I was taken aboard that hat! They did experiments on me! I can't have children!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Seriously, where did you get the hat?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross gave it to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, I think she looks good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Buy it for ya, or win it for ya?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well excuse me, my fashion-impaired friends, I am here to tell you that hats are back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "And this time, they've ganged up to form one giant, super hat."
+  },
+  {
+   "t": "scene",
+   "text": "At the Beach, it's raining cats and dogs as the gang arrives. Chandler and Monica are taking shelter under Rachel's hat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Go, go, go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yeah, now everybody wants to be under this hat!"
+  },
+  {
+   "t": "direction",
+   "text": "They get inside and notice on small problem."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oy!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What's with all this sand? (picking a handful of sand off of the floor, which is covered in sand)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, yeah, Bob said there might be flood damage."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, either that, or he has a really big cat."
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe Sr. house, she is a real estate agent and is trying to sell a house over the phone. By the way, it's still raining outside."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "Well, yes, it's kind've an unusual house. It has umm, three beautiful bedrooms and ah, no baths. But y'know, the ocean is right there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(at the door) Knock, knock, knock."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "(on phone) Ah, oh, hang on a second. (to Phoebe) Come in, come in. (on phone) All right, so think about it, and call me back. (hangs up)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering) Are you ah, Phoebe Abott?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "Ahh, yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi Phoebe Abott, I'm your best friends daughter!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "You're Erwin's daughter?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, I-I mean your-your old best friend, here. (hands her the picture) Lily, from high school. Remember?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "Oh gosh, Lily, yes. Of course I remember Lily. I... Then you must be?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(points to herself) Phoebe. (points to her) Phoebe. Phoebe, yeah. She named me after you I guess."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "Uh-huh. Wow! Well, look! There's Frank. (points to the picture.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes!! Yes! Yes! Yes!! That's my Dad, that's Frank! Yeah! I'm sorry I'm getting all flingy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "Take it easy--if you want, there's cookies on the counter, or, or--sangria! (jumps up) I can make sangria!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No-no, sorry. Cookies are good, thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(goes and gets some cookies) Well, so, umm, anyway umm, I've been, I've been looking for my Father, and umm, have you heard from him, or seen him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "Oh no, I-I'm sorry, I guess we lost track of everybody after high school."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(disappointed) Oh, okay. Well, so tell me everything about my parents. Everything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "Ohh, well. Y'know we were always together, in fact the had a nickname for the three of us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, what? What was it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "The three losers. Oh, poor Lily. (Phoebe notices a picture on the fridge, takes it, and puts it in her pocket.) Ohh, y'know I-I heard about what happened, that must have been just terrible for you, losing your mother that way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(happily) Yeah, no, it was great."
+  },
+  {
+   "t": "scene",
+   "text": "The beach house, it's still raining. Chandler is building a sand castle, Rachel is doing Monica's nails, and they're all drinking margaritas, obviously bored."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(getting an idea) Hey, y'know what a really good rainy day game is?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I mean naked game. Strip poker, we should totally play strip poker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "No, no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What are you crazy?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on! When you go away, you-you have to play, it's like a law!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Monica) Allll done!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Aww, thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, who's next?! (She looks around the room, and stops when she comes to Ross.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No-o-o! (Rachel gives him a \"Please?\" look.) No way!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Come on, please?! I'm boredddd! You let me do it once before."
+  },
+  {
+   "t": "direction",
+   "text": "Ross shoots Joey a look, who shoots Chandler a look, who gives Joey an \"Oh my God.\" look back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah well, if ah, if that's the rule this weekend... (She gets up) No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes! (she starts creeping up on him)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Get away!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Just once!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Stay away!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Take it like a man, Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(he gets up and starts to run away from her) No! (in his escape attempt he crushes Chandler's sand castle) No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, come on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Big bullies!!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross dives over the couch, Rachel goes the other way, and lands up top of him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ow! Ow! Oh, no-no-no!"
+  },
+  {
+   "t": "direction",
+   "text": "They get into a wrestling match, that ends with Ross making Rachel paint her forehead with the nail polish. They both end up lying next to each other, stop, and look at each other for a moment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering) Oh, hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, so, how are we doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Bored and bored!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, you know what naked card game is never boring?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Noo!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Phoebe) So what's Phoebe like?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm kind, caring, and sweet. What's Monica like?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ah no, the other Phoebe, the one you went to go see."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ohh, I think she knows where my Dad is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh well, where is he?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "She was acting, she was pretending like she hasn't heard from him on years, but I found this picture on her fridge, and look (shows Monica)! Isn't this what he would look like now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(gasps) Totally familiar. (Phoebe shows the rest of them.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Guys",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, why would she lie to you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't know, but we're having dinner tomorrow night, so I figured, she's gonna tell me then. Y'know maybe she just wanted to give him time to, buy me presents, I don't know! So, you're all bored?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Ohh!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, I'm gonna close my eyes and point to someone, and you, whoever I point has to come up with something fun for us to do, and we have to do it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, all right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Fan out! Fan out!"
+  },
+  {
+   "t": "direction",
+   "text": "They do so, and Phoebe gets in the middle, closes her eyes, and starts spinning in a circle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. (Starts to spin) Ooh, y'know we could just do this. (She stops at Chandler)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, umm, we all have to play strip poker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(jumping in triumph) OH YES!!!!!"
+  },
+  {
+   "t": "direction",
+   "text": "[cut to later]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Strip Happy Days Game?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, well, I couldn't find any cards, so it was either this or Strip Bag Of Old Knitting Stuff."
+  },
+  {
+   "t": "direction",
+   "text": "Monica rolls, and Ross goes first."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, (reading the card) Fonzy gives you two thumbs up, collect two cool points. Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Monica, if you get five cool points, you get to make somebody take off one item of clothing. It hasn't happened yet, but we're all very excited."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, come on! (blows on the dice) Daddy needs a new pair of electromagnetic microscopes for the Prehistoric Forensics Department! (They all look at him, and he shuts up and rolls the dice.) (he moves his piece) Okay. (reading a card) Take Pinky Tuscadero up to Inspiration Point, collect three cool points!! Yeah! Which gives me five, and let's see who is gonna lose their clothes. Ummmm, I think I pick our strip poker sponsor Mr. Joey Tribianni."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Girls",
+   "text": "Woo-hooooo!!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, relax. It's just a shoe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Wooooo!!!!"
+  },
+  {
+   "t": "direction",
+   "text": "[cut to later in the game]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(reading a card) Okay, your band is playing at Arnold's, collect three cool points. Which means, I have five, and that means I get Joey's boxers!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Fine. Gang up on me! I got you all right where I want you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Come on, take 'em off!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Actually, y'know it's kinda cold, so how about I keep my boxers on, and give you all a peek at the good stuff?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(getting up) All right, I'm gonna make more margaritas! (She pours the rest of the pitcher into Ross's glass.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Whoa, hey! What are doing? Trying to get me drunk?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm just making margaritas."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I think I'll help her out. (She gets up to go over and help Rachel, and reveals she has no pants.) (to Rachel) What is going on here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You painting his toenails?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, come on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chasing him all around the room?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Monica, please?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "He's totally flirting with you too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(pause) He is, isn't he? I don't know, I don't know, I mean maybe it's just being here at the beach together or, I don't know. But it's like something... (she's interrupted by the sound of Bonnie entering)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey! (Rachel is shocked) Hi Bonnie!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Hi! My boss let me off early, so I took the train."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "What are you guys doing?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "We're playing Strip Happy Days Game!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Cool! I'll catch up! (She takes off her sweater.)"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "The beach house, the next morning. Chandler and Monica are in the kitchen eating breakfast."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, you still don't think I'm boyfriend material?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I saw you checking me out during the game last night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You didn't even take off your pants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, well, lucky for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Well! Is everybody else having just the best time?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Shhh! Shhhh! Joey's asleep."
+  },
+  {
+   "t": "direction",
+   "text": "Joey is sleeping on the floor and is buried in sand that has been carved into a mermaid complete with breasts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "After he passed out, we put the sand around him to keep him warm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well I assume the ah, happy couple isn't up yet. Did you guys hear them last night?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, yeah, I don't know what they were doing, but at one point sea turtles actually came up to the house."
+  },
+  {
+   "t": "direction",
+   "text": "Ross and Bonnie enter"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Good morning."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Hey! How did everybody sleep?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Like a log."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross and Bonnie",
+   "text": "Us too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm going for a walk."
+  },
+  {
+   "t": "direction",
+   "text": "Joey finally wakes up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Joey) Good morning. Nice breasts by the way."
+  },
+  {
+   "t": "direction",
+   "text": "Joey looks down and his look turns from shock to satisfaction."
+  },
+  {
+   "t": "scene",
+   "text": "The porch, Bonnie is coming back from swimming, Rachel is reading."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Hey, what happened to you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, ah nothin'. I just felt like hangin' out here and reading."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Oh, the water was sooo great! We jumped off this pier and my suit came off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohhhh, sorry I missed that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Yeah, Joey and Chandler sure are funny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh-ha-ha!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "I think I brought back half of the beach in my hair. It was so much easier when I used to shave my head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Y'know, I gotta tell ya, I just loved your look when you were bald."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Really?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Because I think about shaving it all off again sometime."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I mean you definitely should do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Y'know what, I should do it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Yeah, thank you Rachel, you are soo cool."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Awww, stop. Come on. Now go shave that head!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "All right."
+  },
+  {
+   "t": "direction",
+   "text": "As Bonnie goes to do just that, Rachel smiles to herself, proud of what she's done."
+  },
+  {
+   "t": "scene",
+   "text": "The beach house, at night. Phoebe is hangs up the phone, and gently pushes one of the stools over."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What's the matter, Pheebs?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "She cancelled! My namesake cancelled on me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, she clamed she had to go out of town suddenly. She's avoiding me, she doesn't want to tell me where my Father is. She knows, and she won't tell me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Aww Pheebs, that sucks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, well, don't \"Aww Pheebs, that sucks!\" me yet. (she starts to leave)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Where ya going?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, she's out of town so, there's gotta be something in her house that tells me where my Father is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, Pheebs, some people call that breaking and entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, are any of those people here?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oh, no!! No, no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, look I-I-I do something nice, okay? I'll-I'll fill her ice trays."
+  },
+  {
+   "t": "direction",
+   "text": "She exits just as Bonnie comes down the stairs, as bald as Michael Jordan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Hey, everybody!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Wow!! (they all recoil in shock and horror)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wh-haa-haa! Look what 'cha did! (Rachel has her hand over her mouth to keep from laughing.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "You wanna touch it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Nooo, but it, but it's great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Come on, touch it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay. (He gently touches it.) You can feel all the bones in your skull."
+  },
+  {
+   "t": "scene",
+   "text": "Outside the beach house, Ross is coming out to talk to Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I was having a little chat with ah, Bonnie, and ah, guess what, she-she happened to bring up y'know, who was behind the um, whole head shaving idea, and now, who was it? Oh, that's right, that's right, it was you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That was her idea, I just gave her a nudge."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "She said you gave her the razor!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "(joining them) Hey guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "So, anyone up for a midnight dip in the ocean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ahh, no, I'm good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Okay, I'll see you in a bit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, have fun! Wooo!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Come on see, she doesn't look that bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You can see the moonlight bouncing off her head! What the hell were you thinking?!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You don't know?! Rach, you balded my girlfriend!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right! Ross, do you think it's easy for me to see you with somebody else?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know, hey! You're the one who ended it, remember?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, because I was mad at you, not because I stopped loving you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You still love me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Noo."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You still love me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, y-yeah, so, you-you love me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Noo, nnnnn. What does this mean? What do you, I mean do you wanna, get back together?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Noo! Maybe! I, I don't know. Ross, I still can't forgive you for what you did, I can't, I just, but sometimes when I'm with you I just, I feel so..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I just, I feel, I-I just..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I feel..."
+  },
+  {
+   "t": "direction",
+   "text": "Ross leans in and kisses her. They both look at each other for a moment, and then embrace in a more passionate kiss, only to be interrupted by Joey and Chandler coming outside."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to Joey) Noo!! I don't care! I'm not, I'm not gonna playing one-on-one strip poker with you for practice!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel and Ross both stop kissing, and quickly step back from each other."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But I made cards!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well! Good night. (to Ross) I'm going upstairs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey and Chandler",
+   "text": "G'night."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel walks inside, stops, and turns back to look at Ross for a moment then goes upstairs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to Ross) Wanna play strip poker for practice?"
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe Sr.'s house, Phoebe is breaking in through a window."
+  },
+  {
+   "t": "direction",
+   "text": "She throws her bag inside, and starts to climb through the window. She gets halfway in and the window slams shut on her butt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ow! My ass. Okay. Okay. (She manages to climb completely inside and the window slams shut.) Oh, shhh!"
+  },
+  {
+   "t": "direction",
+   "text": "She starts walking across the darkened room and hits her head on a wind chime hanging from the ceiling, to stop it from making a noise she grabs it and \"Shhh's\" it. She goes into the kitchen and finds Phoebe Sr.'s appointment book, to read it she opens the freezer. Just as she starts to read, Phoebe Sr. jumps out from her bedroom with a coat hanger, startling Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No! No!! It's me! It's me! I-I didn't want to make any noise!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "Then don't break in!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "What are you doing here?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I-I, came to fill your ice cube trays."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, okay, okay, look. I took this picture from your fridge. Okay, because I know that this is my Father. Yeah, this is Frank Buffay and you are standing right there next to him. Now, look I deserve to know where I came from. All right? So if you can help me find my Father then you should! Otherwise, you're just mean! (pause) So, just tell me the truth!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "All right, the man in the picture is Chuck Magioni."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "My Father is Chuck Magioni?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "No, no, that's just Chuck Magioni, I-I sold him a house last year! And I'm very sorry, but I don't know where your Father is, and that's the truth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "But umm, you're right. I think that a person should know where they come from. Wh-which is why I ah, (pause) ahh, (pause) okay. I'm your mother."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Heh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe Sr",
+   "text": "Y'know I wanted to tell you yesterday, but I just, I kinda felt all floopy, and..."
+  },
+  {
+   "t": "direction",
+   "text": "At that Phoebe's eyes open in shock."
+  },
+  {
+   "t": "scene",
+   "text": "Outside the beach house, Ross is telling Joey and Chandler what happened with Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm telling ya, you guys are totally getting back together!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's not true! Her, she doesn't even know what she wants! Rachel's still mad about the whole thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, then you gotta back away, all right? You don't need that kind've hurt. Take it from a guy who's never had a long term relationship......"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know, but ahhhhhh!! I really wanna go up there and finish that kiss!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "(coming back from her swim) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ahhhh! (Steps away from her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "You guys, the water's great. You should really go in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, ahh, no thanks, I just had an M&M."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "Okay, well g'night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Good night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bonnie",
+   "text": "(kisses Ross) Don't be too long."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okey-dokey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "There is not one hair on that head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, it'll grow back, right? And she-she's really fun, and she's cool, and-and I'm finally moving on. Y'know? I mean getting over Rachel was so (makes an incoherent nasal sound), y'know? Y'know, and I'm finally feeling sane again. And now if I go up there, and-and I kiss her, and, Gooood I wanna kiss her, and-and-and it doesn't work out, right? Do I really wanna put myself through that again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So let me get this straight. If you go with Bonnie tonight, you're doing the smart, healthy thing and moving on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Right, and you go with Rachel, Bonnie's free tonight?"
+  },
+  {
+   "t": "scene",
+   "text": "The hallway between the bedrooms. Ross is coming upstairs and stops between two doors. He looks at the one on the right, then he looks at the one on his left, thinks about it, and goes in the one on his right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering the bedroom) Hi. (closes the door)"
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "The beach house, Chandler is simulating he's coming to pick up Monica for a date. Chandler knocks on the door, and Monica answers it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(in a fake voice) Hi there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's that weird voice again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay! Okay! Let me try it again, you're gonna wanna date this next guy, I swear!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica closes the door, Chandler knocks, and Monica opens it to reveal Chandler on his knees."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi! I'm Dorf! You're date for the evening. (Monica walks away in disgust) Oh come on! Dorf on dating, that's good stuff!!"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  },
+  {
+   "t": "direction",
+   "text": "Season 3"
+  },
+  {
+   "t": "direction",
+   "text": "228"
+  }
+ ]
+}

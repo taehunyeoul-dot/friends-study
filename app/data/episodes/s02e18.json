@@ -1,0 +1,1358 @@
+{
+ "id": "s02e18",
+ "season": 2,
+ "episodes": [
+  18
+ ],
+ "code": "218",
+ "title": "The One Where Dr. Remore Dies",
+ "lines": [
+  {
+   "t": "direction",
+   "text": "Originally written by ???."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Everyone except Ross is there watching Days of Our Lives."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amber",
+   "text": "Oh Drake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Remore",
+   "text": "I'm sorry Amber. It's just like Brad to have to have the last word."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross enters]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm sorry I'm late, what happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We, we just wanna see the end."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amber",
+   "text": "I want you Drake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Remore",
+   "text": "I know you do but you and I can never be together that way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amber",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Remore",
+   "text": "There's something I never told you Amber. I'm actually your half- brother."
+  },
+  {
+   "t": "direction",
+   "text": "[Everyone gasps. The show ends.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So what happens next?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I get the medical award for separating the siamese twins. Then Amber and I go to Venezuela to meet our other half-brother, Ramone. And that's where I find the world's biggest emerald. It's really big but it's cursed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "God that is good TV."
+  },
+  {
+   "t": "direction",
+   "text": "OPENING TITLES"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Eddie's apartment. Chandler is at the foosball table trying to get Phoebe to play a game with him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Phoebs, play with meeee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No. This game is grotesque. Twenty armless guys joined at the waist by a steel bar, forced to play soccer forever. Ahh, hello, human-rights violation."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ya know Phoebs, don't feel so bad for 'em. After they're done playing, I break out the little plastic women and everybody has a pretty good time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why don't you play with your roommate?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ah he's a, he's not a big fan of foosball."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh oh, ooh, are we not getting along with the new boy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No he's, he's alright, just uh, he spends most of his time in his room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Maybe that's because you haven't taken the time to get to know him. Let's remedy that, shall we?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We don't need to remedy that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah, it'll be fun. [throws a tennis ball at Eddie's bedroom door]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "What was that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi, um, I just thought that it would be fun if the three of us had some beers and got to know each other."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "Yeah alright, that sounds alright."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh good, ok. Oh nooo, I have to go because I'm late for my um, Green Eggs and Ham discussion group. Um tonight it's why he would not eat them on a train. Have fun bye."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That was so lame."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know, yeah. Ok, talk to him. [leaves]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, you uh, you think that Speed Racer guy gets a lot of tickets er?"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Eddie's apartment. Chandler and Eddie are talking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "That's good, that's good. So, so, so who broke up with who?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What're you kidding? I broke up with her. She actually thought that Sean Penn was the capital of Cambodia."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "That's good man, when everybody knows that the uh, the capital of Cambodia is uh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well it's not Sean Penn."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "Not Sean Penn. Alright, I, I've got a funny one, alright. My last girlfriend Tilly. Ok, we're eating breakfast, right, and I made all these pancakes, there was like 50 pancakes right. And all of the sudden she turns to me, alright, and she says, 'Eddie.' I say, 'yeah,' she says, 'Eddie, I don't want to see you anymore.' And it was literally like she had reached into my chest, ripped out my heart, and smeared it all over my life, ya know. And now there's like this incredible abyss, ya know, and I'm falling and I keep falling and I don't think I'm ever gonna stop. [finishes laughing] That uh, wasn't such a funny story, was it?"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Phoebe is singing. Monica, Richard, Ross, and Rachel are listening."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "And a crusty old man said I'll do what I can and the rest of the rats played moroccas. That's it, thanks, good night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Phoebe's got another job, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Great set tonight Phoebs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, we should probably get going."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Um, we should go too, I got patients at 8 in the moring."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ya know, I was thinking. Ya know how we always stay at your apartment? Well, I thought maybe tonight we'd stay at my place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "I don't know, I don't have my jammies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, maybe you don't need them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "My baby sister, ladies and gentlemen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Shut up, I'm happy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, this is so nice. Alright I have to make a speech. I just wanna say that of all the guys that Monica has been with, and that is a lot, I like you the best."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Oh, thank you Phoebs. That's very sweet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Hear that? She likes me best, and apparently there've been a lot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Not a lot, Phoebe's kidding, Phoebe's crazy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe's dead."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Eddie's apartment. Chandler is there. There's a knock at the door. He answers it to see a young woman holding a fishtank."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tilly",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tilly",
+   "text": "I'm looking for Eddie Minowick."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, uh, he's not here right now, uh, I'm Chandler, can I take a message, or, or a fishtank?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tilly",
+   "text": "Thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, oh, c'mon in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tilly",
+   "text": "I'm Tilly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tilly",
+   "text": "I gather by that oh that he told you about me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh yeah, your uh, name came up in a uh, conversation that terrified me to my very soul."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tilly",
+   "text": "He's kind of intense huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes. Hey, can I ask you, is Eddie a little..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "[walks around corner] A little what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Bit country? C'mon in here you roomie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "Hello Tilly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tilly",
+   "text": "Eddie, I just came by to drop off your tank."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "That's very thoughtful of you. It's very thougtful."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tilly",
+   "text": "Well, ok then. I'm gonna go. Bye."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "Bye-bye."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Bye."
+  },
+  {
+   "t": "direction",
+   "text": "[Tilly leaves]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, we gettin' a fish?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "You had sex with her didn't you?"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Joey enters with several magazines and runs up to Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Phoebs, check it out, check it out, check it out, check it out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, ooh, Soap Opera Digest, oh that's one of my favorite digests."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Page 42, page 42, page 42."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, ok, ok. Ooh, hey 'new doc on the block, Days of Our Lives' Joey Tribbiani.' Ooh, cool picture."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh, I look good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey is this true, that you write a lot of your own lines?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, well, kinda yeah. Like, remember last week when Alex was in the accident? Well the line in the script was, 'If we don't get this woman to a hospital, she's going to die.' But I made it, ' If this woman doesn't get to a hospital, she's not gonna live.'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ohh, ok, I see what you did there. Aren't you afraid though, that the writers are gonna be kinda mad when they read this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Huh? Never really thought about the writers. The scripts just kinda come to my house. But you know what? This makes me look good, which makes the show look good, which makes the writers look good so how could they be mad about that?"
+  },
+  {
+   "t": "scene",
+   "text": "At a writer's desk. The writer is working on a script for Days of Our Lives."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Writer",
+   "text": "Makes up most of his lines. Son-of-a-. Yeah, well, write this jerkweed."
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. The next script is being delivered."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I fall down an elevator shaft? What the hell does this mean, I fall down an elevator shaft?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Delivery Guy",
+   "text": "Uhh, I don't know, I just bring the scripts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "They can't kill me, I'm Francesca's long lost son."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Delivery Guy",
+   "text": "Right. Could you sign this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No. No way, I'm not signing that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Delivery Guy",
+   "text": "I don't think that's gonna affect the plot of the show."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "How can they do this to me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Delivery Guy",
+   "text": "Er, uh, I'm just gonna go. Sorry."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Monica, Richard, Ross, and Rachel are returning."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well it wasn't that many guys. I mean, if you consider how many guys there actually are, it's a very small percentage."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, it's not that big a deal, I was just curious."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "G'night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Night Richard. Good luck Mon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, before I tell you, uh, why don't you tell me how many women you've been with."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Two."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Two? TWO? How is that possible? I mean, have you seen you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Well, I mean what can I say? I, I was married to Barbara for 30 years. She was my high school sweetheart, now you, that's two."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Two it is. Ok, time for bed, I'm gonna go brush my teeth. [goes in the bathroom]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Woah, woah, no wait a minute now. C'mon it's your turn. Oh c'mon. Ya know, I don't need the actual number, just a ballpark."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, it is definitely less than a ballpark."
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel's bedroom]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wow, I am so glad I'm not Monica right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Tell me about it. So what, what's your magic number?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uhhhooo."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "C'mon, you know everyone I've been with. All, both of them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, there's you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Better not be doin' these in order."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, uh, Billy Dreskin, Pete Carney, Barry, and uh, oh, Paolo."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh yes, the weenie from Torrini."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh honey, are you jealous of Paolo? Oh, c'mon, I'm so much happier with you than I ever was with him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh please. That Paolo thing was barely a relationship. All it really was was just, ya know, meaningless animal sex. Ok, ya know, that sounded soooo much better in my head."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Eddie's apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Eddie, I didn't sleep with your ex-girlfriend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "That's very interesting, ya know, 'cause that's exactly what someone who slept with her would say."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "This is nuts. This is crazy. She came over for like two minutes, dropped off a fish tank, and left, end of story."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "Where's Buddy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Buddy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "My fish, Buddy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "There was no fish when she dropped it off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "Oh, this is, this is unbelievable. I mean, first you sleep with my ex-girlfriend then you insult my inteligenct by lying about it and then you kill my fish, my Buddy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey I didn't kill your fish. Look Eddie...[puts his hand on Eddie's shoulder] Would you look at what I'm doin' here. That can't be smart. So we're just gonna take this guy right off ya and put him here in Mr. Pocket. Tangellon? [picks up the fruit an tosses it to Eddie, it hits Eddie in the chest and falls]"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Monica and Richard are in Monica's bedroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "That's it? That's the giant number you were afraid to tell me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Well, that's not bad at all. I mean, you had me thinkin it was like a fleet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You really ok with it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Oh honey, I'm fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, yay. Ok about that two."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "What? Alright, what about my two?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, it just seems like a really small number."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Right, and..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And, well, don't you have a lot of wild oats to sew? Or is that what you're doing with me? Oh my God, am I an oat?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Honey, you are not an oat. I, I mean I don't know, I, I guess I'm just not an oat guy. I've only slept with women I've been in love with."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But you've only slept with two people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow. Oh wow. You know I love you too, right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Now I do. [they kiss and fall to the bed]"
+  },
+  {
+   "t": "direction",
+   "text": "[Ross and Rachel are in Rachel's bedroom]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, Ross, please listen to me. Ross, you are so much better for me than Paolo ever was. I mean you care about me, you're loving, you make me laugh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, hey, if I make you laugh, here's an idea, why don't you invite Paulo over and have a little romp in the sack and I'll just stand in the corner and tell knock-knock jokes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "God, Ross, look, what you and I have is special, all Paolo and I ever had was..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Animal sex, animal sex? So what're you saying, I mean, you're saying that like, there's nothing between us animal at all. I mean there's not even like, uhm, a little animal, not even, not even like, like chipmunk sex?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, Ross, try to hear me. Ok, I, hey, I'm not gonna lie to you. Ok, it was good with Paolo."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Knock-knock."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But, what you and I have is so much better. Ok, we have tenderness, we have intimacy, we connect. Ya know, I swear, this is the best I have ever had."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Until now. [jumps on Rachel on the bed]"
+  },
+  {
+   "t": "direction",
+   "text": "[later in the bathroom Monica is looking in the drawer, Rachel runs up]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi. Richard just told me he loves me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God, honey that's great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know. I just can't find..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh they're in the top drawer. Hurry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You need one too?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ooooh yeah."
+  },
+  {
+   "t": "direction",
+   "text": "[they pull out the box of condoms but there's only one left]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "There's only one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi. Uh, we'll be right there, we're just trying to decide something. [shuts the bathroom door]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "[comes out of the bedroom] Rachel. [growls then sees Richard standing there] Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Hey. They're just trying to decide somehting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Good, good, good. So, is uh, was your moustache, did, used to be different?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh. How do you uh, ya know, keep it so neat?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "I have a little comb."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh. And what do you call that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "A moustache comb."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, I, I will do your laundry for one month."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, ok, ok, I will, I will, I, hey, I will clean the apartment for two months."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, I tell you what, I'll give this to you now if you can tell me where we keep the dustpan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Agghhh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So were you in Nam?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Rock-paper-scissors?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "RACHEL and MONICA",
+   "text": "One two three. [Rachel picks rock, Monica picks scissors]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeesss."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Fine, go have sex."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "No. You have got it completely wrong. John Savage was deerhunter, no legs, John Voit was coming home, couldn't feel his legs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, no way. You've got it totally the other way around my friend. John Voit was..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Honey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What, what oh....[Ross and Rachel go into her room]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Shall we?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's not gonna happen. They're doing it tonight, we can do it tomorrow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Uh, in the future, if I could see the schedule beforehand..."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. All but Joey are present."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, when I woke up this morning, he'd stolen all the insoles out of my shoes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because he thinks I slept with his ex-girlfriend and killed his fish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why would you kill his fish?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because sometimes, Phoebe after you sleep with someone, you have to kill the fish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Chandler honey, I'm sorry. Ok, can we watch Joey's show now please? [they turn on the TV]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait, he's not here yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So, he's on the show, he knows what happens."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, I'm fine about my problem now, by the way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Remore",
+   "text": "Amber, I want you to know that I'll always be there for you, as a friend and as your brother."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amber",
+   "text": "Oh Drake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr Horton",
+   "text": "Hard day huh? First the medical award, this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Remore",
+   "text": "Some guys are just lucky I guess."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Intercom",
+   "text": "Dr. Remore, report to first floor emergency, stat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Remore",
+   "text": "Well then, uh, I uhh, guess that's me. Anyone else need to go on the elevator? Dr. Horton, Dr. Wong?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Horton",
+   "text": "No, no, they only said you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Remore",
+   "text": "Oh, ok. Alright."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amger",
+   "text": "I love you Drake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Remore",
+   "text": "Yeah, whatever. Oh no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Amber",
+   "text": "Drake, look out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Remore",
+   "text": "Ahhhhhhhhhhhhhhhhhhhhhhhhh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Did they just kill off Joey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. [sound of Dr. Remore's body hitting the bottom of the shaft] Now maybe."
+  },
+  {
+   "t": "scene",
+   "text": "Joey's apartment. Everyone is outside knocking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "C'mon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Open up. We want to talk to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't feel like talkin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh c'mon Joey, we care about you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We're worried about you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And some of us really have to pee."
+  },
+  {
+   "t": "direction",
+   "text": "[Joey opens the door]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Sorry Joey [runs to the bathroom]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Listen, sorry about your death, that really sucks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We came over as soon as we saw."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How could you not tell us?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know, I was kinda hopin' no one would ever find out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, maybe they can find a way to bring you back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Naa, they said that when they found my body, my brain was so smashed in that the only doctor that could have saved me was me. Supposed to be some kind of irony or somethin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But Joey, you're gonna be fine. You don't need that show, it was just a dumb soap opera."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Phoebe, this was the greatest thing that ever happened to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes, I was going to incorporate that. Oh good, here's Monica, she'll have something nice to say."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Um, I straightened out your shower curtain so you won't get mildew. What? To me that's nice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's gonna be ok. You know that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, I don't. It's like, ya know, you work your whole life for somethin' and you think that when you get it it's never gonna be as good as you thought it would be. But this so was. Ya know, it changed everything. Like the other day, I got this credit card application, and I was pre- approved. Huh? I've never been pre-approved for anything in my life."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm sorry man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, Joey honey, I don't know if this'll mean anything to you but you'll always be pre-approved with us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, that means nothin to me."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Eddie's apartment.Chandler walks in to see Eddie holding a tray of cookies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uhhhaahh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "Pecan sandy, just made em."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah alright. What're these, raisins?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "Uh, sure, why not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "[throws it across the room while Eddie's not looking] Listen Eddie, um, I've been thinking about our current living situation and uh, why are you smiling?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "I got a little surprise, look. There's a new fishie. I named him uh, Chandler, you know, after, after you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "[looks in the fish bowl to see a fish cracker] Well that's not an, even a real fish. No, that's a goldfish cracker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Eddie",
+   "text": "What's you point man?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok, good night. [walks towards his room] You big freak of nature."
+  },
+  {
+   "t": "direction",
+   "text": "CLOSING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross comes out of Rachel's bedroom in her bathrobe and heads for the bathroom. On his way back, Richard comes out of Monica's bedroom in her bathrobe.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Ohh, brisk tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Let's never speak of this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You got it."
+  },
+  {
+   "t": "direction",
+   "text": "END"
+  }
+ ]
+}

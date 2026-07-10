@@ -1,0 +1,1387 @@
+{
+ "id": "s04e06",
+ "season": 4,
+ "episodes": [
+  6
+ ],
+ "code": "406",
+ "title": "The One With The Dirty Girl",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross and a beautiful blonde (Cheryl) are standing outside. The rest of the gang is watching from inside."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "So, thank you for the delicious dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're welcome for a delicious dinner."
+  },
+  {
+   "t": "direction",
+   "text": "[inside]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey what are you guys looking at?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ross and the most beautiful girl in the world."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, come to papa."
+  },
+  {
+   "t": "direction",
+   "text": "[Cheryl walks away and Ross walks inside. Everyone stares at him in disbelief.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Probably the only time I'll ever say this, but did you see the ass on her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Where did you, when did you, how did you... (Joey hits the back of Chandler's head) How did you get a girl like that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, so what is she, like a... like a spokesmodel, or an aerobics instructor, what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Actually she's a paleontology doctoral candidate, specializing in the centazoic era."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, but that's, like, the easiest era."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I've seen her at work, but I always figured, ah-huh? But, uh, I made her dinner. We had a great time. And we're going out again tomorrow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well maybe she and her friends are just having a contest to see who can bring home the biggest geek."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Fine by me; hope she wins."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's. Ross, Rachel, and Phoebe are there. Chandler enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi. You guys have any wrapping paper?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oo! Is it for my birthday present?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Phebes, it was your birthday, like, months ago."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, but remember you said you ordered something special, and it just hasn't come yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I have a call in about that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "'Kay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Actually, this is for Kathy's birthday. It's an early edition of her favorite book."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, The Velveteen Rabbit! Oh my God, when the boy's love makes the rabbit real!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, but don't touch it, because you fingers have destructive oils."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Huh. Well, then you'd better keep it away from Ross's hair. So this is pretty rare. How did you get that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, it wasn't a big deal. I just went to a couple of bookstores, talked to a couple of dealers... called a couple of the author's grandchildren."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, honey, that's so sweet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, and what a great way to say, \"I secretly love you, roommate's girlfriend!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It doesn't say that. Does it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How do you think it's gonna look when you get her something incredibly meaningful and expensive and her boyfriend Joey gives her an orange?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, all right, I'll just uh, make sure that uh, Joey gets her something really great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's gotta be better than that book. Oo! Like a crossbow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Entering from her bedroom, talking on the phone) Yeah, once again, I am sorry. Thank you. Bye. (To the gang) I just had to turn down a job catering a funeral for sixty people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God! What happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Sixty guests."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, uh, why did you have to turn it down?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Because I don't have the money or the equipment to handle something that big on such short notice. I mean there's no way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow, what is with all the negativity? You sound like Monican't , not Monican... (Monica looks almost puzzled) ...Monica. Look, you know, you have been playing around with this catering thing for over three years. Do you want to be a caterer or not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "There you go, that's the spirit! Okay! Now, if you need money, I will lend you money, but just get moving!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Really? Cause I'd need like $500 for all the food and the supplies and stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay! It's worth it, if it will get you moving. You haven't worked in months."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, you're not working either."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes, but I'm doing this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, that'd be great! Thank you!"
+  },
+  {
+   "t": "direction",
+   "text": "[Joey enters]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Everyone",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "Can I borrow the keys to your apartment?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why?"
+  },
+  {
+   "t": "direction",
+   "text": "[Kathy whispers something in Joey's ear]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You can pee here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "Ahahaha... haha.. yes I can, of course. Excuse me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's okay, the duck's using our bathroom anyway. (Kathy goes into the bathroom.) Hey Joe! What are you getting Kathy for her birthday?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "We've only been going out for a couple of weeks, do you think I gotta get her something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Everyone",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes, you have to get her something, and it should be something really nice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, I know..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And not one of your coupons for an hour of \"Joey Love.\""
+  },
+  {
+   "t": "direction",
+   "text": "[cut to a new scene, also in Monica and Rachel's apartment. Rachel is sitting, Phoebe is nearby.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooo, a crossword! Can I help?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! I'm sorry, honey, it's just that last week I got all but three answers and I really want to finish a whole one without any help."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Fine. But you can't help me develop my new universal language."
+  },
+  {
+   "t": "direction",
+   "text": "[Monica enters]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, how'd it go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God, it was the best funeral ever! I mean, everyone loved the food, and guess what? I even got another funeral for tomorrow-the dead-guy-from-today's best friend. I mean, it is like I am the official caterer for that accident!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Mon! I'm so happy for you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thanks. Like, check out my new catering stuff. (Picks up two frying pans) Look at this! I'm an omelet station! Omelet? Made to order!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'll have one, please. Plus my money."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh. Well, I didn't realize that you needed it back right away. I mean, you told me to go and be a caterer. So I went. I beed. I mean, I... I used it to buy all this stuff. But look-I've got another job tomorrow, so I'll pay you back with the money I make from that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh. Okay. Oo, sorry I acted like a bank."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay."
+  },
+  {
+   "t": "scene",
+   "text": "Outside Cheryl's apartment, Ross and Cheryl are kissing"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(moved by the kiss) Huh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "Um, would you like to come in?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Did homo-erectus hunt with wooden tools?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "According to recent findings!"
+  },
+  {
+   "t": "direction",
+   "text": "[They go into the apartment. Inside the apartment it looks like a sewage dump exploded and landed in her living room. There are clothes and food and junk covering every square inch of space. I mean pigs have nicer pens. Ross is completely shocked.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "(throwing food around the room) Here Mitzi! Here Mitzi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mitzi is....."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "My hamster. I hope she's okay, I haven't seen her in a while. Have a seat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(mouths \"where?\") Uh... Oh hey, do you, uh (steps on some garbage and falters) ...do you have any, um, Cinnamon Fruit Toasties?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I do! Why don't we go back to my place, light a couple of candles, break open a box of Cinnamon Fruit Toasties, uh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "I'd rather not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, yeah, why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "Okay, um, don't take this the wrong way, but your place kinda has a weird smell."
+  },
+  {
+   "t": "scene",
+   "text": "A kitchen where Phoebe and Monica are finishing up a catering job"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, is everything in the car?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes. Did you settle the bill?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No. I hate this part."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, look what we almost left. (Picks up a coffee maker)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, that's not mine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, all right. Oh! Look what we almost took!"
+  },
+  {
+   "t": "direction",
+   "text": "[cut to the living room of the same dwelling, where the funeral guests are mingling. Monica enters.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Excuse me, Mrs. Burkart? Well, we're all cleaned up in the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burkart",
+   "text": "Oh, good. Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Um, and, well there's the.. the the small matter of..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burkart",
+   "text": "Dear?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Just the matter of ...payment?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burkart",
+   "text": "(in grief) Jack used to handle the finances! (Breaks into tears)"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Rachel is on the couch still doing the crossword. Chandler is in the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You know what we should all do? Go see a musical."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(confused) Sure..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And you know which one we should see? The 1996 Tony award winner. Do you happen to know the name of that one?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't know... um, Grease?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Rent?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes! Rent!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, so when do you want to go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? Oh, I'm sorry, I can't, I'm busy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering the apartment) Hey. Man, it is so hard to shop for girls."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, it is, at Office Max."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What did you get her? (Joey opens up a rectangular black box and holds up a pen.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "A pen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It's two gifts in one. It's a pen that's also a clock! Huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Huh-huh! You can't give her that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because she's not eleven! And it's not the seventh night of Hanukkah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, honey, what he means by that, is ...while this is a very nice gift, maybe it's just not something a boyfriend gives?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure it is! She needs a pen for work, she's writing, she turns it over.... \"Whoa! It's time for my date with Joey!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, look, look. What did... what did you get for Angela Delveccio for her birthday?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "She didn't have a birthday while we were going out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "For three years?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(whining and heading toward the door) Look, it's too late, and I got an audition. I can't shop anymore! I..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right. I will go out and I will try to find something for her, okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thanks, man. And oh, while you're at it, could you get her a card?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Would you like me to write her a little poem as well?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Or... just get a card that has a poem already in it."
+  },
+  {
+   "t": "scene",
+   "text": "Back in the kitchen at the funeral. Phoebe is there, Monica enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But Mon, you have to get our money!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, Phoebe, she couldn't stop crying! With those thick glasses, her tears looked giant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know, it's tough. You know what the first thing I did after my mother's funeral was?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Pay the caterer! Look, I've had a lot of jobs, okay, and there are some people who just always try to get out of paying. It's either, you know, \"that massage wasn't long enough, or, \"I don't recognize any of those songs,\" or, you know, \"these sombreros aren't big enough. Bad little white girl!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. So what do you.... you think she's faking?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, it seems like there weren't any tears 'til you showed her the bill."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe, she sounded pretty upset to me."
+  },
+  {
+   "t": "direction",
+   "text": "[cut to the living room where Mrs. Burkart is now performing.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burkart",
+   "text": "(singing) You're a grand ol' flag, you're a high-flying flag, and forever in peace may you wave...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "She seems fine now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burkart",
+   "text": "(singing) ...emblem of the land I love. The home of...."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Ross and Joey are standing and talking, Ross is tying a tie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So, you just left? Her place was really that bad?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know how you throw your jacket on a chair at the end of the day?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, like that, only instead of a chair, it's a pile of garbage. And instead of a jacket, it's a pile of garbage. And instead of the end of the day, it's the end of time, and garbage is all that has survived! (Ross takes the loosely tied tie off and hands it to Joey who puts it on.) Here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow. Thanks. So, uh, what happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What do you mean? Nothing happened! I had to get out of there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, so... next time, you take her to your place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I tried that. She says it has a weird smell."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What kind of smell?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know. Soap?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, listen, Ross... you like this girl, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You wanna see her again, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So you're gonna have to do it in the mess!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, okay you're right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I mean, uh, who... who cares about a little sloppiness?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's, uh... it's endearing, really."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right! Now you go get that beautiful pig! (Ross hesitates, looks unsure) Oink!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel, Rachel is there, Chandler enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, all right. I just spent the entire afternoon looking for a present for Kathy that would be better than the rabbit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Any luck?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, yeah. Yeah, I found this great place called \"Invisible things for Kathy.\" (Motions to an imaginary pile of presents next to him.) Can you give me a hand with all this stuff?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, look. Why don't you just return the book, let Joey give her the clock pen, and you give her something worse than that. Like... a regular pen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "She's really going to love this, you know? The bottom line is I want her to have it, even if I don't get to be the one who gives it to her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Aw, honey, that's so sweet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah? You don't think it's just pathetic?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Pathetic! (Grabs the crossword puzzle and starts writing.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey! I'm meeting Kathy in ten minutes! I've been looking all over for you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Where?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Our place, the hall! I..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I got something for her. (Joey picks up the package, shakes it next to his ear, can't hear anything, switches ears, shakes it again.) It's a book!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Unimpressed) A book? (Suddenly interested) Is it like a book that's also a safe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, it's a book that's just a book, okay? It's an early edition of the Velveteen Rabbit. It was her favorite book as a kid. So, uh, just... let me know if she likes it, okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You got it. Thanks man. Thanks for doing this, I owe you one. (Joey leaves, comes back in.) Oh, hey! There wasn't any change from that twenty, was there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, it came out to an even twenty."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow. That's almost as much as a new book."
+  },
+  {
+   "t": "scene",
+   "text": "In the living room at the funeral"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burkart",
+   "text": "(singing) Jeepers, creepers, where'd you get those peepers? Jeepers, creepers, where'd you get those eyes?"
+  },
+  {
+   "t": "direction",
+   "text": "[cut to Monica and Phoebe in the kitchen]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You didn't get the money, did you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Maybe I can try at intermission? Phoebe, come on... you know what? Let's just go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No! Hey, we're not leaving until we get paid! I don't know who she thinks she is! Enough is enough! (Phoebe goes into the living room.) Hey, widow?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burkart",
+   "text": "(Singing) Come on along and listen to..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, Widow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burkart",
+   "text": "(Singing) ...the lullabye of..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Excuse me. Excuse me! (Mrs. Bukart stops singing) Thanks. Um, clearly this is a very, very hard time for you. Um, but, um, we provided a service, and we deserve to be paid because you ate that service, and, um, we are not leaving here until we're paid every penny. 'Cause you know what, lady? We're part time caterers, and we have no place else to go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burkart",
+   "text": "All right. I'll get my bag."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Good. (Phoebe and Mrs. Burkart go into the other room, leaving Monica with everyone staring at her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm gonna leave some cards here. Please think of us for you next event."
+  },
+  {
+   "t": "scene",
+   "text": "Outside Cheryl's apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "So you want to come inside?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(mustering up courage) Yes. Yes I do. (They go inside.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "I'll be right back. Make yourself comfortable. (Ross attempts to clear a place for his coat and fold it small enough to fit. Then hit sits on the couch. Something falls on him from above and he brushes his neck off frantically.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "(sneaking up behind Ross) Guess who?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Department of Sanitation?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "It's me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh! (She kisses him) Ah. (They kiss more, and move down onto the couch. Ross's hand moves under some garbage) Aw! (His hand is covered with something brown and gooey.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(trying to make his disgust into lust) Ah, Cheryl!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "Oh, Ross!"
+  },
+  {
+   "t": "direction",
+   "text": "[They sit up, moaning in excitement, and Cheryl straddles Ross. Ross finds a slice of bologna and moans higher and louder, then a bag of potato chips on the coffee table starts to move. Ross throws Cheryl off his lap, grabs a tennis racket and a toilet brush and starts pounding the bag.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "Wait! No! No! It's my hamster! It's Mitzi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh my god! I'm so sorry, Cheryl. I must have freaked out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "(looking in the bag) Oh, thank god, it's not Mitzi. It's just a rat."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Rachel is sitting on the couch alone working on a crossword puzzle. Gunther is there, going into the back room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I did it! Oh! I finished it! I did it all by myself! And there's nobody to hug!"
+  },
+  {
+   "t": "direction",
+   "text": "[From the background we hear a crash and Gunther comes running out of the back room, pushing people aside, reaching for Rachel.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "Move!"
+  },
+  {
+   "t": "direction",
+   "text": "[Gunther slips and falls just before reaching the back of the couch. Monica and Phoebe come into Central Perk.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey! Hey, you guys, I finished the crossword all by myself! Hug me!"
+  },
+  {
+   "t": "direction",
+   "text": "[Gunther gets up slowly from behind the couch and walks away sadly]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh... yay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thanks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, that's great! Congratulations!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thank you! Hey, how'd the catering go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, it was great! The widow wouldn't pay, so Phoebe yelled at her 'til she did."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. I'm a hard ass."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And I'm a wuss. And we should be partners."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. Hard Ass and Wuss. We could fight crime!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait a minute, Phoebe! We should be partners. We should be catering partners. I mean, think about it! You're not working right now, and we have such a great time together!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can cook and you can take care of the money."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. Oh! It'll be like I have a wife in the fifties!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Both",
+   "text": "(screaming with excitement) Aah!"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Chandler is there, Joey enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, how'd it go? How'd she like the gift?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, man, she loved it! She's over there showing Monica and Rachel right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh yeah? That's great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, listen, I gotta tell ya, I feel kinda bad taking credit for this, because man, am I gonna get a lot of credit for this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "[nodding, with mixed feelings] Aahhuuhhh...."
+  },
+  {
+   "t": "direction",
+   "text": "[Kathy enters]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey! Happy birthday."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "Thank you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You know, uh... [Joey moves the pen case out onto the counter.] Chandler got you a gift, too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No he didn't. [Moving it back.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, he did, look... look, it's right there on the counter! Ha-ho-ho!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Happy birthday! I'm sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "You really didn't have to. (Opens the box) Wow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "See, you think it's just a pen, but then you turn it over and it's also a clock."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "Yeah. No, this is great. Thank you, Chandler. (They hug)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, yeah... yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ah. Hm. (To Kathy) Wanna go to bed?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "I'll be in in a minute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, uh... don't forget your coupon. (Tries to strike a sexy pose up against the doorway to his room. Then goes inside)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "[to Kathy] Goodnight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "Um, thank you for the gift."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, uh, yeah... I just knew that sometimes when you're writing, you... you don't always know the exact time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "No, I... I didn't mean the pen. Thank you for the book."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uh, the book?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "The Velveteen Rabbit. I kinda have the feeling you had something to do with it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What do you mean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "Well, uh, when Joey gave it to me, he said, \"This is 'cause I know ya like Rabbits, and I know ya like cheese.\" Thanks. I love it. And I know how hard it must have been for you to find."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(tongue-tied) Uhl..ell. By the way, in case you missed that, that sound was, \"Uhl, ell.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "You must really like... Joey... to go to all that trouble for him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, yeah, he's my... he's my best friend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kathy",
+   "text": "Well...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Goodnight. (Goes to his room.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(opening bedroom door) Hey, that coupon expires, you know."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Outside Cheryl's apartment, Monica knocks on Cheryl's door"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi. Uh, you... you don't know me, I'm Monica Geller... Ross's sister."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cheryl",
+   "text": "Oh, yeah. Oh, you know, that's too bad that didn't work out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah. Anyway, he told me about your apartment. And, um, I couldn't sleep, thinking about it. So, uh, would it be okay if I cleaned it?"
+  },
+  {
+   "t": "direction",
+   "text": "[Cheryl shrugs, shuts the door, looking puzzled]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No?"
+  },
+  {
+   "t": "direction",
+   "text": "[Monica looks around the hallway, pulls out a sponge and starts scrubbing the door frame.]"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

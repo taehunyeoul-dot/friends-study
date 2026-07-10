@@ -1,0 +1,1344 @@
+{
+ "id": "s06e08",
+ "season": 6,
+ "episodes": [
+  8
+ ],
+ "code": "608",
+ "title": "The One With Ross's Teeth",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Joey and Janine's, Chandler knocks on the front door. Joey answers the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi, my name's Chandler. I just moved in next door and I was wondering if you would be interested in battling me in a post-apoplectic world for control of the galaxies last remaining energy source?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure, neighbor come on in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, is Janine around?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, no, she's at dance class."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Can I check out what she did to my room?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, but, hey look, don't go through her stuff. She gets really mad.(Chandler gives him a look and walks to the door of his old room.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(The room is filled with flowers and a floral print sheet on the bed.) Oh my God. What is th... it's like a guy never lived in here. Look, you've got to be careful. This girl thing is dangerous. (Looking around the living room.) It's spreading already."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Looking around the room.) It is???"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(Picking up a pillow.) Yeah, is this your pretty pink pillow on the couch?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(Pointing to the table and picking up the box.) Is that your tiny little box, that's too small to put anything in?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No! Ok, this is not good. You are a guy. Ok? This is a guys place. If you let this go, you're going to be sitting around with your fingers soaking in stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(With Big Eyes.) All right, you're right. I'll talk to her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes talk to her. Be a man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm a man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Defend yourself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Grunting) Hmm. (Monica opens the front door and comes in.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler come on. We have to hem the new dust ruffle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Be right there sweetums. (Monica leaves. To Joey.) A totally different situation."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, The gangs all here. Monica is walking in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, how was your breakfast with Hillary?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It was okay. She's still kind of depressed because she broke up with her boyfriend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ohh, yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, is this Hillary your HOT assistant chef Hillary?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The one that always stares at me when I come in?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, the one who looked at you once because you got in her way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Still I could tell. She was into me. (Joey rolls his eyes.) Well, why don't you set us up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, are you setting Ross up with someone? Does she have a wedding dress?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Walking over and Sitting down.) Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Rachel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm, uhh, making up flyers trying to get new massage clients. So, can I come to Bloomingdale's and use the copy machine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, sure, but they might think it's kinda weird considering I don't work there anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God. What happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I-I, got a job at Ralph Lauren."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well that's great! Congratulations!! (She hugs Rachel.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. (chuckling) A year ago.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Hugging her again.) You've lasted a whole year. Good for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But, Pheebs, you can still use the copy machine where I actually work. But, just come by at lunch so my boss doesn't see you. Cause Kim will just freak out and she already doesn't like me very much."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's weird. I don't think my boss likes me either."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't think mine likes me either."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Maybe it's a universal thing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Or maybe, it's because you're hanging around here at 11:30 on a Wednesday. (Everybody gets up.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah let's head off to work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We should go."
+  },
+  {
+   "t": "scene",
+   "text": "Rachel's office, Phoebe hands Rachel a key card."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Now you will not believe this. But, I was in the copy room, making copies, and Ralph Lauren came in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God. Did you talk to him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah a little. He seems really nice. Good kisser."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? What!?! You kissed him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Totally."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(Gasps) Phoebe are you serious?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. I was just in there. He introduced himself and the next thing I know, we're making out. You know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, I mean, you do know he's married?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What am I supposed to do? Ask every guy I make out with if he's married? (Rachel looks at her.) No, yeah, I should."
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Janine's apartment, Joey stares at a picture of a bay on the wall. Janine comes out of her room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "Hey Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey. Uh, can I talk to you for a second? This, uh, kid in this picture. Do you, uh, know this kid? Is that like a relative or something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "No, I just thought it was cute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, that's what I was afraid of.. Okay, uhh...Look Janine I really want you to feel at home here, but some of this new stuff. It's...too girly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "Ohh. Like what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Like this. (pointing to the picture) Pictures of cute babies we don't know. We..we can't have that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "Joey, it's Anne Geddes. She's a famous artist."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look I don't know this baby. I don't know if she's a famous artist or not. You know, and I don't want to be a jerk but you're changing too much around here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "Well, I'm sorry. I just thought I'd try to make the place a little nicer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah but it's too much stuff. You know like, you got the candles and the foofy schmoofer thing here and over here you got a picture of a watering can."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "Well I just thought..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm sure it's a famous watering can, okay. But, come on...and what is with the really hot stick in the bathroom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "It's a curling iron."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ohh, well, that's ok then. But, okay my towels for instance. I come in to the bathroom here and my towel is not on the floor where keep it. It's up here on some hook..and...smells different."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "It's clean."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, well, it feels different."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "It's dry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Alright, I can make my peace with the clean dry towels...Also what is with these chips you bought?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "No no no no, it's potpourri. You're supposed to smell it. (Joey takes a big whiff of the potpourri.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Voice cracking) Well that's like summer in a bowl."
+  },
+  {
+   "t": "scene",
+   "text": "Elevator at the Ralph Lauren offices, Rachel gets on her boss Kim is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, Kim, Hi. (Kim doesn't even look up from her report.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Uhh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So you know, I...I handed in that marketing report and I never got to hear what you thought."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "I didn't read it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ahh....So...Wow...The spring line, it's really going to be great this year, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So I hear the Ralph Lauren fooled around with someone in the copy room. (Kim stops the elevator and turns to Rachel.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Tell me everything."
+  },
+  {
+   "t": "scene",
+   "text": "; Central Perk, Monica and Chandler are on the couch. Ross walks in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler and Monica",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What's up? (He smiles. His teeth are freakishly white.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You know...Oh My God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What happened to your teeth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I whitened them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(Sarcastically) Really."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. What do you think."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, I think I shouldn't look directly at them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Come on, seriously."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross they're really, really, really white."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, what was wrong with your old...human teeth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ahh, I-I did leave the gel on a little longer then it said to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How much longer?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "A-A day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross you know that tonight is your date with Hillary?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know. That's why I did it. (With a big smile) Come on, are they really that bad?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, no no no. You'll be fine. (turning to Monica) Hillary's bind, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She will be after tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah. (Rachel walks in.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, hey, hey Rach, do you notice anything..ahh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. Your teeth? Yes, I saw them from outside. (Sitting down on the couch.) You guys are never going to believe this. But, Phoebe made out with Ralph Lauren."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What???"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my god."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah I know. She ran into him at my office and they just...made out. And the craziest thing is, now my boss likes me because I told her about it and she said it was the best gossip she'd heard all year."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I am proud of all my friends today."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "My God, Rachel, I can't believe Phoebe made out with Ralph Lauren. Ohh, I'm so jealous. (Chandler looks at her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi, I'm Chandler. Your live-in boy"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler, please, come on. Look at him. (Pointing to a picture of Ralph on a magazine,.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, I am no women, but that is one tasty dish. (Phoebe walks in.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey. Here. (Hands Chandler a copy of her flyer and sees the picture of Ralph.) Ohh, who's the silver fox?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That-that is your make out buddy. Don't you recognize him? (Holding up the magazine in front of her face.) Oh wait. Ohh, Phoebe I love you. Kiss me please."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's not Ralph Lauren. Sounds like him though."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, no, Ralph doesn't look anything like that guy. He's-he's young and he's got long hair and a beard and a hacky sack."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh My God, Phoebe, that's not Ralph Lauren. That's Kenny the copy guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh..Go..Oh..and I told my boss that someone made out with Ralph Lauren. If she finds out that I lied to her, she is going to hate me even more. Phoebe!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why would the copy guy say he was Ralph Lauren?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "To get you to make out with him!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ohhh."
+  },
+  {
+   "t": "scene",
+   "text": "Ross's Apartment, Ross and Monica are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Holding a shirt in front of Ross.) Okay, maybe this will make your teeth look less white. (Ross has a big smile.) Nope. Okay, colors that don't work are blue, yellow, green, red, black, white, orange, and purple."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know what I'm going to do. That date starts in like an hour."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey Ross, maybe if your skin was lighter. Your teeth wouldn't look so bright."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh great. So all I need to do is get some new skin. Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm just saying, if we put just a little bit of makeup on you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Whoa. Whoa. Whoa. We're not 13 anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross this is the only thing left that has a shot at working."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But, won't she notice I have makeup on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Please. Half the guys out there have makeup on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What??"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, half the people. I mean, just try it and see."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. I am not putting on makeup. (Knock at the door. Phoebe enters.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hello. Oh good. Ross could you put up some of these flyers for me? (He smiles at her.) OH!! Demon!! Demon!!"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler's and Monica's apartment, Chandler and Monica are sitting at the kitchen table making potpourri sachets."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Now are drawers will smell nice and we didn't waste these pantyhose."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, God forbid we throw out old underwear. You-you know what? I'm going to go over to Joey's."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait, we're supposed to organize the wrapping paper drawer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, but I feel like I've really gotten in touch with my feminine side enough today. You know. In fact I think we're two sachets away from becoming a lesbian couple."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You know what? This has been kind of a girlie day. You're right, I'm sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Nah, Nah, it's okay. I feel like I need to be in guy place. You know, do kind of like a man thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah. Go over to Joey's. Go over to Joey's and drink some beer and hammer up some drywall."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You know when guys hang out they don't just drink some beer and hammer up drywall?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "When girls hang out, we don't have pillow fights in our underwear. (Chandler gets a hurt look on his face.) I'm sorry. We do. We do. I don't know why I said that."
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Janine's apartment, Chandler walks in. Joey and Janine are knitting at the kitchen counter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey Chandler. Come on in. We're knitting pot holders."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No thanks, Josephine."
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, Chandler enters. Ross is putting on makeup."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey Ross, I was wondering if... Oh my God!! Where are all the men???"
+  },
+  {
+   "t": "scene",
+   "text": "Elevator at the Ralph Lauren offices, Kim's waiting for it. The door opens and Rachel is inside."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, hi, Kim."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Hi Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, remember that thing I told you that happened yesterday? Well it didn't happen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "You didn't cancel the fabric order from Taiwan?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, two things didn't happen. Remember I told you that someone made out with Ralph Lauren in the copy room? Well, it turns out that's not true."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "That's not true?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Oh that's interesting? Because I checked and only one keycard was used to access the copy machine yesterday during lunch and that keycard belonged to you, Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no, no, no. Oh God, you think I made out with him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Listen to me. If you think sleeping with Ralph is going to get you my job. You are sadly mistaken."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I-I don't want your job. I-I don't. Ohh this is such a mistake. I did not make out with him. Nobody made out with him. I did not use my keycard yesterday. I don't even know how to use my keycard. (The elevator stops. Ralph steps on.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Hi Ralph."
+  },
+  {
+   "t": "direction",
+   "text": "Ralph Lauren:: Hi Kim. (Dead silence until Ralph gets off the elevator."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Yeah, nothing happen. You could cut the sexual tension in here with a knife."
+  },
+  {
+   "t": "scene",
+   "text": "Hillary's apartmen,. Hillary and Ross are having dinner. He is avoiding opening his mouth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "And after that, what could I do except become a chef."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mmm-Hmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "And someday soon, I hope to open my own restaurant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "You know, you're a really great listener. Most guys I go out with, they just talk and talk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mm-Hmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "After a while it's like, shut your mouth, you know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Chuckling) Hmm-Hmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "I've probably been talking too much. Why don't we talk about you a little bit?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mmm-Unmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "Come on. I want to know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hmm-Hmm-Hmm. (Putting his hand up to block his mouth.) Okay. I, uh, am from Long Island. I-I came to the city for college. Um, I, um, have a 5 year old son and in my spare time I like to read spy novels. But, but, let's talk more about you. Hmm."
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Janine's apartment, Joey and Monica are arranging flowers. Chandler walks in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So what's really neat. If you sear the stems of the flowers first in a frying pan, your arrangement will look fresh much longer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God, Joey, that is such a great tip."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Monica, could you excuse us for a second? I need to talk to the girl with the flowers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. Oh but Joey, come over later because I'm going to teach you to make a bird feeder out of just a pine cone and some peanut butter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ohh, I love birds. (Monica leaves. Chandler shuts the door.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What is the matter with you ?!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You're arranging flowers! (Pointing to the dish on the table.) You got dead flowers! You got a picture, a picture, of a baby dressed like flowers! This is not Joey!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey. Hey look I am still Joey, okay. Flowers they're just, you know, they're nice to look at. And that happens to be a picture by a famous artist. Of a famous baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You're turning into a women."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No I'm not. Why would you say that? That's just mean."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Now I've upset you? What did I say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It's not what you said. It's the way you said it....Oh My God, I'm a women!!!"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe and Rachel are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Now, she thinks that I made out with him and I did it to get her job."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But why didn't you just tell her the truth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I did but she doesn't think anyone would be stupid enough to confuse Kenny the copy guy with Ralph Lauren."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, hey, what if Kenny were the real brains behind the whole company? You know. What if Kenny hired that Ralph Lauren guy to be the pretty front man? Huh, did she ever think of that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You were with Kenny today, weren't you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Just for a second."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, Phoebe, what am I going to do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, the only thing you can do. Sleep with Ralph Lauren."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm not going to sleep with Ralph Lauren. I mean, I could, but I wouldn't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ohh, sleep with Kenny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That wouldn't help me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ohh, yes it would."
+  },
+  {
+   "t": "scene",
+   "text": "Hillary's apartment, Hillary and Ross are finishing up their date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "I've had a really good time tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "You know, I rarely connect with someone this much on the first date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Giggling) Hmm-Hmm-Hmm. (Picking up a piece of bread and covering his mouth.) Me, neither. I've had a really good time too, you know. (Putting the bread down.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "Are you going to eat that bread?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Putting the bread up to his nose.) Ohh, I just like the smell. (Sniffing it.) Mmmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "(Laughing) You make me laugh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hmm-Hmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "Would you like to move over to the couch?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mmm-Hmm. (Picking up their wine glasses.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "Maybe I'll just turn the lights down a little."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Covering his mouth with the glass.) How about all the way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "Okay. (She goes to turn the lights off and Ross sits on the couch. She has some black light posters on the wall.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Looking at the posters.) Wow, cool poster. Or should I say groovy poster? (They sit down on the couch. Ross smiles and the black light fluoresces his teeth.) So, ahh, where were we?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "Are those your teeth??"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ohh, you can see them, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "Yes. They're insanely white."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I-I, did that for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Hillary",
+   "text": "What's a matter with you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What's a matter with me? You've got a black light. It's 1999!"
+  },
+  {
+   "t": "scene",
+   "text": "Elevator at the Ralph Lauren Offices, Rachel gets in . Kim is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Kim, hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Hi Rachel. Ohh, I've been meaning to ask you. Have you seen the new Ralph Lauren sheets? Ohh, what am I thinking. Of course you have."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay..Okay.. Look. I'm sorry that I lied to you before. You were right. Ralph and I were an item but were not anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Oh, really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(Faking crying.) Yeah, he dumped me. He said, \"Rachel, I can't do this. Even though you are a very, very, very beautiful women. I can't do this. I'm married and I'm sorry.\" And then I don't know why but he said, \"and you will never get promoted. Especially not above Kim, who is an integral cog in the Ralph Lauren machine.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "You expect me to believe..(Doors open, Ralph steps in.) Hi Ralph."
+  },
+  {
+   "t": "direction",
+   "text": "Ralph Lauren:: Hi Kim. (Dead silence again until he gets off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Oh my God. He just gave you the coldest look I have ever seen. It's like he hates you. Then it is true."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Of course it's true and it hurts so bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Ohh honey come here. (Hugging Rachel.) Ohh it will be ok. We've all been there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You and Ralph?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kim",
+   "text": "Kenny the copyboy."
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Janine's apartment, Joey paces the floor waiting for Janine. She walks in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, uhh, I need to talk to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "What's the matter? Are you upset?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm sorry but we've got to get rid of all this girlie stuff in here. I, uh, I got to be a man! Okay. The living room has to remain a guy place, okay? That's just the way it has to be."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "Well, if that's what you want. I'll just put it all in my room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Great...Great...and thanks for being so understanding. I mean, I didn't want to make a big deal out of this, you know. (She starts to collect all the girlie stuff up.) You could, uh, put the picture of the famous baby in my room. I mean, if you want to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And, uhh, maybe the watering can there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "Sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And a couple of these little tiny boxes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janine",
+   "text": "Joey? Do you want me to put it all in your room?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Smiling) Okay."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

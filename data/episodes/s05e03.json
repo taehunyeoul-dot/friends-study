@@ -1,0 +1,1467 @@
+{
+ "id": "s05e03",
+ "season": 5,
+ "episodes": [
+  3
+ ],
+ "code": "503",
+ "title": "The One Hundredth",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "The Hospital, Phoebe is arriving with Ross, Joey, and Rachel in tow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to the nurse) Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi, yeah, hi! I'm umm, Phoebe Buffay, and I have babies coming out of me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "Okay. Have you started having contractions?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Not yet. Umm, I heard they really hurt, do they hurt?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "Well..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's all right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "Now, which of you is the father? (Points to Joey and Ross)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh no, none of them are the father. The father is my brother."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "(not sure what to do with that) Okay..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I am so gonna miss watching you freak people out like that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, uh Pheebs, quick. Look! This (His video camera) is for the babies to look at someday, so is-is there anything you want to say? Y'know before it all starts?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, okay, umm, hi kids! Um, it's me, Aunt Phoebe. I can't wait to see you. Please don't hurt me!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica and Chandler come running in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, what took you guys so long? Your cab left when ours did!"
+  },
+  {
+   "t": "direction",
+   "text": "There's a pause as they figure out what to say."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, we-we had to go back because I forget my jacket."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's right."
+  },
+  {
+   "t": "direction",
+   "text": "Both Rachel and Ross stare at her for a moment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You-you're not wearing a jacket."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh man! I did it again!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(standing up) Okay, so umm, somebody has to call Frank and Alice. (As she is talking Joey is sticking the camera under her skirt.) And then my mom wants to know-(notices Joey)-Joey, what are you doing?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I gotta get the before shot!"
+  },
+  {
+   "t": "direction",
+   "text": "She shakes her head no."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "The delivery room, Rachel and Ross are entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi, Pheebs? Okay, so just spoke to the nurse and the reason that your doctor is late is because uh, she's not coming."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Apparently she fell in the shower and hit her head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God, she's so stupid!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, Pheebs-Pheebs, it's gonna be okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's easy for you to say, I don't see three kids coming out your vagina!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Honey, listen, y'know what? The nurse said the doctor is wonderful."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, he's head of the department."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right-Ooh! Oh dead God, save me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm having my first contraction!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, it's not bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh! (In an announcer type voice) And so the miracle of life begins, and aaiiyyyeeee! (He grabs his side and doubles over in pain.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey! You okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh, something hurts!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, it's sympathy pains. Ohh, that's so sweet!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Are they? I didn't know I cared that much."
+  },
+  {
+   "t": "direction",
+   "text": "The doctor, Dr. Harad, enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "Hi! Phoebe, I'm Dr. Harad, I'm going to be delivering your babies. I want you to know, you're gonna be in good hands. I've been doing this for a long time. I'll be back in a minute to do your internal, in the meantime, just relax because everything here looks great. And also, I love Fonzie. (Exits)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Did he just say, he loves Fonzie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's what it sounded like."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "(To Phoebe) Hey! Am I late? Am I late? Nobody came out yet, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No-no-no! We haven't started yet. Where's Alice?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Uh, Delaware. She's on her way though, so until she gets here, I'm gonna be your coach. But don't worry, she told me all about the la-Mazada stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, that's when if you get the babies out by the end of the month, they give you 2% financing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Yeah."
+  },
+  {
+   "t": "scene",
+   "text": "The waiting room, Monica and Joey are sitting there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Monica? You gonna be very proud of me. I just got us dates with two unbelievably cute nurses."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "They're male nurses."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Not in my head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Anyway, they want to take us out Saturday night! What do you say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Umm. (Looks at Chandler who is using the phone.) Umm. Umm. I don't think so."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? What are you talking about?! You-you're the one who's been telling me to get over Ross and move on. I'm moving on, and you're moving on with me. Come on, give me one good reason why you don't wanna go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Umm, why don't you give me something that would be a good reason and-and then I'll tell you if it's true."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Harder than it sounds. Isn't it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, you're coming with me, and I also told them that if we're still here when they get off that we'll go down to the cafeteria and have some Jell-O with them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(in a sexy voice) Yep! There's always room for Jell-O..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, how do you make that dirty?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, it's easy. Yeah, I-I can do it with anything. Watch uh, (snaps his fingers and in a sexy voice) Grandma's chicken salad..."
+  },
+  {
+   "t": "scene",
+   "text": "The delivery room, Chandler, Frank, and Ross are with Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Ross! Get a shot of this. (He's carrying an issue of the USA Today and hands Ross the camera.) Hey babies! These are the headlines on the day you were born! Okay, now girl baby turn away and boy babies... (Throws the paper away to reveal a copy of Playpen, which is the TV version of Playboy Magazine.) Check it out, huh?! This is what naked women looked like the month you were born. All right, now let's dive right into the good stuff. (Joey opens the magazine and Ross sticks the camera in it.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, okay, I'm having another one! This one doesn't hurt either-Ooh, yes it does! Ow! Ow! Ow! Ow! Ooh! (Checks under the blanket.) Oh, I was kinda hoping that was it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, where are Monica and Rachel anyway?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, a couple of nurses asked them out. Maybe they're with them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really? Male nurses?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I was bummed too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So they're going on dates? When?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I think Saturday-(groans in pain again)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "(To Phoebe) What's with him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, sympathy pains. I thought it was really sweet at first, but now I think he's just trying to steal my thunder."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "(entering) Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "Let's see what we got here. Ohh, y'know, Fonzie dated triplets."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "This-this Fonzie person you keep referring too, is that uh, is that another doctor?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "Oh no-no-no. Fonzie is the nickname of Arthur Fonzerelli. The Fonz."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right."
+  },
+  {
+   "t": "direction",
+   "text": "Dr. Harad exits."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "It's not that weird, is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's very weird! I don't want some guy down there telling me, I'm y'know, dilatedamundo!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "To be fair, he doesn't seem to be impersonating Fonzie..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(interrupting) What are you doing?!! Why are you defending him?! Just get me another doctor! One who is not crazy and who is not Fonzie!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Again, it's not that he..."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe fakes pain to get Ross looking for another doctor."
+  },
+  {
+   "t": "scene",
+   "text": "The waiting room, Chandler is looking for Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(spotting her) Oh-hey-hey-hey! There you are!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Umm, listen there's something I think you should know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, is this about you-you dating the nurse? Yeah, Joey already told me, and I am so-so fine. I mean, you and I we're just, y'know, we're nothing, we're goofin' around."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Umm, actually I was about to tell you that I was, I was going to get out of it, but hey, if we're just goofing around then uh, maybe I will go out with him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Fine! Maybe I will too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering from the elevator caring gifts for the kids) Hey, you guys! Look what I found in the giiiiiiift shop. (He doubles over in pain in front an old man in a wheel chair.) Get up! Get up! Get up! (The old man waves him away.)"
+  },
+  {
+   "t": "scene",
+   "text": "The delivery room, Ross has returned with another doctor. This one, is well, younger."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, Phoebe, this Dr. Oberman. He has no strong feelings about Fonzie or any of the Happy Days gang."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi! And you're going into what grade?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Oberman",
+   "text": "Umm, I'm actually a first year resident, but I get that a lot, you see, I-I graduated early..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(interrupting) Uh-huh, me too. Ross, maybe I should've specified that I'd be needing a grown up doctor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Oberman",
+   "text": "Oh no, I'm fully qualified to..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Shh! Doogie, shh! Doesn't anybody understand that I'm gonna be having babies soon? Huh? Go! Go little boy, go!"
+  },
+  {
+   "t": "direction",
+   "text": "He runs out and Frank watches him go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Oh cool! You made him cry!"
+  },
+  {
+   "t": "scene",
+   "text": "Another hospital room, Joey has now been admitted and his doctor is about to break the bad news to him, Monica, and Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey's Doctor",
+   "text": "Mr. Tribbiani, I'm afraid you've got kidney stones."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Umm, well, what else could it be?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey's Doctor",
+   "text": "It's kidney stones."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Or?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey's Doctor",
+   "text": "Kidney stones!"
+  },
+  {
+   "t": "scene",
+   "text": "The delivery room, Dr. Harad is back and checking on Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "All right, you're getting there. Oh, and y'know, these babies are very, very lucky."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "They are. Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "They have the honor of being born on The Fonz's half-birthday."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Happy birthday!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "Just-just to clarify, I'm not Fonzie. (Phoebe nods in agreement as he leaves.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Honey, y'know I just gotta tell you, I think this is such a terrific thing you're having these babies for Frank and Alice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know, it is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Can I tell you a little secret?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I want to keep one. (Giggles in excitement.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, I'm gonna be on the news!"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "The delivery room, continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, Phoebe, honey, you gotta be kidding. I mean, you know you cannot keep one of these babies!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why not?! Maybe I can, you don't know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes! Yes! Yes, I do! I do know! Frank and Alice are gonna want to keep all of their children!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Maybe not! Y'know? Seriously, three babies are a handful maybe they're y'know, looking for a chance to unload one of them. Listen, I-I hate to miss an opportunity just because I didn't ask! Y'know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, no! This is, this is insane."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, just ask him!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Me?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can't ask him! Do you have any idea how inappropriate that would be?! All I'm saying is just talk to Frank. Okay? Just, y'know, feel him out!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! Forget it! I am not gonna ask Frank to give you one of his kids!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're right."
+  },
+  {
+   "t": "direction",
+   "text": "There's an awkward silence then suddenly Phoebe gets an idea."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Tell him it's for you."
+  },
+  {
+   "t": "scene",
+   "text": "Joey's room, his doctor, Chandler, and Monica are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Feeling a little better sweetie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, maybe a little. I wish you hadn't seen me throw up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Me too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey! I just heard. What's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey's Doctor",
+   "text": "Kidney stones! Now, ordinarily Mr. Tribbiani, we try to break up the stones up with shock waves, but they're to close to the bladder now. Which means we can either wait for you to pass them or else go up the urethra..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(interrupting) Whoa-whoa! No-no-no-no-no, nothing is going up! Okay? Up, up is not an option-what's a urethra? (Monica whispers what it is in his ear.) Are you crazy?!"
+  },
+  {
+   "t": "scene",
+   "text": "The delivery room, Rachel and Frank are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(To Rachel) So did you ask him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, I haven't had a chance to be alone with him yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I'm kinda on a clock here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "(laughing) Oh Fonzie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Y'know who I always liked? Mork."
+  },
+  {
+   "t": "direction",
+   "text": "Dr. Harad drops what he's doing and stares at her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Undo it. Undo it. Undo it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "Fonzie met Mork. Mork froze Fonzie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, but umm... Yes, but, Fonzie was already cool, so he wasn't hurt, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "Yeah, that's right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering with Chandler) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(To Phoebe) How are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, doctor says any minute now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Hey, y'know, Alice is gonna be here so soon, you couldn't just like do me a favor and like, like hold them in?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Sorry Frank, I'm kinda in the middle of the last favor you asked me to do."
+  },
+  {
+   "t": "direction",
+   "text": "A male nurse enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Male Nurse",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Male Nurse",
+   "text": "Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Monica, this is Dan (points to him), one of the guys that we're gonna be going out with on Saturday. (Mouths \"He's yours.\" to her.) Uh Dan, Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dan",
+   "text": "Nice to meet you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hello Dan! I'm really looking forward to Saturday night! Really, really!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So Dan, nurse not a doctor huh? Kinda girlie isn't it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dan",
+   "text": "Nah that's okay. I'm just doing this to put myself through medical school."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dan",
+   "text": "And it didn't feel so girlie during the Gulf War."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Sure. (Pause) And listen, thanks for doing that for us, by the way. (Retreats in defeat.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So, why wait 'til Saturday, are you free tomorrow?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dan",
+   "text": "Sure! I'll get somebody to cover my shift."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to another female nurse) Hey, how 'bout it? You, me, Saturday night?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Delivery Room Nurse",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right. Very good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oo, this is a big one. Eww! Arghhhh!!"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Joey's room, who's going throw his own contractions. Plus, he has Ross in a headlock.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ohh, get these things out of me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Breathe! Breathe! Breathe throw the pain."
+  },
+  {
+   "t": "direction",
+   "text": "Joey starts breathing hard"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I want the drugs Ross, I want the drugs! (He starts rocking back and forth, taking Ross with him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I do too! I do too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Argh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Argh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Argh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Argh!"
+  },
+  {
+   "t": "scene",
+   "text": "The waiting room, Frank is on the phone as Rachel approaches."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Yeah, I love you. Okay, bye! (To Rachel) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "That was Alice's mom, she said she left five hours ago. She should be here by now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, honey, don't worry. She's gonna make it on time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. So Frank, three babies. Whew, that just seems like a lot, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "(laughs) Not to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, fair enough."
+  },
+  {
+   "t": "scene",
+   "text": "The delivery room, later on, Rachel, Chandler, Monica, and Frank are there as Dr. Harad is checking out Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "Okay, you're at ten centimeters. Time to start having some babies. All right, I want only the father in here please."
+  },
+  {
+   "t": "direction",
+   "text": "They all kiss her and wish her luck."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Bye Dan!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dan",
+   "text": "Uh, bye Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Bye, momi-moo."
+  },
+  {
+   "t": "direction",
+   "text": "Everyone except Frank leaves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "All right, I need a clamp, sterile towel, and channel 31."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What is that?"
+  },
+  {
+   "t": "direction",
+   "text": "Dan turns on the TV and the Happy Days theme song comes on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "Oh, no-no-no, it's a good one! Fonzie plays the bongos. All right, are you ready? It's time to start pushing."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Joey's room, his doctor and Ross are there.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey's Doctor",
+   "text": "Are you ready? It's time to try peeing. (Joey makes a face like he is trying to pee.) Wait-wait-wait-wait-wait! It's almost time to try peeing. (Points at the bottle Joey is to pee into.)"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the delivery room.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "Okay, now push! That's it push! Just concentrate on pushing! Yeah, here we go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dan",
+   "text": "I see the head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Yes, it has a head!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "All right. Keep pushing! Come on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "I can't believe there's somebody coming out of you right now. There's somebody coming out of you! Is it? Is it? It's my son."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "All right. Here's your first baby."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the waiting room, a triumphant Frank rushes in.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "YESSSSS!!!!! We got a baby boy!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Frank Jr. Jr.!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, how does he look? How does he look?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "So gross! (He runs back to the delivery room.)"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the delivery room, Phoebe is about to give birth to the middle kid.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "Okay. You ready to push again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I already had a baby. Leave me alone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Okay, okay, come on, you can do it. You can do it!"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe screams in pain, and Frank screams with her."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the waiting room, a twice triumphant Frank returns.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Yeah!! Little Leslie is here! We got another one! Oh my God, I can't believe I have two-two children. How scary is that? (He returns to the delivery room.)"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the delivery room, Phoebe is at it for the last time.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Come on little Chandler, it's time to be born. Come on little Chandler! Come on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Harad",
+   "text": "All right, he's coming. He's coming!"
+  },
+  {
+   "t": "direction",
+   "text": "They both stare at the newborn."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Hey, where's his thing?"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the waiting room, a thrice triumphant Frank returns again.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Chandler's a girl!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh God, kindergarten flashback."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "They musta read the sonogram wrong. 'Cause they, 'cause they thought it was a boy, but Chandler's a girl! Chandler's a girl!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, keep saying it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alice",
+   "text": "(running in from the elevator) Am I too late?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alice",
+   "text": "We have our babies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alice",
+   "text": "(Starting to cry) Oh, we have our babies."
+  },
+  {
+   "t": "direction",
+   "text": "They hug. And quickly that hug turns into a heated make out session, right there on the waiting room couch. Chandler, Rachel, and Monica quickly make their exits."
+  },
+  {
+   "t": "scene",
+   "text": "Joey's room, he is recovering from his birth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You did it, man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey's Doctor",
+   "text": "Would you like to see them? (He hands Joey a little jar.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "They're so small! (Both he and Ross look at them with satisfied looks on their faces.)"
+  },
+  {
+   "t": "scene",
+   "text": "A hallway, Monica and Dan are talking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dan",
+   "text": "So, I'll call you tomorrow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Great!"
+  },
+  {
+   "t": "direction",
+   "text": "Dan leaves as Chandler enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, are you really gonna go out with that nurse man?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well uh, you and I are just goofing around, I thought, why not goof around with him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know, I don't know if you've ever looked up the term goofing around in the dictionary... Well, I have, and the technical definition is, two friends who care a lot about each other and have amazing sex and just wanna spend more time together. But if you have this new fangled dictionary that gets you made at me, then we have to, y'know, get you my original dictionary. I am so bad at this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I think you're better than you think you are."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really? Okay, so..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(interrupting) Know when to stop."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know, I sensed that I should stop. So we're okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah. All right, I'm gonna go tell Dan that it's not gonna happen. (They kiss and as she starts to leave, Chandler starts to dance. Without turning around.) Don't do the dance."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Right!"
+  },
+  {
+   "t": "scene",
+   "text": "The delivery room, everyone except Rachel is there. Phoebe, Monica, and Ross are holding the babies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I think you're my favorite."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Which one do you have?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't care."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Hi. (To Phoebe) Hey, hi! So uh, Frank and Alice wanted me to tell you that they're still outside making phone calls."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But umm, I mean, did you talk to them about, y'know..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, umm, no honey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh. It was a long shot. Hey, you guys can I just like have a second alone with the babies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Yeah, sure yeah. Yeah."
+  },
+  {
+   "t": "direction",
+   "text": "They hand her the babies and leave them alone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So, here you are. It seems like yesterday I was talking to you in that little petri dish. Everyone said labor was the hardest thing I'd ever have to do, but they were wrong this is. Oh, I had the most fun with you guys! I wish I could take you home and see you everyday. Okay, I'll settle for being your favorite Aunt. I know Alice's sister has a pool, but you lived in me. Okay, so we're cool. Yeah, we're gonna be great. Little high fives! (Imitates the high fives.) Ahh! Ahh! Ahh! (One of the babies begins to cry.) Well, if you're gonna cry. (She starts crying.)"
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "The delivery room, everyone is hanging out with Phoebe. Frank, Alice, and the kids aren't there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe, we are so proud of you! You're amazing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So does it really hurt as bad as they say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. You won't be able to take it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So uh, now that little Chandler turned out to be a girl, what are they gonna name her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "They're gonna call her Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's kind of a masculine name, don't you think?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Works on you."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

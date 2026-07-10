@@ -1,0 +1,1278 @@
+{
+ "id": "s02e22",
+ "season": 2,
+ "episodes": [
+  22
+ ],
+ "code": "222",
+ "title": "The One With the Two Parties",
+ "lines": [
+  {
+   "t": "direction",
+   "text": "Originally written by Alexa Junge."
+  },
+  {
+   "t": "scene",
+   "text": "Moondance Diner. Ross, Phoebe, Joey, and Chandler are sitting at the counter, Monica is working. Monica is wearing her costume, including big fake breasts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So, I'll get candles and my mom's lace tablecloth, and since it's Rachel's birthday, I mean, we want it to be special, I thought I'd poach a salmon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Ohhh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Question. Why do we always have to have parties where you poach things?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You wanna be in charge of the food committee?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Question two. Why do we always have to have parties with committees?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Really. Why can't we just get some pizzas and get some beers and have fun?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, I agree. Ya know, I think fancy parties are only fun if you're fancy on the inside and I'm just not sure we are."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright. If you guys don't want it to be special, fine. You can throw any kind of party you want."
+  },
+  {
+   "t": "direction",
+   "text": "[Joey is staring at Monica's breasts]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey they're not real. I start miles beneath the surface of these things, ok, they're fake. See [squeezes her breast] honk honk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wow, it's, it's like porno for clowns."
+  },
+  {
+   "t": "direction",
+   "text": "OPENING TITLES"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Chandler, Ross, Joey, Phoebe, and Monica are planning Rache's birthday party."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I talked to Rachel's sisters, neither of them can come."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, um so, I still have to invite Dillon and Emma and Shannon Cooper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Woah, woah, woah, uh, no Shannon Cooper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why not her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Cause she uh, she steals stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Or maybe she doesn't steal stuff and Joey just slept with her and never called her back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey that is horriable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey I liked her, alright. Maybe, maybe too much. I don't know I guess I just got scared."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm sorry, I didn't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I didn't think anyone'd buy that, ok."
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel enters]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi honey, how did it go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Agh, it was the graduation from hell."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ya know, my cousin went to hell on a football scholarship."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ya know, I mean this is supposed to be a joyous occasion. My sister's graduating from college, nobody thought she would. It's a true testament to what a girl from long island would do for a Celica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So what happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "My parents happened. All they had to do was sit in the same stadium, smile proudly, and not talk about the divorce. But nooo, they got into a huge fight in the middle of the commencement address. Bishop Tutu actually had to stop and shush them. But you know what, you know what the good news is? I get to serve coffee for the next 8 hours."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, so I guess we don't invite her parents."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, how bout just her mom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why her mom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Cause I already invited her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, ooh, did you ask Stacy Roth?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh no, can't invite her. She also steals."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Chandler, Joey, Monica, and Phoebe are setting up for the party."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, here are the birthday candles. Where's the birthday cake?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, we're not having birthday cake, we're having birthday flan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Excuse me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's a traditional Mexican custard dessert."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh that's nice. Happy birthday Rachel, here's some goo."
+  },
+  {
+   "t": "direction",
+   "text": "[knock at the door]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "[answers the door] Dr. Greene. Oh my God it's Rachel's dad. What're you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "What? The father can't drop by to see the daughter on her birthday?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No no, the father can, but um, since I am the roommate I can tell you that she's not here and I'll pass along the message, ok. So bye-bye."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "Ohhh, you're having a parteee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, no, not a party. Just a surprise gathering of some people Rachel knows. Um, this is Phoebe and Chandler and Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "I'll never remember all of that. So uh, what's the deal? Rachel comes home, people pop out and yell stuff, is that it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "This isn't your first surprise party, is it sir?"
+  },
+  {
+   "t": "direction",
+   "text": "[knock at the door, Monica answers to see Mrs. Greene]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Hi Monica."
+  },
+  {
+   "t": "direction",
+   "text": "[Monica slams the door back shut]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chinese menu guy. Forgot the menus."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, basically just a Chinese guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, hey, Dr. Greene, why don't you come with me, we'll put your jacket on Rachel's bed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "Alright, that sounds like a two person job. [they walk into Rachel's bedroom]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Well, my goodness, what was that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Sandra, I am so sorry, I thought you were Rachel and we just weren't ready for you yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "You thought I was Rachel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes because uh, you look so young."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "And because you're both, you know, white women."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Oh, I missed you kids. Well, should I put my coat in the bedroom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "NO! No, I'll take that for ya."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Oh well thank you. Such a gentleman. Thank you. [Chandler takes the hot pink coat and grimaces at it] Ahh, it all looks so nice, so festive, all the balloons... [Chandler, remembering that Joey and Mr. Greene are in the bedroom, throws her coat in a cupboard] The funniest thing happened to me on the way here. I was...[Joey peeks out]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "[cutting Mrs. Greene off] Ha-ha, that's great, ha-ha. I can't wait to hear the rest of it, ya know, but I really have to go to the bathroom so... Hey, come with me. Yeah, yeah, it'll be like we're gal pals, ya know, like at a restraunt. Oh, it'll be fun, c'mon. [they go in the bathroom]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God, oh my God, oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok, think, what would Jack and Chrissy do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "[peeks back out] Ok, now that your coat is safely in the bedr-, [sees that the coast is clear] oh, ok we can come back out in the living room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So uh, Joey and Chanlder, I, I think it's time that you take Dr. Greene over to your place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uhh, yes, absdolutely, um. Why again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Because that's where the party is you goon. See this is just the staging area."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Right this is staging."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, this more than anything else, is the staging area."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "[as they're walking out, Dr. Greene questioningly gestures at the Happy Birthday sign over the door] This is clearly in the wrong apartment. [they all walk across the hall]"
+  },
+  {
+   "t": "scene",
+   "text": "Later on in the hallway between the apartments. Chandler is showing people to the parties."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright you guys are off to party number one [ushers 3 guys into Monica's apartment] and you, you are off to party number two [ushers four women into his apartment. Two guys try to follow and Chandler blocks them and shoos them off to Monica's apartment] Alright fellas, let's keep it movin', let' keep it movin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler could you at least send some women to my party? [buzzer goes off] Alright that's Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok, they're coming, shhh. [Runs into Monica's apartment and grabs one last girl to take to his apartment]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, thank you for the wonderful dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks for being born."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, thank you for my beautiul earrings, they're perfect. I love you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, now you can exchange them if you want, ok."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Now I love you even more."
+  },
+  {
+   "t": "direction",
+   "text": "[they kiss and Ross backs her into her apartment and turns on the lights]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Surprise."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my gosh, wow. Monica. Oh my god. Mom. This is so great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Happy birthday sweetie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wow you, you. I had no idea."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, I knew."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, everybody, there's food and drinks on the table. Go across the hall."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Right now, Joey and Chandler's, go now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Just go."
+  },
+  {
+   "t": "direction",
+   "text": "[they walk across the hall]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Surprise."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "Happy birthday sweetpea."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Daddy."
+  },
+  {
+   "t": "direction",
+   "text": "[Ad break. Time lapse. Still at party at Chandler and Joey's. Rachel is talking to Chandler and Ross.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Both of them are here, both of them, both of them are here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, we could count again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I can't believe this is happening."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know what, this is ridiculous, ok. This is your birthday, this is your party. I say we just put 'em all together and if they can't deal with it, who cares."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's who."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look, are you gonna be ok?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I have to be, I don't really have a choice, I mean, you know, I could look at the bright side, I get two birthday parties and two birthday cakes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, actually just one birthday flan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's a traditional Mexican custard dessert...Look talk to Monica, she's on the food committee."
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse. Chandler runs out of the bathroom.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Joey, Joey. Hey, some girl just walked up to me and said, 'I want you Dennis,' and stuck her tounge down my throat. I love this party."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Quick volleyball question."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Volleyball."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, we set up a court in your room. Uh, you didn't really like that grey lamp, did you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Joey, a woman just stuck her tounge down my throat, I'm not even listening to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Girl'S Voice",
+   "text": "Dennis."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok, that's me. [runs back]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Listen honey, can you keep dad occupied, I'm gonna go talk to mom for a while."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok, do you have any ideas for any openers?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uhh, let's just stay clear of 'I'm the guy that's doing you daughter' and you should be ok."
+  },
+  {
+   "t": "direction",
+   "text": "[Back in Monica's party]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok people, I want you to take a piece of paper, here you go, and write down your most embarassing memory. Oh, and I do ask that when you're not using the markers, you put the caps back on them because they will dry out."
+  },
+  {
+   "t": "direction",
+   "text": "[Back in Chandler and Joey's party]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi Dr. Greene. So, uh, how's everything in the uh, vascular surgery....game?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "It's not a game Ross, a woman died on my table today."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm sorry. See that's the good thing about my job. All the dinosaurs on my table are already dead."
+  },
+  {
+   "t": "direction",
+   "text": "[Back in Monica's party]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Listen you guys, I don't mean to be a pain about this but, um, I've noticed that some of you are just placing them on. You wanna push the caps until you hear them click. [she demonstrates, Gunther starts to walk to the door] Gunther, where're you going?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "I um, was sorta thinking about maybe..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No. No you can't go. No this is fun. Come on we're just getting started. Here, here's your marker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Listen if you wanna go, just go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunter",
+   "text": "No, she'll yell at me again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Alright, I can get you out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Shh. In a minute, I'm gonna create a diversion. When I do, walk quickly to the door and don't look back."
+  },
+  {
+   "t": "direction",
+   "text": "[Back at Chandler and Joey's party]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "I think I need a drink."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, here, I, I'll get it for ya. Whad'ya want?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "Scotch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Scotch. Alright, I'll be back in 10 seconds with your scotch on the rocks in a glass."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "Neat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Cool."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "No no no, no no no, neat, as in no rocks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know."
+  },
+  {
+   "t": "direction",
+   "text": "[Back at Monica's party]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "Oh hello Ross, where have you been?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi. Uh, I have been in the bathroom. Stay clear of the salmon mousse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Oh, scotch neat. Ya know, that's Rachel's father's drink."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, mine too. Isn't that neat, scotch neat. Would you excuse me? [walks out in the hallway, Mr. Greene is walking out of Chandler and Joey's apartment] Hey, hey, where you uh, sneakin off to mister?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "I'm getting my cigarettes out of my jacket."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "Whad'ya mean no?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, um, see 'cause that, that is, that is the staging area. If you go in there, it'll ruin the whole illusion of the party. Yeah, I think you take your scotch back in there and I will get your cigarettes for you sir."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "Get my glasses too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All righty roo. [closes the door] What a great moment to say that for the first time. [goes to get the cigarettes and glasses]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, the first person's most embarassing memory is, 'Monica, your party sucks.' Very funny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh no, ooh, ooh, did somebody forget to use a coaster?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What? [she runs over to where Phoebe is, Phoebe signals for Gunther to go] I don't see anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Great, I'm seeing water rings again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Geller",
+   "text": "Ross, whose glasses are those?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "You wear bi-focals?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Um-hmm. [puts them on] I have a condition, apparently, that I require two different sets of focals."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Did you know my husband has glasses just like that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well those are very popular frames."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Neil Sedaka wears them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Guy",
+   "text": "[to Phoebe] I hear you can get people out of here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Rachel, you didn't tell me your boyfriend smoked."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, like a chimney."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ohh, big smoker. [Packs the cigarettes and flings one on Mrs. Greene in the process. Finally gets one in his mouth and it look really out of place] Big big smoker. In fact I'm gonna go ou into the hallway and fire up this bad boy. [as he walks into the hall, he comes face to face with Mr. Greene]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "Are you wearing my glasses?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes. [pulls them off and hands them to Mr. Greene] I was just warming up the earpieces for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "Thank you. Is that one of my cigarettes?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "[pulls the cigarette off his upper lip and hands it to Mr. Greene] Yeah, yes it is, I was just moistening the tip."
+  },
+  {
+   "t": "direction",
+   "text": "[Back in Monica's party. Phoebe is talking to a guy and two girls at the party.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, ok, she's taking the trash out so I can get you out of here but it has to be now, she'll be back any minute."
+  },
+  {
+   "t": "direction",
+   "text": "GIRL 1: What about my friend Victor?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, only the three of you, any more than that and she'll get suspicious."
+  },
+  {
+   "t": "direction",
+   "text": "GIRL 1: Alright, let me just get my coat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "There isn't time. You must leave everything. They'll take care of you next door."
+  },
+  {
+   "t": "direction",
+   "text": "GIRL 1: Is it true they have beer?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Everything you've heard is true."
+  },
+  {
+   "t": "direction",
+   "text": "[Back at Chandler and Joey's party. Everyone is dancing and having fun.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Could you guys please try to keep it down, we're trying to start a Boggle tournament."
+  },
+  {
+   "t": "direction",
+   "text": "[Chandler and Joey stop dancing and laugh at her]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You, and you, you're supposed to be at my party. And Gunther! What are you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "Um [gestures to dance floor]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "[enters with the three people she got out] Ok, welcome to the fu-oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Alright, I'm sorry but these people needed me. They work hard all week, it's Saturday night, they deserve to have a little fun. Go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ya know, my party is fun. I mean, maybe it's a little quieter, less obvious sorta fun but, you know, if people would just give it a chance... [volleyball hits her in the head from behind]"
+  },
+  {
+   "t": "direction",
+   "text": "[Back at Monica's party]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You want me to see a therapist?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Sweetheart, you obviously have a problem. You've chosen a boyfriend exactly like your father."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok mom, you know what, fine, I'll make an appointment ok, but you know what, right now, I gotta go, I gotta go do a thing."
+  },
+  {
+   "t": "direction",
+   "text": "[Chandler and Joey's party]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "Did you know your mother spent $1200 dollars on bansai trees. I felt like Gulliver around that place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Daddy, daddy, you know what, I really wanna hear more about this, I really do, but I just have, I just have to do a, some stuff."
+  },
+  {
+   "t": "direction",
+   "text": "[Monica's party]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "You work and you work and you work at a marriage but all he cares about is his stupid boat."
+  },
+  {
+   "t": "direction",
+   "text": "[Chandler and Joey's party]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "You work and you work and you work on a boat..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "He always ridiculed my pottery classs..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "...and you sand it and you varnish it..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "...but when all is said and done, he still drinks out of the mugs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "...and her yoga and her Bridges of Madison County..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "...the scotch and the cigarettes..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "...and the bansai's and the chiuaua..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "...I may have only been in therapy for three weeks now dear but..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "...what the hell does she want with half a boat..."
+  },
+  {
+   "t": "scene",
+   "text": "The hallway after the party. Rachel is sitting there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "[running out of his apartment after a girl] Ok, ok, you can be shirts and I'll be skins. I'll be skins. [sits down beside Rachel] Hey, how you holdin' up there, tiger? Oh, sorry, when my parents were getting divorced I got a lot of tigers. Got a lot of champs, chiefs, sports, I even got a governor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "This is it, isn't it? I mean, this is what my life is gonna be like. My mom there, my dad there. Thanksgiving, Christmas. She gets the house, he's in some condo my sister's gonna decorate with wicker. Oh, Chandler how did you get through this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I relied on a carefully regimented program of denial and, and wetting the bed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ya know, I just, so weird. I mean I was in there just listening to them bitch about each other and all I kept thinking about was the fourth of July."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Becasue it reminded you of the way our forefathers used to bitch at each other?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's just this thing. Every year we would go out on my dad's boat and watch the fireworks. Mom always hated it because the ocean air made her hair all big. My sister Jill would be throwing up over the side and my dad would be upset becasue nobody was helping and then when we did help he would scream at us for doing it wrong. But then when the fireworks started, everybody just shut up, you know, and it'd get really cold, and we would all just sort of smush under this one blanket. It never occured to anybody to bring another one. And now it's just..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I, I know. [Hugs her. Ross walks out and Chandler puts her in his arms.]"
+  },
+  {
+   "t": "scene",
+   "text": "Monica's party. She is seeing off the last of the guests."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, thanks for coming, I hope you guys had fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Alright, Monica dear, I'm gonna hit the road. Now I've left my 10 verbs on the table. And you be sure and send me that finished poem."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok will do. So glad you came."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "I think I saw Rachel out in the hall."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, let me go check. Your mom want's to say goodbye."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh ok."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Happy birthday sweetie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok."
+  },
+  {
+   "t": "direction",
+   "text": "[Mr. Greene opens the door to Chandler and Joeys apartment. Ross sees him and runs to the door forcing him back in then holds onto the door knob.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ahh, you drive safe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Ross, what're you doing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm getting ready for the water skiing. [Mr. Greene opens the door which pulls Ross in] How are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, uh, Dr. Greene, where are you going?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "To get my coat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Guys",
+   "text": "No no no."
+  },
+  {
+   "t": "direction",
+   "text": "MR. GREENE:Alright, alright, I can get my own coat."
+  },
+  {
+   "t": "direction",
+   "text": "[the guys form a wall between Mrs Geller and Mr Geller and dance across the hall as he walks across]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Sorry, we're on a major flan high."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh no, you're not supposed to be here. This is the staging area, you should, it's all wrong, you should leave, ya know, get out. [opens the door, the guys are right there] Or perhaps you'd like a creme d'menthe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Greene",
+   "text": "I have to be heading to my chateau, thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh all right, then I guess we're going back into the hallway."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thanks for coming Mrs. Greene. [grabs her and kisses her to distract her. She goes limp in his arms. Mr. Greene leaves.] Well, ok, you take care."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Greene",
+   "text": "Oh, you kids [she caresses his face and chest] Well, this is the best party I've been to in years."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thank you."
+  },
+  {
+   "t": "direction",
+   "text": "CLOSING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Close up of the flan on the table with birthday candles."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok everybody, it's time for flan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yup, get ready for the gelatenous fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Kinda looks like that stuff you get when you get a bad infection."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, that's enough."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok Rachel, make a special flan wish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, I've got one. [blows out the candles. Somebody calls out 'heads up' and the volleyball lands in the flan] Wow, those things almost never come true."
+  },
+  {
+   "t": "direction",
+   "text": "END"
+  }
+ ]
+}

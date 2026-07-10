@@ -1,0 +1,1348 @@
+{
+ "id": "s01e10",
+ "season": 1,
+ "episodes": [
+  10
+ ],
+ "code": "110",
+ "title": "The One With the Monkey",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Ross is entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Guys? There's a somebody I'd like you to meet."
+  },
+  {
+   "t": "direction",
+   "text": "A monkey jumps on to his shoulder."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oooh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "W-wait. What is that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "'That' would be Marcel. You wanna say hi?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, no, I don't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, he is precious! Where did you get him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "My friend Bethel rescued him from some lab."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That is so cruel! Why? Why would a parent name their child Bethel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, that monkey's got a Ross on its ass!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross, is he gonna live with you, like, in your apartment?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. I mean, it's been kinda quiet since Carol left, so..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why don't you just get a roommate?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- (Realises) ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe is getting ready to sing. Joey is not there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So you guys, I'm doing all new material tonight. I have twelve new songs about my mother's suicide, and one about a snowman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Might wanna open with the snowman."
+  },
+  {
+   "t": "direction",
+   "text": "Enter Joey"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hey, Joey. Hey, buddy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So, how'd it go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ahhhhhh, I didn't get the job."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How could you not get it? You were Santa last year."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I dunno. Some fat guy's sleeping with the store manager. He's not even jolly, it's all political."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So what are you gonna be?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ah, I'm gonna be one of his helpers. It's just such a slap in the face, y'know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, do you guys know what you're doing for New Year's? (They all protest and hit her with cushions) Gee, what?! What is wrong with New Year's?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Nothing for you, you have Paolo. You don't have to face the horrible pressures of this holiday: desperate scramble to find anything with lips just so you can have someone to kiss when the ball drops!! Man, I'm talking loud!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, for your information, Paolo is gonna be in Rome this New Year, so I'll be just as pathetic as the rest of you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, you wish!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's just that I'm sick of being a victim of this Dick Clark holiday. I say this year, no dates, we make a pact. Just the six of us- dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Yeah, okay. Alright."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know, I was hoping for a little more enthusiasm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Woooo! Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, you're on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, oh, good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(Into microphone) Okay, hi. Ladies and gentlemen, back by popular demand, Miss Phoebe Buffay. Wooh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Takes mike) Thanks, hi. Um, I wanna start with a song that means a lot to me this time of year. (Shakes bell as an introduction) (Sung:)"
+  },
+  {
+   "t": "direction",
+   "text": "I made a man with eyes of coal"
+  },
+  {
+   "t": "direction",
+   "text": "And a smile so bewitchin',"
+  },
+  {
+   "t": "direction",
+   "text": "How was I supposed to know"
+  },
+  {
+   "t": "direction",
+   "text": "That my mom was dead in the kitchen?"
+  },
+  {
+   "t": "direction",
+   "text": "shakes bell) La lalala la la la la lalala la la..."
+  },
+  {
+   "t": "direction",
+   "text": "Cut to later. Everyone is totally depressed by now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Sung)"
+  },
+  {
+   "t": "direction",
+   "text": "...My mother's ashes"
+  },
+  {
+   "t": "direction",
+   "text": "Even her eyelashes"
+  },
+  {
+   "t": "direction",
+   "text": "Are resting in a little yellow jar,"
+  },
+  {
+   "t": "direction",
+   "text": "And sometimes when it's breezy..."
+  },
+  {
+   "t": "direction",
+   "text": "Over the sound of Phoebe singing we hear two scientists, Max and David, having a noisy discussion"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Sung)"
+  },
+  {
+   "t": "direction",
+   "text": "...I feel a little sneezy"
+  },
+  {
+   "t": "direction",
+   "text": "And now I- (abruptly stops"
+  },
+  {
+   "t": "direction",
+   "text": "Excuse me, excuse me! Yeah, noisy boys! (They stop talking and look up) Is it something that you would like to share with the entire group?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "No. No, that's- that's okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, c'mon, if it's important enough to discuss while I'm playing, then I assume it's important enough for everyone else to hear!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(Quietly, to the others) That guy's going home with a note!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Noth- I was- I was just saying to my-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Could you speak up please?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "(Stands up and speaks more loudly) Sorry, I wa- I was just saying to my friend that I thought you were the most beautiful woman that I'd ever seen in my- in my life. And then he said that- you said you thought"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "Daryl Hannah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Daryl Hannah was the most beautiful woman that he'd ever seen in his life and I said yeah, I liked her in Splash, a lot, but not so much in- in Wall Street, I thought she had kind of a"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "Hard quality."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "-hard quality. And uh, while Daryl Hannah is beautiful in a conventional way, you are luminous with a kind of a delicate grace. Then, uh, that-that-that's when you started yelling. (Sits down)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, we're gonna take a short break. (Goes over to their table)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, that guy's going home with more than a note!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, everyone except Joey is decorating for Christmas."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Come here, Marcel. Sit here. (Marcel wanders off)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Pheebs, I can't believe he hasn't kissed you yet. I mean God, by my sixth date with Paolo, I mean he had already named both my breasts! ...Ooh. Did I just share too much?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Just a smidge."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "David's like, y'know, Scientist Guy. He's very methodical."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I think it's romantic."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Me too! Oh! Did you ever see An Officer and a Gentleman?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, he's kinda like the guy I went to see that with. Except, except he-he's smarter, and gentler, and sweeter... I just- I just wanna be with him all the time. Day and night, and night and day... and special occasions..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wait a minute, wait a minute, I see where this is going, you're gonna ask him to New Year's, aren't you. You're gonna break the pact. She's gonna break the pact."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, no, no, no, no, no. Yeah, could I just?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, 'cause I already asked Janice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "C'mon, this was a pact! This was your pact!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I snapped, okay? I couldn't handle the pressure and I snapped."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, but Janice? That-that was like the worst breakup in history!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm not saying it was a good idea, I'm saying I snapped!"
+  },
+  {
+   "t": "direction",
+   "text": "[Joey enters, his shoes have bells on, which jingle as he walks. He is wearing a long coat.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hi. Hi, sorry I'm late."
+  },
+  {
+   "t": "direction",
+   "text": "He removes the coat to reveal an elf costume"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Too many jokes... must mock Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nice shoes, huh? (He wiggles his foot and the bells tinkle)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Aah, y'killing me!"
+  },
+  {
+   "t": "direction",
+   "text": "Marcel knocks over some kitchen tools"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross! He's playing with my spatulas again!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, look, he's not gonna hurt them, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Do you always have to bring him here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I didn't wanna leave him alone. Alright? We- we had our first fight this morning. I think it has to do with my working late. I said some things that I didn't mean, and he- he threw some faeces..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know, if you're gonna work late, I could look in on him for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, that'd be great! Okay, but if you do, make sure it seems like you're there to see him, okay, and you're not like doing it as a favour to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, but if he asks, I'm not going to lie."
+  },
+  {
+   "t": "scene",
+   "text": "Max and David's lab, David is explaining something to Phoebe with the aid of a whiteboard."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "...But, you can't actually test this theory, because today's particle accelerators are nowhere near powerful enough to simulate these conditions."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, alright, I have a question, then."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Yuh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Um, were you planning on kissing me ever?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Uh, that's definitely a, uh, valid question. And, uh, the answer would be (Writes YES on the board) yes. Yes I was. But, see, I wanted it to be this phenomenal kiss that happened at this phenomenal moment, because, well, 'cause it's you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Right. But, see, the longer I waited, the more phenomenal the kiss had to be, and now we've reached a place where it's just gotta be one of those things where I just like... sweep everything off the table and throw you down on it. And, uh, I'm not really a, uh, sweeping sorta fella."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, David, I, I think you are a sweeping sorta fella. I mean, you're a sweeper! ...trapped inside a physicist's body."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Rrrreally."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, yeah, oh, I'm sure of it. You should just do it, just sweep and throw me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "...Now? Now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah, right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Okay, okay, okay. (Gets ready to sweep, and then picks up a laptop computer) Y'know what, this was just really expensive. (Puts it down elsewhere. Then picks up a microscope) And I'll take- this was a gift. (Moves it)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, now you're just kinda tidying."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Okay, what the hell, what the hell. (Sweeps the remaining papers off the desk and grabs Phoebe) You want me to actually throw you or you-you wanna just hop?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can hop. (She hops onto the table)"
+  },
+  {
+   "t": "direction",
+   "text": "They kiss, finally"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, everyone is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So tell me something. What does the phrase 'no date pact' mean to you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has somebody- I thought I'd ask Fun Bobby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Fun Bobby? Your ex-boyfriend Fun Bobby?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You know more than one Fun Bobby?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I happen to know a Fun Bob."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(Brings Joey a mug of coffee) Okay, here we go..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh ooh ooh ooh, there's no room for milk!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(Glances at Joey and then sips his coffee) There. Now there is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, so on our no-date evening, three of you now have dates."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, four."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Four."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Five."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Five. (Buries his head in his hands)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Sorry. Paolo's catching an earlier flight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, and I met this really hot single mom at the store. What's an elf to do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, so I'm gonna be the only one standing there alone when the ball drops?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, c'mon. We'll have, we'll have a big party, and no-one'll know who's with who."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, y'know, this is so not what I needed right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What's the matter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, it's-it's Marcel. He keeps shutting me out, y'know? He's walking around all the time dragging his hands..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's so weird, I had such a blast with him the other night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, we played, we watched TV.. that juggling thing is amazing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What, uh... what juggling thing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "With the balled-up socks? I figured you taught him that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know, it wasn't that big a deal. He just balled up socks... and a melon..."
+  },
+  {
+   "t": "direction",
+   "text": "Max runs in"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "Phoebe. Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, hi Max! Hey, do you know everybody?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "No. Have you seen David?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, no, he hasn't been around."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "Well, if you see him, tell him to pack his bags. We are going to Minsk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Minsk?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "Minsk. It's in Russia."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know where Minsk is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "We got the grant. Three years, all expenses paid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So when, when do you leave?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "January first."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Max and David's lab, they are working. Phoebe knocks on the door"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hello?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Hi! (Kisses her) What-what're you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Um, well, Max told me about Minsk, so (Puts on a fake cheery voice) congratulations! This is so exciting!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "It'd be even more exciting if we were going."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, you're not going? (Fake disappointed voice) Oh, why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!' (Storms out)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Thank you, Max. Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So-so you're really not going?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "I don't know. I don't know what I'm gonna do. I just- you decide."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh don't do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Please."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh no no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "No, but I'm asking-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, but I can't do that-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "No, but I can't-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's your thing, and-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "-make the decision-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, um, stay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Stay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Stay."
+  },
+  {
+   "t": "direction",
+   "text": "He thinks for a moment and sweeps the stuff off the table"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Getting so good at that! (She hops on)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "It was Max's stuff. (They kiss)"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, the party has started."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "I love this artichoke thing! Oh, don't tell me what's in it, the diet starts tomorrow! (Laughs her Janice laugh)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You remember Janice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Vividly."
+  },
+  {
+   "t": "direction",
+   "text": "Someone knocks on the door; Monica gets it"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sandy",
+   "text": "Hi, I'm Sandy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sandy! Hi! C'mon in! (She enters, followed by a young boy and a younger girl)...You brought your kids."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sandy",
+   "text": "Yeah. That's okay, right?"
+  },
+  {
+   "t": "direction",
+   "text": "Joey and Monica look at each other and shrug. Ross enters with Marcel on his shoulder"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Par-tay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That thing is not coming in here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "'That thing'? This is how you greet guests at a party? Let me ask you something, if I showed up here with my new girlfriend, she wouldn't be welcome in your home?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm guessing your new girlfriend wouldn't urinate on my coffee table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay. He was more embarrassed about that than anyone. Okay? And for him to have the courage to walk back in here like nothing happened..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright. Just keep him away from me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thank you. (She walks off) C'mon, Marcel, whaddya say you and I do a little mingling? (Marcel runs off) Alright, I'll, uh... catch up with you later."
+  },
+  {
+   "t": "direction",
+   "text": "The door opens. Rachel is standing there. Her coat is muddy and torn, her hair is dishevelled and her face is bruised. Everyone turns to look"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my gosh! Rachel, honey.. are you okay? Where-where's Paolo?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Rome. Jerk missed his flight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "And then... your face is bloated?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. Okay. I was at the airport, getting into a cab, when this woman- this blonde planet with a pocketbook- starts yelling at me. Something about how it was her cab first. And then the next thing I know she just starts- starts pulling me out by my hair! So I'm blowing my attack whistle thingy and three more cabs show up, and as I'm going to get into a cab she tackles me. And I hit my head on the kerb and cut my lip on my whistle...oh...everybody having fun at the party? (To Monica) Are people eating my dip?"
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse. Monica and Rachel, fixed up somewhat, emerge from a bedroom]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sandy",
+   "text": "Y'know, when I saw you at the store last week, it was probably the first time I ever mentally undressed an elf."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow, that's, uh, dirty."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sandy",
+   "text": "Yeah."
+  },
+  {
+   "t": "direction",
+   "text": "They almost kiss and then Joey realises her kids are staring at them"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, kids..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Watching Marcel play with Phoebe. To Chandler) Look at him. I'm not saying he has to spend the whole evening with me, but at least check in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "(Startles them) There you are! Haaah, you got away from me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(Imitating) But you found me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Here, Ross, take our picture. (Hands him a camera and he starts snapping) Smile! You're on Janice Camera!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Kill me. Kill me now."
+  },
+  {
+   "t": "direction",
+   "text": "Someone else knocks on the door. Monica looks through the spyhole"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey everybody! It's Fun Bobby!"
+  },
+  {
+   "t": "direction",
+   "text": "Everyone cheers. Monica opens the door. Bobby is obviously very depressed"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Fun Bobby",
+   "text": "Hey, sorry I'm late. But my, uh, grandfather, he- died about two hours ago. But I-I-I couldn't get a flight out 'til tomorrow, so here I am!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Approaching) Hey Fun Bobby! Whoah! Who died?"
+  },
+  {
+   "t": "direction",
+   "text": "Monica gestures wildly behind Fun Bobby's back"
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse. Bobby is talking about his grandfather. Everyone else is virtually in tears]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Fun Bobby",
+   "text": "It's gonna be an open casket, y'know, so at least I'll- I get to see him again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "(Ross is still taking their photo) Oh, I'm gonna blow this one up, and I'm gonna write 'Reunited' in glitter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright, Janice, that's it! Janice... Janice... Hey, Janice, when I invited you to this party I didn't necessarily think that it meant that we-"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh, no. Oh, no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm sorry you misunderstood..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh my God. You listen to me, Chandler, you listen to me. One of these times is just gonna be your last chance with me. (She runs off)"
+  },
+  {
+   "t": "direction",
+   "text": "Ross is still taking photos"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, will you give me the thing. (Snatches the camera)"
+  },
+  {
+   "t": "direction",
+   "text": "David is feeding Phoebe popcorn. Max walks up"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi, Max!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "Yoko. (To David) I've decided to go to Minsk without you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Wow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Max",
+   "text": "It won't be the same- but it'll still be Minsk. Happy New Year.(Walks off)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Are you alright?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Yeah, I'm fine, I'm fine."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe leads David into a bedroom"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're going to Minsk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "No, I'm... not going to Minsk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, you are so going to Minsk. You belong in Minsk. You can't stay here just 'cause of me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Yes I can. Because if I go it means I have to break up with you, and I can't break up with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yes, yes, yes you can. Just say, um, 'Phoebe, my work is my life and that's what I have to do right now'. And I say 'your work?! Your work?! How can you say that?!'. And then you say, um, 'it's tearing me apart, but I have no choice. Can't you understand that?'. And I say (Hits him) 'no! No! I can't understand that!'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "Uh, ow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, sorry. Um, and, and then you put your arms around me. And then you put your arms around me. (He does so) And, um, and then you tell me that you love me and you'll never forget me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "David",
+   "text": "I'll never forget you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "And then you say that it's almost midnight and you have to go because you don't wanna start the new year with me if you can't finish it. (They kiss) I'm gonna miss you. You scientist guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dick Clark",
+   "text": "(on TV) Hi, this is Dick Clark, live in Times Square. We're in a virtual snowstorm of confetti here in Times Square..."
+  },
+  {
+   "t": "direction",
+   "text": "Joey puts a blanket over Sandy's kids"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "There y'go, kids."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To a woman who he has clearly just met) And then the peacock bit me. (Laughs) Please kiss me at midnight. (She leaves)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You seen Sandy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ooh. Uh, I don't know how to tell you this, but she's in Monica's bedroom, getting it on with Max, that scientist geek. Ooh, look at that, I did know how to tell you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Vrrbddy, the bll is drrbing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "(in the kitchen) What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "The bll is drrbing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dick Clark",
+   "text": "(on TV) In twenty seconds it'll be midnight..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And the moment of joy is upon us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Looks like that no date pact thing worked out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Everybody looks so happy. I hate that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Not everybody's happy. Hey Bobby!"
+  },
+  {
+   "t": "direction",
+   "text": "Bobby waves and then bursts into tears. Midnight comes and everyone at the party except for the gang cheers and kisses"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know, I uh.. just thought I'd throw this out here. I'm no math whiz, but I do believe there are three girls and three guys right here. (Makes kiss noise)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I dunno. I don't feel like kissing anyone tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I can't kiss anyone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So I'm kissing everyone?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nonono, you can't kiss Ross, that's your brother."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Perfect. Perfect. So now everybody's getting kissed but me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright, somebody kiss me. Somebody kiss me, it's midnight! Somebody kiss me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Alrightalrightalright. (Kisses him. Ross takes a photo) There."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, time lapse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Watching Marcel and talking to Rachel) I wanted this to work so much. I mean I'm still in there, changing his diapers, pickin' his fleas... but he's just phoning it in. Just so hard to accept the fact that something you love so much doesn't love you back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "...I think that bitch cracked my tooth."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

@@ -1,0 +1,1226 @@
+{
+ "id": "s08e17",
+ "season": 8,
+ "episodes": [
+  17
+ ],
+ "code": "817",
+ "title": "The One With The Tea Leaves",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "The Hallway, Rachel walks up the stairs and knocks on Joey's door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey? Are you in there?"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to inside Monica and Chandler's, Monica, Chandler and Joey are eating breakfast.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(hearing Rachel and jumping up with his plate) Oh God! That's Rachel!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey, you have to talk to her!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No-no, I can't! I can't! Not after the other night, it's just it's...too weird, okay? Don't tell her I'm here! (Turns to run to the bathroom and his bagel falls off the plate onto the floor.) Don't eat that! (Runs to the bathroom as Rachel enters.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey Rachel!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Is Joey here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't see him. (To Monica) Do you see him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't see him. Hey! Maybe he's in the sugar bowl! (Opens the sugar bowl) Joey? Nope! (Closes the sugar bowl and they both laugh.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, at least you make each other laugh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I haven't seen him since that night that he told me how he y'know... I don't know, I think he's avoiding me. Why is that bagel on the floor?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We were playing a game."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ew, was Chandler naked? Sort of like a, like a ring toss kind of situation?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?! No! No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right. Well listen, if you see Joey will you just tell him uh...tell him I miss him. (Exits and Joey enters.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(To Joey) Okay, did you hear that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, a naked bagel game? (Picks up his dropped bagel.) (To Chandler) Dude, I don't know. That's a pretty small hole."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey, you gotta talk to her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I can't! Y'know? You guys don't know what it's like to put yourself out there like that and just get shot down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(incredulous) I don't know what that's like?! Up until I was 25 I thought the only response to, \"I love you,\" was, \"Oh crap!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hello? No rejection? I got shot down at fat camp! Boy, kids are mean when they're hungry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right so, so what do I do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This is Rachel. I mean, what are you gonna do, never going to talk to her again? I mean I know it's weird, it's awkward, but you gotta at least try."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. Okay. (Goes to take a bite out of the previously mentioned bagel.) Whoa! (Stops.) I almost forgot this was on your..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(interrupting him) We didn't play it!!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe is holding a book as she, Rachel, and Monica drink some tea as Chandler looks on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, so when you're done with your tea I'll look at your leaves and tell you your fortune."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I didn't know you read tea leaves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah, I've done it for years. I actually stopped because I was so accurate. Y'know, and-and y'know, one of the great joys of life is it's-it's wondrous unpredictability. Y'know? And also tea tends to give me the trots."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, I'm done. Read mine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. (Looks at the leaves.) Ooh, I see a ladder. (Checks the book) Which can mean either a promotion or a violent death."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(stunned) I-I'm the head chef. I-I can't get promoted."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-hmm. Uh-hmm, who's next?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, I'm done. Do mine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. (Reads the leaves) Umm, oh! Okay, I see a circle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh! (Checking the book) Which can either mean you're having a baby or you're gonna make a scientific discovery!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I have been spending a lot of time in the lab."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What does yours say Pheebs?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm... Wow, all right. (Checks the book.) Wow! Yay! Ooh, I'm gonna meet a guy! And really soon! And he's gonna be the man of my dreams. Probably not the guy I had a dream about last night. (Points at Chandler.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey! Has anyone seen my shirt? It's a button down, like a, like a faded salmon?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You mean your pink shirt?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Faded salmon color."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, I-I haven't seen your pink shirt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Great! Great. Then I must've left it at Mona's. I knew it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I'm sure you get another one at Ann Taylor's."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's my favorite shirt! Okay? I love that shirt!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well just ask Mona to give it back!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know. I mean I-I guess I could. It's just that we didn't really end things such good terms. And if I go over there I'd be ignoring the one thing she asked me to do when we broke up, jump up my own ass and die. (Walks away.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(noticing a guy sitting by the green post looking at her) Oh wait a second you guys...for the last couple weeks I've been that guy everywhere I go. We take the same bus. We go to the same bookstore, the same dry cleaners; maybe he's the tea guy. (He gets up to leave, and smiles at Phoebe.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Phoebe, did you see that?! He totally checked you out! He is so cute! (Looking at his tea.) Mine has a picture of The Village People, what does that mean?"
+  },
+  {
+   "t": "direction",
+   "text": "Joey enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey."
+  },
+  {
+   "t": "direction",
+   "text": "He slowly walks to the other side of the couch and sits down at the table, an awkward silence follows."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hi."
+  },
+  {
+   "t": "direction",
+   "text": "More awkward silence."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Tea gives Phoebe the trots."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Chandler is cooking as Rachel paces nervously."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So I thought Joey and I would be okay once we hung out, but it's not even like we know how to be with each other anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I know it's tough now, but things will get better."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "How do you know that? What if it just gets worse and worse and worse, to the point where we can't even be in the same room with each other?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm not great at the advice, can I interest you in a sarcastic comment? Some cheese?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey, what is the Bruce Springsteen CD in the Kat Stevens case?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Let's just say if I can't find the right CD case I just put it in the nearest one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, where is the Kat Stevens CD?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "In the James Taylor case."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Where is the James Taylor CD?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Honey, I'm gonna save you some time, 200 CDs, not one of them in the right case."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. No need to panic. Deep breathes everyone. Okay umm uh, we're just gonna have to spend some time and put the CDs in the right cases."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, if we're gonna do that we should come up with some kind of order. Y'know alphabetically or by genre?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hmm, I don't know. We really have to talk this through."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God!! You guys have such problems!! I feel so terrible for you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, I-I'm sorry. You and Joey, your both focusing on this uncomfortable thing, what you need to do is to change the subject. Next time you see him try to get him talking about something else."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yeah. That makes sense."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, like I don't know, maybe you have a work problem that you need his advice on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ooh, I can do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Good. (To Chandler) Uh honey, the Miami Vice soundtrack? Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "They were just giving those away at the store (off Monica's look) in exchange for money."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh I really don't know what to tell you Rach, I really don't. I mean, maybe Joey can help you out with your, with your big work problem."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah Joey she's...Rachel's got this really big work problem, and it is a head scratcher. Wow! (To Chandler) Y'know what, if we're gonna make dinner we're gonna have to leave. Yeah. (She and Chandler exit.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So you uh, have a...big work problem?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah it's umm... Yeah it's uh... It-it's y'know-It's nothing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Huh. Okay. (Awkward silence.) So uh, I think I'm gonna take off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah-No wait! Joey no wait it is. It's something. It's-it's umm...it's my boss."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, and umm my baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "My boss wants to buy my baby!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?! Oh my-oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I know I told you, it's a really big problem."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What he wants to buy your baby?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Can you believe that?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's crazy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's what I told him!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, how did this even happen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well I'll tell ya! (Pause) See uh my-my boss and his wife-They-they can't have children. So umm, and that-we were at the Christmas party, and he got drunk, and he said to me, \"Rachel, I want to buy your baby.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Man! When you said it was a problem about your boss and the baby I figured it was something about maternity leave."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh! Yeah! (Pause) Yeah that-that would've been a much simpler problem."
+  },
+  {
+   "t": "scene",
+   "text": "A newsstand, Phoebe is looking at a magazine as the guy from before walks by and picks up a newspaper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Guy",
+   "text": "Oh, it's you. I see you everywhere. I'm Jim, Jim Nelson."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh Jim, Jim Nelson I'm Phoebe, Phoebe Buffay. We certainly have been seeing a lot of each other lately."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "We have. Maybe we'll be seeing each other at dinner tomorrow night, say around 8 o'clock?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, maybe we will. (Starts to walk away.) Oh! (She turns around and the exchange information.)"
+  },
+  {
+   "t": "scene",
+   "text": "Outside Mona's Apartment, Ross is knocking on the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mona? (There's no answer, so he starts to leave but remembers where her extra key is. He reaches atop a hall light just outside her door and grabs the key. He looks at in triumph as the pain from it being hot moves along his nervous system to his brain, and when it arrives his brain orders his hand to drop the hot key and his mouth to squeal in pain. After dropping the key he pulls his shirtsleeve over his hand and uses the key to open the door and enter Mona's apartment.) Okay, if I were a salmon shirt, where would I be? (He hears a key in the door and as it opens he dives behind the couch.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "(entering, with her date) I am so sorry I spilled wine all over your shirt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona's Date",
+   "text": "Oh, it's okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "No, it's still wet. Y'know what? Let me get it out before it sets. Ooh, I have something you can wear. Here. (Hands him Ross's shirt.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona's Date",
+   "text": "Oh umm, I-I don't know if I want to wear a woman's shirt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "No-no that's a man's shirt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona's Date",
+   "text": "It's awfully pink. (Ross mouths, \"It's salmon!\")"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica and Chandler are sorting their CDs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my God, honey we are so meant to be together. We both have copies of the Annie soundtrack."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey, both yours."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Hey! Great advice on that Joey thing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah? The work problem?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh it was perfect! I mean it really felt like he was my friend again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What problem did you tell him you had?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh that's not important. The point is, I really-I think everything's gonna be okay."
+  },
+  {
+   "t": "scene",
+   "text": "Mr. Zelner's Office, he's in a meeting as Joey bursts in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Zelner",
+   "text": "May I help you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Do you think you can just buy my friends baby?!"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "A restaurant, Phoebe and Jim are on their date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Isn't it funny how we kept running into each other? It's as if someone really wants us to be together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "Someone does. Me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, witty banter. Well done."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "So, tell me a little bit about yourself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh okay, well I'm a masseuse, and I used to work at this place..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "Do you like to party?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I-I-I like, I like parties."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "You're wild, aren't ya?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah I guess, a little."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "It ain't no thing, I'm wild too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(a little freaked out) So! Umm, anyway I-I lived in New York, someone wildly I guess, for umm-Well since I was fourteen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "I'm sorry. I'm staring. It's just that you have the most beautiful eyes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh stop it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "And your breasts! Hmm!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. Umm look, you're coming on a little strong. But I'm going to give you the benefit of the doubt, because it seems the universe really wants to be together. So, why don't we just start over okay? And you can just tell me about yourself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "I write erotic novels, for children."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "They're wildly unpopular."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "Oh also, you might be interested to know that I have a Ph.D."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow! You do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jim",
+   "text": "Yeah, (looks at his crotch) a Pretty Huge..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right. (Gets up and walks out.)"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica, Chandler, and now Rachel are organizing CDs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(singing) The sun'll come out...tomorrow! Bet...your bottom dollar that tomorrow... (The girls start laughing, and in a deep voice) ...there'll be sun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey! Oh Joey, honey listen, thank you for talking to my yesterday about that thing with my boss. That really meant a lot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Not a problem. Oh, and just so you know, that guy's not going to be bothering you about that baby thing anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(worried) What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Let's just say I took care of it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Whoa-whoa-whoa, let's say more!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Don't worry! Don't worry. I just told him, very nicely, \"You don't go buying people's babies, so back off!!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler and Monica",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! No, no-no-no Joey he doesn't want to buy my baby! I made that up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?! Why?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So that we would have something to talk about! So it wouldn't be awkward!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And you couldn't think of anything else?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You said your boss wants to buy your baby?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(To Joey) I can't believe that you yelled at my boss! I'm-I'm gonna lose my job! What am I going to do?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You can always sell your baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh Joey, I can't believe you brought my boss into this! I'm gonna get fired!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You lied to me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, she told me too! (Points to Monica and Joey glares at her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler has two copies of Annie!"
+  },
+  {
+   "t": "scene",
+   "text": "Mona's Apartment, she and her date are making out as Ross flips through a magazine while lying behind the couch and sees something that he likes. Meanwhile, Mona's date takes off Ross's shirt and Mona throws it on the floor. While they start making out again, Ross tries to pull the rug the shirt is on over to him, but while he does that he moves the coffee table and it bumps into the couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "(seeing Ross) Oh my God! Ross!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hello!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Ross, what are you doing?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Not touching myself if that makes anyone less uncomfortable."
+  },
+  {
+   "t": "scene",
+   "text": "Mr. Zelner's Office, Rachel is knocking on the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Morning. You wanted to see me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Zelner",
+   "text": "Please, come in. Have a seat. (She does so.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay look Mr. Zelner..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Zelner",
+   "text": "Oh I think it's best that I speak first."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. (Motions for him to continue.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Zelner",
+   "text": "I've asked Lee from human resources to be here as a witness to our conversation."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Zelner",
+   "text": "If I in any way implied that I wanted to buy your baby...I am sorry. Okay? Last week when I asked you when your due date was uh, I certainly did not mean that I felt that I was due your baby. Yeah, I want to be very clear that I understand that its your baby, and it is not mine to purchase."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, as long as we are clear about that. (Exits smugly.)"
+  },
+  {
+   "t": "scene",
+   "text": "A Street, Phoebe and Monica are walking down it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh there it is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's not your regular dry cleaners."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know, but that creep that I went on that date with goes to there so I have to find a new one. I also have to find a new video store, a new bank, a new adult bookstore, a new grocery store..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "A new grocery store. The universe said I was going to meet a nice guy and that's what they gave me? (Looks up) When I get up there I'm going to kick some ass."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Don't worry Phoebe, you're gonna meet someone. If I can meet a great guy, so can you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, we both can. And we both will."
+  },
+  {
+   "t": "direction",
+   "text": "They enter the dry cleaners."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, you didn't have to come in with me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Are you kidding? This is where they get out stains! Okay? This is like Disneyland for me. I'm-I'm gonna be over here watching the dance of the clean shirts. (She points to and walks over to the electric clothes rack they have.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "A guy enters that looks suspiciously like Alec Baldwin from The Hunt for Red October, Pearl Harbor, and Beetlejuice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Guy",
+   "text": "(To Phoebe) Oh, excuse me! I think you dropped s...(looks at Phoebe.) Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Guy",
+   "text": "I'm sorry, it's just that you're so incredibly beautiful."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah well, I'm sorry about that too, but what are you going to do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Guy",
+   "text": "I hope you don't think I'm crazy but I feel like I was meant to pick this up, do you believe in that kind of thing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "A little. (She turns around and looks up.) (To the universe) Now you're talking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Guy",
+   "text": "Would you like to go out and have a cup of coffee?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I-I-I'd love to. Let me just tell my friend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to the clerk) Ooh, an ink stain! Hey, can I watch how you get this out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(looking around) She must've left."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Chandler is watching Joey pace nervously as Rachel enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So? What-what-what happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's all gonna be okay. They're just so happy that I'm not suing them that they gave me one extra month paid maternity leave. So long as I understand that the money should not construed as a down payment on this or any other child I should bear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wow, Ralph Lauren is really going out of there way to show they're not in the baby buying business."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Chandler, can you give us a minute?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh I'm sorry, you're kicking me out of my own living room?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'll be in there. (Goes into the bedroom.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, I'm really sorry that I lied to you. I was just trying to make things..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know. I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It kinda worked. I mean y'know, I don't know about you buy I haven't thought about our thing since all this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey you're right. Yeah, it's kinda been like us again a little bit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah I know! I miss that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Me too. I mean I...haven't thought at all about how I put myself out there and said all that stuff and how you didn't feel the same way about me and-and how it was really awkward."
+  },
+  {
+   "t": "direction",
+   "text": "Awkward silence."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "My gynecologist tried to kill me."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Ross and Rachel's, Ross is ordering something over the phone from a catalog."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on phone) Item J437-A, color: winterberry. (There's a knock on the door as he hangs up the phone. He answers it to Mona.) Hi umm, listen come here, come in. (She does so.) I'm so-so sorry about yesterday. I-I'm really sorry. It's just that I... (He picks up the pink shirt.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "(interrupting him) Listen Ross, you don't have to apologize. I understand why you were there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Yeah, you still have feelings for me. And-and to be honest, I-I still have feelings for you. And I wish that we can work it out Ross, but we can't. It's too complicated with you and Rachel and the baby, I-I just... It just wasn't meant to be."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(faking starting to cry) Oh God you're right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Ross, we...we have to be strong. Okay, I-I'm gonna go. (She picks up the shirt Ross has just set down.) Can I? To remember you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(laughs) No. (Takes the shirt back.)"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

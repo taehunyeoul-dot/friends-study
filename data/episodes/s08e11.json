@@ -1,0 +1,1267 @@
+{
+ "id": "s08e11",
+ "season": 8,
+ "episodes": [
+  11
+ ],
+ "code": "811",
+ "title": "The One With Ross' Big Step Forward",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, Rachel is looking around the shop as Phoebe returns from getting some more coffee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Look at that guy by the window, wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "He's awfully short and I think he's talking to himself. And to be completely honest, he's not that good in bed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, what is wrong with me lately? I mean it's like every guy I see-I mean look here. (Points behind them) Look at that guy for example, I mean normally that's not someone I would-would be attracted to, but right now, with the way I'm feeling, all I want to do is rip off his sweatpants and fanny pack."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wait a second! This is about the fourth month of your pregnancy, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "This is completely normal, around the fourth month your hormones start going crazy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really?! So this has happened to you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh absolutely yeah! Oh and keep in mind, now, I was carrying triplets so in, y'know, medical terms I was-I was thrice as randy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wow! This explains so much! Last weekend, I went from store to store sitting on Santa's lap."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. Yeah, I remember trying to steal a cardboard cutout of Evander Holyfield from a Foot Locker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, y'know what? I go see my doctor tomorrow, I'll ask her about this. Maybe she can give me a pill or something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. Yeah, that's what you need a good...pill."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Joey and Ross are there as Mona enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Hey! (To Joey) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Hi! Look! I got our pictures developed from Rockefeller Center."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh great! Hey-hey Joey, do you want to check out pictures of me and Mona ice skating?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh uh, ordinarily I would love too, but I am just swamped right now. (Brushes something off of his shirt and looks around, but doesn't move from his chair.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey where-where are the pictures that creepy pretzel vendor took of us together?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Oh yeah, probably at the end. (Flips to the end.) Oh my God! He only took pictures of my breasts!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm missin' picture time?! (Jumps over to look, Ross glares at him and he retreats.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(sitting down next to Ross) Y'know she has a face Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Okay. Okay, here's a good one of us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow! That is a good one! Wow, it looks like a, like a holiday card y'know, with the tree in the middle and the skaters and the snow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Y'know, every year I say I'm gonna send out holiday cards and I never do it. Do you wanna, do you wanna send this one out together?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(pause) Together? Like-like to people?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Yeah, y'know. Happy holidays from Mona and Ross. It'll be cute, okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay. (Not happy about it.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Oh, I gotta get to work. So call me later?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh sure, sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Bye guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Bye."
+  },
+  {
+   "t": "direction",
+   "text": "Mona exits."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To Ross) Congratulations! You just got married!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know. Can you believe that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wait, I'm-I'm sorry. What's the big deal about a holiday card?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Married couples send out cards, families send out cards, people who have been dating for a couple of months do not send out cards! What-what is she crazy?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey-hey-hey, hey that's your wife you're talking about!"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler's Office, his boss Doug is entering, Monica is there as well."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Bing! Ho! And the Bing-ette!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Honey, you remember my boss Doug right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yes, hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Hi. So good news, the divorce is final. I signed the papers this A.M."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I didn't know you and Carol were getting divorced, I'm sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Sorry? Finally chewed my leg out of that bear trap. Hey, congratulations to you guys though!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No leg-chewing for us sir."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Oh well, give it time. So the divorce, the marriage, we've got a lot to celebrate. How about we all go out to dinner tomorrow night?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can't think of anything we're doing. (Quietly) Why can't I think of anything we're doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Tomorrow night it is then, I should be out of court by six. They keep throwing these sexual harassment cases at me and I keep knocking them out of the park!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, I'll see you tomorrow! (Doug exits.) Just so you know, we're not seeing him tomorrow. (Chandler wonders why.) I-I cannot spend another evening with that man. Do you remember how he behaved at our wedding?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's because he wasn't invited because of the way he behaved at our engagement party."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh yeah. Boy, urine cuts right through an ice sculpture doesn't it?"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's Apartment, there's a knock on the door and he opens it to Mona."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Hey, I went by the photo shop, take a look, here is a mockup of our card. What do you think?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Huh. Wow, this is great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Now, do you think it should say, \"Love Ross and Mona?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, we-we haven't said that to each other yet, but I guess its okay to say it to other people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "How many did you want? I'm getting a hundred."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "A hundred?! Well, I-I guess I'll take a-Mona, uh...I-I'm not sure about the whole uh, card thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Really? Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Sending out a holiday card, together, I mean I just don't know if we're really quite there yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Oh y'know, I didn't think of it that way. You're right. You're right. So, can I ask you a question?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Where are we?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Y'know, like where are we? Where is this relationship going?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hmm..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "I mean I love spending time with you, y'know I just-I hope we're moving forward. I mean, we should probably talk about that. Don't you think?"
+  },
+  {
+   "t": "direction",
+   "text": "Pause."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Let's do the card!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The card! I think we're there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Okay. I-But I think we should still have this conversation."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really?! I mean, even with the card?"
+  },
+  {
+   "t": "scene",
+   "text": "Rachel's Doctor's Office, she is waiting for her doctor as a nurse enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "Just so you know, Dr. Long can't be here today, she was called to the hospital, so Dr. Schiff will be seeing you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, okay. Hey, can I ask you a question? Was it me, or-or was the guy who took my blood sample really cute? Y'know who I'm talking about, bald haircut, hairy fingers... (Stops when she realizes it was her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Schiff",
+   "text": "(entering) Hi Rachel? I'm Dr. Schiff. (By the way, he's an attractive man.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes, you are."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Schiff",
+   "text": "So, how's it going?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, really, really good. But enough about me, come on! Where-where are you from? What do you do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Schiff",
+   "text": "I'm a doctor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Right! Right! I-I actually meant in your spare time, do you cook? Do you ski? Or do you just hang out with your wife or girlfriend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Schiff",
+   "text": "Uh, I don't have a wife or girlfriend, but I do like to ski."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I love to ski! How amazing is this?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Schiff",
+   "text": "So, are you experiencing any discomfort?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. I'm very comfortable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Schiff",
+   "text": "Any painful gas?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! Shoot, Dr. Schiff what kind of question is that?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Schiff",
+   "text": "Okay then, would you like to lie down on the table?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well would you like me to lie down on the table?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Schiff",
+   "text": "I'm sorry, is there something going on here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Do you feel it too?"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Monica and Phoebe are there as Rachel enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh hey! So, how did your doctor's appointment go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, let's see. Uh, they gave me cute doctor today and in the middle of the exam I put my pinky in his chin dimple."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why did you do that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, remember that little problem I was having during my fourth month of pregnancy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh yeah, the Evander Holyfield phase. Oh man you were so hard up you practically came on to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You wish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, I could've had you if I wanted you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah? Come and get it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, even this is turning me on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh hey! Hey Ross! Hey how's it, how's it going with you and Mona? Are you guys still together?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh yeah, yeah we're moving forward. You'll be getting our card!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You and Mona are doing a holiday card together?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, we're not just doing a card! Y'know, she-she also wants to have the conversation about where the relationship is going."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ugh! Women!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know! I know! Why do you guys need to have this conversation?! Huh? I mean no self-respecting man would ask a woman, \"So, where is this going?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh Ross? You asked me that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey! You were a closed book! Okay? I'm not a mind reader! Besides, I hate those conversations. I'm horrible at them. Really! Maybe-maybe I need kind of a gesture. Y'know, something that says we're moving forward without having to talk about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Like asking her to move in with you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Smaller than that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Making her a mixed tape?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, bigger than that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Give her a key to your apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Whoa-hello! We were closer with the mixed tape."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right. Have you said, \"I love you?\" You could say, I love you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah I-I don't-I don't think I'm quite there yet, but I could say I looove spending time with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, we hate that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That is a slap in the face."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Forget it. I-I-Y'know what? I'll just have the conversation. I'll just say I like things the way they are, and hope for the best. What do you think Rach?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I think, if it was a little colder in here I could see your nipples through that sweater."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler's Office, Doug is entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Bing! We're all set for tonight, 8 o'clock."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh uh, as it turns out, we can't do it. Monica has to work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Oh, my ex-wife didn't work, unless you call turning into her mother work. Fine. Tomorrow night then."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh uh well tomorrow's no good for her either."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Oh? Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's the semi-finals...of her...botchy ball tournament."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "What's going on Bing? Does uh, your wife have a problem with me or something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well now-now you're just talking crazy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "So why can't the three of us go out together?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because uh...we-we...we split up. Monica and I split up. Hold me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Good God Bing I...well I can't say I'm altogether surprised, I saw the way she looked at you, and there was no love there. And the way she looked at me, pure lust."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know what would really help me through this tough time is choking something. Can I choke ya?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Bing my boy, we're gonna get you over this. Now here's the plan, grab your coat, we're going to a strip club."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh no-no-no, Monica would freak. (Doug looks at him.) But to hell with that bitch."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross is getting Mona some coffee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Here we go. Mona umm, I think it's time we-we had a conversation about-about where things are with us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Yeah, I-I think I suggested that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Aw, we-we are so...(Motions that they're connected.) So umm, well I-I-I like you and I-I love umm, y'know hanging out with you. And I mean-I'm having a lot of fun. (He pauses and thinks there might be more, but decides there isn't.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I mean, there's no point in spending time with someone if-if it's just fun. It's gotta be, it's gotta be going somewhere right? So where-where is it going? (Pause) Ah! That's-that's the real question. And-and the answer is...is it's going somewhere...fun. Now I-I know what you're thinking, fun was fine for you like ten years ago y'know, but you're-you're not getting any younger. No I mean-No not you, not you, you-you are getting younger. I mean-you-you look like you're getting younger by the second-What's your secret?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "I'm sorry, so umm, so where are we?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, well to sum up, we're having fun, you look young."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Okay..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But that's not enough. So... So...here's a key to my apartment. (Hands her his key.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Really?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "You don't think this is too fast."
+  },
+  {
+   "t": "direction",
+   "text": "Ross groans no."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Ross is telling Rachel and Monica about yet another mistake he's made with a woman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You gave her a key to your apartment?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Not just a key, I gave her the only key! I am now a homeless person in a very serious relationship."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering with some guy) Hey. Ooh Ross! How'd the conversation go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh great, I live on the street."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Where?! (Ross exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi! Okay, Monica, Rachel, this is my friend Roger."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Roger",
+   "text": "Hey everybody."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi Roger."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So umm, I'm gonna get us some drinks. (To Rachel) Would you help me out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. (They go into the kitchen.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, he's here to have sex with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're welcome."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's okay, he's a virgin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rachel umm, I was just talking to this guy and I think he'll have sex with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, okay let's leave these two alone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! I do not care what my hormones are doing, I am not going to just do it with some random guy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Fine! Then you tell Roger because he was really looking forward to this! (Phoebe exits.)"
+  },
+  {
+   "t": "scene",
+   "text": "A Strip Club, Doug and Chandler are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Oh Bing, look at those twin sisters dancing together. Let me buy you a lap dance with those girls. Huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh that's all right sir, and that's just one girl."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Bing-What's this?! (Grabs his hand.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's a hand. It's a thing you use as a Jack and Coke holder."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "No, it's a wedding ring. You gotta get rid of it. We're gonna go to the East River right now and throw it in there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh no-no-no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doug",
+   "text": "Oh yeah-yeah-yeah, y'know I did it and I felt a hell of a lot better and if you whip it just right you might hit a seagull in the head."
+  },
+  {
+   "t": "scene",
+   "text": "Ross's Apartment, a locksmith has finished changing the locks on Ross's door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, and oh I'm gonna need a bunch of extra keys. Apparently I give them away for no reason at all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "(entering) Hey Ross, what's going on? You changing the lock?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. That guy is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "I don't understand. You-you give me a key to your apartment and then you change the lock."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Locksmith",
+   "text": "Good luck buddy. (Exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Umm, I-I thought we were moving forward and now you're-you're sending me all these mixed signals. What are you trying to tell me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm trying to tell you I made you a mix tape."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I love you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mona",
+   "text": "Ohh! (Hugs him.) And I love spending time with you. (Ross isn't happy.)"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica is eating dinner as Chandler enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi honey I'm home."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "From the tequila factory?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It was awful. To get out of going to dinner with Doug I told him that you and I split up. So then he took me to all these strip clubs and sleazy bars, and then when I wouldn't give him my wedding ring, he threw a soda can at a bird!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Come here. I can breath through my mouth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know what the worse part was? I got to see what my life would be like without you. It was like It's a Wonderful Life with lap dances. Please promise that you will never leave me, that we will grow old together, and be with each other for the rest of our lives."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I promise. Hey, speaking of together, how about we send out a holiday card this year?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ooh, I don't know if we're there yet."
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Rachel is on the phone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes. Hi, I'd like to order a pizza. Okay, can I ask you a question? Is-is the cute blond guy delivering tonight? Very Ambercrombie & Fitch. (Joey enters.) I'll call you back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Who was that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's just the pizza place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You hung up on the pizza place? I don't hang up on your friends."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm sorry honey, I'm just having a, having a rough day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, what's wrong?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh you really, you really just don't want to hear about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Then why did I ask?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, it's just-and this is really embarrassing-but lately with this whole pregnancy thing I'm just finding myself...how do I put this umm, erotically charged."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Is that college talk for horny?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. So y'know, I have all of these feelings and I don't know what to do about them, because I can't date like a normal person, which is fine because I don't need a relationship, I mean all I really want is one great night. Just sex, y'know? No strings attached, no relationship, just with someone that I feel comfortable with and who knows what he's doing. For just one great night, I mean is that really so...hard...to find. (Looks at Joey.) So how was your day?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Good, I uh, I saw a pretty big pigeon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I gotta get up early and it's almost seven o'clock."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I gotta, I gotta go to my room too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, good night!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Good night. (They both enter their rooms.)"
+  },
+  {
+   "t": "direction",
+   "text": "Pause."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) I can't do it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) I didn't ask you to do it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're Rachel!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You're Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're my friend!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Right back at ya!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But plus, it would be wrong and weird and-and-and bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And so bad. I don't even know what you're talking about because I didn't ask you to do anything!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know!"
+  },
+  {
+   "t": "direction",
+   "text": "Pause."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Do you wanna do it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, me neither! I was just testing you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's the end of this conversation!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "This conversation never happened!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Never happened! Good night!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Good night!"
+  },
+  {
+   "t": "direction",
+   "text": "They both go into their rooms and after a little while Rachel pokes her head into the living room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Get back in there! (Rachel re-enters her room and closes the door.)"
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Rachel is there as Phoebe enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi. Listen, I'm sorry about that whole thing with Roger. It really wasn't right, and I, and I want to make it up to you, so umm, I brought you something that I think you'll really enjoy. (Goes into the hallway and returns carrying the Evander Holyfield cutout.) Now, this is just a loan. Okay? I'm gonna, I'm gonna want him back. So... (Looks at him longingly) I'm gonna go now. (Exits.) (Pause) (Entering) I'm sorry, I thought I could do it and I can't! (She grabs the cutout and exits for good.)"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

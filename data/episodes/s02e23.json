@@ -1,0 +1,1366 @@
+{
+ "id": "s02e23",
+ "season": 2,
+ "episodes": [
+  23
+ ],
+ "code": "223",
+ "title": "The One With the Chicken Pox",
+ "lines": [
+  {
+   "t": "direction",
+   "text": "Originally written by Brown Mandell."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Rachel, Monica, Joey, and Chandler are there."
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel brings a muffin to Chandler and Monica who are sitting on the couch.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, Chandler, Mon, there's only one bananna nut muffin left."
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel holds the tray between them. Chandler grabs the muffin before Monica can.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, I ordered mine first."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, but I'm, I'm so much faster..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Give it to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Give it to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok, you can have it. [He licks it and offers it to her.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "[She grabs the coffee cup on the table and licks the rim.] There you go, enjoy your coffee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That was there when I got here. [Takes a bite of his muffin.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "[enters] Hey you guys, you will never guess who's coming to New York."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "[Chandler tries to come back with a smart-ass remark but can't swallow the muffin.] Quick, Phoebe, tell us before he can swallow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh ok, Ryan, that guy I went out with, who's in the Navy."
+  },
+  {
+   "t": "direction",
+   "text": "[Chandler is visibly upset]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You went out with a guy in the Navy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, I met him when I was playing guitar in Washington Square Park. Ryan threw in salt water taffy 'cause he didn't have any change."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, is that when you wrote salt water taffy man?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No. No, he is my submaring guy. He resurfaces like every couple years and we have the most amazing three days together. Only this time he's coming for two weeks. Two whole weeks, which means yay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So wait, this guy goes down for like two years at a time?"
+  },
+  {
+   "t": "direction",
+   "text": "[Once again, Chandler has a bite in his mouth and can't come back.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That'll teach you to lick my muffin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "[enters] Hiii."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh no, what happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I just spoke to Carol. Ben's got the chicken pox."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oh no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, so if you haven't already had it, chances are you're gonna get it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well I've had it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I've had it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Had it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Had it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I've never had it, I feel so left out. [Sees a red bump on her arm.] Oh look!"
+  },
+  {
+   "t": "direction",
+   "text": "OPENING TITLES"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Monica and Richard are in her bedroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey, you made the bed again. I told you, you don't have to do that. This isn't camp."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Ooh, then I guess the panty raid last night was totally uncalled for. Ok, I am going to take a shower and today I will be singing Jim Crochee's Leroy Brown."
+  },
+  {
+   "t": "direction",
+   "text": "[He walks out of the bedroom and Monica starts to remake the bed.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Monica... [He re-enters the bedroom and Monica jumps on the bed, trying to cover it.] Hey Mon, I have a question. Is Leroy the baddest man in the whole damn town or the fattest man in the whole damn town?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Baddest. Otherwise the song would be Fat Fat Leroy Brown."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "What're you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Just waiting for you sweetie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Are you remaking the bed?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm sorry, I'm sorry. You know what, the way you did it was just fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Then, you're redoing it because..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "If I tell you, you'll think I'm crazy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "You're pretty much running that risk either way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ok, you see, the tag shouldn't be at the top left corner, it should be at the bottom right corner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Oh, well that's not so crazy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm just easing you in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Oh, alright."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, you see these little flower blossoms? They should be facing up, not down, because, well, the head of the bed is where the sun would be. You don't love me any more do you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Actually, if it's possible, I love you more."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Really? Wow, well then come on, I wanna show you how to fold the toilet paper into a point."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler's office. Joey is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, look Joey, I'm just saying if you need something to hold you over, I can get you a job right here as an entry level processor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But don't you need experience for a job like that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's not that hard to learn. And as for people realizing you have no idea what you're doing, hey, you're an actor. Act like a processor, people will think you're a processor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Scott",
+   "text": "[enters] Hey Chandler, here's this morning's projections."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey thanks. Scott Alexander, Joey Tribbianni. Joey is a uh, fellow processor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Scott",
+   "text": "No kidding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah yeah. I process. People want the processing, I'm the one they call."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Scott",
+   "text": "Where do you work?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhh, well, right now I'm in between things. You know how it is. One day you're processing, the next day you're not so much... processing any more."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I was just telling Joey about the opening in Fleischman's group."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Scott",
+   "text": "Fleischman's group. Whatever you do, don't touch his sandwiches. Ha-ha-ha..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ha-ha. [Scott leaves] Are all you processors dorks?"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Monica and Rachel are doing Phoebe's makeup."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, this lipstick looks just great on you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You look fabulous honey, you really do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah? Are you sure, really. [She picks up a mirror and sees the white splotches all over her face.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You see, you look beautiful. For god sakes, dim the lights."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I, I, I'm hideous."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's gonna be ok. Ryan's been under water. He's just gonna be so glad that you don't have barnicles on your butt."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Ryan is walks up to the door and knocks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Come in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Hey baby, I'm back... [Phoebe is sitting by the window in a veil.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey Ryan, what's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "What's goin' on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, no no, you have to stay back. I, I have the pox."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Chicken or small?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Chicken. Which is so ironic considering I'm a vegetarian."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Why aren't you at home in bed?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "'Cause my, my grandmother's never had chicken pox. Please, please tell me you have, 'cause oh my God, I forgot how cute you are."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "I'm sorry, I never had 'em."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ohh, ohh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "If I had one wish, it would be to build a time machine, go back to when I was 7, when Jimmy Hauser had the chicken pox. I would grab that kid and rub him all over my face."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, or you know, you could just wish that I didn't have them now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Can I please see your face?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Nope. You don't want to see a face covered with pox."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Your face could be covered with lochs, I wouldn't care."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "And you hate fish. Oh. That's so sweet, alright. Ok, alright, you can see. This is me... [she unveils herself right as a huge lightning bolt crashes outside. Ryan screams in terror.] Oh, I am scary."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Sorry, the lightning. Lightning was an unfortunate incidence. You look lovely, lovely."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I hate this. 'Cause I tell you, I had the most amazing two weeks planned for us, and almost everything I had in mind, we had to be a lot closer than this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Phoebe, I have spent the last eight months in a steel tube with men, thinking about this moment. I am not gonna let a bunch of itchy spots stand between us. [He walks to her and kisses her.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, this is the most romantic disease I've ever had."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler's office. Joey enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, how's the first day goin'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Pretty good. It's like you said. It's mostly just putting numbers from one column into another column."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well there you go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey and everbody is so nice. I just had a good talk with that lady with the red hair, Jeannie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Jeannie, the head of east coast operations Jeannie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, turns out our kids go to the same school. Small world huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Weird world. Your kids?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I figure my character has kids."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ya know there isn't a part of that sentence I don't need explained."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, see when you're acting you need to think about stuff like that. My character, Joseph the processor guy, has two little girls, Ashley and Brittany. Ashley copies everything Brittany does."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, invisible kids can be that way sometimes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. Joseph and his wife, Karen, are thinking of having a third kid... Ya know what? Just did."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really? Wow. That's some pretty powerful imaginary sperm you must have there."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Phoebe and Ryan are playing Monopoly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "You know what makes the itching even worse?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That you don't stop talking about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Let's just play, ok. Good, ok. [She picks up the dice.] Here we go, double sixes, here we go... [She starts to rub the dice all over herself.] Here we go, come to mama, just getting ready to roll the dice..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "What're you doing? Are you scratching?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No. This is what I do for luck, ok."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "You're scratching. Give me the dice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Give me the dice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No. Here. [Throws them on the table.] There. Ooh, double sixes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "We can't scratch. You know we can't, we'll scar."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uhh, I can't stop thinking about it. It's just so hard. I just wanna grab all these houses and rub 'em all over my body. [Grabs a handful of the houses.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Give it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, come on. You know you want it, you know you want it too, come on. Let's just be bad, it'll feel so good. [She starts scratching him.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Oh God help me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Now do me, do my back. Oh come on, harder."
+  },
+  {
+   "t": "direction",
+   "text": "[They get back to back and start rubbing against each other. Ross and Rachel enter.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, stop that, stop that right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know, I might have expected this of you Phoebe, but Ryan, you're a military man."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler's office building. Joey and Jeannie are talking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You and Milton have to join us on the boat. Karen'll pack a lunch, you'll bring the kids, we'll make a day of it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jeannie",
+   "text": "Oh, that sounds lovely. We're gonna have to set that up. Oh, I better get back. Hope the baby feels better."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, thanks, thanks. Bye bye Jeannie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Jeannie",
+   "text": "Bye bye Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What a phony."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I'm sure you'll teach her a lesson when she steps off the dock onto nothing. Hey Mr. Douglas."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sir."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Douglas",
+   "text": "Uh, listen Bing, I received your memo. So, we're not gonna receive the systems report until next Friday?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well the people in my group wanna spend the holiday weekend with their families."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Douglas",
+   "text": "I have a family, I'm gonna be here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah Bing, what's that about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's about cutting my people a little slack, ya know, for morale. Look, if you wanna see some rough numbers, I can get them to you by Wednesday."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Douglas",
+   "text": "Rough numbers?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "This company was not built on rough numbers. Am I right Mr. Douglas."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Douglas",
+   "text": "Have the final numbers on my desk by Tuesday."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uh, if you say so sir."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Joseph's good, isn't he?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I'm going to kill you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, hey, I just figure Joseph's the kinda guy that likes to mix it up. Ya know, get in there, ruffle some feathers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look, I'm sorry but that's what Joseph does, ok. If you try to pull somethin', he'll call you on it. 'What're you tryin' to pull,' he'll say."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Monica enters her bedroom with a roll of duct tape. Richard is sitting on the bed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Ooh, duct tape. Was I supposed to bring something too?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This is for the scratchy twins out there. I taped oven mits to their hands."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "You're strict."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's for their own good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "You know, I like the way you have efficiently folded this tab under. See in a tape emergency you could shave valuable seconds off your time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Exactly. Oh, I love that I can be totally neurotic around you now. Tell me the truth. Don't you like it better now that everything on your desk is perpendicular?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "If it's not a right angle, it is a wrong angle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Very good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You know what. Tomorrow I'm gonna do your clocks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "You're gonna do what to my clocks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm gonna set them to my time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Well, I'm confused. I thought we shared time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No no. See, in my bedroom I set my clock six minutes fast. You wanna know why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Because it's in a slightly different time zone than the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No forget it, I'm not gonna tell you now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "No come on. Come on tell me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No. See you don't understand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Come on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No. You don't have any of these cute little obsessive things."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "No that's not true. That is not true."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, well tell me one of yours."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Ok. Ahh. One of my things is, I always separate my sweat socks from my dress socks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What if they get mixed up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Boy I would just uh, I would freak out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You would not. I can't believe this. I hate this, you're too normal. I can't believe my boyfriend doesn't have a thing. My boyfriend doesn't have a thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "See, if anyone overheard that, I didn't come off well."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler's office. Chandler is asleep in his chair holding a paper in one hand and a pen in the other. Joey walks in, waking up Chandler who covers by pretending to write on the paper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey. Mr. Douglas is looking for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why? Wh- wh- why is Mr. Douglas looking for me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "'Cause he has a strong suspicion that you dropped the ball on the Lender project."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wha- wh- why, why, why does he suspect that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Becasue at first he thought it was Joseph. But after he asked Joseph about it, turns out it was you. Anyway, I just thought you should know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright, that's it. Look Joey, I'm sorry, I realize this is the role of a lifetime for ya, and if I could just fire Joseph, I would, but unfortunately that's not possible so I'm gonna have to let both of you go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What're you talking about, everybody loves Joseph."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't, I hate Joseph, ok. I think he's a brown-nosing suck up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah. Well you can't fire Joseph. You know why, 'cause he's not in your department."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright, ok, alright. So I can't fire Joseph but uh, I can sleep with his wife."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Karen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, Karen. I'm thinking about having an affair with her. Oh, you know what? I just did."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ahh. What the hell are you doing to me man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh well it's not me, it's my character, Chandy. Yeah the rogue processor who seduces his co-worker's wives for sport and then laughs about it the next day at the water cooler. In fact, I have her panties right there in my drawer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No freakshow, she's fictional."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Take it easy. If it means that much to you, I'll uh, I'll go find something else."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It's just that, I, I'm gonna miss Joseph. I liked him. His wife, she was hot. [Chadler pushes him out the door by the face.]"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Rachel and Ross are in the kitchen. Phoebe is sitting at the couch with oven mits on her hands."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Can I please take these off? I swear I won't scratch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No sorry hon, Monica's orders."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "[Comes out of the bathroom, also with oven mits on his hands.] Well that wasn't easy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok, dinner's on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And there's a peach cobbler warming in the oven so the plate's gonna be hot but that shouldn't be a problem for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Alright you kids, bye now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "PHOEBE and RYAN",
+   "text": "Bye. [waving]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh look, a low budget puppet show."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's such a shame you can't see which finger I'm holding up."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross and Rachel leave.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Wine?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Please. [Ryan pulls the cork with his teeth and spits it into Phoebe's mits.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Oh, I spilled some."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I got it. [Wipes it up with her mits.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "[Puts his hands over Phoebe's ears.] I must tell you, you look beautiful tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Sorry. You look beautiful."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh."
+  },
+  {
+   "t": "direction",
+   "text": "[They start to kiss. They try to get each other's shirts off but can't get the buttons undone.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You know what, that's it, that's it. [She rips off the mits, Ryan follows her lead.]"
+  },
+  {
+   "t": "direction",
+   "text": "[They keep kissing and start scratching each other. Ross enters, takes one look, and goes right back out the door.]"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Richard and Monica are in bed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Monica, wake up. Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "I thought of a thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Yeah. I have to sleep, have to, on this side of the bed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No honey. You have to sleep on this side of the bed because I have to sleep on this side of the bed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Or so I would have you believe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No. Big deal, so you have a side of the bed, everybody has a side of the bed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Hey come on, you haven't heard my reason yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Alright, go on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Ok, I have to sleep on the west side because I grew up in California and otherwise the ocean would be on the wrong side."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God, you're a freak."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Richard",
+   "text": "Yeah. How 'bout that."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Phoebe, Rachel, Ross, and Ryan are there. Ryan is in uniform, getting ready to leave."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So uh, Ryan, were you shipping off to?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "I really can't say."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So do you have like any nuclear weapons on board?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "I can't say."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well do you get to look through one of those like, those periscope thingys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "I'm sorry, but I can't say."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow, it, it's neat learning about submarines."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "I better get out of here, I'm gonna miss my flight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, I'll walk you out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Bye Ryan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Pleasure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It was nice to meet you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Take care."
+  },
+  {
+   "t": "direction",
+   "text": "[Phoebe and Ryan walk outside.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So do you uh, think we can get you one of those uh, uniform things?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You like that do ya?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'll make some calls. [Runs off.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok."
+  },
+  {
+   "t": "direction",
+   "text": "[Outside with Phoebe and Ryan.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Can you believe how we spent our two weeks together?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know. We didn't do any of the romantic things I had planned, like having a picnic at Central Park and ya know, coffee at Central Perk. Oh I just got that. [They kiss.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ryan",
+   "text": "Taxi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Bye you. [Ryan's cab drives off. As Phoebe is going back in, she sees the Central Perk sign in the window and laughs.]"
+  },
+  {
+   "t": "direction",
+   "text": "CLOSING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Rachel is closing. Ross walks in in a uniform."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh I'm sorry, we're clo-... Hey sailor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Is this what you had in mind?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'll say."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross picks her up.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm shipping out tomorrow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well then uh, we better make this night count. [He starts to carry her out.] Oh wait, I forgot to turn off the cappucino machine. [He carries her over to turn it off.] Anchors away. Oh no no, my purse, my purse, my purse, my purse, my purse, my pu rse. [He carries her to the counter to pick up her purse.] Oh, you know what. I forgot to turn off the bathroom light."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Alright you know, why don't I just meet you upstairs. [Drops her on the couch and walks out holding his lower back.]"
+  },
+  {
+   "t": "direction",
+   "text": "END"
+  }
+ ]
+}

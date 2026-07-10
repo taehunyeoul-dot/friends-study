@@ -1,0 +1,1237 @@
+{
+ "id": "s08e12",
+ "season": 8,
+ "episodes": [
+  12
+ ],
+ "code": "812",
+ "title": "The One Where Joey Dates Rachel",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica and Chandler are entering carrying groceries and find Phoebe already there standing in front of a huge object that has been gift wrapped."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey! I got you a present!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my goodness! Where did you hide it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I got it for your wedding and I ordered it weeks ago, and it finally got here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Pheebs you didn't have to get us anything for our wedding you already sang..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(interrupting) I love it! It's huge!! Let's open it! Open it!! (Monica rips open the paper.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's a Ms. Pac-Man machine!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I didn't know where to put it so I just left it here for now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh well, maybe we can put it in the guest bedroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right. (He goes to push it and it doesn't move.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I kinda like it here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Do you really like it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Are you kidding?! I practically spent my entire childhood at the arcade! This is like-Oh my, this is like my second favorite game!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh really? What was your first?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well I-I really don't remember the name of it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well what did it do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, you just-you put a quarter in and y'know pull-pull some handles and win like a candy bar or something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "A vending machine?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Don't feel bad for me! I won like every time!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Joey and Rachel are there as Ross enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey! Oh, I'm so glad you guys are here. I've been dying to tell someone what happened in the Paleontology department today."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To Rachel) Do you think he saw us or can we still sneak out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Professor Neuman, the head of the department, so...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "They made you head of the department!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I get to teach one of his advanced classes! (Pause) Why didn't I get head of the department? (Goes and gets some coffee.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh! Hey Rach, listen umm..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I got a big date coming up, do you know a good restaurant?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh, Paul's Cafe. They got great food and it's really romantic."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh, great! Thanks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah! Oh, and then afterwards you can take her to the Four Seasons for drinks. Or you go downtown and listen to some jazz. Or dancing-Oh! Take her dancing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You sure are naming a lot of ways to postpone sex, I'll tell ya..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ooh, I miss dating. Gettin' all dressed up and going to a fancy restaurant. I'm not gonna be able to do that for so long, and it's so much fun! I mean not that sitting at home worrying about giving birth to a sixteen pound baby is not fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, y'know what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why don't I take you out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?! Joey, you don't want to go on a date with a pregnant lady."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yes I do! And we're gonna go out, we're gonna have a good time, and take your mind off of childbirth and c-sections and-and giant baby heads stretching out..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(interrupting) Okay! I'll go with ya! I'll go! I'll go with ya."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'll be fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right?"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica is watching Phoebe play Ms. Pac-Man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No. No! Yes! Ahh. Oh, would you look at that Monica? I just knocked off all of your top scores, how sad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, I'm next. (Phoebe starts another game.) Don't! Don't start another game! I said I'm next! Phoebe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I'm sorry. I didn't hear you over all the winning."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler! Phoebe's hogging the game!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Who cares? It's a stupid game."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You only think it's stupid because you suck at it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't suck. It's sucks. You suck."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wait okay, if this game is gonna cause problems between the two of you, then maybe I should just keep it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No! No-no! I love it! It is a great present! In fact, why don't you go home and wait for the thank you card?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why do you want to play this game so bad?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah! It's not like it spits out a Clark bar after every game."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. Phoebe that's it. Come on, get out-out of the chair. Get out! (She goes to move Phoebe, but Phoebe goes limp and Monica can't move her.) Oh come...Phoebe!"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Rachel is getting ready for her date with Joey as there is a knock on the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey? Could you get that? (There is no answer and she goes and opens the door to Joey.) What are you doing here? I thought you were in your room?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, I'm picking you up for our date. These are for you. (Hands her some flowers.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, Lilies. Joey, they're my favorite. Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And, a brownie! (Hands her a bag with the brownie in it.) Well, half a brownie. Actually, it's just bag. It's been a long walk from the flower shop and I was startin' to feel faint so..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh man! This is so great! I actually feel like I'm going on a real date! Although, I have a hint of morning sickness, and I'm wearing underwear that goes up to about...(She snaps the waistband on her underwear that is just slightly below her breasts)...there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey come on now, this is a real date. Uh, so...nice place you got here. Foosball, huh? Pizza box. Oh, a subscription to Playboy, my kind of woman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, actually that's my roommate's."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I would like to meet him. He sounds like a stand up guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ah yes, but he's very protective of me so you'd better watch yourself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ah... Hey, so this roommate of yours...is he good looking?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hm-mmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah, it must be tough to keep your hands of him, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(laughs) Yeah, but I'm pretty sure he's gay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No-no-no-no, he's not! No! Why are you trying to ruin the game? Come on!"
+  },
+  {
+   "t": "scene",
+   "text": "N.Y.U, Ross is teaching a class."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "...which brings us back, of course, to Greely's theory of dominance. (The bell rings.) Okay, that-that's all for today. Oh, uh does anyone know where the Freeman building is?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Student",
+   "text": "Yeah, it's the new building on Avenue A."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?! That-that's all the way cross town, I'm supposed to teach a graduate seminar there in ten minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Student",
+   "text": "Ooh, dude. That's not gonna happen."
+  },
+  {
+   "t": "direction",
+   "text": "Ross grabs his things and runs to the door only to be blocked by his exiting students."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Move it! Move it! Move it!! Hey!!! I'm the teacher!!"
+  },
+  {
+   "t": "scene",
+   "text": "The Freeman Building, Ross is entering his new class completely out of breath."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hello. (He throws his jacket towards the coat rack and misses.) I'm sorry I'm a little late. Ah-(Checks his watch)-Whoa! A lot late. Let me start by uh, by introducing myself, I am Professor Geller. (The bell rings.) So to sum up, I'm Professor Geller. Good job today."
+  },
+  {
+   "t": "scene",
+   "text": "A Restaurant, a waitress is taking Joey and Rachel's dinner order."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Now the filet mignon, what comes with that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Waitress",
+   "text": "There's a side of steamed vegetables."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Emmm. Now, instead of the vegetables, is there anyway I can substitute the three-pound lobster?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Y'know what? Bring her both, and I'll have the same. (The waitress leaves.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wow! This is shaping up to be a pretty good date-Oh, I almost forgot. I didn't pay you the rent check."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh whoa-whoa-whoa, no roommate stuff. Okay? We're on a date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. Wow! So I get to see what Joey Tribbiani is like on a date. So do you have any moves?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No! No. Umm, just myself and if they don't like me for-(Laughs.) I'm sorry I couldn't even get through that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I knew it! I knew it. Come on tell me your moves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh alright. Umm, well, okay, I usually start by having a bottle of wine sent to my table from a fan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God. And that works?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well it does when you combine it with, \"This is so embarrassing, I just want to have a normal life!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, you poor little famous man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh okay, how about this one. I was gonna wait until the end of the night to kiss you, but you're so beautiful...I don't think I can."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(looks interested) Oh my God! Wow! That was fantastic, I almost leaned in. I really almost did!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Alright, so...so tell me one of your moves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Alright. So where'd you grow up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's your move? Boy Rach, you're lucky you're hot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Come on, just answer the question!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(exasperated) Queens."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And so were-were you close to your parents?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, with my mom. Yeah, not so much with my dad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know. I guess there's just always been this distance y'know-I mean we both try to pretend it's not there, but it is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(sympathetic) Oh. (Starts rubbing his wrist with her fingers.) It's gotta be rough."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, it is. It's really tough. Y'know sometimes I think-Wow!! Nice move!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "\"Where'd you grow up,\" it's so simple!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thank you! And now if you'll excuse me, I have to go to the rest room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel gets up and heads for the rest room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And now you're watching me walk away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yes I am! Again so simple!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica is entering to find Chandler playing Ms. Pac-Man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You are not going to believe what I did today!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well it clearly wasn't showering or shaving."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I got good. I played this game all day and now I rule at it! They should change the name of it to Ms. Chandler. (Pause) Although I-I hope they don't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait a minute, you stayed home all day and played Ms. Pac-Man while I went off to work like some kind of chump?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uh-huh, and I got all the top ten scores, I erased Phoebe off the board! High five! (Holds up his hand to give Monica a high five, only he can't straighten his fingers.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What is the matter with your hand?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well I've been playing it for like eight hours, it'll loosen up. Come on, check out the scores. Oh, and also look at the initials, they're dirty words."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler, why would you do that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because it's awesome."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You think this is clever?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well y'know, they only give you three letters, so after A-S-S it is a bit of a challenge."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey wait a minute, this one isn't dirty."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It is when you put it together with that one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ah, well if you don't clear this off, you won't be getting one of those from me. But Ben's coming over here tomorrow to play this game, this can't be there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Come on, he won't even know what they mean."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler! He's seven; he's not stupid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Have you talked to him lately?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, look I'm just gonna unplug it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No-no-no, if you unplug it, I'll have nothing to show for my day! It would be like I was at work. (She unplugs it.) No! (And plugs it back in.) Hey look at that! Look at that, it's still there! This thing must have some kind of primitive ROM (Read Only Memory, it's a memory chip.) Chip in it or something!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey you-you got to beat your scores!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "With the claw?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right fine. Fine, I'll do it. I've just got to get this off the screen. Carol and Susan are still upset that you taught him pull my finger."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(smiles) Pull my finger-(Looks at his hand)-My hand is messed up."
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Joey and Rachel are returning from their date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I am not gonna answer that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh come on! Just pick one! Between Monica, Phoebe, Chandler, and Ross if you had to, if you had to, who would you punch?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No one! They are my friends, I wouldn't punch any of them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Chandler?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, but I don't know why. Look at me, I'm having such a wonderful time!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Me too! Hey Rach, can I just say I think this is the best date I ever had!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I never laughed so hard-Did you see the wine come out of my nose?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, I think everyone saw the wine come out of your nose."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I gotta say, I never knew I could enjoy the non-sex part of the date so much."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well that is because you have never been on a date with me before."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Huh. Huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, now don't judge me. I normally wait until my date leaves, but you live here. I'm ripping into this swan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ah! Okay, well then you don't judge me. I'm gonna suck on the cellophane from the brownie I had before. (They both do as they planned.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So tell me, what are Joey Tribbiani's end of the night moves?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ah, well, if I want the girl to kiss me, first thing I do is make my lips look irresistible."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "How do you do that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Now you can't tell anyone, but uh...I put on shiny lip balm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, like a moth to a flame, I'm telling ya. Okay all right, so now you go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, I don't want to tell you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Because it's embarrassing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "More embarrassing than shiny raspberry lip balm?! (Rachel just looks at him.) I didn't say raspberry before did I? All right just-just tell me Rach, just tell me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(laughs) Okay. All right, stand up. (They do so.) Well, when we're at the door, I lightly press my lips against his, and then move into his body just for a second, and then I make this sound, \"Hmmm.\" Okay, I know it doesn't sound like anything, but I swear it works."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(stunned and turned on) Yeah. Why-Yeah, that would work for ya..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, I gotta go to bed. Honey, I had such a wonderful time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh. (She kisses him.) Yeah. (She goes into her room.) Me to. (He then starts to freak out.)"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross is telling Rachel about his class location predicament."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "...you were 50 minutes late to the class, what did you crawl there?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I ran. It was really far, and when did people stop understanding the phrase, \"Get the hell out of my way!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, why didn't you just take a cab?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ugh, between the traffic that time of day and all the one-way streets it'll take me twice as long. Besides, I teach the class three times a week, who am I? Rockefeller?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well you're not gonna be able to keep doing this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well I have to. Okay? If I don't, they'll take the class away from me. And...I already put it in my family newsletter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You've seen it, the Geller Yeller."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Right. Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Besides, I-I think I figured out a much faster route, I'm sure I can make it this time. I just...I just can't be afraid to get a little bit...hit by cars. (He goes to the bathroom as Joey enters.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi! Hey, remember how last night we were talking about that movie Cujo?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah, I still can't believe you haven't seen Cujo. What is wrong with you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Relax! It's not like it's Citizen Kane!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Have you ever tried to sit through Citizen Kane?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah I know it's really boring, but it's like a big deal. Anyway, I was thinking about renting Cujo sometime."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah? All right, let's do it tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well don't you have that big date tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh right!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey Joey, can I ask you something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "After our date last night, did you feel a little weird?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God! You did too? It totally freaked me out, what was that?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know! (Pause) I'm-I'm kinda thinking it-it was the lobster..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah-yeah, the lobster."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, I mean I was up sick all night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah me too, all night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really?! How come we didn't cross paths?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah well that's because uh...I stayed in my room. Yeah, you don't want to look in my hamper."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica is trying to erase Chandler's dirty words while he looks on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, I got that. I'll escape over there. I'll come back over here. All right, come on Ms. Pac-Man. It's got-Right-(She dies.) Well, you're just a little bitch, aren't you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering) Hey, you guys. Listen, I'm sorry that I was hogging the game before-(Sees the top ten list)-Oh my God! Your friends have some unfortunate initials!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "They're all Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Chandler sucks! He couldn't have gotten this good!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I did. (Looks at his still deformed hand) But it came at a price."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But Ben is coming over tonight and he can't see this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh come on, by age seven kids have already seen orgies. (They both look at him.) Was it just me?!"
+  },
+  {
+   "t": "scene",
+   "text": "N.Y.U, Ross's new class, he is entering out of breath."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah!!!! Yes, I made it! I'm on time! (Grabs a bottle of water from a student, takes a drink, and splashes some on his face like the marathon runners do.) Okay, why don't we all uh, (Exhales loudly) open our books to page 23. Where... (Exhales again) Where you will see...a uh...a bunch of uh...red spots. Okay, (Closes his book.) umm, why don't, why don't you all start to read, while I-(Passes out and collapses.)"
+  },
+  {
+   "t": "scene",
+   "text": "A Restaurant, Joey is on his hot date and they're not speaking right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey's Date",
+   "text": "Hey. Are you all right? You seem a little distracted."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No-no! I'm fine. It's just... Hey, can I ask you something? Have you ever looked at someone that you've known for a while and then suddenly...suddenly see them a different way?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey's Date",
+   "text": "You mean like from behind?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. Yeah, that...that's exactly it. You're right. Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey's Date",
+   "text": "Ew, y'know what? One time I saw this guy from behind and he seemed like a totally normal guy and then he turned around and it was Stephan Baldwin!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(deadpan) Ooh! Yeah. So yeah, so you know exactly what I'm talking about."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey's Date",
+   "text": "Totally! Wow! (Pause) Would you excuse me for a sec?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah, sure. (She gets up, walks towards the bathroom, and Joey watches her go.) Ehhh."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, now it's Phoebe's turn to erase Chandler from the board."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God Phoebe, you're on fire!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "One more score to go! You can do it! (Touches her shoulder.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Don't touch me!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Don't touch her!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right! Go left! Go left! Go right!! Go right!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can't!! I can't!! (She dies.) Noooooooo!!!!!!! You son of a bitch!!!!!"
+  },
+  {
+   "t": "direction",
+   "text": "At this point a stream of obscenities burst forth from Phoebe's mouth just in time for Ben and Ross to enter and hear most of it, and in slow motion Ross tries to shield his innocent son from Phoebe's vulgarity."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Phoebe!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh hi Ben-No!! Don't look at the machine! (Covers the screen.)"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Rachel is watching Cujo while Joey returns from his date scaring Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God! Thank God you're home! I'm watching Cujo."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(incredulous) Alone?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes! But what is wrong with this dog?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, did you get to the part where they're trapped in the car and Cujo's throwin' himself at the windshield?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! No! Seriously, what's wrong with the dog?! Wait a minute, what are you doing home so early? What happened to your date?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh uh, it didn't work out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh. Do you want to watch the rest of the movie with me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh uh, okay. Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Y'know, I never thought I'd say this about a movie, but I really hope this dog dies. (Joey brings over a stool at sits on it next to Rachel who's in the big chair.) What are you doing over there? Come sit here, you protect me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh sure, yeah, why not? (Sits on the arm of the chair.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. (Pushes play.) Okay, that's him! That's him! That's Cujo! That's Cujo!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, I know! I know. Yeah, it'll be okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God....What's he gonna do now? I can't watch! (Drags Joey closer to her and cowers into his chest.) Oh. Seriously, how can you watch this? Aren't you scared?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Terrified. (But for a totally different reason.)"
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "N.Y.U, Ross's new class, this time he's actually about to do a lecture."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So is everybody here? I got here a little early myself. Let us begin. Now, the hydrosaurids have been unearthed in two main locations. (He moves to the map and we see why he made it to class on time, he's wearing in-line skates and hasn't taken them off.) Here. (Points to the map, somewhere in the Middle East, then spins on the skates and points to the map.) Here. (China.) Now as for the hydrosaurs..."
+  },
+  {
+   "t": "direction",
+   "text": "He tries to move in front of the class, only goes out of control and rolls into the hall, catching himself on the doorway with his pointer. He then pulls himself back into the room with the pointer, only he jams one end of it between the door frame and the door and breaks the pointer in half."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

@@ -1,0 +1,1268 @@
+{
+ "id": "s02e08",
+ "season": 2,
+ "episodes": [
+  8
+ ],
+ "code": "208",
+ "title": "The One With the List",
+ "lines": [
+  {
+   "t": "direction",
+   "text": "Originally written by Marta Kauffman and David Crane"
+  },
+  {
+   "t": "direction",
+   "text": "Trascribed by Mindy Mattingly Phillips [mmatting@indiana.edu]"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Phoebe, Monica, and Rachel are there, discussing the night before."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Ross kissed me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Oh my god, oh my god, oh my god!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "It was unbelievable!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Oh my god, oh my god, oh my god!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "Ok, all right. We want to hear everything. Monica, get the wine and unplug the phone. Rachel, does this end well or do we need to get tissues?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Oh, it ended very well."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "[getting the wine] Do not start without me. Do not start without me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "Ok, all right, let's hear about the kiss. Was it like, was it like a soft brush against your lips? Or was it like a, you know, a \"I gotta have you now\" kind of thing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Well, at first it was really intense, you know. And then, oh, god, and then we just sort of sunk into it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "Ok, so, ok, was he holding you? Or was his hand like on your back?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "No, actually first they started on my waist. And then, they slid up, and then, they were in my hair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe/Mnca",
+   "text": "Ohhhh."
+  },
+  {
+   "t": "scene",
+   "text": "Ross' apartment. Ross, Chandler, and Joey are there eating pizza."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And, uh, and then I kissed her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Tongue?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Cool."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Joey, Phoebe, Monica, and Chandler are there; Chandler is showing everyone his new computer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "All right, check out this bad boy. 12 megabytes of ram. 500 megabyte hard drive. Built-in spreadsheet capabilities and a modem that transmits at over 28,000 b.p.s."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "Wow. What are you gonna use it for?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "[doggedly] Games and stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "[reading the paper] There are no jobs. There are no jobs for me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "[reading over her shoulder] Wait, here's one. Uh, would you be willing to cook naked?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "There's an ad for a naked chef?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, but if you're willing to cook naked, then you might be willing to dance naked. And then... [rubs his fingers together]"
+  },
+  {
+   "t": "direction",
+   "text": "[Ross enters, distraught.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "Hey, oh, so, um...how'd you make out last night?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That, that is funny. That is painfully funny. No, wait. Wait, yeah, that's just painful"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Wait a minute. I thought last night was great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, it was, but...I get home, ok, and I see Julie's saline solution on my night table. And I'm thinking to myself, oh my god, what the hell am I doing? I mean, here I am, I am with Julie, this incredible, great woman, who I care about and who cares about me, and I'm like, what, am I just gonna throw all that away?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You got all that from saline solution?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "We are talking about Rachel here. You and Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Believe me, I've been dreaming about me and Rachel for ten years now. But now, I'm with Julie, so it's like me and Julie, me and Rachel, me and Julie, me and... [Rachel enters, carrying a tray]... Rachel. Rachel, Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "[to Ross] Hey, you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Good. How are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Good."
+  },
+  {
+   "t": "direction",
+   "text": "[Julie enters.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Hi, honey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi, Julie. [nervous] Hi, Julie. Julie, um, how are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "[uncomfortable] Good, so everybody's here. Everybody's good. So, were you gonna play something, Phoebe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "Oh, well, actually."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "[impatient] Play it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "Ok, all right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, Julie, I didn't know you wore lenses."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "[to Joey] Ssshh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "Ok, um, hi, hello, hi, ok, so, um, this is a song about a love triangle between three people that I made up. Um, it's called, um, \"Two of Them Kissed Last Night\"."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross and Rachel look at each other and then at Phoebe, realizing the song is about their situation.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "[singing] There was a girl, we'll call her Betty, and a guy let's call him Neil. Now I can't stress this point too strongly, this story isn't real. Now our Neil must decide, who will be the girl that he casts aside. Will Betty be the one who he loves truly? Or will it be the one who we'll call Ju...Loolie? He must decide, he must decide, even though I made him up, he must decide!"
+  },
+  {
+   "t": "scene",
+   "text": "Mr. Ratstatter's (RTST) office. Monica is there about a job."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "This is a nice resume. Nice, nice, nice. Muy impressivo."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "So, Mr. Rastatter, what exactly does this job entail? The ad wasn't too clear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Mockolate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "I'm sorry?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Mockolate. It's a completely synthetic chocolate substitute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Ohh."
+  },
+  {
+   "t": "direction",
+   "text": "[He pulls out a piece of Mockolate.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Go ahead. Try a piece. Yeah, we think that Mockolate is even better than chocolate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "All right. Mmm-mmm."
+  },
+  {
+   "t": "direction",
+   "text": "[She tastes it, and obviously hates it.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "[disgusted, trying not to show it] I love how it crumbles. Now see, your chocolate doesn't do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "No, ma'am. Well, anyhoo, we should be getting our F.D.A. approval any day now, hopefully, in time for Thanksgiving. See, the way we look at it, chocolate already dominates most of your major food-preparation holidays: Easter, Christmas, what have you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "[still chewing] Mmm-mmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "But, we're thinking, given the right marketing, we can make Thanksgiving the Mockolate holiday."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Wow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Aren't you going to swallow that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Just waiting for it to stop bubbling."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Yeah, isn't that great?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "[with false enthusiasm] Mmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Well, anyhoo, um, we are looking for a couple of chefs who can create some Thanksgiving-themed recipes. You think you might be interested?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Abso...[swallows hard]...lutely. See, I love creating new recipes. I love Thanksgiving. And, well, now, I love Mockolate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Especially the after taste, you know, I'll tell ya, that'll last ya till Christmas."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Monica and Phoebe are there. Monica is suggesting Mockolate recipes to Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "How about Mockolate mousse?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "It's not, it's not very Thanksgiving-y."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Ok, how about pilgrim Mockolate mousse?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "What makes it pilgrim?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "We'll put buckles on it."
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel enters.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Did uh, Ross call?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "No, I'm sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Why didn't he call? He's gonna stay with Julie, isn't he? He's gonna stay with her and she's going to be all, \"Hi, I'm Julie, Ross picked me, and we're gonna to get married, have a lot of kids and dig up stuff together.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "No offense, but that sounds nothing like her."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's apartment. Ross is up in arms about the Rachel/Julie situation."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know what to do. What am I gonna do? I mean, this, this is like a complete nightmare."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "Oh, I know. This must be so hard. Oh, no. Two women love me. They're both gorgeous and sexy. My wallet's too small for my fifties, and my diamond shoes are too tight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, here's a thought, Ross. [reaches for the computer]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "Don't touch the computer. Don't ever touch the computer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ross, listen. I got two words for you. Threesome."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross gives him an insulted look.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "Ok, all right, look. Let's get logical about this, ok? We'll make a list. Rachel and Julie, pros and cons. Oh. We'll put their names in bold, with different fonts, and I can use different colors for each column."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Can't we just use a pen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "No, Amish boy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ok, let's start with the cons, 'cause they're more fun. All right, Rachel first."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know. I mean, all right, I guess you can say she's a little spoiled sometimes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You could say that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And I guess, you know, sometimes, she's a little ditzy, you know. And I've seen her be a little too into her looks. Oh, and Julie and I, we have a lot in common 'cause we're both paleontologists, but Rachel's just a waitress."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "Waitress. Got it. You guys wanna play Doom? Or we could keep doing this. What else?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, her ankles are a little chubby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "Ok, let's do Julie. What's wrong with her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "[long pause] She's not Rachel."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Monica has made food for Phoebe and Rachel to taste."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Ok, this is pumpkin pie with mockolate cookie crumb crust. This is mockolate cranberry cake, and these are mockolate chip cookies. Just like the Indians served."
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel takes a bite.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Oh my god."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Oh my god good?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Oh my god, I can't believe you let me put this in my mouth."
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel runs to the sink to spit it out.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "Oh, oh sweet Lord! This is what evil must taste like!"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's apartment. Chandler is on the phone with a computer hotline."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "I'm telling you this thing won't print. Yes, I pressed that button like 100 times. You know, for a hot line you are not so hot. What? What is that in the background? Are you watching Star Trek?"
+  },
+  {
+   "t": "direction",
+   "text": "[Ross enters with a melancholy look.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "[to Ross] Hey, so how'd it go with Julie? Did you, did you break her heart?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes, it was horrible. She cried. I cried. She threw things, they hit me. Anyway, I did the right thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "[in phone] So, Spock actually hugs his father?"
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel enters.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Hey, do you guys have...[sees Ross, pauses]...hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "[sees his coat on] Where you goin'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I uh, I just got back from uh, from Julie's."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "[dejected] Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, no, uh, it's not what you think. It's um the other thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Well, what's the other thing, what do I think?"
+  },
+  {
+   "t": "direction",
+   "text": "[Joey is looking at Rachel, smiling, and gesturing his head towards Ross.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, uh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "He broke up with Julie. Well, go hug her, for god's sakes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really. It's always been you, Rach."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross and Rachel hug.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Oh, god."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey/Chan",
+   "text": "Ohhh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Oh, oh, this is good, this is really good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know, I know, it's, it's almost...[turns around, sees Chandler and Joey] What do you say we go take a walk, just us, not them?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Let me get my coat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok. No, hey, whoa, whoa, I'll get your coat."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross leaves.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Ok, he's goin' to get my coat. He's goin' to get my coat. Oh my god, you guys. I can't believe this. This is unbelievable. [notices Chandler's computer screen] What's that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "[nervous] What? Nothing."
+  },
+  {
+   "t": "direction",
+   "text": "[Chandler closes up the laptop computer screen.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "What's that? What? I saw my name. What is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "No, no, see? See? [the printer starts to run] Hey, it's printing. [to Joey, rattled] Hey, it's printing!"
+  },
+  {
+   "t": "direction",
+   "text": "[Chandler rips off the sheet of paper from the printer.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Well what is it? Let me see."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross walks back in, Rachel's coat in hand.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, someone order a coat?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Ross, Chandler wrote something about me on his computer and he won't let me see."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "He won't? [remembers what it is] He won't! Because, isn't that, isn't that the, the short story you were writing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "Yes, yes it is, short story, that I was writing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "And I'm in it? Then let me read it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan, Joey, Ross",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Come on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, uh, why don't you read it to her?"
+  },
+  {
+   "t": "direction",
+   "text": "[Ross and Chandler stare angrily at Joey, who thinks he has come up with a good idea.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "[through gritted teeth] Alright. [clears his throat] \"It was summer, and it was hot. Rachel was there. A lonely gray couch. 'Oh, look,' cried Ned, and then the kingdom was his forever. The end.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's it? That's all you wrote? You're the worst writer in the whole world."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "All right, you know what? This isn't funny anymore. There's something about me on that piece of paper and I want to see it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, you don't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "All right, you know what, that's fine. If you guys want to be children about this, that's fine. I do not need to see it. [Rachel grabs the paper and runs across the room, reading it to herself.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "What is this? Ross, what is this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "Good luck."
+  },
+  {
+   "t": "direction",
+   "text": "[Chandler and Joey leave quickly.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok, just, just remember how crazy I am about you, ok?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Kind of ditzy? Too into her looks? Spoiled?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Now that's a little spoiled. He was supposed to type \"little\", the idiot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Just a waitress?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, that, that was, I mean, as opposed to uh, the uh, ok. Is this over yet Rach?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Oh! I do not have chubby ankles!"
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel leaves, and Ross follows her into the hall.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, no, wait, ok, ok, look at the other side. Look at Julie's column."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "She is not Rachem. What the hell's a Rachem? Is that some stupid paleontology word that I wouldn't know because I'm just a waitress."
+  },
+  {
+   "t": "direction",
+   "text": "[She goes into her apartment and slams the door.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, Rach, come on. Rach! Rach, no, no! She's not Rachel, she is, she is not, Ra--Rachel?"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Chandler, Monica, Joey, and Phoebe are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "My diary! My diary, that's brilliant. I should have told her it was my diary, she never would have made me read her my diary."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "You know, that's true. You'd be a great person to have around the day after an emergency."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "I... I cannot believe Ross even made this list. What a dinkus."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, cut him some slack. It was Chandler's idea."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "Oh good, I was hoping that would come up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "This was your idea?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "What were you thinking?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "[squirming] All right, let's get some perspective here, ok? These things, they happen for a reason."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Yeah. You!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "All right, Pheebs, back me up here, ok? You believe in that karma crap, don't you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoe",
+   "text": "Yeah, by the way, good luck in your next life as a dung beetle."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Rachel is sitting on the couch, eating candy. It is raining out. Ross climbs up the fire escape and is knocking on the window."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rach! Whoops! Rach, hey, open up, please!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "[coldly] When somebody does not buzz you in, Ross, that means go away. That doesn't mean please climb up the fire escape."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I just wanna read something. It's your pro list."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Not interested."
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel closes the drapes over the window, goes into her bedroom and closes the door.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "[reading his list] Ok, ok, number one: The way you cry at game shows. Number two: how much you love your friends. Number three: the way you play with your hair when you're nervous. Number four: how brave you are for starting your life over. Number five: how great you are with Ben."
+  },
+  {
+   "t": "direction",
+   "text": "[Monica, Chandler, Joey, and Phoebe enter, confused.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Number six: the way you smell."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "[opens the drapes] Hey, Ross! What are you doin'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, Joey. You wanna open the window?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, yeah, I do."
+  },
+  {
+   "t": "direction",
+   "text": "[He opens the window, Ross comes in, soaked.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "What are you doing out there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I am, uh, I am..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Oh, you must be freezing. You know what you need? How about a nice steaming cup of hot Mockolate?"
+  },
+  {
+   "t": "direction",
+   "text": "[Ross runs to Rachel's bedroom, knocking on the door.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rach, come on, open up. Rach, come on, come on, Rach. You got to give me another chance."
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel opens the door.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "That's what I said."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chan",
+   "text": "Look, maybe we should go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "No, you guys, you really don't have to go, we're done talking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rach, come on, look, I know how you must feel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "[near tears] No, you don't, Ross. Imagine the worst things you think about yourself. Now, how would you feel if the one person that you trusted the most in the world not only thinks them too, but actually uses them as reasons not to be with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, but, but I wanna be with you in spite of all those things."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Oh, well, that's, that's mighty big of you, Ross. [to the others] I said don't go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You know what? You know what? If, things were the other way around, there's nothing you could put on a list that would ever make me not want to be with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "Well, then, I guess that's the difference between us. See, I'd never make a list."
+  },
+  {
+   "t": "direction",
+   "text": "[She closes the door in his face. Ross walks sullenly back to the couch and sits down. A moment of silence ensues.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "[quietly] I never know how long you're supposed to wait in this type of a situation before you can talk again, you know? [Ross stares blankly at him] Maybe a little longer."
+  },
+  {
+   "t": "scene",
+   "text": "Mr. Ratstatter's office. Monica is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Now, in some of these recipes, the quantities may seem just a little unusual, uh, like these coconut mockolate holiday nut bars. I've indicated four cups of coconut, and four cups of crushed nut, and only, uh, one tablespoon of mockolate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Doesn't matter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Our FDA approval didn't come through. Something about laboratory rats."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Oh, gosh, I'm sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Yeah, well, anyhoo, here is your check. [hands it to her] Thank you for all the trouble you went through. Um, listen, you didn't eat a lot of it while you were cooking, did you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Well, uh, I ate some."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Oh, some, that's fine. Some is fine. Some is not a lot. So, it doesn't burn when you pee, does it?"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Monica and Rachel are there."
+  },
+  {
+   "t": "direction",
+   "text": "phone rings"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Hello?"
+  },
+  {
+   "t": "direction",
+   "text": "[Ross is at his apartment.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rach",
+   "text": "[to Monica] Is that him again? Tell him I'd come to the phone, but my ankles are weighin' me down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "[to Ross] Listen, I... I don't think this is the best time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, can, can you do something for me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Sure, what? Ok, ok. [hangs up the phone] [to Rachel] Music?"
+  },
+  {
+   "t": "direction",
+   "text": "[Monica turns on the radio.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Radio",
+   "text": "The next one's dedicated to Rachel from Ross. Rachel, he wants you to know he's deeply sorry for what he did and he hopes you can find it in your heart to forgive him. (With or Without You plays)"
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel seems touched. She pauses for a moment, then picks up the phone and starts to dial. Cut to Ross at his apartment.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Radio",
+   "text": "Uh, we've just gotten a call from Rachel, and she told us what Ross did. It's pretty appalling, and Ross, if you're listening, I don't wanna play your song anymore. Why don't we devote our time to a couple that stands a chance? Avery, Michelle's sorry she hit you with her car and she hopes you two will work it out."
+  },
+  {
+   "t": "scene",
+   "text": "Mr. Ratstatter's office. Monica is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Hi, thanks for coming in again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Oh, not at all. I have no morals and I need the cash."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "It's like I'm lookin' in a mirror. Anyway, they're called \"fishtachios\". They taste exactly like pistachios, but they're made primarily of reconstituted fish bits. Here, try one. You're not allergic to anything, are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mnca",
+   "text": "Cat hair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rtst",
+   "text": "Oh, sorry."
+  },
+  {
+   "t": "direction",
+   "text": "END"
+  }
+ ]
+}

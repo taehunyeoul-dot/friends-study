@@ -1,0 +1,1450 @@
+{
+ "id": "s03e15",
+ "season": 3,
+ "episodes": [
+  15
+ ],
+ "code": "315",
+ "title": "The One Where Ross and Rachel Take A Break",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Joey is taking a jar of olives out of the fridge."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to Monica) Hey, how much will you give me to eat this whole jar of olives?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I won't give you anything, but you'll owe me 2.95."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Done."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering) Hey. I need an atlas! I need an atlas!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why? (in a motherlike tone) Do you have a report due?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I have a date with this diplomat I met while I was giving free massages outside the UN and, I don't know where his country is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, let's start with the free messages outside the UN."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh!! That's my new thing. I figure bodies at peace, make peace."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow! You might just get the first Nobel prize in rubbing. So what country is this guy from?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ick-neck-tree-anis..... There's a 'g' in there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Where's that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "In your atlas!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't have an atlas."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, but wait I do have a globe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hold on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So Pheebs what's this guy like?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, well he's very dashing, y'know, and umm, very, very sophisticated, and he doesn't speak any English, but according to his translator, he totally gets me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "'Kay, here you go. (Hands her this tiny little globe.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What is this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's a globe and, a pencil sharpener."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe puts the globe right up next to her eye to try and find the country."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering) Hey, does anybody need anything copied? I'm going down to the Xerox place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, no thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay listen, just give me anything I can make two of."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, if you don't have anything to copy, why are you going down there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, are you just going down there to gawk at that hot girl with the belly button ring again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah! You wanna come?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "The Xerox place, Chandler and Joey are waiting in line."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Come on Chloe! Finish up with your customer first. Come on Chloe! Come on Chloe!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Issac",
+   "text": "(to Chandler and Joey) Can I help you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uh-oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, y'know what, we're having second thoughts about our copying needs. And we'll need a little more time to think about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Issac",
+   "text": "Chloe, switch with me, there's some guys here that got a crush on you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to Joey) Okay, that hurt us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "Hi guys. I haven't seen you since this morning."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well ah, ........y'know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "Hey, what are you guys doing tomorrow night?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Both of us? (points to Chandler and himself)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "Maybe. Does that scare ya?"
+  },
+  {
+   "t": "direction",
+   "text": "They both start laughing. They look at each other, stop and step apart a little bit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "Relax. It's just Issac's D.J.-ing at the Philly. You should come."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "We'll be there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "Great. I'll ah, see ya then."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, rock on. (Does the 'Hang 10' sign, then hides his face in shame.)"
+  },
+  {
+   "t": "scene",
+   "text": "A Street, Phoebe is walking along with the diplomat (Sergei) and his translator (Mischa)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sergei",
+   "text": "(something in Russian or Polish)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "He's says, 'Walking with you makes this strange city, feel like home.'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Me too. Although this city is my home, so. So that's dumb what I said, don't tell him I said that. Umm, you make something up. (Mischa does so and Sergei kisses her hand.) Nice, (to Mischa) thank you. This is me. Here."
+  },
+  {
+   "t": "direction",
+   "text": "Sergei goes up to her at her door and says something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "(leaning in) Your eyes are very pretty."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to Mischa) Thank you, very much! Oh! (to Sergei) Thank you!"
+  },
+  {
+   "t": "direction",
+   "text": "Sergei says something and leans in to kiss her, but just as he's about to...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "(leaning in) He would like to kiss you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to Mischa) Okay, y'know what, you don't have to do that now. (Mischa translates that to Sergei) No-no-no-no!! Not him, you don't! (Mischa tells Sergei he can proceed and steps away) Well the moment's over."
+  },
+  {
+   "t": "direction",
+   "text": "Sergei says something and kisses her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "Oy!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Phoebe is showing Monica where Sergei's country is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(pointing to the globe) See there it is right there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow! It's small."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. But Sergei said it took the Germans six weeks to get all the way across it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So you had fun, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. Except for, y'know when you're on a date and you're getting along really great but the guy's translator keeps getting in the way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe and Monica",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What is ah, Rach in her room?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh no, she's still at work, but she told me to tell you to call her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh what?! Is she gonna cancel on me again?! How can she do this? Doesn't she know it's our anniversary?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right ah, Ross, this is the extent of my knowledge on the subject. (holds up a notepad) Call Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What's that on the bottom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh that's my doodle of a ladybug, with a top hat. (to Phoebe) She's fancy."
+  },
+  {
+   "t": "direction",
+   "text": "Ross calls Rachel"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(answering her phone at work) Hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, honey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, what's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, there was a disaster in shipping and I've got to get this order in. Honey, I'm so sorry, but it looks like I'm gonna be here all night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What, do you, well umm, oh how about I come up there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No-no-no, no, honey please, I've got, I've just have so much to deal with."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to kitchen.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to Monica) Anyway, I'm going out with Sergei again tonight, and um, could you come and be the translator's date? So that when we, it's time for our alone time, you two could split off. Y'know, he's really, he's kinda cute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, well kinda cute, like really kinda cute, or kinda cute like your friend Spackel Back Larry?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, don't call him that! His name is Spackel Back Harry!"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler and Joey are sitting on the big couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, y'know what, maybe we should get going. I mean what time did Chloe say we should be there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, 10:30."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What time is it now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "4:30."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah all right, so we'll hang out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. Hey, remember when she brought up that thing about the three of us?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes. Vividly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "She was kidding about that right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, I-I-I think so. (Pauses and thinks about it for a second) Yeah, I-I think so..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "God, that would be weird it that situation presented itself tonight, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah. Yeah, I mean what, what would we do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Dude, I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "She was kidding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "She was.... But y'know what, just in case, maybe we should come up with a set of ground rules."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, for sure. Okay. Probably want the first thing to be, never open your eyes. Y'know, because you don't want to be doing something and then look up and see something you don't want to be seeing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah. Good call, nice one. Hold it!! Hold it! What if me eyes are closed, and, and my hand is out there.... (holds his arm out and pretends to grab something with his hand.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ah!! Okay! Eyes open at all times! Oh, hey, how do we decide where we... (clears throat) y'know each would, (clears throat again) y'know (pause) be?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Right. Right. Well ah, y'know we could flip for it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I guess, but what's like heads and what's tails?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well it you don't know that, then I don't want to do this with you."
+  },
+  {
+   "t": "scene",
+   "text": "Rachel's office, Rachel and a co-worker (Sophie) are dealing with the crisis."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on the phone) No, no, no, I'm looking at a purchase order right here and it clearly states that we ordered the Rivera bikini in a variety of sizes and colours. And.... (listens) What does it matter, what I'm wearing?! Can I please speak to your supervisor? (listens) Thank you. (to Sophie) We're holding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering, carrying a basket) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(startled) Oh!! My God, what are you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well you said you couldn't go out so.... (pulls the cover off of the basket)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sophie",
+   "text": "You brought a picnic, oh, what a boyfriend. That's it, on Monday I start wearing make-up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross honey, this is very nice, but, but I-I got a crisis."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, but I got cous-cous!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Honey, honey, I'm sorry, I know it's our anniversary but I told you on the phone I don't have time to stop."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, you don't have to stop, I'm invisible, I'm not here. (lights a candle)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But I don't, hmm... (on phone) Oh, who approved that order?! (listens) Well there is no Mark Robbinson in this office. (to Sophie) Get me Mark on the phone!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sophie",
+   "text": "I love Mark. (to Ross) Do you know Mark?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, let me just check that with what I got here, all right see 038 is not the number for (Ross starts making a lot of noise with a handheld pepper grinder) this store, 038 is Atlanta. And I...(stops and looks at Ross)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(stopping grinding) Pepper?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(angrily) None for me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay sorry, whew."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm sorry, as I was saying the store number is wrong, and I'm sorry but that's... (notices a fire that Ross's candle has started) Oh my God!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(putting out the fire with a squeeze bottle of water) Okay, that's a fire. Oh yeah. Oh yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on phone) Excuse me, I'm sorry, I'm gonna have to call you back, I've got a Schemp in my office. (hangs up) (to Ross) What are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm sorry. But ah, hey, oh, somebody's off the phone, how 'bout a glass of wine by the fire, I could get it going again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross you're not listening to me, I don't have time to stop."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Come on Rach, you don't have what, ten minutes?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't have ten minutes!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? (to Sophie) Sophie, does she have ten minutes?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, Ross!!! I told you I don't!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Don't yell at me okay, this is the most I've seen you all week."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Look, I cannot do this right now, okay, I've got a deadline, would you just go home, I'll talk to you later. (storms out)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, but wait..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Good bye!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross starts to pack up the picnic in anger, and throws a three hole punch in the basket."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sophie",
+   "text": "Actually, that's our three hole punch."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Ross is eating the picnic as Rachel comes home from work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi. Look um, about what happened earlier..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, hey, well, I-I completely understand. You were, you were stressed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(throws her stuff down) I was gonna give you a chance to apologise to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "For what? For letting you throw me out of your office?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You had no right coming down to my office Ross. You do not bring a picnic basket to somebody's work! Unless maybe they were a park ranger!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, well excuse me for wanting to be with my girlfriend on our anniversary, boy what an ass am I."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But I told you, I didn't have the time!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, well you never have the time. I mean, I don't feel like I even have a girlfriend anymore, Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wh, Ross what do you want from me? You want me, you want me to quit my job so you can feel like you have a girlfriend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, but it'd be nice if you realised, it's just a job!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Just a job!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross do you realise this is the first time in my life I'm doing something I actually care about. This is the first time in my life I'm doing something that I'm actually good at. I mean. if you don't get that..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, hey, I get that, okay, I get that big time. And I'm happy for ya, but I'm tired of having a relationship with your answering machine! Okay, I don't know what to do anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well neither do I!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Is this about Mark?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(shocked) Oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, it's not, it's not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God. I cannot keep having this same fight over and over again, Ross, no, you're, you're, you're making this too hard."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh I'm, I'm making this too hard. Okay, what do you want me to do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know, I don't know. Urrrgh! Look, maybe we should take a break."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, okay, fine, you're right. Let's ah, let's take a break, (goes to the door) let's cool off, okay, let's get some frozen yogart, or something.. (opens the door)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. (Ross is standing in the doorway.) A break from us."
+  },
+  {
+   "t": "direction",
+   "text": "Ross looks at her, then leaves slamming the door behind him."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "The Philly, Chandler and Joey are talking to Chloe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "And the advances in collating in the past five years, I mean we just got in an X-5000, y'know. The X-5000 makes the X-50 look like a T-71."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler agrees in an absolutely bored way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "(seeing Ross enter) Hey, it's the dinosaur guy. (runs over to Ross) Hi, Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, hi Chloe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "I want you to met some friends of mine. (Introduces him to Chandler and Joey) This guy is my hero, he comes in with some stuff he wants it blown up 400%, we said we don't do that, and he says you gotta. And y'know what, we did it. And now anytime anybody wants 400, we just say 'let's Ross it!'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And that's the only colour that comes in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Issac",
+   "text": "Yo, Chloe, do you have a quarter for the condom machine?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "Oh! (storms off)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, what are you doing here? I thought tonight was your big anniversary dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, little change in plans. Ahh, we're gonna break-up instead."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler and Joey stare at each other in shock."
+  },
+  {
+   "t": "scene",
+   "text": "A Restaurant, Monica and Phoebe are on their dates with Sergei and Mischa."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, and I can also speak a little French. Voulez-vous coucher avec moi ce soir? (Mischa laughs) Why? What did I say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "Well, you just asked if I wanted to go to bed with you tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God! No wonder I get such great service at Cafe Maurice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(laughing and banging her spoon on the table) Knock, knock, knock, knock, hi. Um, could you please tell Sergei that um, I was fascinated by what Boutros Boutros Gali said in the New York Times."
+  },
+  {
+   "t": "direction",
+   "text": "Mischa does so."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You didn't say Boutros Boutros Gali."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "(to Sergei) Boutros Boutros Gali."
+  },
+  {
+   "t": "direction",
+   "text": "Sergei responds."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "He says he was too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Interesting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "(to Monica) So I was wondering...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, ah, before you get all talky again, umm, could you also please tell Sergei that I really like his suit."
+  },
+  {
+   "t": "direction",
+   "text": "Mischa does so, and Sergei complements Phoebe, and says it slowly"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "(to Phoebe, very quickly) Eh, he said, thank you very much, he thinks you look very pretty tonight, your hair, golden like the sun. (to Monica) So you're a chef?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm also thinking about opening up my own restaurant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "Oh, really."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Monica, can I talk to you behind my menu, please. (Behind the menu) What are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, I was having a conversation."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah but, Mischa is so interested in you, that Sergei and I haven't been able to say two words to each other."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What do you want me to do? Just sit here silently while you three have a conversation?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That would be great. Thank you."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Rachel is lying in front of the bay window, and the phone rings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(jumping up to answer the phone) Hello!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mark",
+   "text": "Oh, hi. It's Mark."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(disappointed) Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mark",
+   "text": "What? Is it my breath?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! Sorry, I just thought you were somebody else. Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mark",
+   "text": "Hi. Well, look, I was just gonna leave a message, isn't tonight your, your big anniversary dinner?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. Well, umm....."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mark",
+   "text": "Rach, are you okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on the verge of tears) Yeah, I'm fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mark",
+   "text": "You wanna talk, I mean I can come over?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! Really, no, please, please, that's, that's okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mark",
+   "text": "All right, all right, I'm coming over, and I'm bringing Chinese food."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, yeah, I'm not, I'm not hungry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mark",
+   "text": "It's for me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh. Okay, bye."
+  },
+  {
+   "t": "scene",
+   "text": "The Philly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So what are you gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What can I do? One person wants to break-up, you break-up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, no way! Come on, this is you guys, call her and work it out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh come on, we just had this huge fight, all right, don't I have to wait a while?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, this isn't like swimming after you eat, pick up the phone!!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross goes to call her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know that whole swimming thing is a myth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, tell that to my Uncle Lenny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why? What happened to him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nothing, he's just really believes in that."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Mark is there, opening Chinese food boxes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, and then, we got into this big, stupid fight. I just, it was awful. I told him he treats me like a park ranger, or something, oh and then I told him I wanted to take a break, I don't want to take a break."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mark",
+   "text": "Wow. I'm sorry. Eggroll?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. (grabs an eggroll) And then I called him, and he wasn't there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mark",
+   "text": "Well, then he's, he's probably just, out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, thank you that's very helpful, I'm glad you came over."
+  },
+  {
+   "t": "direction",
+   "text": "The phone rings and Rachel answers it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi! It's me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi! Oh, I'm so glad you called."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really? I've been thinking, this is crazy, I mean don't, don't you think we can work on this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mark",
+   "text": "Hey, what do you want to drink?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Who's that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Nobody."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mark",
+   "text": "Is it okay if I finish the apple juice?"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel mouths 'Shoot!' or something similar."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Is that Mark?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Umm, honey, look he just came over to...."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to The Philly.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah! Got it! (slams the phone down, and walks back to the bar.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "Hey, dinosaur guy, look at you, so sad. Come dance."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ah, that's okay, thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "Hey, you don't have to smile. You just have to dance."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, I don't feel like dancing, I feel like having a drink. Okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "Oh, okay. (to the bartender) Hey, two beers. (sits down next to him)"
+  },
+  {
+   "t": "scene",
+   "text": "The Restaurant, after dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "(to Monica) And the vet said it was time. And so from half a world away, while my Mother held the phone to his ear, I said good bye to my dog,. In seven languages."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh. (to Phoebe) Can I have a tissue?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, yeah, sure. I just hope you, hope you don't accidentally suck it up through your nose and choke on it."
+  },
+  {
+   "t": "direction",
+   "text": "Sergei says something to Mischa."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "(to Phoebe) Sergei, would like to apologise for my behaviour tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, tell him, apology accepted."
+  },
+  {
+   "t": "direction",
+   "text": "Mischa does so."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "(to Monica) Oh, he's unbelievable. I mean for the first time in three years somebody wants to actually want to talk to me, but do you think he would let me enjoy that, no!! (to Sergei) You silly diplomat, why don't you learn some English, Sergei?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Excuse me, but umm, isn't he paying for your dinner?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, the man's dog just died."
+  },
+  {
+   "t": "direction",
+   "text": "Sergei insults Mischa, and they get into a huge fight, in Russian."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mischa",
+   "text": "(to Monica) I have just resigned my post. Would you care to accompany me to the Rainbow Room? I have diplomatic coupons."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It will be my pleasure. (to Phoebe) My guy has diplomatic coupons. Your guy can't even say coupons. (they leave)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sergei",
+   "text": "Uh, (picks up a plate) plate?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Plate! Yes, plate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sergei",
+   "text": "Plate. Plate. Plate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "See, we don't need them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sergei",
+   "text": "(picking up a cup) Plate?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah."
+  },
+  {
+   "t": "scene",
+   "text": "The Philly, With or Without You is playing. (Which is the same song Ross played for Rachel in TOW the List.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Chloe) I like this song."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "Well, you're practically dancing already. Why don't you just do it over here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, no, no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "What? Are you married? 'Cause that's okay."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Rachel is next to the bay window again, Mark has left."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(picks up the phone and calls Ross) Oh, be home, be home, be home, be home, be home, be home. Be home. Be home, be home, be home. Oh, you're not home."
+  },
+  {
+   "t": "scene",
+   "text": "The Philly, Ross is dancing with Chloe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chloe",
+   "text": "Still no smile?"
+  },
+  {
+   "t": "direction",
+   "text": "She kisses him. Ross leans back for a second, and then they both kiss, more passionately this time as U2's With or Without You plays in the background."
+  },
+  {
+   "t": "direction",
+   "text": "To Be Continued......"
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Sergei is teaching Phoebe how to sing American Pie, by Don Maclean."
+  },
+  {
+   "t": "direction",
+   "text": "Both Phoebe and him are singing along and they get to the chorus."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sergei",
+   "text": "(singing) Touchet, touchet, Miss Americccan pie. (stops to correct Phoebe) Ameri-ccan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ameri-can."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sergei",
+   "text": "Ameri-ccan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ameri-can. Y'know it's a very hard language. Let's do it again."
+  },
+  {
+   "t": "direction",
+   "text": "They start singing, and Phoebe covers her mouth at the American part."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sergei",
+   "text": "(to the rest of Central Perk) Everybody!! (In his language, and continues.)"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

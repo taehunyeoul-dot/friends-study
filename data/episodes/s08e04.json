@@ -1,0 +1,1499 @@
+{
+ "id": "s08e04",
+ "season": 8,
+ "episodes": [
+  4
+ ],
+ "code": "804",
+ "title": "The One With The Videotape",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "The Hallway, Chandler and Monica are returning from their honeymoon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wait. Before we go in, I just want you to know I love you. I had a great time on our honeymoon, and I can't wait to go in there and spend the rest of our life together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You're really sticking with the shell necklace huh? (Points to necklace of shells he's wearing.)"
+  },
+  {
+   "t": "direction",
+   "text": "Joey and Phoebe burst forth from his apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! You're back! (Hugs and kisses all around.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi sweetie!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Come on in!"
+  },
+  {
+   "t": "direction",
+   "text": "They grab the luggage and drag it into Joey and Rachel's forcing Monica and Chandler to follow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So how was the honeymoon?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, so much fun. But the best part is, we met this incredible couple on the way back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That was the best part? (To Chandler) Good honeymooning tiger."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, they were really cool. They were on their honeymoon too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "They're terrific, and they live right here in the city."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, can we go call them? Is it too soon to call? I wanna call."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm sorry, we're just kinda excited because we finally have a couple to hang out with."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "A couple? Like two people? Like (points to himself) one (points to Phoebe), two people?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This is different! Greg and Jenny are in a relationship."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, Greg and Jenny yuck! (Angrily) Hi Greg, I'm Chandler this is Monica. Hi Monica, this is Jenny. Hi Jenny. Hi Greg."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Listen, they are really great. If you just got a chance..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Y'know what? Why don't you just give us our souvenirs and get the hell out of here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We really...didn't get a chance to..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You have got to be kidding me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We didn't get anything for anyone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hm-mm! Yeah nice necklace!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That you can have."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "direction",
+   "text": "{Transcriber's Note: Tradition was broken here as there were no commercials immediately after the opening credits, just more show.}"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Ross and Rachel are entering with the rest of the gang already inside."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hello!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Welcome home."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, how was the honeymoon?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It was great! It was great! How about you?! I mean you're having a baby!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Look! I have a sonogram picture!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh great! (Shows them the picture.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ross! It's got your wavy black lines!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, so now that Ross knows can you tell us y'know how it happened? I mean, when did it happen? How many times did it happen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Monica! That's not right! Start with where."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel looks at Ross and gets his approval."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well it happened about six weeks ago, and uh I had just got home from work and Ross was already there 'cause I guess he had been hanging out with Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're welcome buddy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(glaring at him) Yeah, thanks. (Joey nods no problem.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And so I had a lot of work to do so Ross, nice guy that he is, offered to help me out. And then we had a little wine, we got to talking, and the next thing you know out of nowhere Ross comes on to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(laughs) Umm that's...that's a little misleading."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What is?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The lie you just told."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That-that you came on to me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "There's the one!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But you did! I mean, let's be honest."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes let's. Y'know what? Uh, it's-it's not important. What is important is that, is that we're having a baby. And it's not-Doesn't matter who came on to who."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whom. (Everyone looks at him shocked.) That's right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You know you kissed me first."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? What?! You were begging me to kiss you! You-you-you were sending me signals all over the place!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I was sending you signals?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh please. Okay, anyone in this room think that I would send Ross begging symbols, please show of hands. (Ross raises his hand and no one else.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know what?! It doesn't matter! It doesn't matter what you believe! What matters is what happened!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. So these signals Ross, explain this to me, 'cause maybe I need to be more careful. I mean, am I sending you these signals right now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know what? Y'know what? Rachel, just-just drop it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No please, show me how I begged you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I can show you, I have it on videotape! (Stunned silence) It's an expression."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, time has lapsed, Phoebe, Joey, Chandler, and Monica are sitting at the kitchen table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can't believe he taped the two of them having sex!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! You gotta tell a girl before you tape her. Such a rookie mistake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know who has a great video camera?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(nasally) Greg and Jenny?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Do you still wanna call 'em? I wanna call 'em."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Let's call 'em."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! Ask them if they brought their friends any souvenirs!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica goes over and dials their number."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(on phone) Hello? (Listens) Eighth street deli?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, hang up! You get food poisoning just talkin' to that place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(on phone) Uh sorry, wrong number. (Hangs up)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Here you go. (Shows her the number again.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(on phone) Hello? (Listens) (To All) It's the deli again!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right! I'll have a sandwich!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(hangs up) I don't think this number's right!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey and Phoebe laugh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You got fake numbered."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?! People don't do that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh I think we do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "They gave us a fake number? Why? Why would they do that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't know! You were a delight to talk to. You asked all those insightful, great questions."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And you've never been funnier. Joke, joke, joke, you were a hoot!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Y'know what? Don't worry about it, you still got me and Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Excuse me, I don't want Greg and Jenny's rejects."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Rachel won't talk to me! She won't even open the door!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hmm, I wonder why. Pervert!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, listen I am not a pervert!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's like the pervert motto! Yeah! Yeah! They have you raise your right hand, put your left hand down your pants, and repeat that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Filming Rachel is not something I planned. Okay look, here's what happened, and Joey you-you can back me up on this. All right, about-about a month and a half ago I came to you with a problem? Umm, a personal thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Personal thing? What personal thing? I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "About...about sex? (Joey looks at him confused) That I hadn't had sex in months?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(laughs) Yeah I knew what you were talkin' about."
+  },
+  {
+   "t": "direction",
+   "text": "Six Weeks Earlier"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Joey is reading a cereal box as Ross enters wearing the red sweater."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Do you have a minute? I'd like to talk to you about something I'm, I'm really uncomfortable talking about."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure. What? About uh, you showering with your mom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I actually had a topic in mind! I'm, I'm kinda going through a dry spell, sex wise."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whoa, for like months?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Five to be lying, six."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Six months? Whoa that's rough."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I mean it's not all bad. I'm learning to appreciate the uh, smaller things in life. Like the sound of a bird and the color of the sky."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "The sky's blue Ross and I had sex yesterday!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Please, help me! I have a date tonight. It has to go well okay-I'm scared for my health!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. Okay. Umm...Ooh! Oh-oh, I got something. It's this story I came up with, very romantic. I swear any woman that hears it; they're like putty."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really? Well then tell it to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. Now you're gonna want to have sex with me when you hear it, but you have to remember it is just the story."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(sarcastic) I'll try to control myself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. (Clears throat) Years ago, when I was backpacking across Western Europe..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(laughs) You were backpacking across Western Europe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Have a nice six more months Ross! (Starts to leave.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(stopping him) Okay! Okay! Okay. I'm sorry. Please, please, you were in Western Europe and?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I was just outside Barcelona hiking in the foothills of Mount Tibidabo. I was at the end of this path and I came to a clearing and there was a lake, very secluded. And there were tall trees all around. (Whispering) It was dead silent. Gorgeous. (Softly) And across the lake I saw...a beautiful woman...bathing herself...but she was crying..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(intently listening) Why?"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's Apartment, Ross is on his date with Kristen and they're drinking wine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Umm, this is great wine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's from France...In Europe...Western Europe. Y'know umm, a few years ago I actually was backpacking across Western Europe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh-hmm-Wait! It gets better. Um, yeah I was in Barcelona."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "I studied for a year in Barcelona. (Ross is stunned and worried.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Anyway, umm so I was um, I was hiking..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "I love hiking!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(whines) Oh that's great! I was hiking along the foothills of Mount Tibidaybo..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "I think its Tibidabo."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay! Do you wanna tell the story?!"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Joey is standing at the counter as Ross enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whoa! What are you doing here? How did your date go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Great! I'm across the street having sex with her right now. Your story sucks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! Look, if it didn't work it's because you didn't tell it right! Show me how you did it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No! No, I don't...don't want to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "How long since you've seen a girl naked?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I was backpacking across Western Europe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm not feeling it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I was just outside Barcelona, hiking..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No! No! No Ross! I'm not hot! Are you hot?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's been six months! I'm always hot!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well you're not selling the story! It's like; it's like you don't believe it! Look, I gotta go. I got a date, but try this. Do what I do when I'm preparing for an audition. Okay? I'll set you up with my video camera and you can record yourself and-and see what you're doing wrong."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'll try that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right now... All right, you're all set up. You're good to go. Just hit record. All right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Good luck."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks. And-and hey Joe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Listen, if you ever have any problem with the ladies you know I'll help you out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(trying not to laugh) That means a lot to me man. (Exits.)"
+  },
+  {
+   "t": "direction",
+   "text": "Ross pours himself a glass of wine, hits record, and sits down in front of the camera."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hello! Can I get you anything? Huh? Lens cleaner? Your battery okay? (Rachel bursts in carrying two boxes and Ross jumps up.) Rachel!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thank God you're here! You have to help me! Were you just talking to yourself?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's less embarrassing, yes. Yes I was."
+  },
+  {
+   "t": "direction",
+   "text": "They sit down on the couch, which is in front of the still recording camera."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(voiceover) So when she came in, I got distracted and totally forgot about the camera. [Cut back to the present day.] It kept rolling and recorded everything."
+  },
+  {
+   "t": "direction",
+   "text": "Pause"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, we're gonna need to see that tape. (They rest of them agree.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, definitely."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What a great idea! That will get Rachel to forgive me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Y'know what? This is not fair to her. Let's just forget the tape!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thank you. (Joey mouths to Ross, \"You'll show me right?\") No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're right. (Mouths, \"I know you'll show me, right?)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Joey! No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Loud and clear! (Mouths, \"You'll show me,\" and nods.)"
+  },
+  {
+   "t": "direction",
+   "text": "Ross storms out."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica, Chandler, Joey, and Phoebe are now sitting in the living room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I still don't get why Greg and Jenny would give us a fake number."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Y'know, if they knew what they were doing they probably didn't give you real names either."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, maybe people give out fake numbers, but they don't give out fake names."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah? (To Phoebe) Hi, Ken Adams, nice to meet you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Regina Philange. (Ken and Regina shake hands.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I still don't get it, we didn't do anything wrong."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know! Although, you did tell an awful lot of jokes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I thought you said those jokes were funny. Joke! Joke! Joke!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(rolling her head from side to side) Joke. Joke. Blah! Blah! (Joey and Phoebe laugh.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well maybe it was all of your questions."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What about my questions?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The sheer volume, it was like flying with the Riddler!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, I'm sorry. Was that another joke?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(angrily) Was that another question?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Hey! Is Ross still here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh no Rach, he's gone. But listen, he told us what happened and it does, it sounds like an honest mistake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh really? Well how would you like it if I had sex with you and I taped it? (Joey smiles luridly) Oh forget it! (Ross enters.) Oh there he is now, the father of my child, the porn king of the west village."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, it was accident! Okay? I-I feel bad that it happened, but I swear, I didn't even watch it! Anyway, here. (He takes the tape out of his coat pocket.) I thought you might be more comfortable destroying it yourself. (Tosses her the tape.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thank you. (She sets it on the floor and is about to stomp on it with her shoe when the rest of the gang jumps up and yells simultaneously.) What? (They all yell again.) You don't want to see this do you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hell yeah!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I am not gonna show you this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No! Not the sex part, just the stuff leading up to it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Forget it, she's destroying it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay fine! Fine! We'll just have to think of some other way to put the whole 'Who came onto who,' thing to rest! Come on now, think!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, forget it Phoebe. Okay? It's Rachel's tape and she can do whatever she wants with it. And she wants to destroy it. So, end of story."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I wanna see it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Clearly you don't want people to see this tape. Now I don't want people to see this tape either, but you so badly don't people to see it makes me want to see it. You see?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(confused) Are we watchin' the tape or not?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't want people to see it for your sake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ahh, I don't believe you. I think you don't want them to see you begging me. (Goes to put the tape in the VCR)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rachel, please..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ah, a little preview!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Fine. Fine, but I want the record to show that I tried to take the high road, because in about five minutes I'm gonna be saying...(He laughs and points at Rachel sarcastically.)"
+  },
+  {
+   "t": "direction",
+   "text": "They both sit down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, here we go. (Pushes play.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on tape) Hello! Can I get you anything?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To Phoebe) I'm so happy!"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, the scene is continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on tape) Oh, thank God you're here! You have to help me! Were you just talking to yourself?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "There I am."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're gonna get pregnant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on tape) I screwed up so bad, I told Monica that I would stuff and send all these wedding invitations like weeks ago and I-I..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on tape) You didn't do it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on tape) I-I know-I had put them in...in-in my desk at work and I completely forgot about them until today."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler is shocked and Rachel gets scared of Monica very quickly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(taking Rachel's hand) Sweetie okay. It's okay. Everybody made it to the wedding. I'm fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Kinda hurtin' my hand though."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on tape) (Ross hands her a glass of wine) I cannot believe that I did this. Especially after Monica just went on and on and on about it! (Mimicking Monica) \"Okay Rachel! Here are the invitations Rachel! Now be very careful Rachel! Please, drinking no liquids around the invitations Rachel!\" (She tilts her wine glass above and moves it back and forth across the invitations) Whoa oh! Oh-oh-oh! Oh...oh-oh-oh..."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel hits fast forward. Monica is completely shocked."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Did you do it on our invitations?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(pause) Not on the ones we sent out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, just the ones gave back to us and we had framed! (Slams the framed invitation down onto the table.)"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel stops fast forwarding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on tape) Can you believe this is already happening? I mean it seems like yesterday they just got engaged."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on tape) I know. Hey remember...remember the night they got engaged? How uh, you and I almost..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on tape) Oh, I remember how we almost. Do you think we would've gone through with it? Y'know, if we hadn't gotten caught. Do you think we would've done it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on tape) I mean I...I know I wanted to. I just, I just wasn't sure if you wanted to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on tape) Oh I wanted to."
+  },
+  {
+   "t": "direction",
+   "text": "Ross and Rachel trade looks while watching the tape."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on tape) So we...we both wanted to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on tape) Interesting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on tape) Yeah. (Pause) Anyway umm, it probably worked out for the best."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on tape) Oh yeah, sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, in about ten seconds you're gonna see him kiss me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And in about five seconds you're gonna see why."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(on tape) Ross did I ever tell you about the time that I went backpacking through Western Europe?"
+  },
+  {
+   "t": "direction",
+   "text": "Joey's shocked and everyone else looks at Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, get ready to see some beggin'!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, you came on to Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Now I'm so happy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What are you talking about?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You used the Europe story!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's the magic story you use when you wanna have sex!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "How do you know about that story?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "How do you know about that story?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I heard it from my friend Irene who heard it from some guy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(raises his hand) Some guy!! (Points to himself.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. No, she told me his name was Ken Adams."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(raises his hand and points to himself again) Ken Adams!!"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Rachel is looking at the tape sitting on the counter as Ross enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So uh, apparently people are familiar with the Europe story?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. Listen about that, the whole uh, who came on to who thing really doesn't matter. I mean, I think it would've happened either way. I mean if you hadn't initiated it I-I-I know I would've."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It was an amazing night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It was. It was an amazing night."
+  },
+  {
+   "t": "direction",
+   "text": "Pause"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You think it looked amazing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I uh... I don't know. I mean I...I honestly didn't watch it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, me neither. Yet..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uhhhhhh...that-that may be weird."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, it would be really weird."
+  },
+  {
+   "t": "direction",
+   "text": "Ross grabs the tape and heads for the VCR as Rachel goes over and puts the chain on the door and locks it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Good luck."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Good luck to you."
+  },
+  {
+   "t": "direction",
+   "text": "Ross pushes play."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mind if I mute?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh please. (He does so.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, oh there go the clothes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You are undressing very quickly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Six months Rachel, six months."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross and Rachel",
+   "text": "Ah. (Pause) Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey. We-we look...we look pretty good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's what I was gonna say."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh nice tan!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thank you! I had just gone to the beach that weekend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ah...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Have you been working out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I have been working out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really? Wow, this is so much better than I..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross and Rachel",
+   "text": "Ohh! Ew!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh that's not pretty."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, make it stop!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh no!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Make it stop!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Have to make it stop!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No!!!"
+  },
+  {
+   "t": "direction",
+   "text": "They both get out of the chair and run for the VCR."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica and Chandler have gone through the phone book and found Greg and Jenny's number which Monica has just dialed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(on phone) Hello Greg? (Listens) Hi, this is Monica from the plane? Listen, the number that you gave me 853-5... (Listens) (To Chandler) That is their old number! Jenny's been giving it out since they moved!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Jenny! That is so Jenny!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(on phone) Hey listen umm, how would you like to get together? Say next Saturday? (Listens) Okay, how about Sunday? (Listens) Okay umm, the week after that? (Listens) The week after that? (Listens) Y'know what Greg? Y'know what? We are good, interesting, funny people with good questions and if you and your precious Jenny can't see that then... (Listens) January 15th? (Chandler dances.) We'll see you then! (Listens) Okay!"
+  },
+  {
+   "t": "direction",
+   "text": "She hangs up the phone and they hug."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

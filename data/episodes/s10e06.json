@@ -1,0 +1,1666 @@
+{
+ "id": "s10e06",
+ "season": 10,
+ "episodes": [
+  6
+ ],
+ "code": "1006",
+ "title": "The One With Ross' Grant",
+ "lines": [
+  {
+   "t": "dialogue",
+   "speaker": "Produced by",
+   "text": "Robert Carlock and Wendy Knoller"
+  },
+  {
+   "t": "direction",
+   "text": "Final check by Kim"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, everyone except Phoebe is there"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(she enters) Hey..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Pheebs, what's wrong?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I'm just so exhausted from dragging around this... (she shows her ring) HUGE engagement ring!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "OH!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "My God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Congratulations! Wow!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, did he get on one knee, did he have a speech prepared, or (in a tender way) did he cry? (the guys look at him) Yeah, big surprise, I like proposals!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, it was really sweet, and like the most romantic thing ever."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, hey! Well... (he takes his mug to toast Phoebe) Here's to Phoebe, who's found the greatest guy in the world! To Phoebe and... (a bit uncertain) I wanna say Mike? (pause) To Phoebe and Mike!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Whoo!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thank you! (to Rachel) Oh, and I have something for you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Mmh-mmh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's, yes, my little black book. It's got the numbers of all the guys I've dated."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, Pheebs, baby, that's nice but, you know what, I think I'm ok. Why don't you give it to one of your other single girlfriends?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I would, but you're the last one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(angrily) GIVE ME THE BOOK! (she takes it and start reading) Pablo Diaz, Brady Smith, huh, \"Guy-in-van\"?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, my first love!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What does the red X next to Bob Greenmore's name mean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Dead. (everyone is a bit upset) Oh, it's OK, no, he was old, yeah! And he lived a full life, he was in the first wave at Omaha Beach."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, I'm sorry, I should have given you guys my black book when I got married! Although it wasn't so much a book as a... napkin. With Janice's phone number on it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, isn't Jethro Tull a band?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(proud of herself) Oh yes, they are."
+  },
+  {
+   "t": "direction",
+   "text": "OPENING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Monica's apartment"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(he enters) Hey honey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Looking inside the fridge, and we only see his back. Then he closes the door, and we see it's Joey.) Hi sweetie!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Is Monica not here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, then I'll tell you. My agency was bidding for a big account and they got it! It's my first national commercial!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Cool!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, and I don't wanna brag but a lot of the ideas were mine! (silence) Hell, you weren't there? All the ideas were mine!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's great! Hey, can you cast me in it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh... I don't know, I really don't think you're right for the part."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What do you mean? I can do anything, I'm a chameleon! Huh? (he mimes an old man with a beard) I'm old! (then he yawns) I'm tired! (then he mimes someone who's hot...) Hey, I'm hot (...and cold) I'm cold!! Huh?? Come on! What can't I do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "First of all. Bravo. Uh, but I really don't think you're right for this. The part calls for a stuffy college professor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I can do that! (in a deeper voice) \"Hello, I'm your professor. When I'm not busy thinking of important things or... professing. I like to use...\" Oh, what's the product?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Software that facilitates inter-business networking e-solutions?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(after a long pause he starts miming again) I'm cold!"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Charlie is sitting on the couch and Ross enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Charlie) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Guess who's a finalist for a huge research grant! I'll give you a hint, he's looking right at you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Ah, well, unless it's the creepy guy with his hand up his kilt, I'm gonna say congratulations!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I'm so excited, I mean, apparently I beat out hundreds of other applicants, included five guys I went to graduate school with. Not that I'm keeping score or anything... five!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Wow, that's great! So, tell me about the grant!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, ok, it's for 25 thousand dollars. And if I get it, I'll finally be able to complete my field research! And there will be an article about me in the \"Paleontology Review\"! Yeah! That'll be the first time my name is in there, without people raising serious questions about my work!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Wait. Are you talking about the Dewar grant?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Benjamin Hobart is administering that grant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Your ex-boyfriend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, your ex-boyfriend is gonna determine if your new boyfriend gets this grant? Wow, your new boyfriend is screwed!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "No, no, we ended up in great terms. I mean, if anything, I think this could help you. You know what? Why don't we all go out to dinner together, and I can introduce you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, if you think it would help."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Yes, absolutely. I'll call him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok, now, is there anything I can do to... you know, butter him up? Anything he really likes?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Mmh... he does have a pretty serious latex fetish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "We'll see how dinner goes."
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe's apartment. She is packing a few tings into boxes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(looking at Monica entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, you wanna go to see a movie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I told you I had to spend all the day clearing out stuff, so Mike could move in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, well. Now that I'm here I might as well help you with the cleaning and organizing! Just happen to have my label maker!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, it's so hard to get rid of stuff! Did you and Chandler have to make compromises when you first moved in together?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh, Chandler did! What does he want you to give up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "A bunch of stuff. And the worst one... he wants me to get rid of Gladys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Who's Gladys? (Phoebe shows her a horrific painting with a half-a-body girl dummy coming out of the frame. Monica's frightened and she gasps.) Oh! What a tragic loss!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. I really hate to give her up. Oh, I know!! Oh, you should take her!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(faking happiness) Well, I-I-I-I... I don't know..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why, you don't like her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, of course I do. What's not to like! I'll take her in a minute! But, you know, I think that you're giving up too easy, honey. I think that you need to fight for her!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Really? You think?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Absolutely! Yes, you say to him \"I'm sorry Mike I can't live without her, she means too much to me!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, I'll fight for her. Ok! Oh, wait, oh I just realized... if I do that, that means you don't get her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Damn it, I did not think this through!"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Rachel, Joey and Emma are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey you guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh! Any word on casting yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Joe, I told you, you're just not right for the part."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What do you mean? Rach, don't I seem like a professor you'd buy some kind of e-crap from?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm sorry, this sounds like something I'm never gonna be interested in."
+  },
+  {
+   "t": "direction",
+   "text": "Joey (to Chandler): Look, c'mon, please? It's not like I'm asking for some crazy favour. This is what I do for a living. I am a professional actor! (he glances at his watch and sees the time) Oh, man, I'm two hours late for work! (he stands, ready to go). Look, here's a copy of my reels. It's got all the commercials that I've been in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Joe..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Just watch it, and if you don't like it, you don't pass it on to your bosses!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Fine!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thank you. (he sits down)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Work, Joe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Damn it! (he leaves)"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler (to Rachel): What am I gonna do now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Just pass it to your boss!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "He's not right for the part. So if I suggest him, my bosses are gonna think I'm an idiot! And that's something they should learn on their own!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Just tell Joey that you watched the tape and you liked it, but your bosses didn't. Then that way, you're the good guy and they're the bad guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's good! I liked it, they didn't. (he sees Joey out of the window hitting on a girl) Joey, for God's sake, go to work! (Joey runs away)."
+  },
+  {
+   "t": "scene",
+   "text": "A restaurant. Ross and Charlie are waiting for her ex-boyfriend, Benjamin Hobart"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I can't believe I'm about to meet Benjamin Hobart. I've always thought of him as one of the people I'd invite to my fantasy dinner party. Do you think there's any chance he'll bring Christie Brinkley or C3PO?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "(glances over Ross' shoulder) Sorry, looks like it's just him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Charlie! My God, you look absolutely stunning!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I... I am having a good hair day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "So good to see you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Me too. (she and Benjamin are hugging for very long and Ross starts pretending to clear his throat, until they stop)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm ok."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "I'm sorry... (introduces them to each other) Ross Geller... Benjamin Hobart."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's an honor to meet you. I can't tell you how long I've been an admirer of your work, I mean, that Nobel prize, (he thumbs up) whoooo! I mean, I have to tell you that, you're one of the reasons I got into the field."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Oh, well, likewise. Actually, not likewise. I've never heard of you until this morning, but, it's nice to be nice!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Shall we? (they sit down and Benjamin takes Ross' chair)."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "(to Ross) Thank you! (to Charlie). I can't believe that you chose this restaurant! Do you remember the night?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Oh my God, I completely forgot! (they laugh) Oh my God! I can't believe they let us back in this place! (they laugh more, and Ross start laughing too)."
+  },
+  {
+   "t": "direction",
+   "text": "Benjamin (to Ross): You weren't there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, but, it's, you know, it's just a funny image, you know, the two of you, in this restaurant, with... (laughs nervously)tzz-zzz, mmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Ross, why don't you tell Benji about your proposal, while I go to the ladies room?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "So, tell me about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok well, I would like to do a dig in the painted desert."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "M-m."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "See, there are still several areas that haven't been fully excavated."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Break up with Charlie!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Did you just say \"break up with Charlie\"?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Well, yes, and now. Yes I did say it, and no, I didn't not say it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Kind of inappropriate, don't you think?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "I'm sorry. I just haven't seen her for so long! All these feelings are rushing back! I'm starting to realize how much I missed her, and I'm gonna need you to break up with her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Are you serious?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "If you say yes then I'm serious, if you say no then I'm joking!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Joking it is!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica's apartment. Phoebe enters the room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi! Sorry, I'm late."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, how did it go with Mike, is he gonna let you keep the painting?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, he really hates it. But he's gonna let me keep my box of human hair! So you got to pick your battles. But the good news is, Gladys is yours!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow, what's the bad news!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Who's Gladys?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, she's that work of art I made, you know, with the woman coming out of the frame."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(sarcastic) Oh, and Monica gets to keep her? In her house? I am so jealous!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I didn't know you wanted her too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Huh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I mean, sure, of course. But... you already gave that to Monica, so..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You know, I would give her up, for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, I couldn't let you do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But I want to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But I don't want you to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But I insist!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But I insist harder!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Girls, girls, stop, ok? We'll flip a coin. Heads, she's Rachel's, tails she's Monica's. (she flips the coin). Tails! Monica, she's yours!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, that landed in your food!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(sarcastic) No, no, that's ok. You won fair and square. I'm so sad!"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler walks into Joey's apartment"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey Joe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Bad news. I watched the tape and passed it along to my bosses and they weren't interested."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(sounds disappointed) Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(Hands the tape back to him) I'm sorry man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(looks at him suspiciously) But, ehm... you watched the tape?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(sounds nervous) Yeah! I... I... I liked it! (Joey continues to look at him suspiciously) But, ehm... my bosses didn't go for it. Stupid sons of bitches!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(sounds confident) You didn't watch the tape."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(looks surprised) What!? Of course I did!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look, it's one thing not to cast me, but to lie to me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm not lying to you, I watched it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, you lied again! (Rachel comes out of her room and is observing the conversation)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I watched it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Keep going Pinocchio!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(now yelling) (pretending to look shocked) I did!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(yelling back) No you didn't! (turns and goes towards his room)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(following him) I'm telling you, I watched the tape. (Reaches Joey's room and Joey slams the door in his face)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Did you watch the tape?"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler:(In a sarcastic \"of course not\"!-tone) No!"
+  },
+  {
+   "t": "scene",
+   "text": "Interview room. Ross and two other professors (one man, one woman) are sitting on one side of a long desk. Benjamin Hobart is sitting on the other side"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "The selection committee has chosen the three of you as our finalists today. The ultimate decision will be based upon the answers you give to the questions I ask here. I'm gonna start with Dr. Li. Dr. Li, you claim the field is too reliant on the Linnaean taxonomic system. How do you propose to correct this problem?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Li",
+   "text": "Well, I believe that the answers lie in the osteological evidence. I plan to begin there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "(nods) Interesting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Rolls his eyes) I guess!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Dr. Biely, your proposal includes some field work. Where might that take place?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Biely",
+   "text": "Primarily in the Pierre Shale region of South Dakota."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Certainly. Very well. And Dr. Geller, when is my birthday?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(shocked and confused by the question) What? I... I... (Benjamin looks at him as if to say \"What's wrong? Answer the question\")"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Care to venture a guess?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(annoyed) May 12th?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "(looks surprised and un-impressed) That's not even kinda close! (Ross looks around confused) Dr. Li, how many graduate students you'd be needing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Li",
+   "text": "Half a dozen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "I see, and Dr. Biely?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Biely",
+   "text": "Three for excavation and two for analysis."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Certainly. Dr. Geller, which 1965 Shirelles hit was later covered by a popular British invasion band?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(even more shocked) Wha..? I need 6 graduate students."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "No! I'm sorry, we were looking for \"Baby It's You\". Baby It's You."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wha...? Wait, wait, wait, just a minute. None of my questions have anything to do with Paleontology."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "You're right, I apologize. Scratch the last question. Spell \"Boscodictiasaur\"."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(annoyed) um... I've never heard of a \"Boscodictiasaur\"."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Yeah, I just made it up. Spell it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(stares at him angrily) Ok. (determined to spell it correctly) B - O - S ..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "No, it starts with a silent \"M\"."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh come on!!"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's apartment. Chandler and Rachel are talking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can't believe Joey. I hate being called a liar!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But you are a liar."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What did I just say?"
+  },
+  {
+   "t": "direction",
+   "text": "Joey comes out of his room"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You still here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, and I have to say, I am not just hurt. I am insulted. When I tell somebody I did something..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ok whoah-hey... Let me just stop you right there, ok? First, you lied, right? Then, you lied about lying, ok? Then you lied about lying about lying, ok? So before you lie about lying about lying about lying about... lying... (loses count and begins to count the number of 'lyings' in the air but gives up.) (yelling) Stop lying!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why are you so sure I didn't watch this tape?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(very angry) You wanna know wh...? You wanna know why? (goes back into his room)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, this is going well. (Chandler looks worried)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(comes out holding the tape) Here's how I know you didn't watch the tape, ok? (puts it into the vcr) If you had seen what was on this tape, believe me, you would have some comments. Alright, now remember, I got paid a lot of money for this and it only aired in Japan. (presses play and he appears on the TV screen and a TV commercial begins)"
+  },
+  {
+   "t": "direction",
+   "text": "The commercial:"
+  },
+  {
+   "t": "direction",
+   "text": "Joey says \"Ichiban\". It displays a few girls dancing around and Joey fills most of the screen, he puts something blue on his lips and smacks them saying \"Lipstick For Men!\" It goes on to show him playing a guitar and putting on more blue lipstick. In the end he says seductively \"Ichiban... Lipstick For Men\" and \"Sahiko\" and it ends. Chandler and Rachel are speechless."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Yelling at Chandler) And that's how I know you didn't watch the tape! (goes back to his room and slams the door)."
+  },
+  {
+   "t": "direction",
+   "text": "Silence"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "He really is a chameleon."
+  },
+  {
+   "t": "scene",
+   "text": "Monica's apartment. Phoebe enters carrying the horrific 'painting' of Gladys. Monica and Rachel are sitting on the couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(smiling from ear to ear) Well, Gladys say hello to your new home! (she holds out the 'painting')"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(faking happiness) Oh, my!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(surprised by how ugly it is) Wow! (sarcastic) Oh, she's so nice and big! Oh, Monica, where are you going to display Gladys oh so proudly? (looks around for a spot)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(sounds desperate, knowing what Rachel is trying to do) I haven't really settled on a spot yet!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, hey! How about right above the TV? (Points to the spot where her famous French poster is hanging). That way, it will be the first thing that you see when you walk in the door!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(genuinely excited about it) Yeah, yeah! And you can get rid of that French poster."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(offended) I like that poster!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Really? It doesn't have anything coming out of it. Or maybe there is some place for her in your bedroom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(jumps at the chance to make that happen) Oh! There's nothing above your bed!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Impatient with Rachel) Are you still here?"
+  },
+  {
+   "t": "scene",
+   "text": "Ross' office. Ross is pacing and Benjamin enters"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh hi! Hello! Uh, have you come to ask me some more paleontology related questions? Uhm... your grandmother's nickname, perhaps? (Now yelling) Aunt Margaret's pants size?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "I've come here to apologize. I think I may have let my feelings for Charlie interfere with the interview process."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Sarcastic) No! Stop!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Anyway, I've decided to offer you the grant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Skeptical) Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Well... there is just one small... stipulation..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I have to break up with Charlie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Hey, you got one right!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross shakes his head"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're crazy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Crazy, or... romantic?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Crazy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Ooor..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(Yelling) Get out! (Benjamin leaves)"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's apartment."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel enters, checking the mail, then looks up and sees Gladys placed on the barcalounger."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "O-oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(enters from his bedroom) What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, what... is... this...thing... doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I got it from Monica. She sold it to me for a very reasonable price."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, we're not keeping this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But it's an original Buffay..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Alright, fine. You can keep it. As long as you don't mind that she's haunted."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey? what? what? wey! whoo! what? what!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, legend has it Joey, that... she comes alive when you're asleep."
+  },
+  {
+   "t": "direction",
+   "text": "Joey's eyes are twice their size now, and looks nervously from Rachel to Gladys and back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She climbs out of the frame, and then drags her half-a-body across the floor, just looking for legs to steal. (in a spooky, slow voice) And then with her one good hand, she slo-o-owly re-e-a-aches up and turns your doorknob."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "GET THAT LEGLESS WITCH OUT OF HERE!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey leaves for his bedroom, and Rachel grins. She then takes Gladys and enters Monica's apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey! I sold that to Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, why I told him it's haunted. Two can play at this game. (gives Gladys to Monica)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, too late. You can't give it back! (she pushes the painting back to Rachel)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes I can! (pushes her back again)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No you can't. She's yours!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She's yours!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "SHE'S YOURS!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She's yours!"
+  },
+  {
+   "t": "direction",
+   "text": "While they are both pushing the painting towards each other, Phoebe enters"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey! (there's a pause)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She's mine!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She's m-i-i-ne!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She's mine!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She's mine!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You guys! You guys! You don't have to fight over her anymore. (she goes out into the hallway and enters with an even more hideous painting/collage. One of those faceles mannequins heads wearing a blueish dress and orange gloves reaching out into the room. Around the head 3 small dolls are hovering.) Whoever doesn't get Gladys gets Glynnis. (Rachel and Monica are gasping for air at the sight of this monstrous piece of art.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I want Gladys!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She's mine!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She's mine!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She's mine!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She's mine!"
+  },
+  {
+   "t": "scene",
+   "text": "Rachel and Joey's. Joey's home alone, reading a Sports Illustrated magazine when Chandler enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look, I'm sorry I didn't give them your tape. And I promise, next time to submit you whether I think you are right for the part or not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's not the point Chandler. The point is that you lied."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I know. You're right. What's it gonna take for you to forgive me?"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Monica, Phoebe and Rachel are on the couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "direction",
+   "text": "we see Joey and Chandler standing there, and Chandler is wearing the blue Ichiban lipstick!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Excellent!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Now, what do you say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Lying is wrong!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And?... AND?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm a pretty little girl."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I knew it!"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Some time later that day. The group has left and Charlie is there when Ross enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Your ex-boyfriend is insane."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Did you get the grant?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No I didn't, and you want to know why? Because your ex-boyfriend is still in love with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. He wouldn't give me the grant, because I wouldn't give you up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Benji isn't in love with me. I mean, he broke up with me. And besides, he's a very ethical man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really? Is it ethical to ask someone in a grant review, who was the voice of \"Underdog\"?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "I'm sure he was just joking, Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "If you don't believe me, let's go talk to him, okay? I'm telling you, he didn't ask me one paleontological question."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Seriously?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I'm sorry, no. He did ask me one. Uhm... How do you spell Mboscodictiosaur?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Well, if it's like the lake Mbosco in Congo, then M-B-O..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Damnit!"
+  },
+  {
+   "t": "scene",
+   "text": "Benjamin's office. Ross and Charlie are entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Dr. Geller...? Charlie... What are you... what are you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I want you to tell her everything. About the deal you tried to make with me, about the crazy questions you... Wally Cox! That's the voice of Underdog!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Like I tried to tell you in the interview Ross, this grant is not based on your knowledge of pretty useless trivia."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, no, no. Don't do that! I want you to look her in the eyes, and tell her the truth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Benji?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Alright, it's true. I behaved horribly. But it's only because I still love you. And I would do anything to have you back in my life."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Too little, too late, Benji!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "I can't believe this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "I never should have broken up with you. I think about you all the time. I mean, do you ever still think about me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(indignant) No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "I don't know what to say, Benji. This is all so.... romantic."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "or..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "Listen, I know, I may be way out of bounds here, but is there any chance you will take me back?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Maybe..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Sweetie, this conversation is starting to make me a little uncomfortable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "Oh God! I am so sorry, but... (she puts her hand on Ross's cheek) I mean it's... there's so much history between us, you know..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "(puts his hand on Ross's other cheek) I'm sorry too..."
+  },
+  {
+   "t": "direction",
+   "text": "Charlie and Benji both let their hands slide down Ross's face, until their hands meet, and they hold hands."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Benjamin",
+   "text": "I love you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Charlie",
+   "text": "I love you too! (and they start to kiss)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, that's it. WE ARE SEEING OTHER PEOPLE!"
+  },
+  {
+   "t": "direction",
+   "text": "COMMERCIAL BREAK"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's bedroom. Joey's asleep with Hugsy, the penguin right next to him."
+  },
+  {
+   "t": "direction",
+   "text": "There are scratching and squeaking noises coming from the living room, and Joey wakes up, terrified. He pulls his blanket higher. The doorknob is turning."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Gladys?"
+  },
+  {
+   "t": "direction",
+   "text": "The door opens, and there is Gladys, still in her frame though. Joey panics and moves frantically, screaming. Then there is laughing, and the painting is lowered. It was Rachel holding Gladys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ha ha ha, third time this week. Man, this does not get old."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're mean!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, don't be such a baby!"
+  },
+  {
+   "t": "direction",
+   "text": "She closes his door again, and turns around. Then she starts screaming, terrified. There is Glynnis... And Monica holding her up, laughing."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

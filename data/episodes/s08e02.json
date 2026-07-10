@@ -1,0 +1,1474 @@
+{
+ "id": "s08e02",
+ "season": 8,
+ "episodes": [
+  2
+ ],
+ "code": "802",
+ "title": "The One With The Red Sweater",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "The Hotel Lobby, Rachel and Phoebe are at the front desk checking out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Listen y'know what sir? For the last time, I don't care what the computer says, we did not take a bag of Mashuga nuts from the mini-bar and we did not watch Dr. Do-Me-A-Little!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh! Joey uh, were you in our room last night?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No. (Phoebe grabs the receipt and shows it to Joey who gets mad.) I was told the name of the movie would not appear on the bill!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler and Monica enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to the front desk clerk) Hi! We're checking out of the bridal suite."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(depressed) That's right. I'm no longer a bride. I'll never be a bride again. Now, I'm just someone's wife!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And I'm the happiest guy in the world! (Monica goes and sits down in a huff.) Oh honey, come on don't be upset. We still have so much to look forward to!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh yeah, right. (Rolls her eyes.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We got the honeymoon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's not 'til Thursday."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The wedding pictures?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "They won't be ready for weeks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Not the disposable cameras from the tables."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's true! (Happily) I knew I married you for a reason!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'll tell you what, I will go get them developed and you can go home."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "Joey giggles."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What? What did you take a picture of?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nothing! It was something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay Ross has the cameras, has he checked out yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Are you joking? Check out is not 'til noon and he has a good (checks her watch) eleven minutes left."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross has never checked out of a room a minute before he had to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, one time, when we were dating, uh we got a late checkout, he got so excited it was the best sex we ever had. Until y'know, he screamed out Radisson at the end."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, well I'm gonna get Ross, get the cameras, and get them developed. (Joey laughs again.) 32 Joe. You're 32! (Exits)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Front Desk Clerk",
+   "text": "(To Monica) Here's a copy of your bill."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh thanks. (Reading the bill) Champagne, strawberries...Oh my God! I can't believe Chandler ordered porn on our wedding night!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, that's sad. Mashuga nut?"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's Hotel Room, he is letting Chandler in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey. (He sees that Ross is packing all of the hotel toiletries) Soaps? Shampoos? Are you really taking all this stuff?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why not? It's built into the price of the room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah but you don't need-(Picks up something)-What is this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thread!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Score! Where are the disposable cameras?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What disposable cameras?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The cameras? Remember last night I told you to take them?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No you didn't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes! Remember? Right before we cut the cake, I went up to you and I said..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh-oh yeah, you-you came up to me and asked if I could do you a favor, and my Uncle Murray came up to you and handed you a check. And then you said, \"Why do they call it a check? Why not a Yugoslavian?\" (Chandler laughs.) Yeah, then you did that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So you don't have the cameras?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. Sorry man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So? What? What? They're gone! Monica's gonna freak!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I'm sure they're still somewhere here in the hotel. I'll-I'll help you look for them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "In-in three minutes."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler goes into the bathroom, closes the door, and then opens it again right away. Ross looks up and hands him the toilet paper Ross already packed."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Phoebe is entering to see Monica sitting in front of a mound of wedding gifts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Are you gonna open the presents without Chandler?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No! (Pause) But, they're callin' out to me! I mean this little guy (Holds up a small one) even crawled up into my lap. Oh come on, Chandler wouldn't mind if I opened just one present! What do you think it is?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "A little mirror that when you look into it you see yourself as an old woman."
+  },
+  {
+   "t": "direction",
+   "text": "Monica opens it anyways."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "A tiny salt shaker!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ohhh! My God! For tiny salt!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh wow! Okay. Well that was fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Good. Okay, I'm just gonna wait for Chandler to open the rest of them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Whew. Although y'know, this is part of a salt and pepper set. I mean... I guess y'know it may just count as a half a present. What do you think?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well I guess it's okay to open one more if it's part of a set. Y'know, it's probably this one. (Grabs another small one.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Or this one! (She grabs and starts to open the biggest present.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, how are you feelin'? Any morning sickness?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Shh-shh-shh! The guys don't know yet do they?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No! Joey and Ross don't know anything and Chandler still thinks that Phoebe's pregnant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah that's right Chandler does still think I'm pregnant. He hasn't asked me how I'm feeling or offered to carry my bags. Boy, I feel bad for the woman who ends up with him. (Monica looks at her.) After you of course."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Don't worry I promise that you will only have to be pregnant for a few more hours, 'cause I'm going to tell the father today."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, is it someone in this building? Is it that tall guy from the first floor?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ew! No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?! I think he's cute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well then you have his baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Believe me I'm trying."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow. Y'know it is so weird. I mean, you're gonna tell this guy today and he has no idea what's gonna happen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. You're just gonna knock on his door and change his life forever. You're like Ed McMahon except without the big check, or the raw sexual magnetism."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. Uh-huh, I guess it is pretty big news."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Pretty big? It's huge! God, this guy doesn't have a clue! He's just walking down the street thinking, 'I had sex with Rachel Green. I rock!' then bam! He's a father and everything's different."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well it's only different if he wants it to be. I mean, I'm not gonna ask him for anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. Then he still has this huge decision to make. Now he's walking around thinking, 'Do I want to be a dad?' and then bam!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What was that bam?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't. He got...he-he-he-he's hit by a bus."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey Joey, what would you do if someone that you slept with told you that she was pregnant?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(warily) Who called here? Did she sound blond? Huh? Did-did-did she have an accent? I gotta make a call! (Starts to leave) I shoulda never walked into that Sunglass Hut!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh Joey! Joey! No, it's not you! You didn't get anybody pregnant!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh. Why would you scare me like that? What the hell is going on? (Pause.) Is somebody pregnant?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah. That's me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God Pheebs! You're gonna have a baby?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes. Yes I am. Oh my God, I'm gonna have a baby! (Joey and Phoebe hug.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whoa, wait a minute. Who's the father?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You don't know him. It's not important. He wants nothing to do with me or the baby. (She sits down like she's pregnant.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well who is this guy?! Huh? Who is he? 'Cause I will track him down and kick his ass!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "David Lynn."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "David Lynn! David Lynn! David Lynn!! (Exits)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Who's David Lynn?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh some guy from my gym. A little annoying."
+  },
+  {
+   "t": "scene",
+   "text": "The Banquet Room, Chandler is under one of the tables as Ross enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Chandler?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey! Did you find the cameras?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. Did you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes! And that's why I'm under the table. Celebrating."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well I checked in the uh, lost and found, I talked to the manager, no-one's turned them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well this is great. Y'know, those cameras were the only thing that was gonna cheer Monica up today, she's really depressed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Now you guys just got married, why is she so depressed?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All my energy is going into not asking that question. I can't believe I screwed this up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm sorry man. (Formally dressed people start to enter.) Here's a thought. This is the same ballroom. There's a band. There's gonna be plenty of dressed up people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you suggesting we dance our troubles away?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No-no-no, I'm saying we-we buy more of this (disposable cameras) at the gift shop, throw our tuxes back on, and take a few pictures. All we have to do is make sure not to get anybody else's faces."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you serious?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm just thinking about your new bride at home. Okay? Do-do you really want to start your life together by letting her down?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Marriage advice? Really?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm telling you, this looks exactly like your wedding! Aren't these the same flowers?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't know, Monica picked out the flowers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What about the chairs?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "She picked those out too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How about the place settings?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That was her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What did you do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I was in charge of the cameras! Gift shop?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hmm. (They head off to the gift shop.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Rachel is sitting on the couch as Phoebe enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey! Ooh, did you do it yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Not yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, well what are you doing here? Are you about to do it? (Gasps) Is it Gunther?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! Phoebe, it's not Gunther."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thank God, 'cause that hair on a baby..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe the father is not here okay? I haven't told him yet and I don't think I can tell him at all now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know, let me think. I was walking down the street thinking, 'I'm gonna tell the father today' and then bam!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Bus?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, you! Phoebe you freaked me out. You kept saying how huge this all is!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well-well but it is huge."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I know, but I was just thinking about how huge this is for me. I didn't even go to how huge this was going to be for the father."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're thinking about this way too much. Just tell him and get it over with. It's like, it's like ripping off this Band-Aid. (On her arm) Quick and painless, watch. (Rips it off.) Oh mother of...See?"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Obsessive Monica has now opened more of the wedding gifts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Ooh-ooh-ooh! Are we opening presents?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No! No! I shouldn't have even opened these! I mean I-Joey I am out of control!! Joey, you have to do me a favor. No matter what I say, no matter what I do, please do not let me open another present! Okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Give me one more."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. (Hands her one.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering) Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh good, uh you're here. Uh Pheebs? Listen uh sit down. I-I got something I want to say."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right. (She sits down like she's pregnant again.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Umm, now uh... It's a scary world out there, especially for a single mom. Y'know, now I always thought you and I had a special bond so... (He goes to one knee and pulls out a ring.) Phoebe Buffay, will you marry me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God! Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hell yeah! I'll marry you! (She grabs the ring and puts it on.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You can't marry him!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey lady, your day's over! It's my turn!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why?! Why can't she marry me?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can and I will! (Kisses him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She's not pregnant. It's Rachel. Rachel's the one who's pregnant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe I think he would notice if you didn't have a baby in nine months!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's Joey! (Joey turns and looks at her and she mouths 'I love you' to him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(smiles then stops) Now I can't believe it! What? Rachel's pregnant? (The girls nod yes.) Who's the father?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "We don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ohh... I wonder if that dude."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "There's a dude?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Who? Who is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "About a month ago this guy spent the night with Rachel, I didn't see who it was but... (He walks out and closes the door.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Was that story over?"
+  },
+  {
+   "t": "direction",
+   "text": "They follow him and meet him in the hall coming out of his apartment carrying a sweater."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "The guy left this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(gasps) Oh my God! I know who the father is... (She walks into Monica and Chandler's.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "People have got to finish their stories!"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "The Banquet Room, Ross and Chandler are in their tuxes and have started to fake the pictures."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(to another couple) Uh, excuse me? Could you take a picture of us?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman At The Wedding",
+   "text": "Oh! Of course. (Ross and Chandler pose and she takes the picture.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man At The Wedding",
+   "text": "Uh, would you take one of us?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uhh... Yeah sure. (Holds the camera up to his face.) Click!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman At The Wedding",
+   "text": "It didn't click."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I heard it. I heard it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man At The Wedding",
+   "text": "But there was no flash."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman At The Wedding",
+   "text": "Why won't you take our picture?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh yeah. I'll take, I'll take your picture. (He takes the picture with his finger over the lens.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man At The Wedding",
+   "text": "Uh, your finger was covering the lens."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Who are you? Ansel Adams?! Get outta here!"
+  },
+  {
+   "t": "scene",
+   "text": "Outside Central Perk, Rachel and Phoebe are about to go inside."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Look, I feel really bad about how I freaked you out before, so I called the father and asked him to meet you here so you can tell him. Go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? Hey wait a minute! Phoebe, how do you even know who the father is?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I may play the fool at times, but I'm a little more than a pretty blond girl with an ass that won't quit. (She takes the sweater out of her purse.) I believe this belongs to the father of your baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God... Oh, he's in there right now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-huh. Now you can turn around or you can go in there and rip the Band-Aid off. What to you want to do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh, let's rip!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Really? Are you sure?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh Phoebe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, sorry. Yeah. (They go inside to confront the father.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Hey Rach."
+  },
+  {
+   "t": "scene",
+   "text": "The Banquet Room, Ross is taking a picture of a plant, Chandler a fork. The band stops."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why don't you go up on stage. I'll get a picture of you doing the speech."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay. Okay!"
+  },
+  {
+   "t": "direction",
+   "text": "He goes up on stage, mimes like he's giving the speech, and Chandler takes his picture. However, before he gets down everyone starts clinking their glasses for a real speech."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Will the owner of a 1995 Buick LeSabre please see the front desk? Your car is about to be towed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Anxious Wedding Guest",
+   "text": "(rushing up) That's my car!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "A '95 LeSabre?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Anxious Wedding Guest",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "A green LeSabre?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Anxious Wedding Guest",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm sorry, I meant a blue LeSabre."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Anxious Wedding Guest",
+   "text": "Yes! Green-blue!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well go! Go move it! (He runs off.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, you ready for the last picture?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Get ready to run. (Chandler walks over to the new bride.) Congratulations on your wedding. (He grabs her, kisses her, Ross takes the picture, and they both run out.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "So, what's this about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Rachel has something that she wants to tell you and umm, I believe that this is your red sweater."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "No. (Unzips his coat.) This is my red sweater."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh no. Could I get anyone a coffee or...poison? No? Just for me? Okay. (Walks away.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "What's going on Rach?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Nothing! Phoebe kinda made a mistake. But y'know you do wear that sweater a lot, are you involved in some kind of dare?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Y'know, I'm actually glad Phoebe called. (He pulls out a stool and Rachel sits down.) I know we broke up because you thought I wasn't mature enough, but I've really grown up and think we should get back together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, it's just not the right time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "It is the right time. (Takes her hand.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "I'm ready for more."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Tag..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Come on Rach, let's give it another try."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm having a baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Oh. (He drops her hand.)"
+  },
+  {
+   "t": "direction",
+   "text": "Pause"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You can go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Thank you. (Gets up and hurries out.)"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Obsessive Monica has finished opening all the presents. She's ashamed of this, at least, because as someone enters..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(throwing up the last present) I don't know how any of these got opened?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) You opened them all?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know! I know! I am a terrible person! I mean, Chandler is never going to trust me with anything ever again!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh hey! You got my parent's gift! (Holds it up.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah. What is that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I don't know. I think it does something to salami."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe and Rachel enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey! How'd it go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. What-what did Tag say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Tag is not the father! And Joey knows now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I do Rach. I do, and I so happy for you. (They hug.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh wow, you didn't even try to unhook my bra!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So are you ever gonna tell whoever it is?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, I will. I'm just not up for it tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey Rach listen, no matter what this guy says I want you to know you're not gonna be alone in this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Listen I uh... (He takes her hand.) It's a scary world out there especially if you're a single mom. Y'know, I always felt like you and I have this-this special bond. Y'know? So, (gets down on one knee again) Rachel Green will you marry me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Pheebs, give me the ring back!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! Joey, oh you're so sweet. You're so-so sweet, honey. But I'm not, I'm not looking for a husband."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(heartbroken) I understand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Now, if you will excuse me I am going to go and lie down. (Exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can't say that didn't hurt. But I'll take you back Joey Tribbiani."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh yeah. Pheebs, listen about that. I only offered..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh! A Salami Buddy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "There you go!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler and Ross enter with the new pictures."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We're back!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Great! We're hangin' in the kitchen! (She drags him into the kitchen and turns his back to the living room) Let's stay in the kitchen!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's picture time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Now you are going to love these."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(showing her the pictures) Here's a picture of Ross. (Shows another one.) And that's me. (Another one.) And that's me and Ross. (Another one.) Oh-ho, that is a picture of our first kiss as a married couple."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow! That is a great picture!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Eh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah! Oh and interesting because I found the cameras in one of our bags! (Throws them into his chest.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Huh, didn't see that coming."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, so this isn't a picture of our first, but it is a picture of my first kiss with...with this lady. Which by the look on your face I'm sure you'll remember. So we don't need-(Rips the picture)-There's no need to have this picture. How about I take the real pictures and get them developed right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That would be a good idea."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. (Sees the living room.) You opened all the presents without me?! I thought we were supposed to do that together!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You kissed another woman!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Call it even?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay! (They high-five and he walks out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I'm gonna go get these (the floral bouquet he walked in with) in some water."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wait you stole those from these people's wedding?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No-no, I took them from the hotel lobby. Yeah, they think they can charge me for some dirty movie and a bag of Mashuga nuts, they got another think coming. (Starts to leave.) Hey! My sweater! I've been looking for this for like a month!"
+  },
+  {
+   "t": "direction",
+   "text": "He exits leaving a stunned Phoebe and Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica and Phoebe",
+   "text": "Oh my God!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(slow on the uptake) Oh my God!"
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "A Street, Ross walks past Tag wearing the same red sweater."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey! How you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Good! Good, long time no see."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Like your sweater."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh hey, right back at ya."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Oh, it's crazy about Rachel huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. She-Well, she's one crazy lady?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "So whose is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(shows Tag his sweater tag) Umm, I don't some Italian guy. Come on, read your own label. See you later."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tag",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "They separate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "He is so weird."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

@@ -1,0 +1,1394 @@
+{
+ "id": "s04e18",
+ "season": 4,
+ "episodes": [
+  18
+ ],
+ "code": "418",
+ "title": "The One With Rachel's New Dress",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, Joey and Chandler are there as Phoebe enters carrying a drum."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey! Wow, it is true what they say, pregnant bellies look like a drum."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(not amused) Ha-ha. (She sits down on the couch.) No, it's just I'm so pregnant that I-my guitar doesn't fit anymore. So I thought 'til I'm not, I'm just gonna play all my songs on this drum. It sounds really cool!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Listen. Listen. (She starts to play and sing.) Smelly cat, smelly cat, what are they feeding you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow, Pheebs! That sounds great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know! I know, and I've only been playing for like an hour!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alice",
+   "text": "(entering) Phoebe! Phoebe! Hi! Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey! What are you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alice",
+   "text": "Umm, actually, I came down to ask you a big favour."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, well, don't tell me you want to keep more of your stuff in my uterus."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alice",
+   "text": "(laughs) No. No. No. (Sits down.) Okay, now, see, I wanna name the girl baby Leslie, and Frank wants to name one of the boy babies Frank JR. JR."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wouldn't that be Frank the III?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alice",
+   "text": "Don't get me started. (To Phoebe) Anyway, umm, since there are three babies and umm, we both got to put our names in, we would be truly honoured if you named the other boy baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow! That's so great! Oh! Oh! Cougar."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Alice",
+   "text": "You think about it. (Leaves)"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, he and Emily are getting ready to go to the airport."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "I left a bra drying on the shower rod, you don't think your son will think it's yours and be horribly traumatised?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, if mommy can have a wife, daddy can have a bra."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "(checks the clock) Ohh, it's time to go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, no-no-no, see, that-that clock's a little fast, uh, we have 17 minutes. Huh, what can we do in 17 minutes? Twice?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Well that's ambitious."
+  },
+  {
+   "t": "direction",
+   "text": "They kiss but are interrupted by a knock on the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, uh, you can ignore that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "That's Carol with your son!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uhh, believe me when he's older, he'll understand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Carol",
+   "text": "(knocking on the door) Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'll be right there. (He goes over and opens the door to Carol, Susan, and Ben.) (To Ben.) Hello! (To Carol.) Hello! (To Susan.) Hey. Uhh, Emily, this is Carol and Susan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susan",
+   "text": "Hey, it's so nice to finally meet you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Me too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Carol",
+   "text": "Ohh, y'know, Susan's gonna be shooting a commercial in London next week."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susan",
+   "text": "Oh yeah, I'm so excited, I've never been there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Oh, well, I'll show you around."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susan",
+   "text": "That would be great! Also, uh, I was hoping to catch a show so if you can make any suggestions..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Oh, there's tonnes of terrific stuff-I'll go with you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susan",
+   "text": "Ahh!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross accidentally, on purpose, bumps into Susan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look at you two, bonding, making us late for the airport so..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Are you all right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susan",
+   "text": "Oh, he's fine. He's fine. It's just that us getting along is difficult for him, because he doesn't like me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh come on! That's-that's... true."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's erm, Chandler and Joey's, Joey and Chandler are playing foosball as Phoebe enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey! Do we have a baby name yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ugh! No! This is so hard! I went through this whole book (Holds up a book) and found nothing! I want a name that's really like, y'know strong and confident, y'know? Like-like Exxon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, it certainly worked for that Valdez kid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh-ooh, Pheebs, you want a strong name? How about, The Hulk?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, I'm-I'm not sure about Hulk, but I like the idea of a name starting with \"The.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, want a good name, go with Joey. Joey's your pal. Joey's your buddy. \"Where is everybody?\" \"Well, they're hanging out with Joey.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, y'know what, if you're gonna do that, if you're gonna name him Joey, you should name him Chandler. (Phoebe doesn't think so.) Oh, come on! Chandler's funny, sophisticated, and he's very loveable, once you get to know him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh well, hey, Joey's loveable too! But the thing about Joey is, if you need him, he'll be there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, Chandler will be there for you too. I mean, well, he might be a little late, but-but, he'll be there. And he'll bring you some cold soda, if want you need him for is that you're really hot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What do ya say? What do ya say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I, I like the idea of naming him after someone I love, and Joey and Chandler are great names. (They both stare at her.) But, all right, I don't-maybe I'll just name him The Hulk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I knew I shouldn't have mentioned it! That's what I wanted to name my kid!"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's erm, Monica and Rachel's, Monica is cooking and Rachel is getting ready for a date with Joshua."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, Mon, if you were hoping to sleep with Joshua the first time tonight, which one of these would you want to be wearing. (She's holding two frilly, lace nighties.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Y'know what? It really creeps me out choosing other people's sex clothes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Sorry. I'm so exited! I've been waiting for this for months! I got my hair coloured! I got new sheets! I'm making him a very fancy meal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Um-hmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What am I making him by the way?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, you're making him a frieze salad with goat cheese and pine nuts, wild nuts, wild rice, roast asparagus, and salmon au croup."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I thought I was making him filet mignon?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, you were, but you decided to make salmon because you had some left over at the restaurant. And then you realised if you (Points at Rachel) bitched about it, then you (Points to herself) would stop cooking, and you (Points at Rachel) would have to make your famous baked potato and Diet Coke."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wow, I really get crabby when I cook."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's erm, Chandler and Joey's, Joey, Chandler, and Phoebe are there as Ross enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So uh, Emily called last night..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And now you're giving me the message!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Turns out them Emily is just crazy about Susan. Yeah, they're going to the theatre together! They're going to dinner! They're going horseback riding!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "God, Susan is so fun!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, this is just a little too familiar, okay? For like, for like six months before Carol and I spilt up, all I heard was: \"My friend Susan is so smart. My friend Susan is so funny. My friend Susan is so great.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You actually think that something can happen between Emily and Susan?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, they're going to the gym together! Two women! Stretching! Y'know they-they take a steam together! Things get a little playful-didn't you see Personal Best?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, but I'm gonna!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi! Hi! You're crazy! Okay? This is Emily. Emily is straight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How do you know? I mean we thought Carol was straight before I married her!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, I definitely. I don't like the name Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What a weird way to kick me when I'm down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No! No! I-I meant for the baby!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh. What's wrong with Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, it's just y'know that something like this would never to like The Hulk, y'know..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Actually that-that's not true, in The Incredible Hulk uh, No. 72, Dr. Bruce Banner found... (Sees everyone staring at him and stops.) Y'know, ugh, nevermind, my girlfriend's a lesbian. (Leaves.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So, I decided I'm definitely going to go with either Joey or Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh! Oh-oh, you gotta pick Joey! I mean, name one famous person named Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Raymond Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Someone you didn't make up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, there are no famous Joey's. Except for, huh, Joey Buttafucco."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, that guy really hurt us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, how about a compromise then, okay? What if it's like y'know, Chanoey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, look, Joey! Come on, think about it, first of all, he'll never be President. There's never gonna be a President Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right look man, I didn't want to bring this up, but Chandler, is the stupidest name I ever heard in my life! It's not even a name; it's barely even a word. Okay? It's kinda like chandelier, but it's not! All right? It's a stupid, stupid non-name!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wow, you're, you're right. I have a horrible, horrible name."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm sorry man, I didn't-I'm-I'm sorry. I'm sorry. (Goes over and comforts him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So I guess it's Joey then!"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's erm, Monica and Rachel's, Rachel is on her dinner date with Joshua."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "This is so nice. Thank you for doing this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, please! Cooking soothes me. (They kiss.) Ahh. So, dig in!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Great! Oh, it all looks sooo good!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(taking a bite) Hmmm!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh I know, my God, this is so-this rice is so-I am so good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Behind you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(sees the chick and the duck) Oh, yeah, I'm sorry. They used to live here; sometimes they migrate back over."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "(getting up and backing away from they.) Is there ah, is there some way they can not be here. It's just ah, farm birds really kinda freak me out!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, sure, okay. Okay."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel gets up and ushers them into the hall, as they pass Joshua, he leaps onto the counter to avoid them. Rachel drops them off in the hall, and knocks on Joey's door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(answering the door.) Hey, how did you do that?! Come on in. (He brings them inside.)"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut back to Rachel's date.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All gone! So, farm birds, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Yeah, it's-it's my only weird thing, I swear. And I-I-I would've told you about it, but I didn't know they would be here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "So, all right."
+  },
+  {
+   "t": "direction",
+   "text": "They both sit back down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. So, can I serve you a little of-What? What? What? (She sees that Joshua isn't relaxed.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Nothing I uh, it's just that I know that they're still out there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But, they're across the hall! I mean that's two doors away, it would take them a long time to peck their way back over here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Okay, that's-that's not funny. Uhh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, y'know, would you feel better if we went someplace else? I mean we could pack all this stuff up and y'know go to your apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Oh, they're working on this week, it's a total mess. But uh, I'm staying at my parents' house, we could go there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Your parents'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Yeah, they're out of town."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Yeah-yeah, it's this huge place, and-and it's got this gorgeous view of the park, and very, very romantic. What do you say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah that works."
+  },
+  {
+   "t": "direction",
+   "text": "He moves to kiss her, but stops when he hears the duck."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "They-they-they can smell fear."
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, Carol has come to pick up Ben."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(opening the door.) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Carol",
+   "text": "Hey! How's Ben?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I asked him if he wanted to eat, he said, \"No.\" I asked him if he wanted to sleep, he said, \"No.\" I asked him what he wanted to do, he said, \"No.\" So, he's sweeping. (We see Ben playing with a broom and a dustpan.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Carol",
+   "text": "Hey, Ben! Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So umm, any word from Susan?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Carol",
+   "text": "Ooh, yeah! She said she's having sooo much fun with Emily."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh-huh. Uh-huh. Uh, by the by, did it uh, did it ever occur to you that, I don't know, maybe they might be having a little too much fun?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Carol",
+   "text": "What's too much fun?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know, the kind of fun, you and Susan had when we were married."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Carol",
+   "text": "Oh my God, you are so paranoid!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Am I?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Carol",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Am I?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Carol",
+   "text": "I can't speak for Emily, but Susan is in a loving, committed relationship."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh-huh, Carol, so were we. All right, just-just imagine for a moment, Susan meets someone and-and they really hit it off. Y'know? Say-say they're coming back from the theatre, and they-they stop at a pub for a couple of drinks, they're laughing, y'know, someone innocently touches someone else... There's electricity, it's new. It's exciting. Are you telling me there isn't even the slightest possibility of something happening?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Carol",
+   "text": "Maybe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "OH MY GOD!! I didn't really believe it until you just said it!!"
+  },
+  {
+   "t": "scene",
+   "text": "Joshua's parents' apartment, Rachel and Joshua are entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "...and even though none of the other kids believed me, I swear to God, that duck pushed me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wow! This place is fabulous!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Yeah, yeah, let me show you around. This is the uh, downstairs living room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Whoa-whoa, there's two living rooms? God, growing up here, this place must've been a real babe magnet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Yeah, well, it would've been, but uh, my parents just moved here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, you should know, this place is a real babe magnet. Wanna make out?"
+  },
+  {
+   "t": "direction",
+   "text": "They kiss."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Hey, here's an idea. Why don't uh, I put the food in the fridge and we can eat it later?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That sounds like a plan. Umm, is there a place I can go freshen up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Oh yeah, yeah uh, it's down the hall and uh, second door to your left."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ah."
+  },
+  {
+   "t": "direction",
+   "text": "She goes down the hall. Joshua goes to put the food away when his parents walk in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burgin",
+   "text": "Oh, hi, darling!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Mom, Dad, what are you guys doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burgin",
+   "text": "Oh, well we cut the trip short."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Burgin",
+   "text": "France sucks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Umm, this may be a little weird, but I-I-I got a date here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burgin",
+   "text": "Oh, say no more!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Burgin",
+   "text": "We'll just grab some food and take it with us right upstairs, and we'll be right out of you hair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Oh, that-that would be great. So you didn't even get to Italy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Burgin",
+   "text": "Yep, sucks!"
+  },
+  {
+   "t": "direction",
+   "text": "They all go into the kitchen. Just then, Rachel comes back from the bathroom; she had removed her dress and is wearing nothing but a lace nightie. She tries to find someplace seductive to wait for Joshua. She tries to sit on the piano, but it makes too much noise. So she goes over to the couch and kinda half lays down to wait for Joshua. Joshua comes in from the kitchen, sees Rachel, and freezes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I know, I can do more than cook."
+  },
+  {
+   "t": "direction",
+   "text": "Just then, his parents enter. Rachel gasps."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Burgin",
+   "text": "I like her. She sees smart."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Joshua's parents' apartment, continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "Uhh, Rachel, my parents..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh! It's so nice to meet you. (She goes over and shakes their hands.) Hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Burgin",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burgin",
+   "text": "Hello. Well, Joshua, that $500 was for groceries."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? This-this, no, oh no, no-no-no, this is not-that's-that's not what it is. See, see, okay, I work in fashion, see and-and, this is a real dress actually. It's-it's, they're-they're wearing it in Milan, so part of my job is too wear the clothes, and then I see how people respond, and then I report back to my superiors at Bloomingdale's, so... And obviously in uh, in-in this case, (She grabs a pen and paper) I am going to report back, \"USA not ready.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Burgin",
+   "text": "Maybe in L.A?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joshua",
+   "text": "There you go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Burgin",
+   "text": "So, have you kids eaten yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, we were going to do that after-I mean umm, next."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Burgin",
+   "text": "Well, we're starving, why don't we all go get something to eat?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, yeah, well... Yeah, no use wasting this baby, just lyin' around the house."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Burgin",
+   "text": "So... We go eat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Burgin",
+   "text": "You'll wear that. We'll be eating, and of course, you'll be wearing that."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's erm, Chandler and Joey's, Chandler is looking for a new name in Phoebe's book of names."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Dude, I am sorry about what I said!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, no, you're right, it is a ridiculous name!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It's not that bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes it is! From now on, I have no first name."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So, you're just Bing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I have no name."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, so, what are we supposed to call you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay uh, for now, temporarily, you can call me, Clint."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No way are you cool enough to pull of Clint."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, so what name am I cool enough to pull off?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, Gene."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's Clint. It's Clint! (He heads for his bedroom.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "See you later, Gene."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Bye, Gene."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's Clint! Clint!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What's up with Gene?"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Rachel is telling Phoebe and Monica of her date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So, you wore your nightie to dinner?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, yeah. And uh, the best part though, when the uh, waiter spilled water down my back, I jumped up, and my boob popped out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, it's all right. I got nice boobs. (Phoebe and Monica nod there heads in agreement.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(returning from the phone.) So, I just picked up a message from Emily, she and Susan are going to a poetry reading together!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So! Poetry? Susan's gay! They're being gay together!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Emily's straight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, wake up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow, Carol really messed you up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Excuse me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, she turned you into this-this-this untrusting, crazy, jealous, sycophant. (They all look at her.) All right, so I don't know what sycophant means, but the rest is right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, I don't know what you're talking about, I am not a crazy, jealous person."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She's totally right! When we were together, you got all freaked out about Mark and there was nothing going on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This totally makes sense!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It does not!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, sure it does! In high school, you weren't jealous at all even though all your girlfriends were cheating on you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, all right, so up until '92-93 he was very trusting, then '94 hit, Carol left him and bamn! Paranoid city!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Absolutely! Absolutely!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This is so much fun!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This is not fun!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Look, all we're trying to say is, don't let what happened with Carol ruin what you got with Emily."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. The '92 Ross wouldn't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I still think I was right about that whole Mark thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What-yeah-what, y'know what? I hope Emily is a lesbian."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's erm, Chandler and Joey's, Phoebe is showing off more of her drum skills to Joey by rubbing one of the sticks back and forth across the drum."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Drum roll."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering) Okay. Okay. All right. Help! Am I a Mark, or a John?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nah, you're not tall enough to be a Mark, but you might make a good Barney."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right look, am I serious, okay? Tomorrow at 3:30 I am going down to the courthouse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're actually going through with this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, look, this name has been holding me back my entire life. Okay, it's probably why kids picked on me in school, and why I never do well with women... So, as of 4 o'clock tomorrow, I'm either gonna be Mark Johnson or John Markson."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You got problems because of you! Not your name! All right, this has got to stop! Chandler is a great name! In fact-yes, (To Joey) I'm, I'm sorry. I know you really wanted me to name the baby Joey, but eh, so, I'm-I'm, I'm gonna, I'm gonna name the baby Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(pleased) Really?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, but you have to keep the name too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. Thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You wanna hug it out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah!"
+  },
+  {
+   "t": "direction",
+   "text": "They both hug."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yay-oh-yay! Okay, I gotta go tell Frank and Alice! Right now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, uh... (She grabs her coat and runs out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Bye, Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, bye!"
+  },
+  {
+   "t": "direction",
+   "text": "She exits, and after the door is closed, Chandler turns to Joey and..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ha! Ha! Ha!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ohh! (Realises it was all a trick to get Phoebe to name the baby Chandler.)"
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "The Airport, Carol and Ross are waiting for Emily and Susan to deplane. A gorgeous woman walks by and they both turn to watch her go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Nice luggage."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Carol",
+   "text": "I was gonna say..."
+  },
+  {
+   "t": "direction",
+   "text": "Susan and Emily get off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susan",
+   "text": "Hey!"
+  },
+  {
+   "t": "direction",
+   "text": "They both run and hug they're respective partners."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Hey! I missed you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I missed you too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susan",
+   "text": "(To Emily) Thanks for everything, I had such a great time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "Oh, so did I."
+  },
+  {
+   "t": "direction",
+   "text": "They hug and give each other a little peck on the cheek."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To Carol) No tongue. (And gives her the thumbs up.)"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

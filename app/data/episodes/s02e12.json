@@ -1,0 +1,2708 @@
+{
+ "id": "s02e12",
+ "season": 2,
+ "episodes": [
+  12,
+  13
+ ],
+ "code": "212-213",
+ "title": "The One After the Superbowl",
+ "lines": [
+  {
+   "t": "direction",
+   "text": "Originally written by Michael Borkow, Mike Sikowitz & Jeffrey Astrof"
+  },
+  {
+   "t": "scene",
+   "text": "In a TV commercial that the gang is watching at Monica and Rachel's."
+  },
+  {
+   "t": "direction",
+   "text": "[A guy is sitting at his desk and his boss comes in and drops a huge pile of papers on his desk. The guy looks dejected.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Commercial Voiceover",
+   "text": "Can't get the monkey off your back? Then put it in your mouth..."
+  },
+  {
+   "t": "direction",
+   "text": "[A monkey jumps on the desk and hands the guy a beer. He opens the beer and is suddenly on the beach, in a hammock, with beautiful women all around.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Commercial Voiceover",
+   "text": "...With MonkeyShine Beer. [MonkeyShine theme] MonkeyShine Beer, 'cause it's a jungle out there.]"
+  },
+  {
+   "t": "direction",
+   "text": "[Camera pans back from the TV to show the gang watching.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That commercial always makes me so sad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, but then the guy opens his beer and those girls run at him, so, everything seems to work out OK."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I meant because the monkey in it reminds me of Marcel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can see that, 'cause they both have those big brown eyes and, ya know, the little pouty chin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And the fact that they're both monkeys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Sometimes I wonder if I did the right thing, ya know, giving him away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, Ross, you had to, I mean, he was humping everything in sight. I mean, I have a Malibu Barbi that will no longer be wearing white to her wedding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Remember when sometimes he'd borrow your hat, and, and when you got it back there'd be little monkey raisins in it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, well sure, when he did it, it was funny. When I did it to my boss's hat. . . all of the sudden I have this big attitude problem."
+  },
+  {
+   "t": "direction",
+   "text": "OPENING TITLES"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Chandler, Monica, Rachel, and Phoebe are at the couch."
+  },
+  {
+   "t": "direction",
+   "text": "[Joey enters holding a letter]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, hey, check it out, guess what I got."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Rhythm?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, my first fan mail."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Alright!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "[reading] 'Dear Dr. Remore, know that I love you and would do anything to have you.' Gosh. 'Your not-so-secretive admirer, Erica Ford.' Ooh wait, 'PS enclosed please find 14 of my eyelashes.'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ya know, in crazy world, that means you're married."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This wasn't addressed to Days of Our Lives, this is, this came to your apartment. There's no stamp on it, this woman was in our building."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my god, I got my very own stalker."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross enters with a suitcase]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, where are you off to, Travelin' Jake?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, there's this, uh, paleontology conference in L.A. so I figured I'd go and then drive down to the zoo and surprise Marcel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You know I think he will be surprised, 'till he realizes he's a monkey, and uh, you know, isn't capable of that emotion."
+  },
+  {
+   "t": "direction",
+   "text": "[Rob (Chris Isaac) enters]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, Phoebe, that really cute guy is here again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, oh, OK, so everyone, pretend like I'm telling you a story, OK. And, and it's really funny. So everyone just laugh, now."
+  },
+  {
+   "t": "direction",
+   "text": "[Everyone laughs]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know, I know. [to Rob] Hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "Hi. I'm Rob Dohnen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi Rob Dohnen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "I don't know anything about music, but I think you're really, really great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, wow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "Anyway, I schedule performers for the childrens libraries around the city and I was just thinking, have you ever thought about playing your songs for kids?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I would love to have kids. . . you're, you're the, you're, me play the songs that I will write for them."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's apartment. Chandler and Joey are standing around in the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, whaddya wanna do for dinner?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well we could just stay in and cook for ourselves. [both laugh hysterically]"
+  },
+  {
+   "t": "direction",
+   "text": "[door buzzer goes off]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "It's Erica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ah, the stalker."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Never mind, it's open."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "[Joey grabs a frying pan] Yes, hitting her with a frying pan's a good idea. We might wanna have a backup plan, though, just in case she isn't a cartoon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Let's get out of here."
+  },
+  {
+   "t": "direction",
+   "text": "[They run out and knock on Monica and Rachel's door]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The one time they're not home."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "OK, we'll just leave, and when we pass her on the stairs, she won't know it's me 'cause we've never met."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's how radio stars escape stalkers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "She's comin'."
+  },
+  {
+   "t": "direction",
+   "text": "[Both run back in their apartment. There's a knock at the door.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "It's me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhh, this is it, this is how we're gonna die. Ready?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wait, wait, wait. [Opens the top of the dish soap he's holding]"
+  },
+  {
+   "t": "direction",
+   "text": "[Joey opens the door and sees Erica (Brooke Shields). Joey gets a huge smile and Chandler squeezed the dish soap in the air.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Erica."
+  },
+  {
+   "t": "scene",
+   "text": "San Diego Zoo. Ross is at the Monkey cages."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lipson",
+   "text": "Hi, Dean Lipson, zoo administrator. I was told you had a question."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I uh, I can't seem to find the monkey I donated last year. He's a capuchan, answers to the name Marcel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lipson",
+   "text": "Ahh, I'm afraid I have some bad news. Marcel has passed on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh my God, what happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lipson",
+   "text": "Well he got sick, and then he got sicker, and then he got a little better but then he died."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I can't believe this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lipson",
+   "text": "I'm sorry Mr. Geller. But ya know, there's an old saying, 'Sometimes monkeys die.' It's not a great saying but it certainly is fitting today."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, ya know, someone should have called me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lipson",
+   "text": "I'm sorry. Look, I know this can't bring him back but here, it's just a gesture."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Zoo dollars?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Lipson",
+   "text": "Yes, and come see the bird show at 4. The macaws wear hats. Well it's a lot cuter if your monkey hasn't just died."
+  },
+  {
+   "t": "scene",
+   "text": "Library. Phoebe is getting ready to sing for the kids. Chandler, Monica, and Rachel are there."
+  },
+  {
+   "t": "direction",
+   "text": "[Phoebe pulls out her guitar]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kids",
+   "text": "Ooohhh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can't believe Joey's having lunch with his stalker. What i-, what is she like."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, you remember Cathy Bates in Misery?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel And Monica",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, she looks the exact opposite of that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And she's not crazy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh no no no, she's a total wack job. Yeah, she thinks that Joey is actually Dr. Drake Remore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ah, and I mean, he's going out with her? He can not persue this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, just because this woman thinks she can actually see Joey through the magical box in her living room doesn't mean she's not a person. I mean, does she not deserve happiness, does she not deserve love? What're you lookin' at me for? He's the one who wants to boff the maniac."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "You OK?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, uh-uh, I'm just, I'm nervous. So, you know what, maybe if I just, if I picture them all in their underwear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "That's not a good idea, that's kinda the reason the last guy got fired."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm just, I'm, I'm, I'm used to playing for grown-ups. Ya know, they just, grown-ups drink their coffee and do their grown-up thing, ya know, and kids listen. This is a huge responsibility. What? Are you gonna kiss me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I was thinkin' about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK. [they kiss] OK, alrighty, let's play some tunes. Hi everybody, I'm Phoebe"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hi Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, um, I'm gonna play, um, some songs about grandparents, OK. [singing]"
+  },
+  {
+   "t": "direction",
+   "text": "Now, grandma's a person who everyone likes,"
+  },
+  {
+   "t": "direction",
+   "text": "she bought you a train and a bright, shiny bike."
+  },
+  {
+   "t": "direction",
+   "text": "But lately she hasn't been coming to dinner,"
+  },
+  {
+   "t": "direction",
+   "text": "And last time you saw her she looked so much thinner."
+  },
+  {
+   "t": "direction",
+   "text": "Now, your mom and your dad said she moved to Peru,"
+  },
+  {
+   "t": "direction",
+   "text": "but the truth is she died and some day you will too."
+  },
+  {
+   "t": "direction",
+   "text": "La-la-la la la-la-la la la-la-la la..."
+  },
+  {
+   "t": "scene",
+   "text": "A nice restraunt. Joey and Erica are dining."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Oh, Drake, isn't it amazing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah it is. . . what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Well, here we sit, devil may care, just a little while ago you were reattaching someone's spinal cord."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, that was a tricky one. In reality, that operation takes like, over 10 hours, but they only showed it for 2 minites."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Who's they?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Oh Drake, you are so talented, let me see those hands. Oh these hands, these beautiful hands, oh I could just eat them. . . but I won't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Good, otherwise my watch would fall off. [laughs hysterically]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "No, seriously. These hands. These miracle, magical, life-giving hands. Oh, just to be near them, touch them, maybe even lick one?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Alright, just one. [she licks his hands rather emphatically] Wow, you're good at that."
+  },
+  {
+   "t": "direction",
+   "text": "[Some guy at another table starts choking]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Waiter",
+   "text": "Oh my God! Someone, he's choking. Is anyone here a doctor?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Well, yes, yes, the best doctor in all of Salem, Dr. Drake Remore."
+  },
+  {
+   "t": "scene",
+   "text": "San Diege Zoo. Ross is still at the monkey cages. A janitor is sweeping."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janitor",
+   "text": "Meet me in the nocturnal house in 15 minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uhh, hey look, I don't really enjoy being with other men that way. But, um, zoo dollars?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janitor",
+   "text": "It's about your monkey. It's alive."
+  },
+  {
+   "t": "scene",
+   "text": "Restraunt. Joey and Erica are still there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "I don't understand, why didn't you help that man?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhh, cause, uhh, I'm a neurosurgeon and that was clearly a case of, uh, uh, foodal chokage. Alright, look, I got to tell you something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "No, no no no, you don't have to tell me anything. You don't have to explain yourself to me. Ooh, who am I to question the great Dr. Drake Remore?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But that's what..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "I should just be happy to be near you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey I- [she cuts him off with a kiss]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Hey what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's it, just hey. Like at the end of a dance, HEY! [she starts nibbling his hand] Hey. He-hey."
+  },
+  {
+   "t": "scene",
+   "text": "Library. Phoebe is singing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "[singing] There'll be times when you get older"
+  },
+  {
+   "t": "direction",
+   "text": "when you'll want to sleep with people"
+  },
+  {
+   "t": "direction",
+   "text": "just to make them like you. . ."
+  },
+  {
+   "t": "direction",
+   "text": "But don't."
+  },
+  {
+   "t": "direction",
+   "text": "Cause that's another thing that you don't wanna do, everybody"
+  },
+  {
+   "t": "direction",
+   "text": "That's another thing that you don't wanna do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Excellent!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Very informative!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Not at all inappropriate!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thank you for coming everybody. There're cookies in the back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "That was great, the kids loved you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yay, I rock."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "And you know why? Because you told the truth, and nobody ever tells kids the truth.You were incredible."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "How did you know there was a but?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I sense these things. It was either but or butter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "The thing is, I think some of the parents, they were kinda hopin' that you'd play more songs about like, barnyard animals."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "Because that would be fantastic. What? You wanna kiss me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thinkin' about it."
+  },
+  {
+   "t": "scene",
+   "text": "San Diego Zoo. Ross and the janitor are in the nocturnal house."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janitor",
+   "text": "Ahh, the bat. Ambassador of darkness, flitting out of his cave like a winged messenger, sightless spectre of the macabe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Buddy, my monkey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janitor",
+   "text": "Oh, yeah, right. There was a break-in, few months back, inside job. Your monkey was taken."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh my God. But the zoo told me that my monkey was dead."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janitor",
+   "text": "The zoo! Do you believe everything the zoo tells ya?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That, that's the only thing the zoo's ever told me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janitor",
+   "text": "Of course they're gonna say he's dead. They don't want the bad publicity. It's all a great big cover-up. Do you have any idea how high up this thing goes?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That guy Lipson?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janitor",
+   "text": "Lipson knows. Do you have any idea who else knows?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I, I only know Lipson."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janitor",
+   "text": "Hmm, Lipson knows huh? Ahh, hello Mr. Opossum, enigma of the trees, upside-down denizen of the night, taunting gravity with..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Buddy, my monkey, my monkey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janitor",
+   "text": "Word on the street - well, when I say street, I mean those little pretend streets they have here at the zoo."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Of course."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janitor",
+   "text": "Your monkey found a new career, in the entertainment field. That's all I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This is unbelievable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janitor",
+   "text": "So, what is this information worth to you, my friend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Are you trying to get me to bribe you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janitor",
+   "text": "Maybe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But you already told me everything."
+  },
+  {
+   "t": "scene",
+   "text": "Library. Ross show up with a MonkeyShine Beer poster."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Check it out, he actually is the MonkeyShine monkey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, so what're you gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I guess I'm gonna call the beer company and try to find out where he is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's what I did when I lost my Clydesdales."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, hi again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hi Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Today we're gonna start with some songs about barnyard animals."
+  },
+  {
+   "t": "direction",
+   "text": "[singing] Oh, the cow in the meadow goes moo,"
+  },
+  {
+   "t": "direction",
+   "text": "Oh, the cow in the meadow goes moo."
+  },
+  {
+   "t": "direction",
+   "text": "Then the farmer hits him on the head and grinds him up,"
+  },
+  {
+   "t": "direction",
+   "text": "And that's how we get hamburgers."
+  },
+  {
+   "t": "direction",
+   "text": "Nooowww, chickens!"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's apartment. Monica, Rachel, and the guys are watching Days of Our Lives."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Tv Doctor",
+   "text": "You're the only one who can save her Drake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey On Tv",
+   "text": "Damnit, I'm a doctor, I'm not God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, there goes my whole belief system."
+  },
+  {
+   "t": "direction",
+   "text": "[knock at the door]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "It's Erica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God, quick turn off the TV."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No no no, wait, I wanna see what happens."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, I get Leslie out of the coma and then we make out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well how can that be, you were just kissing Sabrina?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rachel, it's a world where Joey is a neuro-surgeon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey Erica, c'mon in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "How did you get here so fast, I just saw you in Salem?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Right, they uh, they choppered me in. What's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Ohh, and I see you're having a little party too. Is she here, huh, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Who?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Sabrina. I know about you two. I saw you today kissing in the doctor's lounge."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It's not what you think, that was..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "You told me I was the only one. [throws a glass of water in his face]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Alright look, that's it. I don't think we should see each other anymore, alright. Look, I know I should have told you this a long time ago but I am not Drake Remore, OK. I'm not even a doctor, I'm an actor. I just pretend to be a doctor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Oh my God. Do the people at the hospital know about this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Somebody wanna help me out here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I know, I know. [Turns on the TV. Joey in on it.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "How, how can you be here and there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "'Cause it's a television show."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Drake, what're you getting at?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm not Drake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's right, he's not Drake, he's Hans Remore, Drake's evil twin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Is this true?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes, yes it is true. And I know this because, because he pretended to be Drake to, to sleep with me. [throws water in his face]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And then he told me he would run away with me, and he didn't. [throws water in his face]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And you left the toilet seat up, you bastard. [throws water in his face]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Is all this true?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yes, I'm afraid it is. You deserve much better than me Erica. You deserve to be with the real Drake, he's the one you fell in love with. Go to Salem, find him, he's the guy for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "Oh Hans. [They kiss]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hans...Hans...Yo evil twin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Right. Goodbye Erica, good luck in Salem. Take care"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Erica",
+   "text": "I'll never forget you Hans. [Joey shuts the door in her face]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "OK, alright, the people who threw the water."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Phoebe and Rob are sitting on the couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Fired! Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "The library board has had a lot of complaints from parents about some of the stuff in your songs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can't believe it. Did you tell your board about how kids want to hear the truth?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I see."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "Maybe if you just played some regular kiddie songs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No. What do you, what do you want me to be, like some stupid, big, like, purple dinosaur?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rob",
+   "text": "I'm not saying you have to be Barney."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Who's Barney."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. The whole gang is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I tracked down Marcel and get this, he's healthy, he's happy, and he's right here in New York filming Outbreak II - The Virus Takes Manhattan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You're kidding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "This is amazing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I finally get a part on TV and the monkey's makin' movies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, Rachel, I'm ready."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK."
+  },
+  {
+   "t": "direction",
+   "text": "[little kid enters]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kid",
+   "text": "Excuse me. Is this where the singing lady is that tells the truth?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Um, yeah I guess that's me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kid",
+   "text": "[shouting out the door] She's here."
+  },
+  {
+   "t": "direction",
+   "text": "[a rush of kids enter]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "[singing] Sometimes men love women,"
+  },
+  {
+   "t": "direction",
+   "text": "sometimes men love men,"
+  },
+  {
+   "t": "direction",
+   "text": "and then there are bisexuals,"
+  },
+  {
+   "t": "direction",
+   "text": "though some just say they're kidding themselves."
+  },
+  {
+   "t": "direction",
+   "text": "la la-la-la la-la-la-la-la-la-la..."
+  },
+  {
+   "t": "scene",
+   "text": "City street. The whole gang is walking up to the movie set."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This is so exciting, I haven't seen my monkey in almost a year."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What, you never look down in the shower? Oh please. I'm not allowed to make one joke in the monkey-is-penis genre?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Security Guard",
+   "text": "C'mon people, back up please, back up, c'mon, c'mon, c'mon, c'mon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, excuse me, uh, where can we find the monkey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Security Guard",
+   "text": "I'm sorry guys, closed set."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, I'm sorry, you don't understand, I'm, I'm, I'm a friend of his. We uh, we used to live together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Security Guard",
+   "text": "Yeah, and I have a time share in the Pocanos with Flipper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross, there he is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, hey buddy, Marcel. Marcel. [Marcel doesn't react so Ross starts singing] In the jungle, the mighty jungle the lion sleeps tonight. [no reaction from Marcel, Monica and Joey urge him on] In the jungle, the mighty jungle the lion sleeps tonight. [Marcel looks over and everyone joins in] a-weema-way, a-weema-way..... [Marcel runs over and hops up on Ross's shoulder]"
+  },
+  {
+   "t": "scene",
+   "text": "The next time at the movie set."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Security Guard",
+   "text": "Uh, excuse me folks this is a uhh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Closed set. We know but we're friends with the monkey. [guard lets them in]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Good morning. Hey pal, look who I brought. It's your old friend Harry Elefante. [Marcel grabs the elephant doll and throws it to the ground]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Woah, dude, burn."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't get it, he seemed so happy to see me yesterday."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Trainer",
+   "text": "Hey don't take it personal, he's under a lot of pressure, ya know, starring in a movie and all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Now just how big of a star is Marcel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Trainer",
+   "text": "In human terms, I'd say Cybill Shepard."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Woah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "[to guys wering yellow isolation suits] So, are you guys in the movie, or are you just really paranoid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Director'S Assistant",
+   "text": "Hey Sal, Jerry wants to know if the monkey's ready for the subway set?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, excuse me. Jerry is the director, which one's he?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Director'S Assistant",
+   "text": "The one in the director's chair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Gotcha. Phoebs, walk with me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK. Um, how come I'm walking with you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, we're, we're just goin' over here so that we can get away from the horrible flesh eating virus, for the love of God woman, listen to me. Is he lookin', is he lookin'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "We've got a problem."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Director'S Assistant",
+   "text": "Tell me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "I can't do Chris's makeup. She refuses to acknowledge that she has a moustasche."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Director'S Assistant",
+   "text": "Is it bad?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "It looks like one of her eyebrows fell down. Now unless someone convinces her to let me bleach it, Jean-Claude Van Damme is gonna be making out with Gabe Kaplan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Director'S Assistant",
+   "text": "I'll talk to her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "I hate actors."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "[to an extra in fatigues] Nice camoflauge man, for a minute there I almost didn't see ya."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Excuse me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ahhhh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Uh, is your name Chandler?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uh, yes, yes it is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Chandler Bing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Do you know me or are you just really good at this game?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "I'm Susie Moss. Fourth grade, glasses, I used to carry around a box of animal crackers like a purse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Susie Moss, right, yeah, wow, you look. . . great job growing up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "It's nice to see you're not still wearing that denim cap with all the little mirrors on it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, right, well yeah, I graduated fourth grade and realized I wasn't a pimp."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Remember the class play? You, you pulled up my skirt and the entire auditorium saw my underpants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, back then I, uh, used humor as a defense mechanism. Thank God I don't do that anymore."
+  },
+  {
+   "t": "direction",
+   "text": "[cut to Monica and Rachel walking through the set]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God, oh my God, oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What what what what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Jean-Claude Van Damme. I didn't know he was in this movie, he is so hot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ya think?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "The muscles from Brussels, wham bam Van Damme, did you see Time Cop?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, was he any good in it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rachel, he like, totally changed time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wow, so why don't you go talk to him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What, so you go over there, you tell him you think he's cute, what's the worst that could happen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "He could hear me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK, I'm doin' it for ya."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh Rachel don't, don't you dare, don't, don't. Tell him I cook."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Excuse me. Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Um, this is gonna sound kinda goofy but uhhm, my friend over there, who cooks by the way, um, she thinks you're cute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "You don't think I'm cute?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I, I don't know, um, do you think you're cute? OK, we're kinda gettin' off the track here. Um, I was supposed to come here and tell you my friend thinks you're cute. So what should I tell her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "You can tell her I think her friend is cute."
+  },
+  {
+   "t": "direction",
+   "text": "[back to Chandler and Susie]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, Stephen Hurs was the kid who would eat anything for money, David Stein was the guy who had no elbows."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "OK, well then who was the kid that got caught masturbating?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "OK that's not what he was doing. Alright, he was looking for his bus money."
+  },
+  {
+   "t": "direction",
+   "text": "[a voice in the background calls for makeup]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Oh that's me, I gotta go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh uh, o, OK."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Um, so listen, how many times am I gonna have to touch you on the arm before you ask me on a date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, uh, let's try one more. . . there you go, say Ernie's, 8 o'clock."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "I'll be there, and who knows, if things go well, maybe this time I'll get to see your underwear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No one was around to hear that?"
+  },
+  {
+   "t": "direction",
+   "text": "[back to Rachel and Monica]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So what'd he say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Agh, what a jerk. I kept talking about you and he kept asking me out. I mean, naturally, you know, I said no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, thanks anyway."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "He just kept asking, and asking, and asking, and asking, and asking, and asking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rachel if you, if you want to go out with him, you can. Sound like a big jerk to me but if that's what you want to do..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Jean-Claude she said yes, I'll see you tonight. Thank you."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Joey and the girls are sitting at the couches."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And then Jean-Claude took me to that place Crossroads and that's where we hung out with Drew Barrymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh man, she's so smokin, she has got the greatest set of. . . no guys around, huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Does anybody need anything?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, I'll have an espresso. Oh acutally, I'll get it. If I ask you to, you'll probably end up drinking it yourself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That is so unfair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know. Oh, like you would drink her coffee after what you did to her with Van Damme."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross enters]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey Joey I have to cancel racketball for tonight, that was Marcel's trainer. He's gonna let me have him for a couple of hours."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're blowin' me off for a monkey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, we can rescedule for Saturday."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, unless you hook up with a bunch of pigeons."
+  },
+  {
+   "t": "direction",
+   "text": "[Chandler enters]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, stick a fork in me, I am done."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Stick a fork what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Like, when you're cooking a steak."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, OK, I don't eat meat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well then, how do you know when vegetables are done?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well you know, you juist, you eat them and you can tell."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "OK, then, eat me, I'm done."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I've met the perfect woman. OK, we're sitting on her couch, we're fooling around, and then suddenly she turns to me and says, 'Do you ever want to do it in an elevator?'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What did you say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ahh, I believe my exact words were, 'Flaign,en - sten'. I mean I didn't know what to say, how do you know if you wanna do it on an elevator?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, you just know."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's apartment. Chandler and Susie are making out on the couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Oh, shoot, we gotta go, got a reservation in 30 minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh no no no no, no no no no no no, you see, what I had planned shouldn't take more that 2, 3 minutes tops."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Oh, 200 seconds of passion. We gotta go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "But um, here's an idea, have you ever worn women's underwear?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, ye, yes, actually, but, uh, they were my Aunt Edna's, and there were three of us in there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Well I was thinking it would be um, kind of sexy if you wore mine tonight, at dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You want me to wear your panties?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Could ya?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, if I was wearing your underwear then, uh, what would you be wearing?. . . You're swell."
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment. Ross is setting up for his time with Marcel. Joey is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "OK, got the music, got the dinner. Oh and check it out, I made Marcel's favorite dish, banannacake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oooh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "With mealworms."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yaaahhh. Ahhh, candles. What'dya thinks gonna happen here tonight?"
+  },
+  {
+   "t": "direction",
+   "text": "[phone rings]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hello. Oh hi, are you on your way ove-. Oh. No, no, I, I understand, I mean a monkey's gotta work. No it, it's no big deal, it' not like I uh, had anything special planned. Yeah OK, OK. OK, OK, bye."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Monica and Rachel are upset with each other. Phoebe is mediating."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, Rachel, why don't you start talking first."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Alright, I feel that this is totally unjustified. [Monica starts making faces behind her back] She gave me the green light, I did nothing but-. Do you think I can't see you in the TV set?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Alright Monica, if there is something that you would like to share..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ya know, you had no right to go out with him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That is the most ridiculous."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You sold me out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I did not sell you out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yes you did. Absolutely."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Would you let me talk. [flicks Monica on the forehead]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Did you just flick me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK, well, you wouldn't let me finish and I was jus- [Monica flicks her back] Ow. That hurt [flicks Monica]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Quit flicking [flicks]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ow, you stop flicking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You flicked me first."
+  },
+  {
+   "t": "direction",
+   "text": "[They keep flicking each other. This turns into slapping each other. This leads to wrestling on the floor. All the while Phoebe is saying \"Happy thoughts\". Eventually Phoebe gets fed up.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, now I'm gonna kick some ass."
+  },
+  {
+   "t": "direction",
+   "text": "[Phoebe grabs each of them by an ear]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica And Rachel",
+   "text": "Ow. Ow. Ow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Alright, now I will let go if you both stop."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, what do you, you want me to stop seeing him, is that what you want?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You want me to just call him up and tell him that you're seeing him instead? That's what you want?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "OK."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh that's what you want."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Fine,"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "There we go.You know what, if we were in prison, you guys would be, like, my bitches."
+  },
+  {
+   "t": "scene",
+   "text": "A fancy restraunt (Marcel's). Joey, Ross, Chandler, Susie, and the Director's Assistant are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks for letting me tag along tonight you guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Forget about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "How you doin there squirmy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm hangin in. . . and a little out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So, assistant to the director. That's a really exciting job, I mean, you must have a ton of cool responsibilities."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Director'S Assistant",
+   "text": "I have nothing to do with casting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So what're you guys gonna eat?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "How come all I can think about is putting that ice in my mouth and licking you all over?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because I went to an all boys high school and God is making up for it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "I want you right here, right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Right now, right here. Don't ya think we're in kind of a public plaaaa [Susie grabs him under the table] They do have the shrimp."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Meet me in the bathroom. [she leaves for the bathroom]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm going to the bathroom now. [leaves for the bathroom]"
+  },
+  {
+   "t": "direction",
+   "text": "[In the bathroom Susie and Chandler are kissing. She backs into a stall.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "C'mon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can't believe we're doing this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Alright mister, let's see those panties."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alrighty. [we see Chandler's pants drop from under the stall door]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Ooh. Ooh. But ya know what would be even sexier?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "If you didn't have your shirt tucked into them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Alright. Now I would like to see you wearing nothing but them. Take your clothes off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "OK, but uh, I hope you realize this means we're gonna miss hearing about the specials."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "C'mon hurry, hurry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, do you want this done quick, or do you want this done right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Alright, turn around. Time to see you from behind."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "OK."
+  },
+  {
+   "t": "direction",
+   "text": "[She turns him facing the toilet and sneaks out of the stall and gathers up his clothes.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Oh, somebody's been doing his buns of steel video."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, you want me to uh, clench anything, or-... Susie? Susie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "This is for the fourth grade."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Huh? Where, whaddya mean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Whaddo I mean. Whaddya mean, whaddo I mean? I mean underpants, mister, that's what I mean."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What, what's what you mean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "My skirt, you lifted, kids laughing. I was Susie Underpants 'till I was 18."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That was in the fourth grade. How could you still be upset about that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Susie",
+   "text": "Well um, why don't you call me in 20 years and tell me if you're still upset about this. [she leaves with his clothes]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright, I hope you realize you're not getting these underpants back."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Van Damme are walking down the street."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can't believe this, just like 2 weeks ago I was watching Sudden Death, now I'm on a date with Jean-Claude Van Damme. Can you beat up that guy? [he nods] Can you beat up that guy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "Sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This is so wild. Ya know, I gotta admit, I was kinda surprised that you agreed to go on a blind date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "Normally, I would not do it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, what made you make the exception for me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "'Cause Rachel told me uh, you were dying to have a threesome with me and uh, Drew Barrymore. By the way, Drew has some groundrules and..."
+  },
+  {
+   "t": "scene",
+   "text": "Back at Monica and Rachel's apartment. They are now fighting about what Rachel told Van Damme."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Say you're sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. [hitting each other]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Say it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. [hitting again]"
+  },
+  {
+   "t": "direction",
+   "text": "[Monica grabs Rachel by the sweater. Rachel squirms out of it]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rachel, you say you're sorry or your sweater gets it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK, OK, that is my favorite sweater, that is my third date sweater."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Say you're sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK, you wanna play? OK, let's play, let's play. [She grabs a jar of tomato sauce and Monica's purse]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What're you gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You give me back my sweater or it's handbag marinara."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You don't have the guts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yeah. Well, at least I wasn't too chicken to tell some guy I thought he was cute."
+  },
+  {
+   "t": "direction",
+   "text": "[Monica pulls a thread on Rachel's sweater and Rachel dumps the tomato sauce in Monica's purse]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh alright, stop, STOP THE MADNESS. This is crazy. Who can even remember why this even started in the first place?"
+  },
+  {
+   "t": "direction",
+   "text": "[Monica and Rachel start yelling at the same time]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes that's right. But still, I-, look at your purse, look at your sweater, look at yourselves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'll help you fix your sweater."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'll help you throw out your purse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm sorry that I made you stop seeing him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I'm sorry I went out with him when I knew you liked him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm sorry that I borrowed your gloves [pulls Rachel's gloves out of her purse]"
+  },
+  {
+   "t": "scene",
+   "text": "Back at the restroom at Marcel's. Chandler is still in the stall, Joey comes in to go to the bathroom."
+  },
+  {
+   "t": "direction",
+   "text": "[Joey starts whistling, Chandler finishes the tune. Joey whistles again.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Joey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ma?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Chandler? What're you still doin' here, I though you guys took off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, no no no, she took off with my clothes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Are you naked in there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Not exactly. . . I'm wearin panties."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Huh, you uh, you always wear panties?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, no, this is the first time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow, talk about your bad luck, I mean, the first time you try panties and someone walks off with your clothes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I was not trying them out, Susie asked me to wear them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, let me see."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No. I'm not letting you or anybody else see, ever."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Alright, alright. [climbs up in the next stall and looks over at Chandler] Woah, someone's flossing."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross enters, sees Joey in the mirror]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "[to Joey who's looking over a toilet stall] Joey, some people don't like that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Chandler's wearing panties."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? Let me see. [climbs up in the other adjoining stall]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, no, you don't have to see."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi Tushie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright, one of you give me your underpants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Can't help you, I'm not wearing any."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "How can you not be wearing any underwear?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, I'm gettin' heat from the guy in the hot pink thong."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright look Ross I'll give you 50 dollars for your underpants."
+  },
+  {
+   "t": "direction",
+   "text": "[Some guy has entered.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hi."
+  },
+  {
+   "t": "direction",
+   "text": "[Back at the table. Joey and Ross return. Shortly, Chandler comes out, holding the stall door in front of him, and leaves.]"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Ross, Phoebe, and Chandler are sitting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey Phoebs, can I have the milk after you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm almost done with it, keep your panties on."
+  },
+  {
+   "t": "direction",
+   "text": "[Joey enters]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, hey, and I'm in the movie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "One of the virus victims called in sick, so Cathy recommended me and boom, I'm dying on the gurney. Oh Ross, Marcel just finished his last scene if you want to go down there and say goodbye."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ahh, oh that's OK, I mean, he's probably got, you know, parties to go to and stuff. But, ya know, he's moved on. Hey, that, that's the way it goes right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "[sees Marcel at the window] Oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "direction",
+   "text": "[\"Looks Like We Made It\" starts playing and we enter a whole sequence of Marcel and Ross having fun in the city.]"
+  },
+  {
+   "t": "scene",
+   "text": "The movie set. Monica and Rachel are saying goodbye to Jean-Claude"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "[to Rachel] I'm sorry it didn't work out between you and me, [to Monica] or you and me. Drew was very disappointed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK, well, bye. [kisses him]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "Goodbye."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, bye for me too. [kisses him]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK, well, bye-bye again. [kisses him again]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "OK."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "Perhaps, uh, the three of us, just could. . ."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica And Rachel",
+   "text": "Oh, no no no no no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "Are you sure, I can crush a walnut with my butt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica And Rachel",
+   "text": "No no no no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Impressive."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But no. Maybe if I were baking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica And Rachel",
+   "text": "Bye-bye."
+  },
+  {
+   "t": "scene",
+   "text": "City street. Whole gang is there seeing off Marcel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Bye Marcel. See ya on the big screen. You keep people drinkin' that beer, OK. I miss you buddy."
+  },
+  {
+   "t": "direction",
+   "text": "[Marcel is driven off in a limo]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You know, I think I want to write a song about all this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. Oh, except one of the strings on my guitar is broken. Hey, Chandler, can I borrow your G-string?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "How long you been waitin' to say that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "About 20 minutes. CLOSING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Filming a scene from the movie. Joey is dying on a gurney, Van Damme is looking over him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "Can't you see what's going on here, this man is dying."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Aaaaagggghhhhh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Director",
+   "text": "Cut."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "Can't you see what's going on here, this man is dying."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Aaaaagggghhhhh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Director",
+   "text": "Cut."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "Can't you see what's going on here, this man is dying."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Aaaaagggghhhhh. Mommy"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Director",
+   "text": "Cut."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Van Damme",
+   "text": "Can't you see what's going on here, this man is dead."
+  },
+  {
+   "t": "direction",
+   "text": "END"
+  }
+ ]
+}

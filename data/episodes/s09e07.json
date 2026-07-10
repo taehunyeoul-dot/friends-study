@@ -1,0 +1,1178 @@
+{
+ "id": "s09e07",
+ "season": 9,
+ "episodes": [
+  7
+ ],
+ "code": "907",
+ "title": "The One With Ross's Inappropriate Song",
+ "lines": [
+  {
+   "t": "direction",
+   "text": "Dedicated to the great work of Eric Aasen, Guineapig and many, many more."
+  },
+  {
+   "t": "scene",
+   "text": "Ross and Rachel's apartment. Ross is playing with Emma on the couch after just changing her diaper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And that's why, no matter what mommy says, we really were on a break. (baby talk) Yes we were! Yes we were! (picks Emma up) Come here gorgeous. (puts her on his knees and talks to her) Oh! Look at you! You are the cutest little baby ever! You're just a... a little bitty baby, you know that? But you've got... (in a softer voice) You've got big beautiful eyes... Yes you do... and a... and a big round belly. (emphasises the B's) Big baby butt! I like big butts. (raps) I like big butts and I cannot lie / you other brothers can't deny / when a girl walks in with an itty, bitty, waist / and a round thing in your face you get...(Emma laughs) Oh my God, Emma... you're laughing! Oh my God, you've never done that before, have you? You never done that before... Daddy made you laugh, huh? Well, daddy and Sir Mix Alot... What? What? You... you wanna hear some more? Uhm...(raps) My anaconda don't want none / unless you got buns hon... (Emma laughs again and Ross looks worried) I'm a terrible father!"
+  },
+  {
+   "t": "direction",
+   "text": "OPENING CREDITS"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Joey sits at a table and Chandler and Monica enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey... hey listen... What do you guys know about investments?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "How come?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I'm starting to make good money on the show and I'm thinking... I should probably do something with it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What do you do with your money now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I just tape it to the back of my toilet tank. (realises that anyone could have overheard that) I didn't say that! It's in a bank guarded by robots!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Do you have any ideas?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, yeah... This guy at work got me excited about going in on an emu farm. That'd be kinda cool huh? Pitchin' in on the weekends, helping to plant the emus..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joe... Emus are birds. You raise them for meat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(laughs) Yeah! Right! (points at Monica) People eat birds... Bird meat... Now do they just fly into your mouth or you go to... you go to a restaurant and you say: \"Excuse me, I'll have a bucket of fried bird.\" (laughs again) Or... or maybe just a wing or... (realises...)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey, I think you should consider something a little less risky. I mean, I think in this market, real estate is your best investment.The Fed. just lowered the rates and the interest on your mortgage is totally deductible. (looks at Chandler) That's right, I know some stuff!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Real estate, huh? Hmmm..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(very excited) Oh, and you know who's selling a great apartment? Richard!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(imitating Monica) Oh, and you know whose knowledge of her ex-boyfriend is shocking? Monica!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "My dad told me. They play golf together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, well... Maybe I'll join them some time. I just hope the club doesn't slip out of my hand and beat the moustache off his face."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's apartment. Rachel and Monica are sitting at the dinner table and Phoebe enters, knocking on the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel and Monica",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Listen! You have to help me pick a dress 'cause I'm meeting Mike's parents tonight! (Rachel gasps)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow, the boyfriend's parents! That's a big step."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(sarcastically) Really? That hadn't occurred to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "They just gonna love you, just be yourself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "They live on the upper east side on Park Avenue!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yeah, she can't be herself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, so... allright... Which dress? (she holds up two 'Phoebe' dresses, Rachel and Monica look at them... taking their time, don't wanting to hurt Phoebe) You can say \"neither\"."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel and Monica",
+   "text": "Oh God, neither!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm sorry honey, but we're gonna take you shopping. It's gonna be fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, totally! You are in such good hands. And I'm so good with meeting parents. With the father, you know, you want to flirt a little bit, but not in a gross way. Just kind of like: \"Oh mr. Pincer, I can see where Wallis gets his good looks...\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You went out with Wallis Pincer?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh, he took the SAT's for me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I knew you didn't get a 1400!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ssshyeah, well, duh! I mean..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So... now... What about with Mike's mom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, with the mother, just... just constantly tell her how amazing her son is. Take it from me, moms love me. Ross's mom one time actually said I'm like the daughter that she never had."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Monica looks at Rachel in disbelief) She said WHAT?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(speaking louder and articulating) That's she's like the daughter she never had. (Phoebe points at her ears) Listen! (Monica looks at Phoebe in a duh! way)"
+  },
+  {
+   "t": "scene",
+   "text": "Ross and Rachel's apartment. Rachel enters the apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I just finished getting Phoebe all dressed to meet Mike's parents. She's so nervous, it's so sweet!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Guess what? I made Emma laugh today."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(in disbelief) You WHAT? And I missed it? Because I was giving a makeover to that stupid hippie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, and it was uhm... it was like a real little person laugh too. It was... it was like uhm... (Ross tries to impersonate Emma's laugh, but it comes out very squeaky, very high pitched. He laughs about himself but then looks at Rachel, realises that it sounded weird and straightens his face.) Only... only not creepy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well... well, what did you do to make her laugh? (excited)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I uhm... Well, I sang... (Rachel gasps) well actually I rapped... Baby Got Back... (Rachel's face changes from excited to angry)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You WHAT? You sang... to our baby daughter... a song about a guy who likes to have sex with women with giant asses?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But you know what, if you think about it, it actually promotes a healthy uhm... body image... because... even big butts or uhm... juicy doubles."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(disgusted) owwwww..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Please don't take her away from me!"
+  },
+  {
+   "t": "scene",
+   "text": "Richard's apartment. There's a knock on the door.The listing agent opens the door for Chandler and Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Catherine",
+   "text": "Oh hi, come on in. I'm Catherine, the listing agent."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hi I'm Joey. This is Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So how come Richard's selling the place? Went bankrupt? Medical malpractice? Choked on his own moustache?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Catherine",
+   "text": "Actually, he is buying a much bigger place. It's got a great view of Central Pa....."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "mmm That's enough about you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Is there anything we should know about the apartment?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Catherine",
+   "text": "All the appliances are included. There is a lot of light, a new kitchen... I think you guys would be very happy here... (Joey and Chandler both realise what she's assuming and start laughing.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, no, no, no, no, NO! No, no... we're not together. We're not a couple. We're definately not a couple."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Catherine",
+   "text": "Oh... Okay, sorry!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, you seem pretty insulted by that. What? I'm not good enough for you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We're not gonna have this conversation again... Look at this place. Why am I so intimidated by this guy? Pretentious art, this huge macho couch. When we know all he does is sit around all day crying about losing Monica to a real man! (laughs) You don't think he's here, do you? (Joey looks around)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You know what it is? It's a nice place but I gotta see I don't know if I see myself living here. Oh, oh, oh, let me see... (Joey sits down on the couch, mimes opening a can and puts his hand down his pants) Yeah, I could see it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(Chandler looks around the place and his eye gets caught by Richard's video collection) Look at these videos. You know, I mean, who does he think he is? Magnum Force, Dirty Harry, Cool Hand Luke... Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "There's a tape here with Monica's name on it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh! A tape with a girls name on it. It's probably a sex tape... (realises) Wait a minute... This says Monica... (looks around) And this is Richard's apartment... (realises some more)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Get there faster! (Joey gasps and finally understands...)"
+  },
+  {
+   "t": "scene",
+   "text": "Mike's parents building. Phoebe gets out of the classy elevator, looking all dressed up like an older woman, and very un-Phoebe. She walks to the door and rings the doorbell."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Wow! You look like... like my mom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm wearing pantyhose!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Great! Come on in! (Mike kisses her on the cheek. A butler walks in and takes Phoebe's coat.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, thank you! Oh... Oh my God, you're RICH!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "No, my parents are rich."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, so... They gotta die someday. (Mike's parents walk in) HELLO!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Mom, dad, this is Phoebe. Phoebe, these are my parents: Theodore and Bitsy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(in a very posh accent) Theodore... Bitsy... What a delight!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "It's so nice to finally meet you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "And you... Your home is lovely."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "Well thank you, I'll give you a tour later. It's actually three floors."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Holy crap!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "Phoebe, why don't you come in the living room and meet our friends?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, try and stop me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Hey... Wh... What are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(no accent) I'm trying to get your parents to like me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Yeah, I'm sure they will, but you don't have to do this... I'm wanting them to get to know Phoebe, not (accent) Phoebe..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(accent) Got it! It... It's hard to stop..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Well, come on..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Theodore",
+   "text": "Phoebe, these are our friends, Tom and Sue Angle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "Phoebe, come sit. Tell us a little bit about yourself... So where are you from?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(no accent) Uhm... Okay, well, allright, uhm... Originally I'm from upstate, but uhm... then my mom killed herself and my stepdad went to prison, so... I just moved to the city where uhm... I actually lived in a burned out Buick LeSabre for a while... (frowns are received) which was okay, that was okay, until uhm... I got hepatitis, you know, 'cause this pimp spit in my mouth and... but I... I got over it and uhm... anyway, now I'm uhm... a freelance massage therapist, uhm... which, you know, isn't always steady money but at least I don't pay taxes, huh... (everyone in the room finds it a bit surreal, which Phoebe realises and starts to talk in the accent again) So... where does everyone summer?"
+  },
+  {
+   "t": "direction",
+   "text": "COMMERCIAL BREAK"
+  },
+  {
+   "t": "scene",
+   "text": "Mike's parents house again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "God! God! This is not going well."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "No, no, no, you're doing fine, really... Why don't you go talk to my dad?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, okay, okay, okay... Still sure about me being myself?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Absolutely! Or maybe just a little less pimp spit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So Theodore... I uhm... I can see where Mike gets his good looks from..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Theodore",
+   "text": "Oh... Well..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah... And that physique! You must work out all the time..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Theodore",
+   "text": "Oh no, not all the time... I do the best I can..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah I bet! Look out! (Phoebe punches Theodore right in the stomach)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Theodore",
+   "text": "OH! OWWWWW! (Theodore grabs his stomach in agony)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God, are you okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Theodore",
+   "text": "I recently had surgery."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm so sorry!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Theodore",
+   "text": "No, I'll be fine... I just should check the stitches..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I really, really am sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Theodore",
+   "text": "How could you know. Why wouldn't you punch me in the stomach? (Theodore walks out... Mike walks towards Phoebe)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Uhm... Did you just hit my dad?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes... I'm sorry, I've never met a boyfriends parents before..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "But, I mean, you have met... humans before, right? Look, why don't you go talk to my mom?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah okay... yeah, your mom... okay... She looks nice, I can talk to her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Yeah, you do that, and I go check my dad for signs of internal bleeding. (Mike walks away and Bitsy walks in the same direction.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah... Oh Bitsy, hi. Uhm... listen I just wanted to thank you again for having me here tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "Well, not at all..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Also uhm... I just want you to know what a wonderful man your son is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "Thank you, I think so too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, and you know, it really is a testament to how he was raised. Especially to you. Because he's very respectful of women."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "Is he really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Are you kidding. He is so considerate of my feelings and... you know I think... you'd also like to know that he is a very gentle lover."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "E-e-excuse me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Mike now enters and stands behind Phoebe) Oh no, no, no, no, no, no. Don't get me wrong. No, he's not in like a sissy way. No, no, no... when he gets going, he can rattle a headboard like a sailor on leave..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "That's... my boy. (Bitsy walks away)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Awesome!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's apartment. Only Chandler is there with the videotape in his hands, standing in front of the TV set."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm not gonna watch it... I don't NEED to watch it... I mean, what good could possibly come from watching? (sighs) Well, we know I'm gonna watch it. (Chandler moves to put the tape in the VCR and Joey enters the apartment)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey dude, what's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Don't judge me, I'm only human!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Did you take that tape?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I had to! Okay, imagine you were married... and you found a tape of your wife in another guys' apartment... Wouldn't you need to know what was on it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know. Who'm I'm married to?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Some girl...!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "She hot?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah...!?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "How did she get me to settle down?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Allright, I'm gonna watch it... I mean look, it's probably not even what I think it is... And even if it is... It can't possibly be as bad as what I'm picturing in my head... (laughs nervously) Can it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Guess I don't know. My experience: if a girl says yes to being taped... She doesn't say no to much else, I tell ya..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Then you're gonna have to watch it for me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(backs off) What? Whoo... What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Just for a few seconds, so I can know what it is... Please?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, fine... But if I enjoy this, you have only yourself to blame... (Chandler turns his back to the TV. Joey puts the tape in the VCR, switches it on and watches what's on the tape... It's clearly a american football match, with the referee's whistle blowing, the crowds cheering...)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why am I hearing cheering?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well it's okay, its like... its just a football game."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Football? Just football?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, see... you were all worried for nothing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's football... It's just football... This is great! This is the first time I've ever enjoyed football... It may be customary to get a beer... (Chandler walks to the fridge, his back turned to the TV and a moaning sound replaces the cheering of the crowd... Joey's eyes double in size...) What the... (Chandler turns around, but Joey already took a sprint for Chandler, jumps, and floors Chandler in the open space in front of the apartment door...) What are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You don't wanna see what I just saw! (at this moment Monica comes home, and sees Chandler flat on his back on the floor and Joey pinning him down)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What are you guys doing? (Monica hears the moaning coming from the TV and looks at it) Oh my God, is that Richard? (It only takes a split second for Joey to realise, he pulls Monica down by her jacket, and she falls, face down next to Chandler. Chandler gets up a bit, and Joey quickly covers Chandler's eyes with his hand.)"
+  },
+  {
+   "t": "scene",
+   "text": "Ross and Rachel's apartment. Emma is sitting in her chair on the apothecary table and Rachel is trying to make her laugh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay... aahhh... Please laugh for mommy... Please? Please laugh for mommy... (Rachel makes a funny face, sticking her tongue out, making a farting noise and using her hands as antlers, wiggling her fingers... No response from Emma...) Not funny huh? Oh so, is it... only offensive novelty rap? Or maybe just, you know, rap in general? 'Cause mommy can rap... (Rachel tries to rap and makes weird movements with her arms in the process.) My name is mommy and I'm here to say / that all the babies are... Oh, I can't rap... Allright sweetheart... This is only because I love you so much, and I know that you're not gonna tell anybody... (Rachel's face is telling \"Oh what am I doing? The things I have to go through... and she starts to rap) I like... big butts and I cannot lie... / You other brothers can't deny... / when a girl walks in with an itty bitty waist and a round thing in your face... (Emma starts to laugh) Yes! Yes! Yes! YES! Oohhhhh! Oh! (Rachel now really gets into it, and her insecure movements start getting better) I like big butts and I cannot lie... / You other brothers can't deny... Oh Emma you're laughing! Oh you are, you really do like big butts, don't you. Oh you beautiful little weirdo... (Rachel picks up Emma and Ross now enters)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh you missed it. She was laughing. Oh it was amazing. It was amazing. It was the most beautiful, beautiful sound that..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh I know, isn't it? Ooh... what'd you do to get her to laugh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! You know, I just... couple of things I tried ... I just sang a little doo... Itsy Bitsy Spider..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You sang Baby Got Back didn't you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Nothing else worked. That girl is all about the ass..."
+  },
+  {
+   "t": "scene",
+   "text": "Mike's parents house, the dining room. Mike, Phoebe, Mike's parents and the Angles are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "...and then it goes back to the chorus... Smelly cat, Sme-lly ca-t / I-t's not your fau-lt. And that's the end of the song... I realise that you didn't ask to hear it, but uhm... no-one had spoken in seventeen minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Phoebe writes lots of great songs. Wha... What was that one you sang the other night that everybody just loved?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, Pervert Parade?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "(sighs) No..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, Ode To A Pubic Hair?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Stop! (The butler serves dinner)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh God! Is that veal?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Mom, I thought I told you... Phoebe's a vegetarian."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh no, no, no, no... That's okay, that's okay... I mean, I'm... I am a vegetarian... except for veal... Yeah no, veal I love..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Phoebe you don't have to eat..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, no, no, I actually it's any baby animals: kittens, fish babies... You know... especially veal... and this, this nice vein of fat running through it... (she cuts the meat, picks it up with her fork and holds it in front of her mouth, which she keeps closed, trying to overcome her vegetarian thoughts... and... puts it in her mouth... Clearly not enjoying the meat...) Hmmm... yummy (everybody seems okay with it, except Mike. He's making a hmmmm.... face... Then Phoebe swallows it) Hmmm... (at first she likes it, but then, in an instant puts her hand in front of her mouth and runs from the table. You hear a door slamming.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "So...? What do you think? (looks at his parents, which look in disgust)"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's. Monica switches off the VCR. Joey and Chandler are behind the couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So you stole that tape from Richard's apartment?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Whoho ho... Listen to the judgement from the porn star!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That tape was never meant to be seen by... (pauses) Joey I would feel more comfortable if I was having this conversation in private."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(laughs) Monica, look... I don't think you and I have any secrets anymore... (Monica keeps looking at Joey) Not ready to joke about it yet, okay, I see you later. (Joey walks out)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why in the world would you take this tape and and why would you watch it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Because that's who I am, okay? I'm sure a mature man like Richard could see a tape like that and it wouldn't bother him. Just'd be another saucy anecdote for him to share at his men's club over brandy and moustaches."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Is all this about you not being able to grow a moustache?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "This is about you and Richard. He's clearly not over you. He keeps a tape so he can... look at it whenever he wants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Isn't that sad? I mean, can you see how pathetic that is? You shouldn't be jealous. You should feel bad for him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, yeah, well, poor Richard. Y'... I can grow a moustache!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler, this is not our problem. We've got each other. That's all that matters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, oh, but I just keep picturing you rolling around with him with your cowboy boots in the air..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Cowboy boots? I've never worn cowboy boots in my whole life! (she turns on the video again)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, good, good. Play more, 'cause I wanna see how it ends."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "THAT'S NOT ME!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What...? That's not you! Life is good again! Ride 'em cowgirl!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That bastard taped over me! (Chandler's expression changes)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Is that a problem?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I-It's just so insulting! Big spring for a new blank tape, Doctor!"
+  },
+  {
+   "t": "scene",
+   "text": "Mike's parents house. Dining room again. Both Mike and Phoebe are not at the table, but the others still are."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Theodore",
+   "text": "I can't imagine what he sees in her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "She actually makes me miss that pill-popping ex-wife of his. (Mike walks in) Oh, hello dear..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Hey, what's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "We were just chit-chatting. How's your friend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "A little better."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "By the way, do you know who's moving back into town? Tom and Sue's daughter Jen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Theodore",
+   "text": "You remember her Michael, she's lovely and... well behaved and... single."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "I'm not interested."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "Oh, please darling, let's be honest. You can have all the... sailor fun you want with that one, but... let's be real..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "All right, stop! You know, all Phoebe has done tonight is trying to get you to like her. And maybe that hasn't been clear all the time, but she did her best. And yeah... She's a little different than you are..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "Michael, a pimp spit in her mouth! (Phoebe almost enters the room, but she hears the discussion and waits and evesdrops next to the door-opening.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "So what? I mean if even I can get past that, it shouldn't bother you. And you don't have to like her. You just have to accept the fact that I do. I mean, if you even can't be civil to the woman I love..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Bitsy",
+   "text": "The woman you what? (Phoebe overheard what Michael said and now enters the room)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah... The woman you what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "The woman I love... (he walks to Phoebe) I love you... Which is probably something I shouldn't say for the first time in front of my parents... and Tom and Sue...Who are by the way the most sinfully boring I've ever met in my life..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I love you too..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "You do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "YEAH...! How great is this...? (they kiss)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Wanna get out of here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mike",
+   "text": "Mom, dad, thanks for dinner."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I had a great time. (accent) It was really top drawer. And here's something rich: thirteen bathrooms in this place... I threw up in the coat closet... Ta taaa..."
+  },
+  {
+   "t": "direction",
+   "text": "COMMERCIAL BREAK"
+  },
+  {
+   "t": "scene",
+   "text": "Ross and Rachel's. Emma is in her bed and Ross and Rachel are rapping and dancing for her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "She sweat, wet. got it going like a turbo 'vette."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So fellas"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "fellas"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "has your girlfriend got the butt?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hell yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So shake it! (Rachel slaps Ross's butt on the beat)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Shake it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Shake it! (Phoebe, Mike, Chandler, Monica and Joey step in)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Shake it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Shake that nasty butt..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Baby got back (Then Ross turns around and sees their friends standing in the doorway)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "One more time from the top... I like big butts and I cannot lie, you other br... (She also turns and sees the gang)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rachel please! That is so inappropriate!"
+  },
+  {
+   "t": "direction",
+   "text": "END"
+  }
+ ]
+}

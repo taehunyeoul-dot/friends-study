@@ -1,0 +1,1280 @@
+{
+ "id": "s08e22",
+ "season": 8,
+ "episodes": [
+  22
+ ],
+ "code": "822",
+ "title": "The One Where Rachel Is Late",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, Joey is showing everyone a poster as Ross enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey! What are you guys looking at?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, it's a poster for that World War I movie that I'm in, check it out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah? Wow! It looks really violent!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh-huh! I know. I'm coming soon to a theater near you! I'm in THX! I'm unsuitable for children!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Now I cannot wait to see this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, yeah, it's already generating Oscar buzz."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I started that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I thought I did! Oh hey guess what? The premiere is next week and you're all invited! (They all gasp.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Are we gonna take a limo?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure! Why not?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh I love taking limos when nobody died!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well obviously I won't be able to come, for those of you who haven't checked their calendars today is my due date. Well y'know, I just want to take a moment and thank you guys for how great you've been during this time. I really couldn't have done it without you. And I have loved these last nine months! And even though I am so looking forward to the next part, I am really gonna miss being pregnant."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, time lapse, and Rachel is entering still pregnant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's right, still no baby! (To Monica, Joey, and Chandler on the couch) Come on people! Please make some room!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh sweetie, maybe you'd be more comfortable here? (Gets up from the green armchair.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You. Like you haven't done enough."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, I-I know how miserable you are, I wish there was something I can do. I mean I wish I were a seahorse. (She glares at him) Because with seahorses it's the male, they carry the babies. And then also umm, I'd be far away in the sea. (He sits back down.)"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel turns and looks at the group on the couch and they move over. Chandler measures the room they've made with his arm and decides it's not enough and they all move over again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "God. (Sits down.) I have never been so uncomfortable in my entire life!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh I know, I've been there. I remember toward the end..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(interrupting her) Oh Phoebe, that's a great story. Can you tell it to me when you're getting me some iced tea? (Phoebe gets up and Rachel groans.) (To the baby) Oh God, get out! Get out!! Get out!! Get out!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Let's. (Everyone gets up and leaves Rachel.)"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Phoebe, Chandler, Joey, and Monica are there as Rachel enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey! Did you have the baby yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Do you want me to come over there and sit on you? 'Cause I'll do it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What are you doing here so early?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "They sent me home from work. They were like, \"Start your maternity leave now! Just rest, get ready for the baby.\" Well y'know what? Screw 'em! If they don't want me there, I'll just hang out with you guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Or you can do volunteer work."
+  },
+  {
+   "t": "direction",
+   "text": "Joey's cell phone rings and he answers it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hello?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Estelle",
+   "text": "Joey! It's Estelle! Great news, I was able to get you and one guest tickets to your premiere."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "One guest? You told me I can have six tickets!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Estelle",
+   "text": "Well, I sold four of them on Ebay. You'll be sitting next to HotGuy372."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God. So that's it?! I only get to bring one guest?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Estelle",
+   "text": "Yeah, what time do you wanna pick me up? (Joey hangs up on her.) Hello?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to Monica, Chandler, and Phoebe) Did you hear that? I only get one extra ticket to my premiere. So some how I have to pick between you three and Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(overhearing that) What-what about me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You said you didn't want to go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't. But I would still like to be acknowledged. What? Just because I'm pregnant you think I'm invisible."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Definitely not invisible."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, well Ross didn't care enough to be here, so I think he's out. You snooze you lose."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "He's not snoozing, he's teaching a class."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well then somebody's snoozing. Joey, not that this uh should affect you at all, but if you were to pick me, I was planning on wearing a sequined dress, cut down to here. (Points to her stomach just above her belly button.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I haven't seen this dress."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Star in a movie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Joey, you pick who ever you want. Okay? You just listen to your heart. What does it tell you? (Mimicking a heartbeat and tapping her chest.) Phoebe, Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well uh...I think I want to take Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(still mimicking a heartbeat, only faster) Phoebe-Phoebe-Phoebe-Phoebe-Burrrrr! (Mimics the sound of a cardiac monitor going off.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You really want to take me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! Yeah! I mean I'm sorry, I wish I can take everybody, but y'know Chandler always supported my career. He's paid for acting classes and head shots and stuff and well this will be my way of paying you back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So you're never actually going to pay me back?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait a minute, just because he paid for your head shots you're gonna take him? Joey, I don't think you're comprehending just how slutty this dress is!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It's not just the stuff he paid for, I mean it's-it's everything. Y'know? He read lines with me. He-he went with me on auditions when I was really nervous, and then he consoled me after I didn't get parts that I really wanted. You always believed in me man. Even, even when I didn't believe in myself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I always knew you were gonna make it. I'm so proud of you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thanks. That means a lot to me."
+  },
+  {
+   "t": "direction",
+   "text": "They look at each other and smile for a while."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Mon, maybe one of these guys wants to wear your dress."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(in a manly voice) I'm gonna go shave. (Gets up.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(in a manly voice) Yeah well, I'm gonna go spit. (He goes into the bedroom. On his way out, Joey gives Rachel a wide berth.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I have to pee. If I don't come out in five minutes it's because I've choked to death on the potpourri stink. (Goes into the bathroom.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "When she comes out, you hold her nose, I'll blow in her mouth, and the kid will just (makes a popping sound) right out of her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She's over a week late! She gotta have it today, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't know. I-I think it's still gonna be a while."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hmm, care to make it interesting? I'll bet you that she'll have it by this time tomorrow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, how much?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "One hundred thousand dollars!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How about fifty bucks?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Fine! I'll call Zurich and move some money around."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(calling from the bathroom) All right, who's turn is it to help me get up!"
+  },
+  {
+   "t": "direction",
+   "text": "They both look at each other, then Phoebe gets an idea."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No one's here! (Monica looks at her.) Oh damnit!"
+  },
+  {
+   "t": "scene",
+   "text": "The World Premiere of Over There, Joey and Chandler are arriving in a limo and are about to walk down the red carpet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "This is so exciting! It's so glamorous! People taking our picture. How do I look?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "A little tall."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Do you mind crouching down a little bit, so that I look taller? (Chandler does so) There you go. (And they walk down the red carpet.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's just so glamorous."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Rachel is entering, still pregnant."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh hey Mon? Rach is here! Ohh, you're still pregnant. Oh, I'm sorry. I know how uncomfortable you are. Y'know what? You look great. Yeah, like fifty bucks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I have to go pee. Apparently this baby thinks that my bladder is a squeeze toy. (Goes to the bathroom.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Damnit! Damnit!! Here's your fifty bucks! (Pays Phoebe.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's interesting that you lost. Now, I forget, do you like to lose?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Now stop it! Double or nothing that she has it by tomorrow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Fine! You're on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Until then, General Grant, why don't you set up camp (She puts the bill in her bra) right there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey is Rachel here? We have a doctor's appointment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She's in the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rach, we gotta go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "In a minute!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "People ask me why we're not together, I just don't know what to tell them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) All right, all right. Let's go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, do you wanna go change first? The doctor's keeping the office open late for us, but if you hurry..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, I'm fine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really? You don't think that's a little inappropriate. (She's wearing a tank top and has her belly sticking out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Good God man don't anger it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, it is 100 degrees outside. For the first time in weeks, I am somewhat comfortable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Fine! Fine! Y'know what? Whatever you want. Okay? You're the mommy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh uh-uh pal! Don't call me mommy! It's bad enough you call your own mother that. (He looks at Monica.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm actually with her on this one."
+  },
+  {
+   "t": "scene",
+   "text": "Inside Joey's Premiere, he is intently watching the movie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(onscreen) \"I thought I knew who the enemy was, but it was you all along.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To Chandler) Okay, this is it. It's my big fight scene coming up. (He looks over and Chandler and notices that he's asleep.)"
+  },
+  {
+   "t": "scene",
+   "text": "Dr. Long's Office, Ross and Rachel are waiting for the doctor. Ross is drumming his fingers on the bed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Can I ask you something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "When Carol was pregnant with Ben..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mmm?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "...were you this irritating?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Excuse me?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh nothing. Nothing! Just uh, you've been a little short with me lately. I'm not trying to irritate you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well then you just must have a natural talent for it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know what? The doctor will be in soon, why don't we not speak until then."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(silently) Okay. (Pause) Seriously, breathe louder Ross! That's great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know we should probably ask the doctor if she even knows how to deliver a baby that's half human and half pure evil!"
+  },
+  {
+   "t": "direction",
+   "text": "Dr. Long enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi Dr. Long, how are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Rachel) Oh, you're nice to her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She has the drugs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "We'll do a quick check."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. (Rachel lies back.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "So, eight days late huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "You must be a little uncomfortable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Eh, just a tad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "You're about 80 percent effaced, so you're on your way. It still could last a little while longer. If you're anxious there are a few ways to help things along."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Do them!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Actually, they're things you can do. Just some home remedies, but in my experience I've found that some of them are quite effective."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, we are ready to try anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Okay, there's an herbal tea you can drink."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "You can take some caster oil, there's eating spicy foods..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Great! We will do all of those."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "...taking a long walk, and then there's the one that's proved most effective: sex."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel turns and looks at Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You've got to be kidding me!"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Joey's Premiere, the movie is ending and it takes the applause to wake up Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Good job Joe! Well done! Top notch!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You liked it? You really liked it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh-ho-ho, yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Which part exactly?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The whole thing! Can we go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh no-no-no, give me some specifics."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I love the specifics, the specifics were the best part!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, what about the scene with the kangaroo? Did-did you like that part?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I was surprised to see a kangaroo in a World War I epic."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You fell asleep!! There was no kangaroo! They didn't take any of my suggestions! That's for coming buddy. I'll see you later. (Starts to walk out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Don't go! I'm sorry. I'm so sorry! (Sees another guy who is still asleep.) Look! This guy fell asleep! He fell asleep too! Be mad at him! (Looks at him more closely.) Or, call an ambulance."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross and Rachel are there as Phoebe and Monica enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What did the doctor say? Any news on when the baby will come?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. But she did give us some ideas on how to induce labor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, we tried them all. We went for a walk, uh we tried a special tea, caster oil, spicy food nothing has worked."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, there is one thing that we haven't tried, but someone thinks that, (mimicking Ross) \"That will open up a can of worms.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well what is it? What is it? If it's gonna help bring the baby here, like today. I mean, I think you should do it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's sex."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Do it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Monica!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm just saying it's been a really long time for you. I mean, women have needs. Do it, get yours!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh I-I don't know about that. No, I think that if the two of you had sex the-the-the repercussions would be catastrophic."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, let's be practical, if Ross isn't willing to do it, he's not the only guy in the world you can have sex with. You can borrow Chandler-Chandler is good!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Monica, what is the matter with you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Nothing. I just want the baby to be born today."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why? Why today?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay fine! I keep betting Phoebe that you're gonna have the baby and I don't want to lose again!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?! While she's been going through this hell, you've been making money?! You're betting on your friend staying in this misery?! (Phoebe lowers her head and shakes it yes.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'll take that bet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I'm miserable here! I might as well make some money out it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Can I get some of that action?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait a minute! Now I'm betting against all three of you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh honey, don't worry. I really do feel like tomorrow's the day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, okay!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel turns her head to Ross and Phoebe and mouths, \"No way.\""
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Chandler is there as Joey enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! Sleeping beauty!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Where have you been?! I tried to call you! I want to talk to you! I still feel so bad!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(in a baby voice) Oh no, were you upset? Did you lose sleep?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh-huh look, the only reason I can over here was to settle things between us! Okay? You've done a lot for me and my career, I wanted to pay you back so I took you to the premiere but you missed it! Okay, so how much do I owe you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Give me a number, I don't want to owe you anything!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You don't owe me anything, I don't want you money..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ah-ah-ah! We're doing this! Okay, now you got me my first set of head shots. Right, how much were those?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't know, five hundred dollars?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, five hundred dollars. What else?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well then there was the second set, the infamous booger head shots."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, so that's another five hundred. Five hundred and five hundred, that's... (Pauses to figure it out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Do you want a calculator?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Please!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Here! (Hands him one. Joey adds it up and discovers that he was right.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, what else?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well uh, there was acting classes, stage combat classes, tap classes..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Which we're still keeping under our hats!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uh then there was that dialect coach who helped you with that play where you needed a southern accent. Which after twenty hours of lessons still came out Jamaican."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What the hell are you talking about, (in a Jamaican accent) \"The south will rise again man.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, money well spent!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. Okay, what else? Rent!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, two, three years of rent, utilities, food..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. Okay, so I'm writing you a check for...So you fell asleep during my movie. Big deal right? How do you clear this thing?"
+  },
+  {
+   "t": "scene",
+   "text": "Ross and Rachel's, Ross and Rachel are trying the home remedies again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Come on, finish your enchilada."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross I-We tried all the spicy food. It's not working."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay here, have one of these peppers. Oh ha... Oh God! So...so hot! (Rubs his eyes.) Oh my-(Laughs.) By the way, you don't want to touch the pepper and then touch your eye."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I am feeling nothing. Speaking of hot, watching you do that really makes me want to have sex with you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Stop it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh come on Ross, why are we wasting our time with this other stuff?! We know what's gonna work! It's doctor recommended!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm sorry, but we have to have some boundaries! My God, I'm dying."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh come on Ross, we've done it before we'll do it again, it'll be a nice way to bookend the pregnancy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This is insane, I'm not gonna make love to you just so that you'll go into labor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Make love? What are you a girl?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Always a great way to get in a man's pants."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But you will, you will be performing a service. Okay? Just-just think of me as a ketchup bottle, y'know you sometimes you have to bang on the end of it just to get something to come out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I love when you talk dirty to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I know it. You're right. That's not sexy. Oh...Oh! (Drops a fork on the floor.) Whoops! Oh, I seem to have dropped my fork. Let me just bed over and get it. (Tries too, but can't quite seem to make it.) Oh God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay enough! This is, this is not going to happen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Come on Ross! I'm miserable here! Come on! You started this, now you finish it! Come on wuss, make love to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Forget it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh wow! What now Ross you're not gonna talk? How on earth will you ever annoy me? Oh wait a minute, I know. (Mimics his breathing.) I mean you'd think the damn jalepeno would've cleared up your sinuses, but no!! That's not enough... (Ross jumps over and kisses her.) What are you doing?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I'm getting that baby out of you!"
+  },
+  {
+   "t": "direction",
+   "text": "They kiss again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(breaking the kiss) Oh God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no. No-no! I think my water just broke."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I am good. Okay! Okay! Uh, I got the pillow! I got the bag! You got the keys?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay! I got the keys! Okay! Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "We're having a baby."
+  },
+  {
+   "t": "direction",
+   "text": "They hug and then kiss one more time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I didn't uh, really have time to read this part of the books, but do you think we have time to..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Not so much."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica is paying Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Two hundred."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thank you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's it. I'm done. I don't care when the baby comes, no more betting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "The phone rings and Monica answers it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hello? (Listens) Uh-huh. (Listens) Uh-huh. (Listens) Okay. (Hangs up.) I guess we can bet one more time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Is Rachel having the baby?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How did you know that?! (Runs to yell at Joey's apartment.) Joey! Chandler!! It's time!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "They're at the coffeehouse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You know everything!! Oh wait, double or nothing. I bet you the baby is over seven pounds. (Phoebe isn't interested.) I bet you it has hair. (She's still not interested.) I bet you it's a girl."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "We know it's a girl! (Exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(following her) I'll give you really good odds."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

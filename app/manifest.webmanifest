@@ -1,0 +1,16 @@
+{
+  "name": "Friends 영어공부",
+  "short_name": "Friends",
+  "description": "프렌즈 대본으로 배우는 영어 표현 — 에피소드 리더 + 간격반복 플래시카드",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2E2344",
+  "theme_color": "#2E2344",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

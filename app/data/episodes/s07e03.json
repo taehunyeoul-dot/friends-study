@@ -1,0 +1,1407 @@
+{
+ "id": "s07e03",
+ "season": 7,
+ "episodes": [
+  3
+ ],
+ "code": "703",
+ "title": "The One With Phoebe's Cookies",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, Rachel, Phoebe, Joey, Ross, and Monica are all there as Chandler enters wearing glasses."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, you guys!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross and Rachel",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, what do you think?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "About what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you kidding? Okay, I'll give you a hint; I'll give you a hint. (Points to his glasses.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Eyes! No, no. Your eyes! No. Chandler's eyes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I got glasses!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, you-you've always had glasses."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No I didn't!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Are you sure?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah-yeah, did-didn't you use to have a pair? They were really round, burgundy, and they made you look kind of umm..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Feminine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Sweetie, I think the glasses look great. They make you look really sexy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(sitting down on the arm of her chair) You didn't think I used to wear glasses, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Of course! (She mouths, \"I have no idea,\" to the rest of the gang.)"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Rachel, Phoebe, Chandler, and Monica are making some sandwiches."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So what do you guys want for an engagement present?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's okay Pheebs, we're not having a party or anything, so you don't have to get us..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(interrupts him) If someone wants to give us a present, we don't want to deprive them of that joy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, y'know what you should get 'em? One of those little uh, portable CD players."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, I already have one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Not unless someone borrowed it and left it at the gynecologist."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, and-and-and by someone, she means Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, I know I what I want!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What we want honey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, you don't want this. I want to have your grandmother's cookie recipe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You mean the chocolate chip cookie recipe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Uh-huh, yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You mean the one that my grandmother made me swear on her deathbed that I would never let out of our family?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Dying people say the craziest things."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I wanted it for years! I was gonna make cookies for my children."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Break my heart-Oh, all right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. I'm gonna be the mom that makes the world's best chocolate chip cookies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Our kids are gonna be fat aren't they."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Ahoy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey! How's the boat?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Great! I'm finally getting into this sailing stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, so you finally took it out of the marina huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why would I do that? It took three guys to get the thing in there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "If you don't sail your boat, what do you do on it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, it's great! It's a great place to just kinda, sit, hang around, drink a few beers, eat some chips. (He says that as he sits, hangs around, drinks a beer, and eats a chip.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, it's good that you finally have a place to do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Y'know Joey, I could teach you to sail if you want."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You could?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah! I've been sailing my whole life. When I was fifteen my dad bought me my own boat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Your own boat?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?! What?! He was trying to cheer me up! My pony was sick."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler and Monica are there. He takes off his glasses and starts chewing on the ear piece."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Do you know what I was thinkin'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Nothing, I just like to go like this. (Does it again.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering from the bathrooms) Hey Chandler, what are you doing tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uh why, do you have a lecture?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Then free as a bird. What's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "My dad wanted to know if you wanted to play racquetball with us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow! That's great! Dad must really like you, he doesn't ask just anyone to play."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah and he didn't really ask for you, he asked for Chancy, I assumed he meant you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, did-did you correct him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I-I thought it would be more fun this way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This is so cool, maybe this is something you can do every week."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Or you can sit with him on the front porch and make sure no one steals the trash cans. He does that every week too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, just so you know, you-you have to let him win."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "He hates to lose."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh no problem, maybe I'll play with my left hand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're not a lefty?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Does anybody know me?!"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe enters, walks up to Monica, and exhales exasperatedly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What's wrong Phoebe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I just went to my old apartment to get you the-the cookie recipe and the stupid fire burned it up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No!! Why didn't you make a copy and-and keep it in a fireproof box and keep it at least a hundred yards from the original?!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(pauses as he figures out how to answer that) Because I'm normal! That was the one legacy my grandmother left me, and I know you wanted it as an engagement present."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, we have to get you an engagement present?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Don't worry about it Pheebs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No one got me an engagement present."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, here I wish you health and happiness. (She hands Monica a cookie in a plastic baggie.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "An old cookie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(To Chandler) This is what happens when you don't register for gifts!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "See no-no, I made a batch and I froze it, and this is the only one left."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We can't accept this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "'Cause it's gross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No! Wait! I think I can figure out the recipe from this cookie! I do stuff like this at work all the time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Really?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah! I bet I can do it."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler looks over and sees Ross glaring at them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, we owe you a present."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Two! I've been engaged twice!"
+  },
+  {
+   "t": "scene",
+   "text": "The Mr. Bowmont (Joey's boat), she's shown to be in one of the waterways around New York, but in reality she's in a sound stage on the Warner Bros. lot and we see New York from the water in some rather poor green screen shots. Rachel and Joey are on board."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(drinking a beer) Look at this clown! Just because he's got a bigger boat he thinks he can take up the whole river. (Yelling) Get out of the way jackass! (To Rachel) Who names his boat Coast Guard anyway?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That is the Coast Guard."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What are they doing out here? The coast's all the way over there. (Points to the coast, meanwhile there is coast behind him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, just ignore the boats all right? We're not finished with the lesson yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, I'm just gonna go over the basic points just one more time, are you ready?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on Rach, not again. I got it! Okay? Let's start sailing, and I want to go over there (Points) where that boatload of girls is! (Yelling to them) Yo-ho-ho!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, okay. Is that what you want to do? You wanna go over and give a little shout out to the old, hot chickas? Okay, let's do that Sailor Joe. Quick question though, (grabs some of the rigging) what's this called?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, boat rope."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wrong! How do you get the mainsail up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhh, rub it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. What do you do if I say we are coming about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'd say, come again. No-no, wait I-I-I know this one, I know this one, uh..."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel blasts an air horn in his ear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Time's up, now your dead."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And deaf!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, you just go on and make your little jokey-jokes, but if you do not know what you are doing out at sea you will die at sea. Am I getting through to you sailor?! (She punctuates each word by slapping him on the forehead.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Don't just say yes! This isn't a game, Joey you can really get hurt out here. Okay, so do you want to pay attention or do you want to die?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I want to make a ship to shore call to Chandler."
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Monica and Phoebe are trying to determine the cookie recipe by eating small pieces."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, I definitely taste nutmeg."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You don't? (Laughs) Well, that's the difference between a professional and a layman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That and arrogance."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey! How was sailing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't want to talk about it. Y'know, you could've at least saved me a whole cookie. (He grabs what's left of the cookie and pops in his mouth.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica and Phoebe",
+   "text": "No-wait-no-no!!!!!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(recoils in horror) Women are mean!!! (Storms out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can't believe that! Now the only thing left of my grandmother's legacy is this crumb. (She picks it up with her finger and holds it out to Monica.) I wish you a long and happy marriage."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering with Chandler) Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey! How was it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well I had a great time! Umm, Chancy on the other hand..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I will tell the story! It was going great. I let him win. We were bonding. He even said I could call him dad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And what did he ask you not to call him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Daddy. All right look, here's the story. (Flashback to Chandler about to enter the steam room as he does the voice-over.) Well, we had just finished playing racquetball and we were gonna take a steam. I walk into the steam room and it was really steamy. (The flashback shows his glasses fog up and him trying to find his way around the steam filled room. He takes off his glasses.) So I take off my glasses and that's when in happened."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the flashback, Chandler's no longer doing the voice-over.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Guys?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Over here. (You can see Ross sitting at the far wall.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Geller",
+   "text": "Have a seat son. (You can see Mr. Geller sitting closer to the door as Chandler walks over and sits in his lap.) Hey!! (Chandler quickly jumps off and sits next to him with a shocked expression on his face.)"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Chandler is finished telling everyone what happened."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God Chandler! I can't believe it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You gave my father a lap dance!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why do they put so much steam in there?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "'Cause otherwise they'd have to call it the room room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why? Okay? Why? Wh-wh-why did that have to happen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Come on, it's not that big a deal!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Not that big a deal? There...there was touching of things."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Now, I know you wanted to bond with my dad, but did you really have to bond to that part?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Listen, I'm sure that dad doesn't care. He probably thought this was funny; he'll be telling this story for years!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't want him to tell this story for years."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, but he will. He still tells the story how Monica tried to escape from fat camp."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I wasn't escaping."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Then how did you get caught in the barbed wire?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I was trying to help out a squirrel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You were trying to eat it!"
+  },
+  {
+   "t": "direction",
+   "text": "The phone rings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "If that is your father calling to tell this story then the marriage is off!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(takes the phone from Ross) Come on. (Answering phone) Hello? (Listens) I'm sorry you have the wrong number. (Listens) (Whispering) Okay, I'll call you later dad. I love you. (Hangs up.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler, Ross, and Rachel are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(getting up) All right, I'm off to see your dad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Whoa-whoa, aren't you a little over dressed?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(laughing) Yeah, and-and you better make sure he tips you this time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look, I figured I would try to convince him not to tell the story anymore, and I figure the best way to do that is face to face-And by face I don't mean his lap. And by face, I don't mean my ass. (Exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To Rachel) Hey are you getting Monica and Chandler an engagement present?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know. Y'know, they didn't get us anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thank you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well hello! So, when are we gettin' back out on the water matey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh uh, I don't know the boat way to say this, but uh never!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Because! You're mean on the boat!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? I was just trying to teach you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, lesson learned! Rachel is mean!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeeeeeep... Yep-yep-yep-yep-yep. I remember when she took out on her dad's boat she wouldn't let me help at all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Excuse me, I wanted you to help, but you couldn't move your arms because you were wearing three life jackets."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You have to respect the sea! (Storms off.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Look Joey, I'm sorry if-if you thought that was mean, but I gotta tell ya something. That was not mean. Okay, my father is mean. He used to yell at me all the time on the boat, I mean it was horrible. I was just being a good teacher."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Does a good teacher say, \"Put down the beer pinhead!?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, does a good student drink seven beers during his first lesson?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Six and a half! You knocked that last one out of my hand! Remember?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, I didn't want you to get hit by the boom!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well it hit me anyway! And it would've hurt a lot less if I had finished that last beer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, y'know what? I-I'm sorry. I will try to tone it down and uh stop yelling."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You won't boss me around anymore?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I won't boss you around."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And you'll be nice?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And, I'll be nice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And you'll be topless?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And-Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Do you want me to learn?!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Monica is trying out different cookie recipes. Ross and Phoebe are the tasting group."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, here's batch 22. Ohh, maybe these'll taste a little like your grandmother's. This has a little bit of orange peel, but no nutmeg."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Let's give it a shot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. Man, I have not made this many cookies since I was in the ninth grade."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, what was that for? Like a bake sale?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, just a Friday night."
+  },
+  {
+   "t": "direction",
+   "text": "They all take a bite."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ohh, these are pretty good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, but not as good as batch 17."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Which one was that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "The ones we had right after you almost threw up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh yeah! Batch 17 was good. I did not like batch 16. (Burps a little bit.) I'm okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Are there anymore from the good batch? 'Cause we could just work off of those."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, ooh yeah, I think there is one from batch 17 left, uh... (Grabs a cookie and takes a big bite out of it and doesn't like it.) It's batch 16! 16 people! Get out of the way! (Gets up and runs for the bathroom.)"
+  },
+  {
+   "t": "scene",
+   "text": "The Mr. Bowmont, its Joey's second lesson with Rachel as the resident sailing expert."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay Joey honey, you're doing really good! All right, now I'm just gonna need you to step to the port side. (Joey pauses as he tries to remember which side is the port side.) Remember? Remember how we talked about the port side?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ohh yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nope."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's left sweetie, but that's okay sweetie, that's a tough one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know why you just don't say left."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, go to the left. (Joey goes starboard or sits on the right side of the boat.) The left!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(yelling) Just sit over there!! (Points to the port side.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(hurrying over) Okay! Okay, you're yelling again! See that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! No-no, no-no-no, very quiet, said with love, no yelling."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, y'know what? Since I'm here, I think I'm gonna have me a little beer on the port side. (Grabs and opens one.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay Joey, we're luffing a little bit, so could you tighten up the cunningham? (The mainsail has started to flap in the wind and has stopped working efficiently; she wants him to tighten it so that it starts working again.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, wow, you just said a bunch of stuff I didn't know there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, come on! We just went over this! (She does it instead.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, y'know, when we did that was when that bird was flying overhead with the fish in his mouth. Did you see it? It was gross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(angrily) No! All right?! I did not see the bird! I did not see the fish! I did not see the piece of Styrofoam that was shaped like Mike Tyson! I did not, because I was trying to teach you how to sail a boat! Which obviously is an impossible thing to do!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right that's it! You're yelling and I don't see you taking your top off! I quit!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What do you mean you quit?! You can't quit!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why not?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Because you're not finished yet and I won't have it! Greens do not quit!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Greens? I'm a Tribbiani! And Tribbianis quit!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God, wait did I-I just said Greens don't quit didn't I? (Pause) (Angrily) Did I just say Greens don't quit?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yes! Yes! You did and you're still yelling at me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! No! No! I'm not yelling at you, I'm just yelling near you. Oh God Joey, ohh I'm my father. Oh my God, this is horrible! I've been trying so hard not to be my mother I did not see this comin'. Oh, Joey, I'm sorry. I'm so sorry. I just wanted you to learn."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, hey I did learn."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! Come on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Awww..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, it's okay. I know what a mainsail is. (Points to it. It's the larger sail.) I know, I know to duck when the boom comes across. I-I know port is right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Left."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Damnit!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, the cookie trying period has pasted. Monica, Phoebe, and Ross are reflecting on the day's events."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Y'know, I bet it would actually make my grandmother very happy to know that we're trying to figure out her recipe. I bet she's l-l-lookin' up at us and smiling right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Looking up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah-No, she was really nice to me, but she's in hell for sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, I've tried everything. I give up. I guess I'm not gonna be the mom who makes the world's best chocolate cookies. I do make the best duck confit with broccoli rabe.  Kids love that right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Aww, Pheeb, come on isn't there any relative that would have the recipe? What about, what about your sister?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh no-no, no, I made a promise to myself that the next time I would talk to Ursula would be over my dead body. And that's not happening 'til October 15th, 2032."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's the day you're gonna die? See-darnit, I've got shuffleboard that day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's what you think."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, I mean what about friends of your grandmother's? Wouldn't they have the recipe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, y'know I may have relatives in France who would know. My grandmother said she got the recipe from her grandmother, Nesele Tolouse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What was her name?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Nesele Toulouse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Nestle Tollhouse?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, you Americans always butcher the French language."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(grabbing a bag of Nestle Tollhouse chocolate chips) Phoebe, is this the recipe? (Tosses her the bag.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(reading the recipe on the back of the bag) Yes!! (Realizes.) Ohh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I cannot believe that I just spent the last two days trying to figure out the recipe and it was in my cupboard the whole time!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know! You see it is stuff like this which is why (Looking down) you're burning in hell!!"
+  },
+  {
+   "t": "scene",
+   "text": "The Gym, Chandler and Mr. Geller are heading for the whirlpool room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So you understand, I'd feel a lot more comfortable if you didn't tell people what happened. Y'know, I'm a little...I'm a little embarrassed about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Geller",
+   "text": "I understand completely, there's nothing more horrifying than embarrassing yourself in front of your in-laws. As a matter of fact, when I started dating Judy I was unemployed, and her father asked me what I did for a living and I told him I was a lawyer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What did you do when they found out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Geller",
+   "text": "They never did, so if ever see me giving them legal advice just nod along. Shall we?"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler nods along and they enter the whirlpool room and remove their robes. Only Chandler is lacking a certain item of clothing. You see this is a coed whirlpool, which means swimsuits, and in fact there are two women already there and Chandler didn't seem to wear his. Needless to say, everyone is shocked, including Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So I guess we wear swimsuits in here!"
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "The Mr. Bowmont, is tied up alongside the pier; Joey and Rachel are relaxing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well Joey, I hate to admit it, your way of sailing is a lot more fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, yeah. Hey, why don't you give a pull on that rope? (Points.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh we're not sailing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Just pull on it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right. (She does so and it brings the cooler closer together.) Hey-hey-hey!! (Sees what's in the cooler.) Sandwiches!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What else?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(hands him one) Here you go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh wow! (She takes a bite, but holds the sandwich vertically so that the stuff falls out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What you-don't hold it like that! You're lettin' all the good stuff fall out."
+  },
+  {
+   "t": "direction",
+   "text": "More falls out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh whoops."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Careful! You're wasting good pastrami! (Gasps.) Oh my God! I'm my dad!"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

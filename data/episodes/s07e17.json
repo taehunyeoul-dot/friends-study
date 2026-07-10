@@ -1,0 +1,1544 @@
+{
+ "id": "s07e17",
+ "season": 7,
+ "episodes": [
+  17
+ ],
+ "code": "717",
+ "title": "The One With The Cheap Wedding Dress",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, Monica, Chandler, Phoebe, and Joey are there. Monica is holding a piece of paper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So the wedding caterer sent me this list of twelve appetizers and I have to narrow it down to six."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Food? Uh-huh gimme! (She hands him the paper.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So did Monica tell you about this great band called the Swing Kings that we're trying to get to play at the wedding?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Since when are you into swing music?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh since forever! I used to go all over town listening to bands!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Gap commercial. (To Monica) So did you book them? Did you call?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I will."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Do you want me to call?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, I'll do it. You just stick to your job."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What is your job?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Staying out of the way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "This is impossible Monica, why don't you just pick all 15? (Hands back the paper.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "There were only twelve."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah, I added three."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What are peanut butter fingers?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah... (He mimes sticking his fingers into a jar of peanut butter, scooping some out, and eating it off his fingers.)"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "A Street, Chandler and Ross are at a newsstand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(noticing a beautiful woman moving in down the street) Well hello! She's cute! Should we uh, go try to talk to her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Sure! That's one of the great things about being engaged. I'm not nervous talking to pretty girls anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Woman",
+   "text": "Could you guys help me? (Chandler shyly exhales and looks away.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh yeah! Let me, let me get that for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Woman",
+   "text": "It-it's really heavy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(exhales) I got it. (He lifts the box and grunts under the strain.) (Calmly) So hi, I'm uh, I'm Ross and this is my friend Chandler. (He shyly waves.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Woman",
+   "text": "I-I am Kristen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Kristen, hi. Are you uh, new to the area, 'cause if you are...I'd love to show you around sometime."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "I...I uh, actually just moved from four blocks over."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "But-but this block is like a whole other world."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know actually it does have a very interesting history. Uh, this street is the first street in the city to have an underground sewer system. (Kristen crinkles her nose at that.) Before that sewage and waste would just flow right down the street. Yeah, sometimes ankle deep! (He stops when he realizes what he's talking about.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Ross) Smooth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "(To Chandler) Excuse me? (Chandler does the shy thing again.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Umm, say you're gonna be starving after all this moving. What do you say I take you to dinner tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Oh I'd like that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Great! Uh, let me take this up for you. (The box he's holding.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "After you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh no-no, after you. (She grabs a chair and heads upstairs.) (When she's gone.) Oh my God! (He drops the box and Chandler can't pick it up.)"
+  },
+  {
+   "t": "scene",
+   "text": "A Bridal Shop, Phoebe and Rachel are waiting for Monica who is trying on her wedding dress."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(wearing a veil) Am I crazy or does this totally go?!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica enters from the dressing room wearing her gown."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God! You look so beautiful!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(To Rachel) Thank you Rachel but, look at Monica!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This is it. Yeah, this is the one. I can't believe I found it!"
+  },
+  {
+   "t": "direction",
+   "text": "Another woman walks up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Woman",
+   "text": "Wow you look so beautiful! If I knew you, I'd cry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well I'm Monica Geller, ball like a baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Woman",
+   "text": "I'm Megan Bailey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Have you found your dress yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "Oh no, these dresses are all so amazing but there is no way I could afford one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, I can't afford this either. No. I-I-I'm, I'm just to figure out which one I want then I'm gonna get it at Kleinman's, this discount place in Brooklyn, day after tomorrow they are having a huge sale."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "Oh, thanks for the tip."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah! So-so when are you getting married?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "Oh I'm not, I just like to try these on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I do the same thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "I'm just kidding. I'm getting married July 25th."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm just kidding too. (Laughs) I'm getting married in December. (Turns away not happy with herself.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "(To Monica) So when are you getting married?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh May 15th."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "Oooh it's getting close!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "So uh, who's your photographer?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Jeffery."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "We met with him. Did he show you the photos of the nude wedding he did?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "The best man? Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "I know! I almost called off my wedding. Oh, who's your band?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, my fiancee wants the Swing Kings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "Oh, you're so lucky. My fiancee wants the heavy metal band Carcass."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, is that spelled with a 'C' or a 'K'? Oh my God! It doesn't matter; they're both great!"
+  },
+  {
+   "t": "direction",
+   "text": "Another woman walks past Rachel carrying a wedding dress."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh y'know what? Y'know what? Now that you know what you want you should go to Kleinman's and get it half off. This place is so overpriced."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Woman",
+   "text": "I own this store."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So, does this (The dress) come in another color or... (The store owner walks away.)"
+  },
+  {
+   "t": "scene",
+   "text": "A Street, Joey is walking by Kristen who is still moving in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(checking her out) Hi! You uh, movin' in or movin' out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "I'm moving in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh uh, can I give you a hand?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Oh okay. But y'know what? Be careful. Because a guy was helping me before had to leave because he hurt his back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Boyfriend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm Joey. (They shake hands.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Kristen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh wow, what a beautiful name! (Pause) What is it again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Kristen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Got it! (He picks up a lamp.) So..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "So uh, do you live around here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! Yeah! Right down there. (Points.) Hey listen; let me give you a little tip. Do not take a nap on this stoop (Points to hers) or you can wake up with your shoes gone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "I'll remember that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. Yeah. Listen would you uh, would you like to have dinner with me tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Oh I, I have plans tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "But how about tomorrow?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sounds great! Okay all right, well where does this go? (The lamp he's holding.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "You look strong, why don't I take that and you grab one of the boxes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. Yeah. (She leaves and he goes to pick up a box marked books, but decides to take the box marked pillows instead.) Yeah, I'll grab this one. (He follows her upstairs.)"
+  },
+  {
+   "t": "scene",
+   "text": "Kleinman's, a horde of women including Rachel, Phoebe, and Monica are waiting for the store to open."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "A Woman",
+   "text": "What is taking so long?! I mean whatever!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(To Phoebe) So this is Brooklyn."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, listen up. There is usually only one dress in each size so when they open those doors, fan out. Now, this is what you're looking for! (Holds up a picture of it.) Memorize it! When you locate the dress, blow on these. All right? (She passes out whistles to them.) Three short blasts, when you hear it. Come running."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Got it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right."
+  },
+  {
+   "t": "direction",
+   "text": "A worker comes to open the door and the horde starts to press forward."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "A Woman",
+   "text": "Here he comes! Hurry!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh they're pushing! They're pushing!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(To Rachel) Hey! Don't be a baby!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well I..."
+  },
+  {
+   "t": "direction",
+   "text": "The door opens allowing the horde to charge in, knocking Rachel out of the way and to the ground."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "A Woman",
+   "text": "Let's go!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(coming back out) Hey! Rachel! Come on!!!!"
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse, inside the store, Monica is frantically looking for her dress.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No. No. Not it. Not it. Not it. (Checks another rack and another woman tries to reach around her.) (To the woman) Don't crowd me! (Finds it) This is it! This is the dress! Oh my God, it's perfect! (She takes it off of the rack and someone has a hold of it on the other side of the rack and tugs on it.) I'm sorry, this one's taken! (The other woman tugs harder pulling Monica through the rack.) Whoa!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Megan!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "Monica!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You came?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This is my dress!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yes it is! You saw me wearing it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "And now you'll see me buying it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What? You freak! You wouldn't even have known about this place if it wasn't for me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Megan",
+   "text": "Look, you don't want to fight me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Maybe I do! I'm pretty feisty! (She blows the signal.)"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Phoebe in another part of the store.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(hearing the signal) I'm coming! I'm coming! (She takes off towards the signal and almost knocks another woman over.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Hey!"
+  },
+  {
+   "t": "direction",
+   "text": "She hears another signal in another direction."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay! (Runs that way and hears another whistle blast.) Hey! (Heads the other way and hears another blast.) What do I do?!! (She runs in the second direction and finds that the whistling is coming from inside a rack. She moves the dresses out of the way to find Rachel curled up in a fetal position frantically blowing on the whistle.) What are you doing? (Rachel doesn't stop.) Did you find the dress? (Rachel won't stop so Phoebe pinches her nose shut which causes her to spit the whistle out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Did you find the dress?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! You gotta get me out of here Phoebe! These bargain shoppers are crazy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I-We gotta get Monica. (She starts to leave.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! You gotta hold my hand!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God!! (She grabs Rachel's hand and drags her towards Monica.) Excuse me! Excuse me! (She's knocking women and veils out of the way as she moves.)"
+  },
+  {
+   "t": "direction",
+   "text": "She gets to Monica who has the dress balled up in one hand and is sitting on Megan who is sprawled out on the floor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(handing Phoebe the dress) Go! Go! Go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(seeing who's trapped) Hey..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "NOW!!!!!!!! (Rachel runs off and Monica gets up to follow her.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler and Ross are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So Ross, how was your date the other night? Did you tell her about the magical ride that starts with the flush of every toilet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Laugh all you want but uh, she actually left me a message saying she'd like to go out again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah in fact, I'm gonna go call her right now. And I'll make sure to tell her my friend Chandler says... (He mimics the shy reaction Chandler did.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey Chandler!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Listen, sorry I didn't stop by last night but I had a date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uh Joe, when it's one o'clock in the morning and you don't come by? That's okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well check it out, I was with this really hot girl who just moved in right across the street!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really? Right across the street?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "When'd you meet her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Two days ago."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Excellent! Y'know Ross met somebody too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(returning) Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi! How'd it go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh great! We're going out again Saturday. But I just found she's also seeing some other guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(sarcastically shocked) Really?! Joe? What would you do if you were in Ross's situation?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I sorta am. I mean yeah, I'm dating this girl who's also seeing another guy. But, I don't know, I'm not to worried about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well you shouldn't be. Believe me I wouldn't want to be the guy who's up against you. (Chandler laughs.) I mean that doofus is going to lose!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So this is nice! I wish I didn't have to go, believe me! But unfortunately I have to. (He gets up and Joey moves over next to Ross.) Oh uh, by the way, what's the name the girl you're dating?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey and Ross",
+   "text": "Kristen Lang."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Bye! (Exits.)"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, time lapse from the earlier scene."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well obviously only one of us can keep dating her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Obviously! So, how do we decide?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well now let's-let's look at this objectively, I think I should date her..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(not buying it) Uh-huh. Uh-huh. Or, or I'm the one who dates her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's interesting, but check this out. I date her..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah-yeah I like that but just to go in another direction..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, okay. This can go on for a while."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah well we should order some food then."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No Joey! Look why don't, why don't we just let her decide? Okay? Hey-hey, we'll each go out with her one more time. And-and we'll see who she likes best."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(smiling) That sounds fair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Maybe I'll take her to that new French restaurant down the street..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ah yeah-wait a second now! Look we're gonna have to set a spending limit on the date. I don't have the money to take her to a fancy place like that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well sorry, that's what I do on dates."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, well I guess I'll just have to do what I do on dates."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So let's decide on the spending limit..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. Uh, (thinks)...a slice...(Thinks)...six dollars?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I was thinking more like a hundred."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. Can I borrow 94 dollars?"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Monica, Phoebe, and Rachel are admiring Monica's wedding dress."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know. Hand me a tissue. (Monica hands her one.)"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel goes to the fridge, opens it, and blows on the whistle Monica gave her at the store, which causes Phoebe and Monica to turn around and look at her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You're out of Diet Coke."
+  },
+  {
+   "t": "direction",
+   "text": "The phone rings and Monica answers it as Rachel goes into the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hello? (Listens) What?! (Listens) You what?! (Listens) Hey you listen here missy! (Listens) Wh-(She is hung up on.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That was that girl Megan! She booked the Swing Kings on the day of our wedding and said that I couldn't have them back unless I gave her the dress!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(gasps) Does that mean Carcass is available?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What am I gonna do?! That is the dress! That is the dress! Wh...Chandler wants the band. What do I do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well just figure out a way to talk him out of it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How?"
+  },
+  {
+   "t": "direction",
+   "text": "There are three short whistle blasts from the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You're out of toilet paper!"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, Ross is getting ready for his date with Kristen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey! What's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I just wanted to come by and y'know, wish you good luck on your date."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh thanks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. What time are you meeting her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "We have 8:00 reservations at Grammercy Bistero."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow, that's in like 20 minutes. You'd better get dressed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I am dressed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh. Well good! (To himself) For me. (He picks up a jar of lotion.) What is this? Did you give yourself a facial?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I have an oily T-zone!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay dude! (Finds a receit.) Hey you uh, you sent Kristen flowers."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You spent a hundred dollars. That's the limit. You're screwed!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh actually, I sent the flowers before the actual date. So techincally, technically I didn't break any rules. Thanks for stopping by though."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh-oh! So that's the way it's gonna be huh? Yeah I can break the rules too y'know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh yeah? What are you gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why am I not surprised?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Y'know what Ross? I'm not gonna let you get away with this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I don't think you have much choice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well we'll see!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Bye-bye!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah bye-bye! (Exits and comes back in still holding the lotion.) Hey! So just a light layer?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes. Yes. Just here (Runs his fingers down the bridge of his nose) and there (Runs his fingers across his forehead)."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Chandler is entering without touching anything with his hands. Phoebe, Monica, and Rachel are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Joey got meat sauce on the banister again! (He goes into the bathroom to wash his hands.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, swing music is so out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe, he's gotta be in the room for that to work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(returning) What are you guys talking about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well umm, we were just talking about the y'know, the Swing Kings and just wondering whether y'know, they were the right way to go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, I went to a wedding once where they had swing music and uh, two months later the couple got divorced. And now I'm not saying that there's any connection here y'know, but they did tell me that's why they got divorced."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "But I love swing music!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah but the Swing Kings? Y'know they suck so much that people actually die at their concerts-They just stop living."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look all I know is when Monica and I went to see them, we had fun! And there's another reason too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, what is the other reason?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't want to say."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well you have to because maybe it's stupid."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well it's just while Monica and I were dancing to them it was...the first time I knew that...you were the woman I wanted to dance all my dances with."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh crap!"
+  },
+  {
+   "t": "scene",
+   "text": "Grammercy Bistero, Ross and Kristen are waiting for their table to be ready. Ross is returning from talking to the matire'd."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So they said our table will be ready in just a few minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Oh great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Is your back feeling better?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh yeah it's fine. I guess the more muscles you have the more they can spasim out of control."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Kristen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Hi! What are you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh I like this place. And technically, technically I'm not breaking any rules so I..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Well uh, Ross? This is Joey. Joey? Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi. (They shake hands.) It's nice to meet you. I used to have a friend named Joey. I don't anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Our table will be ready in a couple minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. So..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure! I would love to wait with you guys! Thanks! (Sits down.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So Joey umm, you look familiar. Are uh, are you on TV or something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Well Joey doesn't like to talk about it but, he's one of the stars of Days Of Our Lives."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's right! That's right, don't you play a woman?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "A woman in a man's body."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Much better."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So y'know Ross it's funny 'cause, you look familiar to me too. Have you ever been married?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well yes, yes I have. In fact umm, just the other day Kristen and I were talking about how I've been married and how I have a son."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Yeah, little Eric."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's right! Wait no, Ben."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So you've just married the one time then?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well umm..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "You've been married twice?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes. And another time after that. Boy I'm getting hungry! Hey Joey, have you ever been so hungry on a date that when a girl goes to the bathroom you eat some of her food?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "You said the waiter ate my crab cake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(laughs that one off) Yeah. So uh Ross, well now-why did that first marriage breakup? Was it because the woman was straight or she was a lesbian?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Kristen",
+   "text": "Do you two know each other?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey and Ross",
+   "text": "No. No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No. It just seems like Ross is the kind of a guy that would marry a woman on the verge of being a lesbian and then push her over the edge."
+  },
+  {
+   "t": "direction",
+   "text": "Kristen is not enjoying this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wait a minute! Were you on a poster for gonorrhea?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Have you ever slept in the same bed as a monkey?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey you leave Marcel out of this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Fine! Have you ever got stuck in a pair of your own leather pants?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey-hey have you ever locked yourself in a TV cabinet VD boy?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Monkey lover!"
+  },
+  {
+   "t": "direction",
+   "text": "They both notice that Kristen has left."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "When do you think we lost her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Probably around gonorrhea."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Chandler is entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi, honey! I'm home!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(from the bedroom) Don't come in here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why? Do you another boyfriend in there or something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No! We only mess around at his place!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know it's funny I started it but, now it's scary me. So could you come out here please?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, I'm wearing a wedding dress."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh you got a wedding dress? That's great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah but I'm not keeping it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well then why can't I see it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh. I guess you can. Okay but; I-I have to return it, so you can't like it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay I promise. I'll-I'll hate it. (She enters.) Wow! You-you look...hideous."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, that's like the most ugliest dress I've ever seen. Wh-why do you to return it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh because it doesn't...really fit. Oh by the way, I-I booked the Swing Kings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh that's great! Great! Thanks! But that dress I mean it's like yuck! It's terrible! It makes me wanna just rip it right off of you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay! But you can't rip it. Well, maybe a little."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay!"
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Chandler's, Chandler, Joey, and Ross are watching a basketball game on the couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering) Hey guys! Do you wanna look at the song list for the wedding? (They ignore her.) Guys?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(without turning around) I thought you were gonna be gone all day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right? What's going on?"
+  },
+  {
+   "t": "direction",
+   "text": "They all slowly turn around to reveal that they are giving themselves a facial."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm sorry. I'm sorry. I-I should probably leave you girls alone. (She heads for the bedroom.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, laugh all you want but in ten minutes we're gonna have younger looking skin!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! (Monica goes in the bedroom.) Y'know, she could use a little...(Whistles that she needs to do what they're doing.) (Something happens on the game.) Oh nice shot!!! (They all cheer.)"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

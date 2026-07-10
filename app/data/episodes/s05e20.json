@@ -1,0 +1,1427 @@
+{
+ "id": "s05e20",
+ "season": 5,
+ "episodes": [
+  20
+ ],
+ "code": "520",
+ "title": "The One With The Ride Along",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler, Rachel, Joey, and Monica are sitting on the couch as Ross is up getting some coffee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, guys, listen, don't forget that tomorrow is the day that Emily gets married again, so whatever we do, just try to really keep Ross's mind off of it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, yeah, good idea."
+  },
+  {
+   "t": "direction",
+   "text": "Ross returns."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey man, what's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(sits down at the table) Oh, eh, just thinking about Emily getting married tomorrow. (Joey panics.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh, Ross, look! Look! (Points behind Ross.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(turning and looking) What? Where?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Right over there! Right there! Look-look-look!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What am I looking at?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to the rest of the gang) Somebody help me out here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering, with Gary) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Hello!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "How are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Monica, I'm sorry I didn't come by last night. I was out with Gary; he let me ride around with him in his cop car. We saw and prevented crimes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You got to go on a ride along?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-huh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I want to go on a ride along!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Me too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, yeah! Me too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Really?! You?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Well, it's kinda dangerous."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I like danger."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Okay, you guys free tonight?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey and Ross",
+   "text": "Yeah!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Tonight? You-you didn't say it was going to be at nighttime."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Monica is kneeling at the coffee table and has a bunch of pictures laid out in front of her as Rachel enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey! Oh, I'm so glad you're home, I thought tonight we could finally organize these photos!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, thank God! Finally!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, I've broken them down into categories. Okay, we have uh, we got holidays, birthdays, candids, y'know... And then what I've done is I've cross-referenced them by subject. Right? So if you're looking up, oh let's say birthdays and dogs, you get Photo 152. See? (Hands her the photo.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, it's me and La Poo! Wow! I miss that dog."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You can also find him under umm, dog and dead."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Great! Thanks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, hand me that other box of photos; that's the very last one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "She picks up the box and the bottom falls out, spilling all of the pictures onto Monica's neat little piles."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oops. Sorry! Well, good thing you number all of them, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I hadn't! Photo 152 was a prototype."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohhhh. Honey, honey, honey, it's okay, it's okay honey. I'm gonna fix you a drink, huh? Maybe a margarita?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ross has the blender! Ugh, everything's just falling apart!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No honey, it's okay! Listen, I'll got to Ross's and get the blender, you get all the margarita stuff ready."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, he's keys are in the drawer. Y'know what? I also need some cash."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, you want me to stop at the ATM?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Nah, while you're at Ross's if you see any lying around..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?! I-I-I don't, I don't do that!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel slowly leaves the apartment."
+  },
+  {
+   "t": "scene",
+   "text": "Gary's cop car, Ross is in the front seat with Gary of course. Chandler is in the back seat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Gary) That was so cool man, the way you leaned on that guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It is starting to get dark out there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Gary) He told you everything! I mean you totally cracked him!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Yeah well, being that he was the victim, they're usually pretty talkative."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(laughing) Okay. (Deadpan) But it is officially nighttime."
+  },
+  {
+   "t": "direction",
+   "text": "Gary reaches up to grab that little light that cops have for unmarked cop cars."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh hey, Gary, want me to grab the berry for ya?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "It's called the cherry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's the-Chandler!!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler starts laughing at his joke."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(returning from a deli) Okay, I got it! This place makes the best sandwich in the world!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Hey Joe does it have meatballs on it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh-ho, yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Does it have melted cheese and marinara sauce?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yep!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Yeah, you can't eat that in my car."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(dejected) Yeah okay. (To Chandler) Even though my tax dollars paid for this car."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Your tax dollars?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, okay."
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse, they're still on the ride along and Joey is just sniffing his sandwich.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(leans in and takes a sniff of Joey's sandwich) Wow! That sandwich really does smell good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Did I say you could smell it?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can't smell your sandwich?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Half the taste is in the smell! You-you're sucking up all the tastiness!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, I'll give them back. (Exhales strongly through his nose and Joey just glares at him.) Look! What is so great about that sandwich?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, imagine the best sex you've ever had."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Are you thinking about Monica?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, what's that like?"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, Rachel is just entering. She takes off her coat and heads for the kitchen. As she does, she knocks something off of a bookcase next to the kitchen door with her coat and it breaks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh please don't be from a real dinosaur! Please! Please! Please! Please! Please! Please! Please! Please! (She picks up the 2 pieces and looks at the stand.) Made in Mexico! Yes!! Ugh, who would buy this?! (Looks for a place to hide it and finds a wall sconce and drops the pieces into it and heads into the kitchen as the phone rings.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(on the answering machine) Rach! It's me! Pick up!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel runs over and answers the phone with the blender in hand."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey! What's up?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I need a few more things to make the margaritas. Uhh, I need some salt, some margarita mix, and tequila."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So all we have is ice?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "See if he has ice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "She hangs up the phone and starts to head back to the kitchen and notices some money lying out, stops, reaches down to pick it up, the phone rings causing her to drop it, she quickly puts it back, and heads for the kitchen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "(on answering machine) Hello Ross? It's Emily. (Rachel runs back into the room with the tequila.) I know this is out of the blue but uh, I'm getting married tomorrow. Well, maybe I am. I keep thinking about you and I'm wondering if-if we made a mistake giving up so fast. Are you thinking about me? Of course you're not, but if you are, call me tonight. Okay, bye."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh. Oh! (Takes a slug of tequila.)"
+  },
+  {
+   "t": "scene",
+   "text": "The ride along."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So where are we going next?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "This witness won't return my calls so we're gonna see if we can surprise him coming home."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Sur-surprise him? We're not, we're not gonna make anybody mad are we?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on man! (To Gary) Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "It's a witness not a perp. And no one talks like that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, no one talks like that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh what? Like your Mr. Cop!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, I'm more cop than you two!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "How do you figure that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hello! I'm in the front seat, okay? I'm Gary's partner!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know, when you say partner it doesn't sound cop. It, it sounds gay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Umm, jealous! (He drops the cherry and it turns on.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Hey, do you mind? We're under cover here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, no problem. (Tries to turn it off.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Sorry! Sorry! Oh, (He sticks it under his shirt) there! (It's just there flashing through his shirt) Hey Gary, who am I? Phone home!"
+  },
+  {
+   "t": "direction",
+   "text": "Gary just glares at him."
+  },
+  {
+   "t": "direction",
+   "text": "[Time lapse, Ross has been demoted to the back seat with Joey and Chandler. He's not too happy about it.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look at Officer Ross riding back here with the visitors."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, what's up with that Serpico?"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, Rachel is playing Emily's message to Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Emily",
+   "text": "(on answering machine) Are you thinking about me? Of course you're not, but if you are, call me tonight. Okay, bye."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(does Rachel's) Nooo!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(does Monica's) I know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well thank God you were here! I mean, we have to erase that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?! We can't do that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We have too! I mean what if Ross's hears that and then calls her back and then they get back together? Is that what you want? Ross back with that controlling, neurotic, crazy Emily? The Emily that wouldn't let him see you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Noo! Oh no! No! God no! He should not get back together with her. I know that! You know that! Even Ross knows that! But that still doesn't give us the right to erase his message!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm his sister, okay? I love him! I don't want to see him get hurt! Come on! Doesn't that give me the right to control him-help him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't think he's the one who needs help."
+  },
+  {
+   "t": "direction",
+   "text": "They both sit down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, look, she's obviously unstable, okay? I mean she's thinking about running out on her wedding day. (Rachel slowly turns and glares at her.) (Realizing what she just said.) Okay, fine! But I mean, look at the position she's putting him in! What's he gonna do? Ross is gonna run over there on the wedding day and break up the marriage?! I mean, who would do that?! (Rachel again turns and glares at her in disgust.) Okay, fine, all right, but that's y'know, it's different! Although it did involve a lot of the same people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ugh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Y'know what, this is obviously some kind of twisted joke she's trying to play on him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, you are crazy! I'm sorry, but she sounded generally upset! I mean, listen! (She hits a button on the machine.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Answering Machine",
+   "text": "Your messages have been erased."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Noooooooo!"
+  },
+  {
+   "t": "scene",
+   "text": "The ride along, they're all waiting outside of the witness's house and still in the car in the same places as before."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, y'know, we-we're safe right? I mean nothing bad can go down!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "No. But that reminds me, (handing back a clipboard) sign this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Oh it's nothing, it just says that you can't sue the city if you scrap your knee or y'know, get your head blown off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(deadpan) Oh, hurry up. I want to sign that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Okay, here he comes. What is he doing? What the hell is he doing?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? What? What? What is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Is everything okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What's going on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Okay, he sees us. Now don't move. Don't look at him."
+  },
+  {
+   "t": "direction",
+   "text": "They all turn and look away. Suddenly a loud bang sounds out and in slow motion Joey slowly throws his body over Ross. Gary is shocked at what he sees while Chandler is obviously hurt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Hey, it's okay. It was just a car backfire. (Joey slowly moves off of Ross.) Hey, look at that! You tried to save your buddy. You see that? You see what he did?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To Ross) You okay man?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh-huh. Thank Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uh, HELLO!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hi."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, Monica has all the supplies she needs and is getting ready to leave."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, I guess we should go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, wait. Wait."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh yeah right! (She grabs the money and shoves into her pocket.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, Monica! Monica! We have to fix this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "There's nothing we can do. You erased the message!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah well unless we tell him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, if you're gonna be totally rational about this, I can't argue with you! All right? Fine, if you wanna tell him, tell him. I just don't want to be a part of it."
+  },
+  {
+   "t": "direction",
+   "text": "The phone rings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, maybe that's Emily calling back to leave the exact same message."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on the machine) Hey Ross! It's you! I just want you to remember this feeling. You are lucky to be alive! So live everyday to the fullest. Love yourself, okay? Okay. Oh, and also get stamps. Bye! (He hangs up.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow! Play that message for Emily and this whole problem goes away!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Right?"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, the guys are returning from the ride along to find Phoebe already there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Hey, anybody want to meet a hero?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(excited) John Glenn is here?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "No, Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Pheebs, we had the most incredible night! Okay, so, we're in the car..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Wait! Hold on! (He goes over to Phoebe and gives her a kiss.) (To Phoebe) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "(To Ross) Okay, go ahead."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, okay, so we're in the car. Right? And bang! A shot was fired. And Joey with no regard for his own safety throws himself on me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "My God, Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(pouting) It was a car backfire!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, but-but he didn't know that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I didn't know that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And it could've just as easily have been a bullet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Hey Joe, you ever think about joining the force? We could use a guy like you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Who jumps at loud noises!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow! I could've died tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah! If the car that backfired had run over you! Y'know what, I think I'll go home before Ross starts rambling about his newfound respect for life. (He gets up and starts for the door.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I do have a newfound respect for life."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(returning) Oh my God! (Storms out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "(To Phoebe) So you wanna get some dinner?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah! Sure! Yep! (Gets up) Oh, y'know what? If I heard a shot right now, I'd throw my body on you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "Oh yeah? Well maybe you and I should take a walk through a bad neighborhood."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gary",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Bye!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross and Joey",
+   "text": "Bye!"
+  },
+  {
+   "t": "direction",
+   "text": "They leave as Ross stares in awe at Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Cut it out Ross! I hate to have to save your life and kick your ass in the same day!"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Chandler is pacing as Joey enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Dude! How come you took off?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, I just went for a walk, around the living room. Whatever..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Is something wrong?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No. No I'm just tired. Y'know, from-from the walk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You dove in front of Ross! Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's what this is about! Oh my God, you hate Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I do not hate Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Of course you do! I saved him! You're mad at me! It all adds up! You want Ross out of the picture."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What picture?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know, but I don't like what I'm hearing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look I'm very glad that you saved Ross from the car backfire, but y'know, it could've been a bullet and you y'know, you didn't try to save me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ohh, you're upset because you think I chose Ross over you! No! I...knew...you could take care of yourself. Y'know, I mean Ross, he need help. He's not street like us!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "When it comes down to it, you would risk your life for Ross before you would for me. That's the bottom line."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, no, not exactly! All right, look, I, I wasn't trying to save Ross. Okay? My sandwich was next to Ross. All right? I was, I was trying to save my sandwich."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "From a bullet!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know it doesn't make much sense..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Much sense?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look Chandler, it was instinct! Okay? I just went for it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So you risked your life, for a sandwich!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know it sounds crazy, but Chandler this is (Goes and picks up the sandwich) the greatest sandwich in the world!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So you didn't uh, choose Ross before me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No! I would never do that! You-you're like my brother!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Really?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! In fact, to prove how much you mean to me, (He unwraps the sandwich and holds it out for Chandler) here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Thanks. (He grabs the sandwich.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, eh, oh-oi, easy, it's not a hot dog!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler takes a bite."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "How good is that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(with his mouthful) Oh-oi-ho, yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "See?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hm-hmm. (Goes to take another bite.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh-whoa-hey, dude, what are you doing?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I thought you were showing me how much you mean to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah. With a bite! (Takes back the sandwich.) Gee-e-e-eez!"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, Rachel is trying to repair the thing she broke earlier, but gets interrupted by hearing Ross at the door. She panics and throws the thing into the kitchen. And runs to the couch as Ross enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey! Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rach, what uh, what are you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey! Y'know what? You are in our apartment all the time! Okay? This is, this is just a drop in the bucket mister!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know, it-it doesn't matter. The important thing is that you're here. You're my friend, and you're here. Oh! (He goes over and hugs her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, just a little scared. What's going on Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The most amazing thing happened tonight. I thought my number was up. I had an actual near death experience!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?! What? What happened?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, okay, we were on the ride along with Gary, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And somebody took a shot at me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(gasps) Really?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, a car backfired, but (Rachel suddenly calms down) I thought somebody was taking a shot at me. And Rach, I...I survived! And I was filled with this-this great respect for life. Y'know? I-I want to experience every moment. I want to seize every opportunity. I-I am seeing everything so-so clearly now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Because a car backfired?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(stares at her briefly) Okay, why are you here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I-I-I don't know how this fits into your whole \"seizing\" thing but um, Emily called you today."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You talked to her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, she left a message. (He starts for the machine.) (Stopping him.) But it-it kinda got erased. There's just (Pause) something wrong with your machine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, okay, what-what did she say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, uh something about having second thoughts about the wedding and did you guys make a mistake breaking up and uh, she wants you to call her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Now, that-that was a good thing that I told you, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Huh? Yeah! Yes, of course!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. Thank you! Thank you! Because-I'm sorry, all right. Because y'know what? She didn't want me-not important. The point is, I was right. Your decision. Okay? I was right. (She starts for the door.) (Stops) Your decision."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Right. I guess, I guess I should call Emily."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, no, that's not the right decision. That's not, that's not right, no Ross-Ross, come on! I mean, that woman made you miserable! Okay, Ross, do you really want to get back into that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, look, yesterday I would've even considered calling her back, but my ex-wife calls on the same day I have a near death experience. I mean, that-that has got to mean something!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ugh, Ross! That was not a near death experience! That was barely an experience!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You weren't there! Okay, maybe this is something that I-I'm supposed to seize! Y'know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, y'know what? Maybe, this is not about seizing stuff. Maybe this is about escaping stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I mean, look-look today you escaped (Pause) (Not believing it) death, y'know? And maybe this is a chance for you to escape getting back together with Emily?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That does make sense. Because I do wanna seize some opportunity, but I-I really don't wanna see or talk to her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, there you go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. Maybe today is just, close call day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(laughing) Close call day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, thanks Rach. (They hug.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, honey no problem. Okay. (Gets up.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh wait-wait-wait! The message is blinking. Maybe you didn't erase it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh?"
+  },
+  {
+   "t": "direction",
+   "text": "Ross hits the playback button."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on machine) \"Hey Ross, it's you!\" (Hits the stop button) Oh yeah, no that's-that's an old message, nobody needs to hear that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. (She heads for the door again.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(looking at the coffee table where his money was) Hey umm, was-was Monica here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, I want my money back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(going out the door) Yeah, uh you-you probably need that for stamps, right?"
+  },
+  {
+   "t": "direction",
+   "text": "Ross is stunned."
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, everyone is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey Pheebs, has Gary ever been shot at for real?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes. Once. Yeah, a little. He kinda did it to himself. It's not really a good story."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I wonder how I would react under fire, y'know? And not backfire but-but heavy fire, like I was in a war or something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Man, I would be great in a war! I mean, I really, I think I would make a fantastic military leader. I mean I know I would make General way before any of you guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Before or after you were shot by your own troops?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know where Joey would be. He would be down in the foxhole protecting all of us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, if the foxhole was lined with sandwiches."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, hero sandwiches. (Points at Ross who points back.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well you all know that I'm a pacifist so I'm not interested in war in any way. (Gets up) But y'know what? When the revolution comes, I will have to destroy you all. (Starts to leave.) (To Joey) Not you Joey."
+  },
+  {
+   "t": "direction",
+   "text": "Joey gets all happy with himself, while the rest of the gang is less than enthused."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

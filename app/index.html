@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<title>Friends 영어공부</title>
+<meta name="description" content="프렌즈 대본으로 배우는 영어 표현 — 에피소드 리더 + 간격반복 플래시카드">
+<meta name="theme-color" content="#2E2344">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Friends">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" href="icons/icon-180.png">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header id="topbar">
+  <button id="backBtn" class="iconbtn" hidden aria-label="뒤로">‹</button>
+  <h1 id="title">F·R·I·E·N·D·S</h1>
+  <button id="settingsBtn" class="iconbtn" aria-label="설정">⋯</button>
+</header>
+
+<main id="view" tabindex="-1"></main>
+
+<nav id="tabbar">
+  <button data-route="#/home" class="tab active">
+    <span class="tab-ico">▤</span><span>홈</span>
+  </button>
+  <button data-route="#/review" class="tab">
+    <span class="tab-ico">◉</span><span>복습</span>
+    <em id="reviewBadge" class="badge" hidden></em>
+  </button>
+</nav>
+
+<script src="app.js"></script>
+</body>
+</html>

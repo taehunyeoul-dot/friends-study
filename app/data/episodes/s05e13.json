@@ -1,0 +1,1437 @@
+{
+ "id": "s05e13",
+ "season": 5,
+ "episodes": [
+  13
+ ],
+ "code": "513",
+ "title": "The One With Joey's Bag",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Chandler's bedroom, he is giving Monica a massage."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can't believe we've never done this before! It's sooo good! So good for Monica!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler picks up the timer being used and turns it to zero at which it chimes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh! Look at that, time's up! My turn!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That was a half an hour?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's your timer."
+  },
+  {
+   "t": "direction",
+   "text": "They change places."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Y'know, I don't like to brag about it, but I give the best massages!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, then massage me up right nice!"
+  },
+  {
+   "t": "direction",
+   "text": "She starts the massage, only she is doing extremely hard and Chandler is gasping in pain."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ah! Ahh!! Ahh!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's so good, isn't it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's so good I don't know what I've done to deserve it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Say good-bye to sore muscles!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Good-bye muscles!!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler and Joey are sitting on the couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm telling you, she gives the worst massages ever!! Okay, it was like she was torturing me for information. And I wanted to give it up I just-I didn't know what it was!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Chandler, if it really hurts that bad you should just tell her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look, for the first time in my life I'm in a real relationship. Okay, I'm not gonna screw that up by y'know, telling the truth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(walking up with Rachel and carrying coffee) Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whoa, dude, look out! You almost crushed my hat! (He picks a hat up from the floor. It's one of those magician stovepipe hats.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(examining the hat) And the bunny got away. (Turns and starts looking for the bunny as Joey puts the hat on.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(glaring at Joey) This would be the place where you explain the hat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh! Yeah, look there's this play all right? And I'm up for the part of this real cool like suave international guy. A real clothes horse. So I figure that everyone at the audition is gonna be wearing this kinda y'know, ultra-hip, high fashion stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And you're gonna make them all disappear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, like you could find something as sophisticated as this."
+  },
+  {
+   "t": "direction",
+   "text": "Chandler picks up a basket from the table and puts it on his head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Done."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, if you wanna look good, why don't you just come down to the store? I'll help you out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Great! Thanks, Rach!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Sure! (Pause) God, please take those off!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right."
+  },
+  {
+   "t": "direction",
+   "text": "Both of them remove their hats as Phoebe enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey Pheebs, how's it going?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey! Umm, well, only okay because I just got back from, from the hospital."
+  },
+  {
+   "t": "direction",
+   "text": "All at once."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Is everything okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Are you all right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah, no-no-no. I'm fine. I'm okay, but umm, my Grandma sorta died."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Pheebs! Sorry!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's okay, I mean she had a really incredible life. And it's not like I'm never gonna see her again, y'know she's gonna visit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well maybe, maybe she's with us right now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, her first day on a new spiritual plane and she's gonna come to the coffeehouse!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(entering, in a hurry) Guys! Guys! I just saw two people having sex in a car right outside."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uhh, Pheebs' Grandmother just died."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ohh my God, I'm so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's okay. Actually y'know what, it's kinda cool. 'Cause it's like y'know, one life ends and another begins."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to the guys) Not the way they're doing it. What, what happened? How did she die?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well umm, okay we were in the market and she bent down to get some yogurt and she just never came back up again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Pheebs, I'm so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It was really sweet. The last thing she said to me was; \"Okay dear, you go get the eggs and I'm gonna get the yogurt and we'll meet at the checkout counter.\" And y'know what? We will meet at the checkout counter."
+  },
+  {
+   "t": "scene",
+   "text": "Bloomingdale's, Rachel is fixing Joey up with some new clothes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay now Joey, y'know that since you're returning all of this stuff right after the audition you're gonna have to wear underwear?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, then you'd better show me some of that too then."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, it's missing something. Ooh, I know! Umm, okay. (Goes and grabs a bag, that looks like a purse, and shows it to Joey.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Really? A purse?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's not a purse! It's a shoulder bag."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It looks like a women's purse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No Joey, look. Trust me, all the men are wearing them in the spring catalog. Look. (Shows him.) See look, men, carrying the bag."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "See look, women, carrying the bag. (He puts it on his shoulder and looks at himself in the mirror and likes what he sees.) But it is odd how a women's purse looks good on me, a man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Exactly! Unisex!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Maybe you need sex. I had sex a couple days ago."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! No Joey! U-N-I-sex."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I ain't gonna say no to that."
+  },
+  {
+   "t": "scene",
+   "text": "Ursula's apartment, Phoebe is about to break the bad news to her sister. She knocks on the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ursula",
+   "text": "Who is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ursula",
+   "text": "Oh great! (Opens the door.) (Disappointed) Oh, you. Umm, what's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, well I sorta have some bad news, can I come in?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ursula",
+   "text": "Umm, yeah-no thanks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, well, umm Grandma died."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ursula",
+   "text": "Wow! Didn't she die like five years ago?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, she just died today! Okay, umm, we're having a memorial service tomorrow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ursula",
+   "text": "Okay, I know that I went to that all ready."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No you didn't!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ursula",
+   "text": "Well, then who's been dead for five years?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, lots of people! Look, are you coming to memorial service or not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ursula",
+   "text": "Umm, no. See I already thought she was dead so I kinda made my peace with it. Plus, I'm going to a concert tomorrow. So... I'd invite you, but umm, I only have two tickets left."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Fine. Okay, enjoy your concert. (Starts to leave.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ursula",
+   "text": "Thanks! Enjoy your funeral."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross and Chandler are on the couch as Joey enters with his new bag."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "direction",
+   "text": "As he walks past both Chandler and Ross notice the bag and stare at each other in shock."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wow! You look just like your son Mrs. Tribbiani!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What? Are you referring to my man's bag? At first, I thought it just looked good, but it's practical too. Check it out! It's got compartments for all your stuff! Your wallet! Your keys! Your address book!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Your make-up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Joey, what are you doing with the bag? You're audition is not until tomorrow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, but sandwich time is right now. (Removes a sandwich and starts eating.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, y'know you get any mustard on that bag, you can't return it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why would I return it? I love this bag!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, then you owe me $350."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Fine! Do you take Vasa or Mustercard? (He's holding the fake credit cards that come with the bag.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(glaring at him) Joey..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right relax, look I'll pay you with the money from the acting job I am definitely gonna get thanks to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What's the part, Anti-man?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, don't listen to them. I think it's sexy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "U-N-I-sexy? (Smiles provocatively.)"
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe's Grandmother's memorial, Phoebe is at the door welcoming people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well hello, Mrs. Penella! Thank you so much for coming! Well, okay look, here's your umm, 3-D glasses and Reverend Pong will tell you when to put them on."
+  },
+  {
+   "t": "direction",
+   "text": "The gang arrives."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi sweetie!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, how are you holding up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey Pheebs, I'm so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(notices his bag.) Hey, y'know what? My Grandma had the exact same bag!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Here, I brought you some flowers. (He pulls them out of the bag.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thanks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Pulling flowers out it makes the bag look a lot more masculine."
+  },
+  {
+   "t": "direction",
+   "text": "Another man, an older man, enters, looking around and bumps into Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Oops, I'm sorry. Excuse me. Is this the umm, the memorial?"
+  },
+  {
+   "t": "direction",
+   "text": "The gang moves off as Phoebe greets the new guest."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, welcome."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Hello. Hello."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm here's your 3-D glasses."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Oh, umm, all right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So how did you know Francis?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Well I actually, I-I really, I haven't seen her for years. But umm, well I-I was pretty tight with-with her and her daughter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Really?! What's your name?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Umm, Frank Buffay."
+  },
+  {
+   "t": "direction",
+   "text": "Needless to say, Phoebe is stunned into silence. And one audience member gasps."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "(Seeing the look on her face) Y'know what? Strike that. My name uh, actually is-is Joe. Uh, Joe umm, Hill."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're Frank Buffay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Shh! (Whispers) No! Joe Hill!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You just said..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Y'know what, I gotta go. And thank you so much for coming. (Hands back his glasses and hurries out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But..."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe takes one step after him and stops."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?! What honey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That was my dad!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "direction",
+   "text": "They all look down the hall he left from."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(approaches, wearing his glasses) Hey you guys, check it out. Check it out. (Moves his hand towards and away from his face.) It's like it's coming right at me. (Chandler helps out a little bit by pushing on Joey's arm, which causes his hand to slap him in his face.)"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "The Funeral Home, continued from earlier. Phoebe is returning after looking for her father."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, did you catch him?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wh-what did he say?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "He said, \"Nice to meet you Glenda.\" (They stare at her, dumbfounded) Well, obviously I couldn't give him my real name?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why?! Why not?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Come on, you saw the way he ran out of here! What do you think? He's gonna stick around and talk to the daughter he abandoned!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What did you say to him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Pastor",
+   "text": "Could everyone please take their seats?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, well, I just can't think about that right now. I just wanna say good-bye to my Grandma."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, let's go say good-bye."
+  },
+  {
+   "t": "direction",
+   "text": "They put on their glasses and try to find their way to their seats."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, after the funeral, everyone is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering, with bag) Hey! I'm off to my audition. How do I look?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ahhh, I think you look great! That bag is gonna get you that part."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And a date with a man!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Y'know what? Make fun all you want. This is a great bag! Okay? And it's as handy as it is becoming. Now, just because you don't understand something, doesn't make it wrong. All right? So from now on you guys are gonna have to get used to the fact that Joey, (pats the bag) comes with a bag! (Exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, I'd better go too. I have to go talk to my dad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ooh, Pheebs, what are you gonna say? Are you gonna tell him who you are?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, no, not at first 'cause I-I don't want to freak him out"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, but aren't you pissed at him?! I mean this guy abandoned you! I gotta tell you if this were me, this guy would be in some serious physical danger! (Getting worked up) I mean I-I-I'd walk in there and I'd be like, \"Yo, dad! You and me outside right now!\" (Calming down.) I kinda scared myself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, at least you scared someone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Y'know it's funny, you'd think I'd be angry. I mean, you'd think I'd wanna rip his tiny little head off. Fortunately, I'm past it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe, you do seem a little tense. Here, let me help you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right."
+  },
+  {
+   "t": "direction",
+   "text": "She goes over and tries to give Phoebe a massage. Phoebe yelps in pain and jumps away from her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh! Get off!! Ow!! Oh, stop it!! Why?! Why are you doing that to me?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What are you talking about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "As a masseuse and a human, I'm begging you, never do that to anyone!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(indignant) I give good massages! (Ross laughs.) I used to give them to Rachel all the time before she got allergic! And-and-and Chandler loves them! Watch! (She starts giving Chandler a massage.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(seeing the look on Chandler's face) He-he does not like it! He hates it! He's in pain!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No he's not!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(wincing) Yes, he is!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm sorry but, ow-owww-owww!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You've been lying to me? I can't believe you'd do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, maybe he just didn't want to hurt your feelings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But the minute we start to lie to each other... (Pauses after she realizes what she's saying.) And by 'we' I mean society."
+  },
+  {
+   "t": "scene",
+   "text": "Joey's audition, he is with bag."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Casting Director",
+   "text": "Any time you're ready, Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(reading from the script) Well, you must be new here. Why don't we get a table and I'll buy you a drink."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Casting Director",
+   "text": "(stopping him) I'm sorry. Could you, could you try it without the purse?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, sure. (He takes it off and starts reading.) Well, you must be new here. Maybe we should-I'm sorry, can I ask you something? (He stops and asks a question.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Casting Director",
+   "text": "Sure. What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, first it's not a purse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Casting Director",
+   "text": "Okay, anytime."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I mean if-if you're thinking it's a woman's bag, it's not. It's a man's bag!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Casting Director",
+   "text": "Okayyyy! Anddd, go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right look, let me show you the catalog! (Does so.) See? Huh? It's the latest thing! Everyone's got one! Men! Women! Children! Everyone's carrying them!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Casting Director",
+   "text": "Umm, do you sell these bags?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Noooo. No-no-no, these babies sell themselves."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Casting Director",
+   "text": "Okay! Thank you! That was great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah but I didn't read anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Casting Director",
+   "text": "I think we've seen enough!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay! All right, I'll see ya. (As he's walking off stage.) (Patting the bag.) We got it! We got it!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Chandler is poking his head in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, is Rachel here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(coming all the way in) Listen, I just wanted to apologize about this afternoon and the whole massage thing. Y'know? I-I really like 'em."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, please, stop! Look, we're supposed to be honest with each other. I-I just wish you could tell me-just say, \"I don't like your massages.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(falling into that trap) I don't like your massages."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(starting to cry) See? It's no big deal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, but now see you're crying!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm not crying about that! I'm crying about something that happened at work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(bursting into tears) My boyfriend said he didn't like my massages."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's okay, you don't have to be the best at everything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God! You don't know me at all!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, you give the worst massages in the world."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm crying here!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, hear me out. Okay? You give the best bad massages. If anybody was looking for the best bad massage and they were thinking to themselves, \"Who's the best of that?\" They'd have to go to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Huh. So you're saying like umm, if there was an award for the best bad massage, well who would get that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, it would be you! You! Monica! And you'd get all the votes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So maybe they could umm, call the award the Monica?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Absolutely!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. I suck!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah! (They hug.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Frank Sr. is just arriving."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, thank you for meeting with me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Thank you. All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Come, sit. (He's hesitant.) Sit. (Still hesitating.) Sit! (He sits on the arm of the couch.) Umm, all righty, before we get started I just-I need you to state for the official record that you are in fact Frank Buffay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Oh yes. Yes, yes, I am, uh-hmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "So, what did Francis leave me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Well, that's why you wanted me to come, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yes. Yes. Yeah-no. She did. She left you umm, (looking in her purse) this lipstick."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Oh. Huh. It's huh, well it's (opens it) oh it's-ew used. Umm, cool."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. I have just a few questions to ask so I'm going to get out my official forms. (She picks up a couple of crumpled receipts.) Okay, so, question 1) You and uh, you were married to Francis' daughter Lilly, is that correct?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Yes, yes I was."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, umm, question 2) Umm, did that marriage end A. Happily, B. Medium, or C. In the total abandonment of her and her two children?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "It really says that?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. See? (Quickly shows him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Well then I guess then I-I would I would have to say C."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hmm, okay, total abandonment. Okay, reasons for abandonment, A. Top secret government work, B. Amnesia, or C. Or you're just a selfish, irresponsible bad, bad man?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Y'know, I don't think I want the lipstick that much. (Gets up to leave.) But umm... Oh, would you do me a favor? And umm, would you, would you give Lilly that, please? (Hands her a note.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Well Lilly, when you see Lilly would you give her that, that note? Because I wanted to talk to her at the memorial but, well I pictured her getting mad at me the way you got mad at me and I well, I chickened out. So, uh, I wrote her that note, would you give it to her please?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But you-you-you came to see Lilly?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Yeah, yeah. Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Lilly's dead. (He looks up in shock.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "She what?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "She's dead."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Are you sure?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, if she isn't then cremating her was a big mistake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "I can't believe this. I just-I can't believe this. How-how-Oh my God. How long ago?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "17 years ago."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Oh! What about, what about the girls?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, Ursula is a waitress and-and she lives in Soho. And Phoebe, (pause) is on this couch."
+  },
+  {
+   "t": "direction",
+   "text": "Silence ensues."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yep, lipstick and a daughter, big day for you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Phoebe, I-I-I-umm, (Sits down next to her and brushes against her leg.) Oops. (He backs up.) I just, I-I-I-I don't, I don't know what to say. I just can't believe that you're my daughter, you're so pretty."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes. Well, that's neither here nor there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "So would it, would it make you feel better if I said I was very, very sorry that I left?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Y'know what, it doesn't matter what you say it's not gonna make a difference anyway, so you can just go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "All right. Well, y'know in my defense I was a lousy father."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's a defense?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Yes. Yes it is. I burned the formula and I put your diapers on backwards. I mean, I made up a song to sing you to sleep, but that made you cry even more!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You make up songs?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "Well no, just-just that one. But, it was stupid. Let's see, how did it, how did it go. Umm. (Singing.)"
+  },
+  {
+   "t": "direction",
+   "text": "Sleepy girl, sleepy girl."
+  },
+  {
+   "t": "direction",
+   "text": "Why won't you go to sleep?"
+  },
+  {
+   "t": "direction",
+   "text": "Sleepy girl, sleepy girl."
+  },
+  {
+   "t": "direction",
+   "text": "You're, you're, you're keeping me uppp! (Yeah, that's to the tune of Smelly Cat."
+  },
+  {
+   "t": "direction",
+   "text": "Yeah."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe is trying not to smile. He moves closer and very shyly holds out his hand and turns his head, hoping for Phoebe to take his hand. She doesn't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frank Sr.",
+   "text": "I just, I y'know, I'm not very good at this. So, umm... (Backs away.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I am. (Moves over and takes his hand.)"
+  },
+  {
+   "t": "direction",
+   "text": "She holds his hand for a little while then..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Not yet, no. (Drops his hand and moves back.)"
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Joey returns from his audition and finds everyone but Phoebe there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(dejected) Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey man, how did the audition go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Estelle said I didn't get it. (Sits down next to Rachel on the couch.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?! Why? Joey you were so ready for it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I thought so too but, she said the casting people had some problems with me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What kind of problem?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well to tell you the truth, they uh, (Pause) they had a problem with the bag!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Nooooo!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Y'know what? It was a stupid play anyway!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Y'know, Joey, I think it's time to give up the bag."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't wanna give up the bag. I don't have to give up the bag! Do I Rach? (She's avoiding his eyes.) Oh, you think I should give up the bag!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Honey wait, Joey, I'm sorry I mean as terrific as I think you are with it... (Looks for help.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, hey! (Ross nods in agreement as well.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "...I just don't know if the world is ready for you and your bag."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I can't believe I'm hearing this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wait a minute! Wait a minute! I'm not saying that you shouldn't have a bag, I just-it's just there are other bags that are a little less umm, (Pause) controversial."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah umm, they're called wallets."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

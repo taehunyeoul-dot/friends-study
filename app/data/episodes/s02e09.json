@@ -1,0 +1,1365 @@
+{
+ "id": "s02e09",
+ "season": 2,
+ "episodes": [
+  9
+ ],
+ "code": "209",
+ "title": "The One With Phoebe's Dad",
+ "lines": [
+  {
+   "t": "direction",
+   "text": "Originally written by Jeffrey Astroff and Mike Sikowitz"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Monica, Rachel, Ross, and Phoebe are there. Phoebe is looking out the window."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, ooh, ooh, ooh, ooh. Ugly Naked Guy is decorating his tree. Oh my God, you should see the size of his Christmas Balls."
+  },
+  {
+   "t": "direction",
+   "text": "[Chandler and Joey enter.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, how much did you guys tip the super this year?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, we were gonna give fifty, but if you guys gave more, we don't wanna look bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, actually this year we just made him homemade cookies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And twenty-five it is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You gave him cookies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Money is so impersonal. Cookies says someone really cares. . . Alright, we're broke, but cookies do say that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can see that. A plate of brownies once told me a limerick."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Phoebs, let me ask you something, were, were these, uh, funny brownies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Not especially. But you know what, I think they had pot in them."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So you guys, who else did you tip with cookies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uhh, the mailman, the super."
+  },
+  {
+   "t": "direction",
+   "text": "[There's a bang at the door.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, and the newspaper delivery guy."
+  },
+  {
+   "t": "direction",
+   "text": "[Joey opens the door and picks up the remnants of the newspaper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhhh, I don't think you're gonna like this."
+  },
+  {
+   "t": "direction",
+   "text": "[Joey shows them the torn-up newspaper.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ooh, goooosh, ooh, these are cookies smashed in the sports section."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh look, and he did my crossword puzzle."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, but not very well, unless 14-across, 'Gershwin musical' actually is bitemebitemebitemebiteme."
+  },
+  {
+   "t": "direction",
+   "text": "OPENING TITLES"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk. Monica, Chandler, and Joey are seated at couches. Rachel is working behind the counter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I can't believe it's Christmas already. Ya know, I mean, one day your eatin' turkey, the next thing ya know, your lords are a-leapin' and you geese are a-layin'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Which is why geese are so relaxed this time of year."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross enters with several bags from shopping.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "CHANDLER, MONICA, and JOEY",
+   "text": "Hey."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross approaches Rachel at counter.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey Rach. I, uh, got you a little present. [Rachel is not impressed]. . I'll open it. It's a Slinky! Remember, huh. [sings] Walks down stairs, alone or in pairs, everyone knows it's. . . just a big spring. Alright, you still mad at me becuase of the whole. . ."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Horrible and degrading list of reasons not to be with me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How 'bout from now on we just call it the 'unfortunate incident'? [Rachel walks off] Hey Gunther, you got stairs in your place?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Here, go nuts. [gives him the Slinky and goes and sits with others at the couches]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "CHANDLER, MONICA, and JOEY",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What's in the bag?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Um, just some presents."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "C'mon show us what you bought. . . You know you want to."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "[childishly] OK. OK, this is a picture frame from Ben to my parents, huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Cute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I got some, uh, hers and hers towels for Susan and Carol. And, uh, I got this blouse for mom."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross holds up the blouse. It is extremely tacky, with sewn-on medals hanging off of it.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross, that is gorgeous!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Look at these authentic fake medals. I tell ya, mom's gonna be voted best dressed at the make-believe military academy."
+  },
+  {
+   "t": "direction",
+   "text": "[Phoebe enters.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gang",
+   "text": "Hey. Hi Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Happy Christmas Eve Eve. [sees Ross's picture frame] Oh my God, where did you get this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh, Macy's, third floor, home furnishings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "This is my father, this is a picture of my dad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Nah, Phoebs, that's the guy that comes in the frame."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No it isn't, this is my dad, alright, I'll show you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, I thought your dad was in prison."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, that's my stepdad. My real dad's the one that ran out on us before I was born."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "How have you never been on Oprah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "[showing her pictures] OK, look, see, this is him. My mother gave me this picture before she died, same guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey, uh, this is a picture of the frame guy posing in front of a bright blue screen with a collie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's not a blue screen... it's just, maybe it was just really clear that day. OK, I have to talk to my grandmother. [turns to leave]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, wait a minute honey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gang",
+   "text": "Phoebs. [Phoebe leaves]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So anyway, I'm trying to get my boss's ex-wife to sleep with me. . ."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gang",
+   "text": "Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, but when Phoebe has a problem, everyone's all ears!"
+  },
+  {
+   "t": "scene",
+   "text": "Phoebe's grandmother's place. Phoebe's grandmother is sitting at the table, reading the obituaries, and crossing out names in the phonebook."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Esther Livingston. [scratches out name] Gone."
+  },
+  {
+   "t": "direction",
+   "text": "[Phoebe enters.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Hi, Phoe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi Gram. Whatcha doin'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Oh, just updating the phonebook."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Um, gram, um, can I see the pictures of my dad again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "[nervously] Oh. Oh, sure, sure, uh, uh, how come?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Just, you know, to see... um."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Oh, sure, yeah. [gets a box with the pictures] This is the one of you father in a meadow, and, uh, helping a little boy fly a kite, and here he is at a graduation. . . another graduation. . . another graduation."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, is this really my father?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Is it really your fa--I can't... well of course it is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, I smell smoke. Maybe that's 'cause someone's pants are on fire."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Look, I. . ."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ya know, in all the years that we have been grandmother and granddaughter, you have never lied to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Alright, that is not your father, that's just a picture of a guy in a frame."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "It was your mother's idea. Ya know, she didn't want you to know your real father because it hurt her so much when he left, and, I didn't want to go along with it, but, well then she died and, and it was harder to argue with her. Not impossible, but harder."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Alright, so, what, he's not a famous tree surgeon? And then, I guess, OK, he doesn't live in a hut in Burma where there's no phones?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Last I heard, he was a pharmacist somewhere upstate."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, that makes no sense. Why would the villagers worship a pharmacist?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Honey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "[realizes] Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Anyway, that's all I know. That, and this. [pulls apart a frame and pulls a picture out] This is the real him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Rachel, Chandler, and Joey are decorating the Christmas tree."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ya know I remember my father, all dressed up in the red suit, the big black boots, and the patent leather belt, sneakin around downstairs. He didn't want anybody to see him but he'd be drunk so he'd stumble, crash into something and wake everybody up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, that doesn't sound like a very merry Christmas."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Who said anything about Christmas?"
+  },
+  {
+   "t": "direction",
+   "text": "[Monica and Ross enter.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, anyone hear from Phoebe yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, nothin'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I hope she's OK."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I know exactly what she's goin' through."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How do you know exactly what she's going through?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "She told us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So whaddya got there Monica?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Just some stuff for the party."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, what're you guys doin' here, aren't you supposed to be Christmas shopping?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You guys haven't gotten your presents yet? Tomorrow's Christmas Eve, what're ya gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Don't you have to be Claymation to say stuff like that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, by the way Mon, I don't think the mailman liked your cookies. Here are the ornaments your mom sent. [hands her a smashed box]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, maybe the mailman liked the cookies, we just didn't give him enough."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Monica, pigeons learn faster that you."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross approaches Rachel, away from everyone else.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, Rach, you know what? I think, I think I know what'll make you feel better. How 'bout you make a list about me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wha... forget it Ross, no, I am not gonna stand here and make a list of. . ."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "C'mon Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "OK, you're whiney, you are, you're obsessive, you are insecure, you're, you're gutless, you know, you don't ever, you don't just sort of seize the day, you know. You like me for what, a year, you didn't do anything about it. And, uh, oh, you wear too much of that gel in your hair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "See there, you uhh, alright, ya, you did what I said."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, and you know what? You're right, I do feel better, thank you Ross. [she walks off and Ross puts his hand to his hair]"
+  },
+  {
+   "t": "scene",
+   "text": "Back at Phoebe's. She is on the phone"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, um, in Albany, can I have the number of Frank Buffay. . . OK, um, in Ithica. . . alright, um, Saratoga. . . Oneonta. Alright, you know what, you shouldn't call youself information. [hangs up]"
+  },
+  {
+   "t": "direction",
+   "text": "[Phoebe's grandmother enters]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hello grandma, if that is in fact your real name."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "C'mon now Phoe, don't still be mad at me. How's it going?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, not so good. Upstate's pretty big, he's pretty small, you do the math."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Well, I think you're better off without him. Oh honey, I know he's your daddy but, but to me he's still the irresponsible creep who knocked up your mom and stole her Gremlin."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No I just, just wanted to know who he was, ya know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "I know. OK, I wasn't completely honest with you when I told you that, uh, I didn't know exactly where he lived."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Whattaya mean?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "He lives at 74 Laurel Drive in Middletown. If you hit the Dairy Queen, you've gone too far. You can take my cab."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow. Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Grandmother",
+   "text": "Now, remember, nobody else drives that cab."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-huh, got it. Ooh, I'm gonna see my dad. Wish me luck, Grandpa! [blows a kiss to a picture of Einstein]"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler is standing on a street corner waiting for Phoebe in the cab. Joey walks up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Phoebe here with the cab yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, she, she brought the invisible cab. . . hop in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well she better get here soon, the outlet stores close at 7."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, don't worry. I figure it'll be 2 hours to Phoebe's dad's house, they'll meet, they'll chat, they'll swap life stories, we'll still have plenty of time."
+  },
+  {
+   "t": "direction",
+   "text": "[Phoebe drives up in the cab]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, here she comes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey."
+  },
+  {
+   "t": "direction",
+   "text": "[Phoebe runs over the curb. Joey gets in the back seat, Chandler in the front]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Can you believe this. In, like, two hours I'm gonna have a dad. Eeeshk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Eeeshk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, big stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, let's go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "OK."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Alright, here, you have to hold this. [hands Chandler a piece of paper]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "OK. [reads paper] Brake left, gas right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-huh, yeah, that's my cheat sheet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "[grabs for seat belt] Where's my seat belt?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, no no, that side doesn't have one, the paramedics had to cut through it. [Chandler jumps out of the car]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "[Chandler gets in the back seat] Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey. [Phoebe takes off, Joey and Chandler are thrown back in the seat]"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Monica is preparing for the party with Ross questioning her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "C'mon, just tell me, please, please."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "For the sixteenth time, no... I do not think you're obsessive."
+  },
+  {
+   "t": "direction",
+   "text": "[Rachel enters from her room]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, gosh, it's hot in here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rach, get the heat. [Rachel holds up her hand with wet fingernail polish] Ross, could you turn the heat down please?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Sure. By the way, there's a difference between being obsessive and. . ."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross, the heat!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Fine, OK! Heat, heat, heat, and I'm the obsessive one. [goes to the radiator and starts turning the knob] OK, this way is on, so this is. . . [breaks off the knob] off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Did you just break the radiator?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, no, I was turnin' the knob and, and. . . here it is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well put it back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It uhh, it won't go back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'll call the super."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Here, let me try."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, oh that's right, I forgot about your ability to fuse metal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, it's Funny's cousin, Not Funny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "[on phone] Hi, Mr. Treeger. Hi, it's Rachel Green from upstairs. Yes, somebody, uh, broke our knob on the radiator and it's really hot in here. Yes, it's, it's hot enough to bake cookies. Well, do you think we could have a new one by 6? Wha t, no, no, Tuesday, we can't wait until Tuesday, we're having a party tonight."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "OK, tip the man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, if he doesn't like our cookies, too bad, I am not gonna be blackmailed. Look if worse comes to worse, it gets a little warm, we'll call it a theme party."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, here's a theme: Come on in, live like bacon."
+  },
+  {
+   "t": "scene",
+   "text": "Outside Phoebe's dad's house. The cab pulls up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, this is it, 74. [screeches to a halt, Joey and Chandler are thrown into the plexiglass wall in the cab]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, so that's what this is for."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wow, this is it, I'm gonna meet my dad. This is like the biggest thing ever, huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, here I go. I'm goin' in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Good luck Phoebs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK, here I go. . . here I go. . . I'm goin'. [she just sits in the cab]"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. They are having their party. All the guests are stripped down because of the heat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "[answers door] Hi, welcome to our tropical Christmas party. You can put your coats and sweaters and pants and shirts in the bedroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "[sitting at table talking to a girl] It's hard to tell because I'm sweating, but I use exactly what the gel bottle says, an amount about the size of a pea. How, how can that be too much?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "[carrying an ice cube tray] Ice, ice, ice squares anyone? Take a napkin. Alright."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Monica, Monica, your guest are turning into jerky, OK."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Really? I'm perfectly comfortable. [one of the guest opens the refrigerator] Hey, hey, hey, get in line buddy, I was next. [she opens the refrigerator and leans into it]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "[answering the door] Mr. Treeger."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Treeger",
+   "text": "Uhh, you said there was a party."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, yeah, well hey, welcome to our sauna."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Treeger",
+   "text": "Ahh, is it hot? My body always stays cool, probably 'cause I have so much skin. Hey, cheese!"
+  },
+  {
+   "t": "direction",
+   "text": "[Ross is speaking to Monica and Rachel about tipping the super.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Alright, alright, here's the chance. Monica give him cash, Rachel give him your earrings. Something, now, anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, I will not cave."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, I'm with Mon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Alright, alright, you know how you say I never seize the day? Well, alright, even though he's your super, I'm seizing. [approaches Mr. Treeger] Mr. Treeger, here is 50 bucks, merry Christmas."
+  },
+  {
+   "t": "direction",
+   "text": "[Gives him the cash.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Treeger",
+   "text": "Oh wow, I didn't get you anything. Here's five back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No no, no, that, that's your Christmas tip, alright. Oh, hey, do you think there's a chance you could fix that radiator now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Treeger",
+   "text": "No can do, like I told the girl, I can't get a new knob until Thursday."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "[to Ross] Looks like he's playin' baseball."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You mean hardball?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Whatever."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What'cha gonna' do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Excuse me, I'm seizing. Mr. Treeger, here's another 50, happy Hanukkah. Will uh, will this help with the knob getting?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Treeger",
+   "text": "No, the place is not open 'till Tuesday. Am I not saying it right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So, wait, you really did like my cookies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Treeger",
+   "text": "Oh, yeah, they were so personal, really showed you cared."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Nice seizing. . . gel boy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Treeger",
+   "text": "[to Rachel who is standing under mistletoe] So, uh, is this, uh, mistletoe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Huh-huh, no act--no, uhh, that, that is basil."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mr. Treeger",
+   "text": "Ahh, if it was mistletoe, I was gonna kiss ya."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Huh-hoo, yeah, no, it's still basil."
+  },
+  {
+   "t": "scene",
+   "text": "Outside Phoebe's dad's house. Phoebe is running back to the cab."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "OK."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "How far'd ya get?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Mailbox."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Alright, we're gettin' closer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Phoebs, what's goin' on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, it's just like, ya know, it's a whole mess of stuff, ya know. It's like, yesterday, ya know, my dad was this, like, famous Burma tree surgeon guy and, ya know, now he's a, a pharmacist guy and. . ."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, maybe he's, maybe he's this really cool pharmacist guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, maybe, yeah. You know, and, and I'll knock on the door and, and he'll hug me and I'll have a dad. Ya know and I'll, I'll go to his pharmacy and everyone will be really nice to me 'cause, you know, I'm Franks daughter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, so why not go knock?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, 'cause, I mean, what if, what if he's not this great dad guy? I mean, what if, what if he's just still the dirtbag who ran out on my mom and us? You know what? I've already lost a fake dad this week and I don't think I'm ready to lose a real one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Phoebs, that's OK. You took a big step today."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, and someday when you're ready, you'll make it past the hedges."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, and when you do, he'll be lucky to have you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You guys. I'm sorry about your shopping."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, that's OK, we'll figure something out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, listen Phoebs, I know you're not goin' in there but do you think it'd be alright if I went in and used his bathroom? Oh, that's fine, never mind. Cool, snow, kinda like a blank canvas."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Ross, Monica, and Rachel are sitting around after the party. Chandler, Joey, and Phoebe enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ho, ho, ho, holy crap is it hot in here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Really, hey, you mind if I turn the heat down?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, we could have used that kind of thinkin' earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, Phoebs, how'd it go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I couldn't go in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey, I'm sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Are you OK?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, yeah, no it's OK 'cause, I mean, I know he's there, so, that's enough for now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, guys, it's after midnight, merry Christmas everyone. [Ross and Phoebe hug, Monica and Rachel hug, Chandler is left standing]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, Monica, the knob was broken so I just turned it off from underneath, I hope that's alright."
+  },
+  {
+   "t": "direction",
+   "text": "CLOSING TITLES"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's apartment. Joey and Chandler are giving out their Christmas presents out of a cardboard box from a case of motor oil."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Rach, these are for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wiper blades. I don't even have a car."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No, but with this new car smell, you'll think you do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "OK, Phoebs, your turn."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ahh, toilet seat covers! Is that what you were doing while I was getting gas?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You guuuyys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And for Ross, Mr. Sweet-tooth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You got me a cola drink?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And, a lemon lime."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well this, this is too much, I feel like I should get you another sweater."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And last but not least."
+  },
+  {
+   "t": "direction",
+   "text": "[Chandler and Joey give Monica a pack of condoms.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "They're ribbed for your pleasure."
+  },
+  {
+   "t": "direction",
+   "text": "[Ross and Monica trade their gifts.]"
+  },
+  {
+   "t": "direction",
+   "text": "END"
+  }
+ ]
+}

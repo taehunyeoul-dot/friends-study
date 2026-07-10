@@ -1,0 +1,1375 @@
+{
+ "id": "s05e02",
+ "season": 5,
+ "episodes": [
+  2
+ ],
+ "code": "502",
+ "title": "The One With All The Kissing",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's Bathroom, Chandler and Monica are sharing a candlelight bubble bath while drinking champagne and they clink their glasses."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You look cute in bubbles."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ehh, you're just liquored up."
+  },
+  {
+   "t": "direction",
+   "text": "They move into kiss but are interrupted by Joey knocking on the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, it's me! I'm comin' in!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica quickly dives under the water as Joey enters. He looks a little shocked at what Chandler's doing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I've had a very long, hard day."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ahh, I'm gonna go get some chicken. Want some?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ahh, no thanks. No chicken, bye-bye then."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "Joey turns to leave but stops at the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You sure? Some extra crispy? Dirty rice? Beans?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "For the last time no! Get out! Get out, Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right!"
+  },
+  {
+   "t": "direction",
+   "text": "Joey leaves and Monica comes up for air."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you okay? I'm so sorry, he wouldn't leave. He kept asking me about chicken."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chicken? I could eat some chicken."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey Joe!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica goes back underwater as Joey re-enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, can I get a 3-piece, some cole slaw, some beans, and a Coke-(Yelps in"
+  },
+  {
+   "t": "direction",
+   "text": "pain as Monica grabs him underwater)-Diet Coke."
+  },
+  {
+   "t": "direction",
+   "text": "Joey gives him a thumbs up and heads for the chicken."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Chandler, Joey, and Monica are eating breakfast."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Mornin' Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I have to tell you this story. Okay, I was coming over here and this driver..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(interrupting) Was his name Angus? (Monica and Chandler laugh.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, he was this cab driver we had in London."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh. Ha-ha-ha. All right, anyway..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait, what that place, that pub he took us too?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Uh, The Wheatsheaf."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah-yeah-yeah, and they had that beer! That uh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Bodington's!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Bodington's! Woohoo! (And they all high-five each other.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ooh! Ahh, Pheebs, was gonna tell a story."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, so, he had a really funny hat-I don't want to talk about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, Ross, Bodington's!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah! (They high-five.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That was good beer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ohh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Y'know, I'd walk back to London for another frosty one of those bad boys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know, I think they have those at that British pub near the trade center."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Later! (Exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Isn't Rachel supposed to be back by now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, but her plane got delayed in Athens. But actually, (Checks watch) she should be here by now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, so-so you talked to her. Did she, did she sound mad?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, but she likes me. You abandoned her on a plane to Greece."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, I did not abandon Rachel! Okay? Emily showed up at the airport! I had to go after her! I mean, I-I did what I had to do! She's my wife! Rachel is my wife! Y'know-Emily! Emily, is my wife! Man, what is that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So you still hadn't heard from Emily?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, not since I lost her at the airport."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I can't believe she can out run you man!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "HEY, SHE'S FAST!! OKAY?!! (Chandler is so shocked at Ross's outburst that he drops his spoon and backs up) Oh! You-you think you can be beat me? Let's go! Outside!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hey! (They all go hug her, except for Ross.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rach, Rach, I am so sorry. I am so-so sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh Ross, come on! You just did what you had to do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's it? You're not mad? I mean, it must've been terrible."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Terrible? Hell, I was in Greece! That was a nice hotel! Nice beach, met the nice people. Not to shabby for Rachel. (Goes and puts her luggage away.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So, what? That's it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, yeah! We're cool. Totally cool."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, thanks. Oh, you're the best. (They hug.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no, you're the best."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(breaking the hug) Ohh, I gotta go to the flower store! (Runs to the door.) Check it out, no one will tell me where Emily is, so I'm gonna send 72 long-stem, red roses to Emily's parent's house, one for each day that I've known and loved her. That oughta get her talking to me again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, Ross, when you make out card; be sure to make it out to, EM-I-LY."
+  },
+  {
+   "t": "direction",
+   "text": "Ross bangs his fists together to tell Chandler off, like what was learned last season. Read about it here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rach, that's great! It's so good that you had a good time in Greece!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?! I didn't have a good time in Greece! Ross abandoned me! Okay, I couldn't get a plane out, so I had to stay in their honeymoon suite with people coming up to me all the time going, \"Oh, Mrs. Geller, why are you crying?\" I mean, it was sooo humiliating. I felt like such an idiot! I mean, it's all my fault! And you know why, because I make very bad decisions."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh that's not true."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes it is! It is true! I went, I went after Ross in stupid London."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "London is stupid! Stupid!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, you were right. I should've never gone to London, and from now on you make all of my decisions for me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh... No, I did that for someone once and I'm not comfortable having that kind of power and control over someone's life."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'll do it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's fine. So Monica, you are now in control of my love life."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, I gotta go to work."
+  },
+  {
+   "t": "direction",
+   "text": "He gets up and gives Monica a rather passionate kiss as Rachel and Phoebe look on in amazement. After the kiss ends, Chandler suddenly realizes what he just did, so he decides to do something rather rash."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And uh, Rachel, glad to have you back."
+  },
+  {
+   "t": "direction",
+   "text": "He goes over and gives Rachel the same treatment he gave Monica, only Rachel is shocked."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Pheebs! (He goes over and kisses Phoebe, who is also stunned.) Always a pleasure. (And he struts out leaving the girls to stare at each other.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Monica, Rachel, Chandler and Joey are there looking at pictures from the trip to London."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, Rachel, sweetie, look, here's a really cute picture of Joey and you at the reception."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, he's married! Ross is married. I can't-I still can't believe it. (Rachel grabs the picture from Monica)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey, sweetie, by the edges."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I mean, y'know I'm just gonna have to accept it (She grabs the rest of the pictures)..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ohh. (Monica covers her eyes in horror.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "...I mean it's my fault."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Sweetie! Edges! Fingers! Smudgey! Pictures!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God! (She licks the top picture and hands them back.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. That's okay. I-I know that you're very upset right now. I know, I know that wasn't about me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(To Chandler) I bet it was about her a little."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "If you would stop thinking about Ross for one minute you would notice that there are great guys everywhere! I mean, look! Look, Gunther! (Gunther turns to listen in.) I mean, he's nice, he's cute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, I guess Gunther is kinda..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Interrupting) Oh, what about that guy over there? (She points at another guy and Gunther is deflated.) Remember? That is the guy you flirted with at the counter that time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I don't know. I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You're going to talk to him! Y'know what? We made a deal, I make your decisions and I say you're going to talk to him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, you're the boss. I guess I gotta do what you tell me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Say that to him and you're golden. (She just glares at him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We got out pictures back from London. (Shows her one.) Here's all of us at the Tower of London."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Grabs the pictures) Oh! Here we all are! Yeah, there's Ross and Joey and you and me. (She picks up a magic marker and draws herself in. Monica can't watch.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right, y'know what, we've been talking about London too much haven't we?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No. I'm sorry. It's just 'cause I couldn't be there. 'Cause all I ever get to do now is pregnant stuff, it just bums me out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Sorry."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel returns."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, y'know, a little of this, a little of that. Got myself a date tomorrow night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "See, didn't I tell you?! You're getting over Ross already!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well..."
+  },
+  {
+   "t": "direction",
+   "text": "Gunther goes up to the guy and holds a sign that reads, \"We reserve the right to refuse service to anyone.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "(To the guy) Get out!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Chandler enters to find Monica waiting patiently for him. He closes the door and they start kissing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What took you so long?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I got caught up and work, but I'm quitting tomorrow."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, good."
+  },
+  {
+   "t": "direction",
+   "text": "They start kissing and turn around so that Chandler is facing the door. And Chandler sees Rachel, Phoebe, and Joey walk in and quickly ends the kiss with Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, thanks for having me over! Rach. (Goes over, grabs her, and kisses her.) Pheebs. (After a moment while he decides how to kiss her around her belly, grabs her and kisses her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Jumping out of his way) See ya!! (To the girls.) What the hell was that?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Probably some y'know, European good-bye thing he picked up in London."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's not European!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, it felt French."
+  },
+  {
+   "t": "direction",
+   "text": "Joey is intrigued."
+  },
+  {
+   "t": "scene",
+   "text": "The hallway between the apartments, Rachel is returning from her date with Dave."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God, I really had a good time!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dave",
+   "text": "Yeah, me too. (They reach her door.) So, I guess this is it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. Umm, unless you wanna come inside?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dave",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. Oh, uh, wait a minute, y'know what? I uh, I can't decide this. Umm, okay, just hold on a second."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dave",
+   "text": "Okay, yeah!"
+  },
+  {
+   "t": "direction",
+   "text": "She enters the apartment, leaving Dave in the hallway, to find Ross sitting on the couch with a big box."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Umm, hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Is Monica around? I-I have to ask her something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "She's doing her laundry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What's that? (Points to the box.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It came in the mail today, it's uh, 72 long-stemmed red roses, one for each day that I've known and loved Emily, cut up into mulch!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, honey that's awful."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, it's not so bad. Monica's gonna make potpourri! I think I'm gonna go wander out in the rain for a while."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But, it's not raining."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I can't catch a break!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Y'know what Ross? You're not going anywhere. You're gonna sit right here. I'm gonna make you a cup of tea and we're gonna talk this thing whole out. All right? (She goes out to talk to Dave) Hey, Dave!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dave",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Umm, listen, I'm gonna need to take a rain check, my roommate is just really sick. Okay? Bye! (She goes back in to talk to Ross.) Honey, listen, I know, I know things seem so bad right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Poking her head in) Rach? Can I talk to for just a minute? I-I dropped some socks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah. (She goes out to join her in the hall and starts looking for the dropped socks.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What is the matter with you?! Do you want to fall into the trap? Do you want to fall into the trap?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh! You did not drop any socks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I just ran into Dave and he told me that you blew him off! I mean, you listen to me! Now, I'm calling the shots! I say you leave Ross alone and go get Dave! What the hell were you trying to do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, ultimately, I was trying y'know, I-I wanted...tell him y'know, that I'm still in love with him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(Gasps) What?!! You cannot tell him that!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Why? Why not?! People love to hear that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I make the decisions, and I say no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, y'know what, no, you do not make my decisions because y'know what, you're fired."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You can't fire me. I make your decisions and I say, \"I'm not fired!\" Ha!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well... (At a loss for words, she grabs some of Monica's laundry and throws it on the floor as a diversion to allow Rachel to run back inside and close the door. Monica chases her to find that Rachel had locked the door.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rachel!! Come on! Let me in!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(Poking his head out.) Havin' some trouble?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rachel locked the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'll kick that door in if you give me a little sugar."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "The hallway, continued from earlier. Monica is still locked out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rachel! Let me in! Rachel!"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to inside the apartment, Ross decides to let Monica in and goes over and opens the door in mid-pound.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thank you. Rachel, can I talk to you outside for a sec?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I really need to talk to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, then talk!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, I will. Remember that thing that we just discussed that you wanted to do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What thing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, Rachel wants to take swing dance lessons. Which I think is a really stupid idea! It's dangerous, she's never gonna get what she wants, and who knows who she might (Turns to look at Ross) end up hurting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Monica's right, swing dancing can be tricky. I'm gonna use the phone. I gotta cancel those five giant teddy bears I sent to Emily. (Looks at the rose mulch.) My God, think of the massacre."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm gonna do it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, Rachel, I know-I know you think I'm crazy, please, before you tell him you love him, just-just try to find one person who thinks this is a good idea. Because I bet you, you can't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "But I..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Please!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, fine."
+  },
+  {
+   "t": "direction",
+   "text": "There's a loud bang on the door."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Joey, I'm in!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(In tremendous pain) All right. Good deal."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Joey, Chandler, Monica, and Rachel are there as Phoebe enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Pheebs! Hey Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, okay, Pheebs?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Umm, y'know how the other day you were talking about how you didn't get to go to London and how you were kinda feeling left out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, well, we felt really bad about that so we decided we should all take a little trip together!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ohh, that's so nice! How great! Well, where? Where's the trip?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, we thought we would all go to a picnic (Phoebe gasps), in Central Park!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(excited) Central...(not so excited) Park!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, all of us! All day!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That sucks! That's not a trip! I just came from the park! What are we gonna high five about at the stupid Central Park? \"Well, it's right by my house, all right!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I'm gonna go home and bask in the triumph of my Central Park idea. (Gets up to leave.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(stopping him) Hey-whoa-whoa-whoa!! Ho-ho-hold on a sec there, Mr. Kissey! Y'know, I've been meaning to talk to you about this whole, little, new European thing you got going on, and I just need to tell you that it makes me very uncomfortable and I just-y'know-stop it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I was just trying to bring a little culture to the group."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's fine, just don't bring it in my mouth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Makes me wanna puke! (Chandler looks at her, quizzically.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Rachel, Monica, Chandler, and Joey are there as Ross enters with Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey everybody, Pheebs is here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Phoebe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, woo!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, woo! Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, Pheebs, we decided the picnic idea was a little... Y'know, it didn't have any... It-it, well it blew. So, we thought, that this afternoon that we would all go away for the whole weekend to, Atlantic City!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, Atlantic City! Oh, that's a great plan! Who's plan was that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Mine!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wait! It was my plan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nooo, I said we needed a new plan."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And, I came up with Atlantic City."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Which, is the new plan!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, well, why don't we all meet upstairs in an hour?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay! Ooh-ahh, I'm gonna go pack. I'm gonna go pack my ass off!"
+  },
+  {
+   "t": "direction",
+   "text": "They all go pack except for Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Come on Rach, let's go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, y'know what? I'm-I'm gonna meet you upstairs in a minute."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No! Rachel, you didn't find anyone so you can't tell him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, y'know what, that doesn't matter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, Rachel, do you have any idea how painful it is to tell someone that you love them and not have them say it back?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, I-I don't care."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. I-I can't watch. (Leaves as sits down to read the paper.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What 'cha readin'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The paper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, what's it about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Events from around the globe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. Uhh, Ross, y'know what, there's something that I-that I have to talk to you about and everybody's saying that I shouldn't tell you, but I think they're wrong. I mean, and you know how people can be wrong."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Sure. Once, at work I-I thought carbon dating was fossilized..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, Ross, I'm really trying to tell you something here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Go ahead."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Umm, okay, I think I'm-I'm just gonna-just gonna say it. Just gonna say it. Uhh, (pause) I'm still in love with you Ross."
+  },
+  {
+   "t": "direction",
+   "text": "Ross is stunned."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow. Umm... Huh... I'm-I'm not sure what to do with that right now."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel starts laughing hysterically."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? What? Was that a joke? 'Cause it's mean."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(Laughing) I'm so dead serious. I'm totally serious."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why are you laughing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Because (laughs), because, I just heard it. I heard it, and it's ridiculous! I mean, you're married. You're-you're married and it's just ridiculous, and it's like, it's like when said it, I sort of like, I floated up out of my body, y'know? And, and-and then I heard myself say it and then the floating Rachel (laughs) was like, \"You are such an idiot!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, well I am married. Even though I haven't spoken to my wife since the wedding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(laughs) I'm sorry, that's not funny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Actually, it kinda is. My wife won't return my calls. I don't know where my wife is. (Laughs) \"Hey Ross, where's the Mrs.?\" Don't know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God, ohh, okay, y'know what, do you think ah, do you think that you just forget that I told you this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I kinda half to. I mean, because the thing is..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "The thing is y'know, that you're married to Emily."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That is what the thing is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, things aren't gonna be weird between us, right? I mean was that just the stupidest thing, me telling you that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. No. No, I'm-I'm glad you did. Look, if nothing else, it's-it's always great when someone tells you they love you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's what I said! Thank you for being so nice. (They hug.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No thank you for... Thank you."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, the gang is about ready to leave for Atlantic City."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, let's go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Atlantic City!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Atlantic City, baby! Let's roll some bones! Hey Joey, high-five for rolling bones!"
+  },
+  {
+   "t": "direction",
+   "text": "They high-five and howl, but Phoebe suddenly stops and the guys gasp and retreat in shock."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, Pheebs, you're leaking?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God! You're water broke!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Guys",
+   "text": "Ohh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right. Well, don't worry, I call shotgun! (She starts out the door.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Whoa-whoa-whoa-whoa! Wait-wait!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Pheebs! We have to take you to the hospital now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Pheebs, Pheebs, the babies are coming now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "High-five, the babies are coming! (They all high-five.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wait, wait, remember when my water broke? (They all high-five again.)"
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "The hallway between the apartments, they are taking Phoebe to the hospital but Chandler and Monica hold back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can't believe Phoebe's gonna have her babies!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I know, it's beautiful. Amazing."
+  },
+  {
+   "t": "direction",
+   "text": "They both kiss."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Y'know what else I can't believe? I had to kiss Phoebe and Rachel every time I left a room, I mean it's too bad they didn't see us having sex."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Do you know anything about women?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's all right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. (They kiss again.)"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

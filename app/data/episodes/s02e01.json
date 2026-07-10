@@ -1,0 +1,1214 @@
+{
+ "id": "s02e01",
+ "season": 2,
+ "episodes": [
+  1
+ ],
+ "code": "201",
+ "title": "The One With Ross' New Girlfriend",
+ "lines": [
+  {
+   "t": "dialogue",
+   "speaker": "With Minor Adjustments by",
+   "text": "Eric Aasen"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe is recapping last season, and as she talks we see a montague of scenes from Ross and Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ok, so this is pretty much what's happened so far. Ross was in love with Rachel since, you know, forever, but every time he tried to tell her, something kind of got in the way, like cats, and Italian guys. Finally Chandler was like \"forget about her\" but when Ross was in China on his dig, Chandler let it slip that Ross was in love with Rachel. She was like, \"Oh my god.\" So she went to the airport to meet him when he came back, but what she didn't know was, that Ross was getting off the plane with another woman. Uh-Oh! So, that's pretty much everything you need to know. But, enough about us. So, how've you been?"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": ", The Airport, continued from last season, Rachel is waiting for Ross to come of the plane, when she sees he's coming off with another woman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my god. Oh my god. (She decides to make a break for it.) Excuse me. Move! Move! Emergency! Excuse me! (She tries climbing over a bench and falls down.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(seeing her) Rach!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, there you are! Hi! Oh, so, so, how was China, you? (Hits him with the flowers.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It was, it was great. Oh, what happened?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're bleeding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I am? Oh, look at that, yes I am. Enough about me, enough about me, Mr. Back from the Orient. Come on. I wanna hear everything! Everything. (Looks at Julie)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, where do I start? This is Julie. Julie, this is Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "These are, these aren't for you. (to Julie) These are for you. (Loudly, thinking she can't speak English.) Welcome to our country."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "(Loudly, proving she can speak English.) Thank you. I'm from New York."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, well, not a problem. We'll just use them to stop the bleeding. Ok. Baggage claim? Ok."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, the gang is waiting for Rachel to return from the airport with Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No way!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm telling you, she went to the airport, and she's gonna go for it with Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my god. This is huge. This is bigger than huge. This is like, all right, what's bigger than huge?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Um, this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Guys, you got your hair cut."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, yes, we did, thanks to Vidal Buffay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "'Cause, you know, (in that voice) if you don't look good, we don't look good. I love that voice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(entering, out of breath) Airport, airport. Ross, not alone, Julie, arm around her. Cramp, cramp."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok, I think she's trying to tell us something. Quick, get the verbs."
+  },
+  {
+   "t": "direction",
+   "text": "She hits Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Chandler) You, you, you said he liked me. (Ross and Julie enter) You, you slowpokes!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's all right, Rach, we got the bags. Hi, hello. Julie, this is my sister Monica. This is Chandler.  Phoebe.  Joey, what up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What up?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Everyone, this is Julie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(out of breath) Julie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Ohh. (Happily) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Hi, but I'm not here, you haven't met me. I'll make a much better first impression tomorrow when I don't have 20 hours of cab and plane on me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And bus."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Oh my god."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The screaming guy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "And the spitting?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You gotta hear this story."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "We're on this bus, that's easily 200 years old..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "200 at least."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "...and this guy..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And the chicken pooped in her lap. Oh, I'm so sorry. I just gave away the ending, didn't I? Oh! It's just, I just heard this story in the cab, and it is all I can think about."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This is amazing. I mean, how, how did this happen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Well, Ross and I were in grad school together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But we haven't seen each other since then. Well I land in China, guess who's in charge of the dig."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Julie! Julie, isn't that great? I mean, isn't that just kick-you-in-the-crotch, spit-on-your-neck fantastic?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Julie) It's an expression."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, we just wanted to say a quick hi, and then we're gonna go see the baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "And then we've gotta get some sleep."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, it's really 6:00 tomorrow night our time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, listen, don't tell us what's gonna happen though, 'cause I like to be surprised."
+  },
+  {
+   "t": "direction",
+   "text": "Ross and Julie exit"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Bye. (She closes the door and everyone tries to sympathize with her.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross and Chandler enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, Rach, can I get some coffee?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey, Rach, can I get..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Did you talk to him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Not yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Then, no."
+  },
+  {
+   "t": "direction",
+   "text": "He goes to sit down next to Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So what the hell happened to you in China? I mean, when last we left you, you were totally in love with, you know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know, I know I was, but there was always this little voice inside that kept saying it's never gonna happen, move on. You know whose voice that was?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "God?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It was you, pal."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, maybe it was God, doing me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, you were right. She looks at me and sees a friend, that's all. But then I met Julie, and I don't know, we're havin' a great time. And I have to say, I never would've gone for it with her if it hadn't been for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, you owe me one, big guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(To Ross) Here's your lemonade."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I didn't order lemonade."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh. Well then, you better go take that back because they're gonna charge you for that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Go-go-go-go, come on! (Ross goes over to the counte) (to Chandler) So uh, what did you find out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "He said...he said, he said that they're having a great time. I'm sorry. But, the silver lining, if you wanna see it, is that he made the decision all by himself!  Without any outside help whatsoever."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "How is that the silver lining?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You have to really wanna see it."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Ross and the gang is watching Sumo wrestling on TV."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ironically, these are the guys who were picked last in gym."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Phoebe and Monica in the kitchen.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Pheebes, you know what I'm thinking?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, ok. How, it's been so long since you've had sex, you're wondering if they've changed it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, although now that's what I'm thinking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, so what were you thinking?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, I was thinking, that you gave the guys such great haircuts, I thought, maybe you'd like to do mine?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ohh! No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why not?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Because, I'm just, I'm incredibly anal and an unbelievable control freak."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No you're not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know I'm not, but you are, and I was trying to spare your feelings."
+  },
+  {
+   "t": "direction",
+   "text": "The phone rings."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(answering the phone) Hello? Oh, hi. Yeah, hold on a second. Ross, it's Julie, for you. (Throws him the phone.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on phone) Hello? Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering) Hi. Anybody know a good tailor?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Needs some clothes altered?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, no, I'm just looking for a man to draw on me with chalk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Why don't you go see Frankie? My family's been goin' to him forever. He did my first suit when I was 15. No wait, 16. No, 'scuse me, 15. (still confused) All right, when was 1990?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay.  You have to stop the Q-tip when there's resistance!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(on phone) Ok, ok, sweetheart, I'll see you later. Ok, bye. What? (Sits down next to Rachel) Oh, that is so sweet. No, no, ok, you hang up. Ok, ok, one, two, three. (Doesn't hang up and motions for Rachel to be quiet) Well you didn't hang up either."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She didn't hang up either!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok, no, no, you hang up. You, you, y..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(taking the phone and hanging it up) Sorry, I thought you were talking to me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Rachel! I'll just call her back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(calls Julie back) Hi?  Sorry, we got disconnected... (Walks away.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(to Monica) Ok, ok, ok. How did this happen to me? How did this happen to me? A week ago, two weeks ago, I was fine. Ross was just Ross, just this guy. Now he's Rrrooossss, oh, this really great guy that I can't have."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Sweetie, I wanted you to have him too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I know you did. I'm just gonna deal with it, I'm just gonna deal with it. (Ross comes by, smoching with Julie on the phone.) I gotta get out of here. (Exits)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ok, I don't care what you guys say, something's bothering her."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, the next morning."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to Chandler) You know, I think I was sixteen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Phoebe) Please, just a little bit off the back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm still on \"no.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(poking her head in from her bedroom) Uh, morning. Do you guys think you could close your eyes for just a sec?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No-no-no-no-no, (grabs his pants) I'm not fallin' for that again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What's goin' on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, I sorta did a stupid thing last night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What stupid thing did you do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paulo",
+   "text": "(entering from Rachel's room) Bon giorno tutti!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ewww! (Gets up and walks away.)"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye. (Paulo goes into his room.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Rachel, how did this happen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know, I just kinda ran into him last night."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Where?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "At his apartment. Is this juice?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God, I know I'm a pathetic loser."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey, you're not pathetic, you're sad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "People do stupid things when they're upset."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "My god, if I had a nickel for every guy I wish I hadn't...(Everyone looks at her), but this is about your horrible mistake."
+  },
+  {
+   "t": "direction",
+   "text": "Ross and Julie enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi. Sorry we're late but we were-well, there was touching."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paulo",
+   "text": "(entering) Hey, hey Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, Paulo. What are you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paulo",
+   "text": "I do Raquel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Rachel) So, uh, he's back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, he's back. Is that a problem?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, not a problem."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Good! I'm glad it's not a problem."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to Paulo) Ok, you're gonna have to not touch my ass."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, in spite of the yummy bagels and palpable tension, I've got pants that need to be altered."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, Chandler, when you see Frankie, tell him Joey Tribbiani says hello. He'll know what it means."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you sure he's gonna be able to crack that code?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Phoebe) You know it's funny, the last time Paulo was here, my hair was so much shorter and cuter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right. Ok, but, but!  You have to promise that you will not be all like control-y and bossy and Monica about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I promise."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right. (Talking to Monica's hair.) Now some of you are gonna get cut, and some of you aren't. But I promise none of you are gonna feel a thing."
+  },
+  {
+   "t": "scene",
+   "text": "Monica's bedroom, Phoebe is finishing with her haircut and Monica is whincing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, that's it, I quit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What? I didn't say anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, but this (makes Monica's face) isn't the face of a person who trusts a person. Ok, this (makes Monica's face) is the face of a person who, you know, doesn't trust a person."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Would you relax? I know what I am doing. This is how he wears it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How who wears it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Demi Moore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Demi Moore is not a he."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, he was a he in Arthur, and in Ten."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's Dudley Moore. I said I wanted it like Demi Moore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh.  Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God! I'm sorry, I'm sorry. Which one's Demi Moore?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "She's the actress that was in Disclosure, Indecent Proposal, Ghost!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, she's got gorgeous hair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know!"
+  },
+  {
+   "t": "scene",
+   "text": "Frank's tailor shop, Chandler is getting his pants measured."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frankie",
+   "text": "How long do you want the cuffs?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "At least as long as I have the pants."
+  },
+  {
+   "t": "direction",
+   "text": "Pause as Frankie resumes his work."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Frankie",
+   "text": "I just got that. Ok, now we'll do your inseam."
+  },
+  {
+   "t": "direction",
+   "text": "He slowly measures it up his leg, and Chandler makes a rather surprised face."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Monica is recovering from her haircut, Phoebe is playing her doctor and is coming in from the bedroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "How is she?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's too soon to tell. She's resting, which is a good sign."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How's the hair?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm not gonna lie to you, Ross, it doesn't look good. I put a clip on one side, which seems to have stopped the curling."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Can we see her?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Your hair looks too good, I think it would upset her. Ross, why don't you come on in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. (Gets up, but then pauses when he realizes what that meant.)"
+  },
+  {
+   "t": "direction",
+   "text": "They go into the bedroom leaving Joey and Rachel alone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "How're you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ooh, that bad, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look, I can sense when women are depressed and vulnerable. It's one of my gifts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "When I saw him get off that plane with her, I really thought I hit rock bottom. But today, it's like there's rock bottom, 50 feet of crap, then me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You gotta tell Ross how you feel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Come on. How can I just tell him? What about Julie?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What about her? They've only been going out for two weeks. Ross has been in love with you for like 10 years."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I don't know, I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Look, Rach, Rach! I've been with my share of women. In fact, I've been with like a lot of people's share of women. The point is, I've never felt about anyone the way Ross felt about you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(entering, angry) Yo, paisan! Can I talk to you for a sec? (Pause) Your tailor is a very bad man!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Frankie? What're you talking about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering from the bedroom) Hey, what's goin' on? (Pats Chandler on the shoulder which causes him to jump.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Joey's tailor...took advantage of me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No way. I've been going to the guy for 12 years."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh come on! He said he was going to do my inseam, and he ran his hand up my leg, and then, there was definite..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Cupping."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's how they do pants! First they go up one side, they move it over, then they go up the other side, they move it back, and then they do the rear. (Chandler and Ross stare at him) What? Ross, Ross, would you tell him? Isn't that how they measure pants?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes, yes it is. In prison! Whatsa matter with you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What? That's not? (Realizes) Oh my God."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, later that day.  Monica is now out and about."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Even Mary Tyler Moore would've been better."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I like it. I do, I think it's a Ten. (Chandler laughs.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Thank you. My hair is very amused."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Come on, Monica, things could be worse. You could get caught between the moon and New York City. I know it's crazy, but it's true."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to Chandler and Ross) Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I gotta go. Bye. Bye, Rach."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(sticking her head in from the balcony) Wait, are you leaving?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, that's kinda what I meant by \"bye!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, can I talk to you for a sec?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay. (goes out onto the balcony)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, when the doctor does that hernia test..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's ok."
+  },
+  {
+   "t": "direction",
+   "text": "[Out on the balcony]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What's goin' on?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, first of all, Paulo and I are not back together. It was just a stupid thing I did, and if I could go back in time and do it again, well, I wouldn't. Um, second of all (Ross is laughing), what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ok. Well, before I say anything, I just need to know, is this one of those things where you break up with a guy, and then I tell you what I think, and then the next day you get back together with the guy, and I look like a complete idiot?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. No-no-no-no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, then, I think, I think the guy is scum. I hate him. I mean I actually-I-I physically hate him. I always have. You are way too good to be with a guy like that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You deserve to be with someone who appreciates you, and who gets how funny and sweet and amazing, and adorable, and sexy you are, you know? Someone who wakes up every morning thinking \"Oh my god, I'm with Rachel\". You know, someone who makes you feel good, the way I am with Julie. (Rachel has moved closer, but hearing that she starts to back up.) Was there a second of all?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, I think that was the whole all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay.  Okay. (They hug.) Okay."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut back inside, Joey is on the phone.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I swear to god, Dad. That's not how they measure pants."
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Julie is wanting to get her hair cut from Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "I was thinking of doing it a little shorter, you know, like Andie McDowell's new haircut?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah!  Oh, I can do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You wanna do it right now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Great! (Julie leaves)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to Rachel) Ok, I just wanna be really sure this time. Andie McDowell's the girl from Four Weddings and a Funeral, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No. No no no no no. That's Rodney McDowell. Andie McDowell is the guy from Planet of the Apes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, yeah. Ok, thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You're welcome."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

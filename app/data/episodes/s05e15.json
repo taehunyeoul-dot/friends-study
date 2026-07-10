@@ -1,0 +1,1343 @@
+{
+ "id": "s05e15",
+ "season": 5,
+ "episodes": [
+  15
+ ],
+ "code": "515",
+ "title": "The One With The Girl Who Hits Joey",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "The hallway, Ross is running up the stairs. Note: This show continues where the last one left off."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Chandler!!! Chandler!!! (He opens the door to the apartment but is stopped by the chain; Chandler and Monica quickly stop making out and try to get dressed.) Chandler, I saw what you were doing through the window! Chandler, I saw what you were doing to my sister! Now get out here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Monica) Wow! Listen, we had a good run. What was it? Four? Five months? I mean, that's more than most people have in a lifetime! So, good-bye, take care, bye-bye then! (He kisses her and starts to climb out the balcony window.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What are you doing?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh, I'm going on the lamb."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Come on Chandler, come on, I can handle Ross. (They go to the door. Ross is trying to stick his hand through and undo the chain; Monica pushes his hand back.) (To Ross) Hold on! (She opens the door.) Hey Ross. What's up bro?"
+  },
+  {
+   "t": "direction",
+   "text": "Ross spots Chandler and starts chasing him around the kitchen table. Chandler runs and hides behind Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What the hell are doing?!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(running from the guy's apartment with Joey in tow) Hey, what's-what's going on?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I think, I think Ross knows about me and Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(panicking) Dude! He's right there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To Chandler) I thought you were my best friend, this is my sister! My best friend and my sister! I-I cannot believe this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look, we're not just messing around! I love her. Okay, I'm in love with her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm so sorry that you had to find out this way. I'm sorry, but it's true, I love him too."
+  },
+  {
+   "t": "direction",
+   "text": "There's a brief pause."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(happily) My best friend and my sister! I cannot believe this. (He hugs them both.) (To Joey and Rachel) You guys probably wanna get some hugs in too, huh? Big news!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Awww, no, it's okay, we've actually known for a while."
+  },
+  {
+   "t": "direction",
+   "text": "There's another pause as Ross gets angry again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? What? What?! You guys knew? (Joey and Rachel backup against the door.) You all knew and you didn't tell me?!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, Ross, we were worried about you. We didn't know how you were going to react."
+  },
+  {
+   "t": "direction",
+   "text": "Pause."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(happily again) You were worried about me? You didn't know how I was going to react? (He hugs them both.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, all right, whew! What do you say we all clear out of here and let these two lovebirds get back down to business? (Ross turns and glares at him.) Hey-hey-hey, I-I-I'm just talking here, he-he's the one doing your sister."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, everyone is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey, you know what I just realized? If you guys ever have kids..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(interrupting) Whoa-whoa-whoa! We're having kids?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(quickly) I call Godfather!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You can't just call Godfather. Don't you think her brother should be Godfather?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure, if you cared enough to call it first."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Guys, you're a few steps ahead of us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, big zero gravity moon steps."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Oh, I just thought of the greatest wedding gift to get you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, I'll go in on that with you! I couldn't think of anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "A girl enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(to her) Oh, hey Katie! Everyone, this is Katie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "So, are you ready to go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Yeah, I just gotta run to the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh sure, right back there. (Points.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Hey, where are we going to lunch?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I was thinking Chinese food."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Ohh, I love Chinese! How did you know I love Chinese?! (She hits him repeatedly as she says that.)"
+  },
+  {
+   "t": "direction",
+   "text": "She heads to the bathroom and Joey sits back down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "She is so cute! You could fit her right in your little pocket!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I don't know. I mean I like her a lot, and she's really nice, but..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "But what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(shyly) She keeps punching me."
+  },
+  {
+   "t": "direction",
+   "text": "They all laugh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "In that cute, little, sweet way she just did?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, it's a lot harder than it looks! Okay? (Quietly) She-she-she's hurting me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know what you need, you need a bodyguard. Hey Ross, what is Ben doing after preschool?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey listen, come on, Joey is having a problem! A little girl is beating him up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Aww, Joey, come here. (She takes his hand.) Look honey, I know this must be really, really difficult for you and I--Oh, I'm sorry. Am I hurting you?"
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, he's unpacking after moving in. There's a knock on the door and he answers it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(opens it to reveal Phoebe) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey! I brought you some house warming gifts."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Aww."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. Salt, so your life always has flavor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Bread, so you never go hungry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ohh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "And a scented candle for the bathroom, because well, y'know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks. Thanks. And thanks again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah!"
+  },
+  {
+   "t": "direction",
+   "text": "The door across the hall opens and a guy walks into Ross's apartment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Guy",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Guy",
+   "text": "Welcome to the building. I'm uh, Steve Sarah; I'm president of the tenants committee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh hi! Ross Geller. And this is my friend Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Oh hi Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Mr. President."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "I came to talk to you about Howard."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Howard?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Yeah, he's the handy man. He's gonna be retiring next week and everyone who lives here is kicking in a 100 bucks as a thank you for all the hard work type of thing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh that's nice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Yeah. So, do you want to give a check? Or..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh. Uhh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Oh look, you don't have to give it too me right now! You can slip it under my door. (Points to his apartment across the hall.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No-no, it's not that, it's just... I-I just moved in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Well, the guy's worked here for 25 years."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes, but I've lived here for 25 minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Oh, okay, I get it. (Starts to leave.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No wait, look. Look! I'm sorry, it's just I've never even met Howard. I-I mean I don't know Howard."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Howard's the handy man!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes but too me he's just, man."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Okay, fine, whatever. Welcome to the building. (Exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To Phoebe) Ugh, can you believe that guy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. I really like his glasses."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Ross is lamenting to Chandler and Rachel about his troubles in his new building."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "...so then President Steve told everyone that I was a cheapskate, and now the whole building hates me! A little kid spit on my knee! Y'know what I'm gonna do? I'm gonna throw a party. That's right. For everyone in the building, and I'm gonna sit them down and explain to them, I am not a bad guy. I am not a cheap guy! I'm just a guy who-who stands up for what he believes in. A man with principles."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Rachel) Sounds like a fun party."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hmm. Look, Ross, if you want your neighbors to like you, why don't you just pay the hundred bucks? The party's gonna cost you way more than that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It doesn't matter! It's my principles! We're talking about my principles!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, I thought it was about your neighbors liking you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, they'll like me. Once they come to my awesome PAR-TAY! Okay, I gotta run. I gotta go get some nametags. (Exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And that crazy party animal will be your brother-in-law."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Very, very funny, but don't say things like that in front of Monica. I don't want you putting any ideas in her head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Umm, Chandler, you do realize that those ideas are probably already in Monica's head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wh-wh-why?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, because she loves you and because you love her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, so, what's that supposed to mean?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, Chandler, don't freak out! I'm telling you something you already know! Come on, she broke up with Richard because he didn't want to have babies. And she's a woman, and she's almost 30, and y'know it's Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't see it that way. Okay? Because, I see two Monicas, the one that was my friend, who lived across the hall, and wanted to have a lot of babies and then the new Monica, who I just started to date. Now, who's to say what she wants?! I'm right. I'm right. Am I right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, you're right, you are absolutely right. I mean that makes, that makes everything different."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. It's not different at all, is it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Not unless different means the same."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Joey is sitting on the couch with Katie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "You were so funny with that waiter! You're such a nut! (She slaps her thighs, Joey jerks, and spills some of his coffee.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(sets the coffee down) Y'know, breadstick fangs are always funny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "No, you make them funny. You're the funny one! (She punches him again and he retreats to the arm of the couch.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhh, look Katie, uh listen, we-we need to talk. Okay? Umm, look I like you. I-I really do, I like you a lot. Okay? But sometimes when you, when you playfully punch me like that it-it feels like someone's hitting me with a very tiny but very real bat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Aww, like I could hurt you. Are you making fun of my size? Don't make fun of me because of my size! (She punches him again and almost knocks him off the arm of the couch.)"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Chandler and Monica are curled up on one of the chairs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Isn't this great?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Couldn't you just stay like this forever? (His eyes snap open.) Chandler! Couldn't you just stay here forever?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, here, somewhere else, y'know where-where ever. (Gets up.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Are you okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, I'm cool. Casual."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What-what are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm just hanging out. Y'know, having fun. Y'know with the girl that I'm seeing casually."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Man, I knew it! I knew you were going to do this!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Get all freaked out because everybody was talking and just joking around about marriage and stuff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, you do want all that stuff, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh and you know what I want!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes! You want babies! You have baby fever!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I do not have baby fever!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh please, you are obsessed with babies and-and marriage and everything that's related to babies and-and marriage! I've got an idea, why don't we turn down the heat on this pressure cooker?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Have you lost your mind? Chandler, this isn't about me! This is about you and all your weird relationship commitment crap!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Nah-uh! I know you! Okay? I know the thoughts that you have in the head--in your head!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You don't know everything. Did you know that I'm going out with Rachel tonight instead of you? Hmm? And did you know that the only baby around here is you?! And did you know that I can't even look at you right now?! (She storms out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, I did not know that."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler is getting advice from Ross and Joey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's gonna be okay, right? I mean she's not gonna leave me? This is, this is fixable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross and Joey",
+   "text": "Oh yeah, yeah, sure. Absolutely."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "By me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No-no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, unless you make some kind of big gesture."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, big!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh-oh, shht! The Misses."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Gunther, can I get a coffee (Looks at Chandler) to go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Monica. (Goes to talk to her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm still not done not wanting to talk to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Just tell me what I need to do to make things right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well, that's what we do. Y'know, I-I mess up and then you tell me how to fix it and then I do and then y'know you think I'm all cute again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Really? I'm really tired of being your relationship tutor. You're gonna have to figure this one for yourself. All right? Y'know what? If you're too afraid to be in a real relationship, then don't be in one. (She walks out.)"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler turns to watch her go and then sees Ross and Joey both with huge grimaces on their faces."
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, he's having his party, only he's the only guest. He gets up and puts on a nametag that says Ross, but doesn't quite like it. So he takes it off and puts on one that says Dr. Geller and he puts the Ross one underneath the Dr. Geller one. Then as he turns off the music, we hear the party for Howard raging in the apartment across the hall."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Party Guests",
+   "text": "(chanting) Howard! Howard! Howard! Howard! (Ross goes to investigate the noise) Howard! Howard! Howard! (They're holding Howard above their heads.) Howard! Howard! Howard! Howard! Howard! (He sees Phoebe chanting along with them.) Howard! Howard! Howard! Howard! Howard! Howard! Howard! Howard! Howard! Yay!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Phoebe! (He grabs her arm to get her attention.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, hi Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I thought this was your party and it turns out it's a party for Howard. He's just the sweetest little man! (A guest walks up to her.)"
+  },
+  {
+   "t": "direction",
+   "text": "Guest #1: See ya Phoebe! Oh and hey, thanks for chipping in!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You chipped in?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, uh-huh, a 100 dollars."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Phoebe! I can't believe you gave them money! I thought you agreed it was totally unreasonable that they asked me for that money!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, but they didn't ask me! Y'know? This way I'm just y'know, the exotic, generous stranger. That's always fun to be."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, but you're making me look bad!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No I'm not. No! If anything I'm making you look better! They'll see you talking to me and that's--I'm a hit!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "(walking up) Oh hey, Pheebs!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Oh hey, Ross. Umm, see, I was thinking maybe you two could switch apartments because Phoebe's more our kind of people. Something to think about. (Walks away.)"
+  },
+  {
+   "t": "direction",
+   "text": "Ross turns and glares at Phoebe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, okay, my bad."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Rachel is getting some coffee as Joey enters. He's looking a little puffy, but that's probably from the large number of different color sweaters he's wearing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi! Wow! You look, you look...big."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thanks! I've been working out. Hey listen, is it obvious that I'm wearing six sweaters?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uhhh, yeah. But it's not obvious why."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well look, I'm breaking up with Katie so I had to put on some extra padding. Y'know? I mean, if she hits me when she's happy, can you imagine how hard she's gonna hit me when I tell her I'm taking away the Joey love?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "(entering) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! Hiya!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey! Hey, cute jacket!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Oh, thanks! That's so sweet! (She punches Rachel like she punched Joey.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Ow! (Joey motions, \"You see what I mean?!\")"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Oh, ow! Did Joey tell you to say that? You guys, (Punches Joey) are too much! (Punches Rachel.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Whoa! (Laughs) Y'know what Katie? I gotta tell ya I-I-I-I think you are the one who is too much. (She punches Katie back.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Ohh, Joey has the nicest friends! (She punches Rachel.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, and the nicest girlfriend! (She retaliates.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "You're so sweet! (Punches Rachel yet again.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, you're so sweet! (She kicks Katie in the shin.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Oww!!!! Joey, she just kicked me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "Well? Aren't you gonna do something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uhh...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Katie",
+   "text": "You'd better do something, or I'm gonna walk out that door right now! Well? Are you gonna?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Nah."
+  },
+  {
+   "t": "direction",
+   "text": "She looks at Rachel and storms out. After she's left Joey hugs Rachel in thanks."
+  },
+  {
+   "t": "scene",
+   "text": "Howard's party, Phoebe is talking Ross up to two more partygoers. Ross isn't happy about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(trying to get her attention) Phoebe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(ignoring him and continuing her conversation) That's what I'm saying. (Laughs.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(tapping her on the shoulder) Phoebe? Phoebe?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh. (Turns to him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, this is a disaster! Can't I please just go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No! No! I'm talking you up to people. Just give it a little time, all right? Relax, get something to eat! Okay?"
+  },
+  {
+   "t": "direction",
+   "text": "They go to the food table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So uh, what did you tell them about me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I was telling them about you and Emily. Y'know, try to get some sympathy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ohh. (He cuts himself a piece of cake.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But somehow you came off as the bad guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, I think I told it wrong. Y'know, we should talk about that because I don't totally understand what happened there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(trying a piece of cake) Ohh, this cake is really good!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, okay, see? Things are looking up already!"
+  },
+  {
+   "t": "direction",
+   "text": "Guest #2: (sees the cake) Oh my God! Someone cut Howard's cake! (Ross tries dumping it into a nearby plant.) Who would do a think like that?"
+  },
+  {
+   "t": "direction",
+   "text": "Steve goes over to look at Ross who's trying to look cool, but has some frosting on his lip."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "3-B!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Oh yeah, aww!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Okay, you got your free food! You ruined everyone's fun! Don't you think it's time you went home?!"
+  },
+  {
+   "t": "direction",
+   "text": "Guest #3: Yeah, leave!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Yeah, get out! Now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Steve",
+   "text": "Go back to 3-B, 3-B!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, everyone calm down! Everyone calm down! I have something that I would like to say! Who here likes Ross? (Ross is the only one who raises his hand and Phoebe glares at him to put his hand back down.) Of course you don't like him! He-he didn't give you any money, he raised his own hand when I asked, \"Who hear likes Ross,\" and he's wearing two nametags! (He takes one off.) I-I'll be honest with you guys, when I first met Ross I didn't like him at all! But then once I got to know him I saw that he's really sweet and caring and very generous. I mean, all I'm saying is don't judge Ross before you get to know him all right? I mean, I like all you guys now, but when I first meet you y'know Kurt, I thought, y'know abrasive drunk, umm Lola, mind numbingly stupid! And okay, you guys (She turns to an elderly gentleman and a 20 something woman, who're a couple.) (To the girl) Gold-digger, (To the old guy) cradle robbing perv! So, I think you all know what I mean."
+  },
+  {
+   "t": "scene",
+   "text": "Ross's apartment, Ross and Phoebe have been banished to Ross's place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Obviously I didn't think they were gonna start throwing things. I just thought if I kept insulting everyone, you would jump in and defend everyone and then you could look like the hero."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh wow, yeah! See, I did not get that."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Chandler comes running in. Everyone else is already there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Where's Monica?! Where is she? I need to talk to her! It's urgent! Is she here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(raising her hand) I'm Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I need to talk to you, it's urgent!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, I've been doing a lot of thinking about us, y'know a lot of uhh, us thinking. And uh, well I guess there's only one-one way to do this. (He slowly and awkwardly gets down on one knee.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Wait what-wh-wh-what are you doing?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(getting out a ring box) Monica..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No-no, don't-don't-don't do it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Will you marry me?"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe hides her eyes in shame. Rachel is starring at them wide-eyed and open-mouthed. Joey and Ross are stunned to temporary silence."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh-no. No. No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What a bad idea!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohhhh, I cannot look at it! (She doesn't move.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler, why are you doing this?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't know. But I know I'm not afraid to do this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm doing this because I'm sorry?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Do you umm, you really think the best reason to get married is because you're sorry?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, the best reason to get married is pregnancy. Sorry is pretty much fourth y'know, behind being ready and actually wanting to get married. (Laughs.) Will you be my wife?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(kneels with him) Chandler, umm, I want you to take just a minute and I want you to think about how ridiculous this sounds."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, I'm kinda wishing everyone wasn't here right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey! Do you know that none of that stuff came from me?! I mean I never said I wanted to have babies and get married right now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah I know, but I was really confused and then I talked to these guys. (Turns to look at Ross and Joey.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Who? Two divorces and Joey?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "She's right y'know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, but still, cheap shot!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Y'know what? Y'know when I said that I want you to deal with this relationship stuff all on your own? Well, you're not ready for that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I didn't think I was!"
+  },
+  {
+   "t": "direction",
+   "text": "They hug."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God, what would have done if I said yes?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well I would've been happy because I would've be able to spend the rest of my life with the woman that I love. Or, you would've seen a Chandler shaped hole in that door. (Points at the door.)"
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Everyone is there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey Ross, will you pass me that knife?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, I will not!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, it's okay. You don't have to be so mean about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're right, I'm sorry. Will you marry me?"
+  },
+  {
+   "t": "direction",
+   "text": "They all laugh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Aw, and I was gonna ask you to marry me because I forgot to say hello to you last week."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no wait Pheebs, I think for something like that you just ask them to move in with you. But I'm not sure, Chandler?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, how long is this going to go on."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well I think the length of teasing is directly related to how insane you were so, a long time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This is fun. Hey Rach, remember that whole \"We were on a break thing?\" Well, I'm sorry, will you marry me? (Laughs--whines as he sees that no one is laughing. They're just staring at him in shock.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's not funny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's not funny at all!"
+  },
+  {
+   "t": "direction",
+   "text": "They all get up and leave."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

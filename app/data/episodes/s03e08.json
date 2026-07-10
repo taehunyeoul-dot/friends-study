@@ -1,0 +1,1287 @@
+{
+ "id": "s03e08",
+ "season": 3,
+ "episodes": [
+  8
+ ],
+ "code": "308",
+ "title": "The One With The Giant Poking Device",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Phoebe, Chandler, and Ross are there, Rachel is serving brownies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Here you go Pheebs. Who else wants one of my special homemade brownies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I will have one. (Ross and him both take one.)"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe takes a bite and spits it out and screams."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay, I'm not gonna have one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Neither will I. (they both put back the brownies.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, no, it's just my tooth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right I'll have one. (he and Ross take another brownie,)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So what's a matter, you need a dentist? I've got a good one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No thanks, I have a good one too. I just, I, I can't see him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "See that is the problem with invisible dentists."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why? Why can't you go to him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Because, every time I go to the dentist, somebody dies."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That is so weird, because every time I go to the dentist, I look down the hygienist's blouse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, what? Umm...what?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, yeah, first there was my aunt Mary, and then there was umm, John, my mailman, and then my, my cowboy friend 'Albino Bob'."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And all these people actually died?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yes, while I was in the chair! That's why I take such good care of my teeth now, y'know, it's not about oral hygiene, I floss to save lives!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Pheebs, come on, you didn't kill anybody, these people just happened to die when you went to the dentist. It's, it's, it's just ah, a coincidence."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well tell that to them. Oh! You can't, their dead."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross, Rachel, and Phoebe are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks, Gunther. (takes the plate Gunther serves him and Rachel comes up and kisses him) (to Rachel) Hey! (to Gunther) Umm, can I get a napkin too?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "Oh, like you don't already have everything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(trying to bite into an apple) Ow! Ow! (drops the apple in disgust.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Phoebe, your in pain, would you just go to the dentist, just go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, fine, fine, but if you're my next victim, don't come back as a poltergeist and like suck me into the TV set."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I promise."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Although, don't feel like you can't visit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering with Monica) Hey, is, is, is Chandler here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(patting his clothes like he is looking for his wallet) No, no he's not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You guys, Joey just saw Janice kissing her ex-husband."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? (to Joey) So what are you going to do? I mean how, how are you going to tell Chandler?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I was thinking about that and I, I think the best way would be, to not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey, you can't keep this to yourself, if you know about this, you have to tell him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "It'll kill him. I mean it'll, it'll just kill him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, you could wait 'til I go to the dentist, maybe I'll kill him."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, All are there except for Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(looking out the window) Ewww! Ugly Naked Guy is using his new hammock. It's like a Play-Doo Fat Factory."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, I'm going to the dentist, so listen, okay, just be on the look out for anything that, that, that you can fall into, or, or that can fall on you, or... All right, just look out! Okay, And um, I also just wanna, I just wanna tell you all that um...... (starts to cry and runs out)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, I have a problem I have to go into work for a few hours, some kids messed up the Homo Sapien display."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What did they do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, they painted over the word 'Sapien' for one thing, then they rearranged the figures, let's just leave it at that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So, do you want me to watch Ben for you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes, that's what I was going to ask, thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Whoa! Wait! Hello! What about me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You? You! Want to watch Ben? (in the background Monica mouths 'Don't worry, I'll be here the whole time.' to Ross.) Yes! That'd be great, no, I just wanted to ask Monica, because I know how empty her life is. (Monica sarcastically mouths 'Yeah!' and holds up her thumb.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey-hey, Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I've got a science question."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hmm?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "If the Homo Sapiens, were in fact 'Homo-sapien', is that why there extinct?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Joey, Homo Sapiens are people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey-hey, I'm not judging."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Monica and Rachel are babysitting Ben."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(holding Ben) Look Benny, spoon. (moves it back and forth) Spoon. Come on! All right, y'know what I think he's bored."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Here. Ben, do you wanna play the airplane game, do you wanna show Rachel? Come here. (takes Ben) We're gonna do something fun. Okay. (throws Ben up in the air a little bit and catches him) Weee!! (moves into the living room and does it again) Weee!! (starts to walk back into the kitchen as she does it again, and hits Ben's head on that wooden beam across the ceiling.)"
+  },
+  {
+   "t": "direction",
+   "text": "[cut to later]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(to Ben) Who's so brave, you're so brave, yes you are, you're so brave."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. Okay honey, he's fine, he's fine, let's just put him down. Come here, Ben. (sets him on the couch) See that's a good boy. (to Monica) How could you do that to him!! Ross trusted me, what is he going to say?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "He's not gonna say anything, because we're not gonna tell him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "We're not?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No we're not."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right, I like that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So we're okay, we're okay, we're okay, (starts to exam Ben) aren't we? No, we're not okay, we're not okay, there's a bump, there's a bump."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God! Well push it in! Push it in!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I cannot push it in!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, we're gonna need a distraction."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, okay, okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I got it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "The second that Ross walks in that door, I want you take him back to your bedroom and do whatever it is that you do that makes him go, (high pitched) rweee!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Or. We could put a hat on his head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "A hat! Yes! We need a hat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "We need a hat.."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Where are we gonna find a tiny little hat?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, oh, oh, I'll get 'Rainy Day Bear'!! (runs to get him)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Because he'll know what to do? (Rachel comes out of her room with a bear that's dressed in a rain suit.) Oh my God, you're a genius!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God, oh God, it's sowed on though."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Give it. Give it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "Monica takes the bear, grabs his hat, and rips off his head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica and Rachel",
+   "text": "Oh!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, it's just like a bloodbath in here today."
+  },
+  {
+   "t": "scene",
+   "text": "The street, Chandler and Joey are walking past a jewelery store."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey! Hold on a minute, hold on a second. Do you think these pearls are nice?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'd really prefer a mountain bike."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Janice's birthday is coming up, I want to get her something speacial. Come in here with me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whoa, whoa, whoa, wait, whoa. Do you ah, want to get her something speacial, get her flowers, get her candy, get her gum, girls love gum."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's a good idea, 'Dear Janice have a Hubba-Bubba birthday'. I would like to get her something serious."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, you want something serious. Y'know what you should do, you should get her one of those um, barium enemas. Those are dead serious."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right. Look, I'm gonna go in here, and you don't buy me anything ever. (starts to go into the store)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(stopping him) No, no, you can't, you can't, okay, you can't, you can't buy her pearls, you just can't, you can't, you can't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why not?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh God. Uh, okay, here's the thing, this is the thing, okay, the thing is..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What is the thing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. I went down to the 'Mattress King' showroom and, and I saw Janice, kissing her ex-husband."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(shocked) What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "They were in his office."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well she, she wouldn't do that, she's with, she's with me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm telling you man, I saw it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, well, you're wrong! Okay, you're wrong."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm not wrong! I wish I was. I'm sorry. Bet that barium enema doesn't sound so bad now, huh?"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Monica and Rachel are dressing up Ben in the entire rain suit from Rainy Day Bear."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It just makes more sense as an ensemble."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Besides, it takes the focus off the hat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(running through the door) No! Oh! You're alive! You're alive!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "See Pheebs, I promised you no one would die, didn't I?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, well, we'll see about that. Can I use your phone? I just wanna call everyone I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Sure, we have no money, go ahead."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(on phone) 'Hey! You're not dead! Okay, see ya!'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ben",
+   "text": "Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God! He just said my name! Did you hear that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ben",
+   "text": "Monica bang!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, I heard that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Did he just say 'Monica bang'?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh-huh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God! He's gonna rat me out!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ben",
+   "text": "Monica bang!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh-ho-ho, sweetie, sweetie, you gotta stop saying that, now. It's no big deal, it's not even worth mentioning, you see we all do it all the time. See watch this, Ben, Ben, Ben. (goes over and starts hitting her head on the post) Ow, Monica bang! (does it again) Everybody bang. (repeats) Ben bang. (repeats) Rachel bang. (repeats) Bang, Rachel bang! Oh, isn't that fun?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(goes over and hits her head on the post) Look at that! (repeats) Look at that! (repeats) We all do it. (repeats) Okay, I'm stopping now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh yeah! Y'know, if it's not a headboard, it's just not worth it."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Chandler is waiting for Janice to arrive, and is angrily fllipping through a magazine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "(entering) How's my Bing-a-ling?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ah, I don't know, you tell me. Anything you ah, wanna tell me, because, if you ah, you should, if you, you would, tell me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Why are your eyes so white?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You tell me! Maybe, it's because I was just fooling with my ex! Oh no-no-no-no, no-no-no-no, that was you!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh my God!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "How did you know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Joey told me, he saw you two kissing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "In the park?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No! In his office! How many kisses were there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Just those two!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wh-wh-why, wh-why, why, why was there kissing!? There should be no kissing!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh, I'm sorry honey, I'm so, so, (nasally) haaaaa! I'm so, so sorry, I just (nasally) haaaaaa! But I, oh what happened was, I-I-I can't breathe. Can you get me a bag, or something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(giving her a bag) Here."
+  },
+  {
+   "t": "direction",
+   "text": "Janice starts to breath into it and sucks in the reciept, and then spits it out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "The receipt."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'll take it! All right look, I gotta know. Are you finished with me? (Janice shakes her head no) Are you finished with him? (Janice shakes her head no) Do you still love him? (Janice shakes her head yes) Do you still love me? (Janice shakes her head yes) All right look, (grabs the bag) I'm gonna need an actual answer here okay, so which is it, him or me? (his phone starts to ring)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "I don't know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(rushing in) Okay. If you're alive you answer your phone!"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Monica, Rachel, Phoebe, and Joey are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, Ben, I won't tell your daddy that you had ice cream for dinner, if you don't tell about our little bonking incident."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Monica, number one, I don't think Ben understands the concept of bribery, and number two, I... (Joey starts laughing in the background) (to Joey) What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You said number two."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I also said number one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know. (giggles harder)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey! Everyone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How's my little boy?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "He's perfect, he's never been better."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(noticing the outfit he is wearing) What'd you do, take him whaling?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ben",
+   "text": "Monica."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh my God, he just said your name, that's great! Good job Ben."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ben",
+   "text": "Monica bang!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh that's right, that's what I'd sound like if I exploded."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Woo-Hoo! The curse is broken! I called everybody I know, and everyone is alive."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Ugly Naked Guy looks awfully still. (Phoebe runs to the window and gasps.)"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to later, all except Chandler are staring out the window at Ugly Naked Guy.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh my God! I killed him! I killed another one! And this curse is getting stronger too, to bring down something that big."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well maybe he's just taking a nap."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm tellin' ya, he hasn't moved since this morning."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "All right, we should call somebody."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And tell them what? The naked guy we stare at all the time isn't moving."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, we have gotta find out if he's alive."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How are we gonna do that? There's no way."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, there is one way. His window's open, I say, we poke him."
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Chandler is throwing darts, as Joey enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! Y'know how we ah, save all those chopsticks for no reason we get when we get Chinese food?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, now we got a reason."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, we're fashioning a very long poking device."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey uh, what's a matter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I talked to Janice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh my God, is she going back to him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "She doesn't know. Says she loves us both. Y'know I woke up this morning and I was in love, well I was happy. Y'know it serves me right for buying that twelve pack of condoms. And now I can't even return them, because she choked on the reciept!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What are you ah, what are you gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't know, y'know. What, what, would you do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, it doesn't matter what I would do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Come on, tell me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, you're probably not gonna want to hear this but ah, if it was me, and this is just me, (Chandler gets ready to throw another dart) I would ah, I would bow out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What? (turns around quickly still ready to throw the dart and Joey quickly ducks and hides behind the chair) What are you, what are you talking about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "They have a kid together, y'know. They're like, they're like a family, and if, I don't know, there's chance they could make that work, I know I wouldn't want to be the guy who stood in the way of that. Are you okay? Do you wanna ah, come poke a nude guy?"
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Ross has just finished putting Ben to sleep, and is entering from Rachel's room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, he's finally alseep. About that ah, bump on his head?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Are you, are you, are you sure it's ah, a new bump? I mean, no offense, I've always thought of Ben as a fairly bumpy headed child."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's okay if he bumps his head, kids bump their heads all the time, y'know, it was your first time babysitting, I figured you did the best you could."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(confidently) I did!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I know! I'm saying you have to watch them all the time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I did!! I watched! I watched! I watched Monica bang his head against that thing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Monica did it?"
+  },
+  {
+   "t": "direction",
+   "text": "Monica runs into the kitchen from the terrace."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Monica?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Umm, did you notice anything wierd about Ben today?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No. Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well, I was just playing with him, and y'know we were doing the alphabet song, which he used to be really good at, but suddenly he's leaving out 'e' and 'f.' It's like they just ah, I don't know, fell out of his head."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Really?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, and also, he's, he's walkin' kind of funny, his left leg is moving a lot faster than his right leg, and he's in there just sort of y'know... (walks around in a circle)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God, I wrecked your baby!! (runs into the bedroom)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I hope it's still funny when you're in hell."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(coming out of the bedroom) You jerk! You know how much I love that kid! (starts to chase Ross around the living room)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Monica bang! Monica bang! (runs into one of the posts) Ow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'll get the hat."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Chandler and Janice are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Janice, I have something I need to tell you, and I want you to let me get through it, because it's, it's, it's not gonna be easy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I think you should go back with Gary. I don't wanna be the guy that breaks up a family, y'know when my parents split up, it was because of that guy. Whenever I would see him I was always think y'know 'You're the reason, you are the reason why their not together.' and I hated that guy. And it didn't matter how nice he was, or how happy he made my Dad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, well. It's the right thing to do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh! You're right. Oh God. But, before I can say 'good-bye', there's something I really need you to know, Chandler. The way I feel about you, it's like, I finally understand what Lionel Richie's been singing about. Y'know, I mean what we have, it's like movie love, you're my soulmate, and I can't believe we're not going to be spending the rest of our lives together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Then don't leave me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Forget what I said, I was babbling! Pick me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "No, you were right, you were right. I mean, I-I-I've got to give my marriage another chance."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No you don't! No, no, no, I say you have to give your divorce another chance."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "(standing up) I'm sorry. (hugs him)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ohhh. Don't go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "No, I-I-I gotta go. (she starts to walk away, but Chandler doesn't let her go.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No. No! No! No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Honey, honey, people are looking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I don't care! (turns around and to the people watching them) I don't care!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Yeah, um, I'm, I'm leaving now. (tries to get her leg out of Chandler's grasp, she finally does, but Chandler takes off her shoe.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You can't leave! I have your shoe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Good-bye Chandler Bing. (walks out with one shoe)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "Rachel has those in burgendy."
+  },
+  {
+   "t": "scene",
+   "text": "Monica and Rachel's, Joey, Rachel, Monica, Phoebe, and Ross are holding the giant poking device."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right now remember, something this big and long is going to be difficult to manuver, fortunately I have a lot of experience in that area."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Can we please focus here, a naked man's life hangs in the balance!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm telling you he's dead. What we are about to have here is a dead fat guy on a stick."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, ladies and gentlemen, let's poke. (they start to advance the giant poking device) Steady. Steady. Okay, a little higher. Careful of the angle. Okay, okay, we're approaching the window (as he says this the camera cuts to their view of Ugly Naked Guy, so that we actually see him!) Thread the needle. Thread the needle."
+  },
+  {
+   "t": "direction",
+   "text": "They thread the needle and start poking him, he then stirs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "He's alive! He's a-live!!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And yet, we're still poking him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, retract the device, retract the device."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "He does not look happy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey-hey, now he's showing us his poking device."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, that's never gonna make it all the way over here, buddy!"
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Chandler and Joey's, Chandler is listening to a Lionel Richie album"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(singing) I'll hold you close in my arms. (Phoebe enters) I can't resist your charms. And love...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(joining him) Love...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler and Phoebe",
+   "text": "I'll be a fool for you. I'm sure, you know I don't mind."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(high pitched) No you know I don't mind."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler and Phoebe",
+   "text": "Yes! You mean the world the world to me. Oh..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I've found."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I've found...."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler and Phoebe",
+   "text": "...in you, my endless (Phoebe goes high pitched, Chandler goes low pitched) love. (they both look at each other.) My endless love. (once again they don't match tones, and they just look at each other)"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

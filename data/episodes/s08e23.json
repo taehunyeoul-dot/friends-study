@@ -1,0 +1,2936 @@
+{
+ "id": "s08e23",
+ "season": 8,
+ "episodes": [
+  23
+ ],
+ "code": "823",
+ "title": "The One Where Rachel Has A Baby",
+ "lines": [
+  {
+   "t": "dialogue",
+   "speaker": "Part I Written by",
+   "text": "Scott Silveri"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Part II Written by",
+   "text": "David Crane & Marta Kauffman"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Parts I & II Transcribed by",
+   "text": "Eric Aasen"
+  },
+  {
+   "t": "scene",
+   "text": "The Hospital, Ross and Rachel, who's in a wheelchair, are arriving in the waiting room for the maternity ward."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right! (Checking his watch) Yes!! From home to the hospital in under seven minutes! We did it!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(deadpan) Yes, the hard part is truly over."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, but come on, we're off to a great start aren't we? I knew I'd get you here fast, but this has got to be some kind of a record!"
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe and Monica walk in from getting some coffee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh you made it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi! (Ross is stunned.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wait a minute! How-how the hell did you beat us here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We took a cab. Did you guys walk?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "N... No! We took a cab too, but I did test runs!"
+  },
+  {
+   "t": "direction",
+   "text": "Chandler and Joey enter from the vending machines carrying sodas."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! You made it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay is there...some kind of magic tunnel to this hospital?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, you stay here and talk, I'm gonna go have a baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay. Okay. (To the nurse behind the desk.) Umm hi, this is Rachel Green. I'm Ross Geller. We-we called from the car."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "Right! We have a semi-private labor room waiting for you. So in just a minute..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(interrupting her) Whoa-whoa-whoa-whoa! I'm sorry, semi-private? We (Laughs), we asked for a private room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "Yes, I see that here. Unfortunately we can't guarantee a private room and currently they're all unavailable."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Man, if only you'd gotten here sooner. (Ross turns and glares at him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "I'm sorry. Semi-private rooms are all we have."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. Just give us a second. Ross! (They walk away from the desk.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Give her some money."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I really think they're out of rooms."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "They're not!! Ross, they're just saving them for the important people!! Okay?! What-what if I was the president?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well then we'd be in a lot of trouble, you don't know where any countries are. (Rachel glares at him.) Okay. (He goes over to the desk followed by Rachel.) Uh, say would you umm... Would you mind checking again to see if any umm, private rooms may have (Handing her some money) opened up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "This is a hospital."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(standing up) Okay. Y'know what? I'd have to say I really don't care for your tone. And this is not the only hospital in this city and we have no problem to-Whoa! (She starts a contraction) Oh gosh! Whoa!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What-what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ow! Ow! Contraction. (Sits back down.) Ow-ow! Ow-ow! (Starts breathing heavily.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "Would you like to see a semi-private room?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, it couldn't hurt to look."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "The Semi-Private Labor Room, Rachel is in bed, Ross is fooling around, and Dr. Long is checking on Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Well you're only two centimeters dilated and we need to get to ten. It'll be a while."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "I'll be back in an hour to check you again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thank you. (Dr. Long exits.) Well, I guess we have some time to kill."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, guess so. Whew! Check these out! (He's looking at the stirrups on the other bed in the room and Rachel groans. Ross then hops into the bed and puts his legs into the stirrups.) Never done this before."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah well it looks great!"
+  },
+  {
+   "t": "direction",
+   "text": "A nurse shows another couple into the room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Thank you very much."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Thanks."
+  },
+  {
+   "t": "direction",
+   "text": "They stop when they see Ross who has to struggle to get out of the bed."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi! Hi, I'm uh Ross. I'm here to ruin this magical day for you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Oh no-no, not at all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Don't worry about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Marc Coreger, this is my wife Julie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi Julie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This is Rachel. (Points at her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Marc",
+   "text": "Oh hi Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "How are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Hi. Is this your first?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah it is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Well, little Jamie here is our third. So, if you have questions or you need anything at all, just holler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's so sweet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Umm say, I-I opened this earlier (The privacy screen) but let me give you guys some privacy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Marc",
+   "text": "No nonsense! We're all in this together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Yeah, we are going to share every moment of this with you. And I think we're gonna have some fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Marc",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Marc",
+   "text": "Hey! Smile! (Points his camera at Ross and Rachel.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no, I really don't want any-(He takes the picture)-Oh! Thank you. Oh. Oh Ross..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Here comes another contraction."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh. Okay, just breathe."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Oh honey, I think I'm having one too!"
+  },
+  {
+   "t": "direction",
+   "text": "During the mutual contraction Julie takes a moment to point out they're having a contraction at the same time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Marc",
+   "text": "Look at this! (Takes another picture) There we go!"
+  },
+  {
+   "t": "scene",
+   "text": "The Waiting Room, the rest of the gang is lounging around."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(looking at the clock) Oh wow, three hours and still no baby. Ugh, the miracle of birth sure is a snooze fest."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey, you wanna see something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Sure! What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Umm, this is going to be fun. Watch me freak out Chandler. Honey?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Listen uh, I-I've been doing some thinking, and I don't know whether it's because we're here or Rachel's giving birth but umm, I think we should try to have a baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(freaking out) What-what-what's that now?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. I've been thinking about it too, and I, I think we're ready."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?! Are you kidding me?! You-you-you think we're ready to have a baby now?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, this is fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You're ready to have a baby? My boy's all grown up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "But you said you were ready too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah but I was just screwing with you to try to get your voice all high and weird like mine is now!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, but haven't you wanted a kid like forever?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, just back off mister! Whoa. (Pause) 'Cause I am ready to have a baby. I just want Joey to be the father."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(voice all high and weird) What?! Are you crazy?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "That's it! Right there! Is all I wanted!"
+  },
+  {
+   "t": "scene",
+   "text": "The Semi-Private Labor Room, time lapse, Ross is massaging out a cramp on Rachel's hip as Marc opens up the privacy screen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Marc",
+   "text": "I am so sorry. The doctor insisted on closing the curtain for the exam."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, that's very-Really very-very okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Marc",
+   "text": "Julie's cervix is dilated a seven centimeters, that's about four fingers. The doctor let me feel it myself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Have you felt Rachel's cervix Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(simultaneously as Ross) No, I don't think we'll be doing that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(simultaneously as Rachel) We're not gonna do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Julie",
+   "text": "Well, if you like you can feel Rachel's and then feel mine to compare."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Geller",
+   "text": "(entering) Am I interrupting?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh yes! Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh. Oh wait no."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Later."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No-no-don't! Don't leave me here with these people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh uh, I'm sorry. (Runs out.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No Ross! Ross! Ross! My child has no father!"
+  },
+  {
+   "t": "scene",
+   "text": "The Hallway, Ross comes out and hugs Mrs. Geller."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hi! I'm so glad you're here, but it's gonna be a while. I-I wished you'd called first."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Geller",
+   "text": "Oh that's all right, I'm coming back later with your father."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Geller",
+   "text": "I actually needed to talk to you before the birth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, what's up?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Geller",
+   "text": "I brought something that I want to give you, assuming of course that you want it. (She holds up an engagement ring.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ma, you're asking me to marry you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Geller",
+   "text": "This is your grandmother's engagement ring, I want you to give it to Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mom no, come on! Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Geller",
+   "text": "Just hear me out!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "N-no! Okay? We've been through this! We're not gonna get married just because she's pregnant, okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Geller",
+   "text": "Honestly! Ross, this isn't just some girl you picked up in a bar and humped. A child should have a family."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Mom, y'know what? I-I can't deal with this right now. I'm sorry..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Geller",
+   "text": "Just...think about it. If you don't, I'll talk more about humping."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Gimmie! (Takes the ring and puts it in his coat pocket as Rachel enters the hallway.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Mrs. Geller",
+   "text": "Oh hi dear!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, thank you so much for coming. Ross, get in here!"
+  },
+  {
+   "t": "direction",
+   "text": "Mrs. Geller leaves as Ross re-enters the room."
+  },
+  {
+   "t": "scene",
+   "text": "The Waiting Room, Ross is explaining to the gang what happened with his mother."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "...she came and dragged me out of the labor room to ask me why I'm not with Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. (Pause) Why aren't you with Rachel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Are you kidding? Look, we're not gonna be together just because we're having a baby. Okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But y'know what? It just seems that you two belong together."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, stop it! I can't deal with this right now. I have to go have a baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Right. And with who again? (Ross exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "God. He's crazy! Why doesn't he want to be with Rachel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I mean seriously, she's like the perfect woman. I mean I know she turned me down, but if she hadn't and wanted to be with me, I would take her in my arms and... (Realizes everyone is staring.) I haven't bummed you guys out like this in a while have I?"
+  },
+  {
+   "t": "scene",
+   "text": "The Semi-Private Labor Room, Ross is returning to find another couple has taken the place of Marc and Julie."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To Rachel) Hey. Who's that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "New people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What happened to the Disgustingtons?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "They're having their baby! It's not fair Ross we got here first! Right after you left they wheeled her off into delivery. Oh but not before she gave me a juicy shot of little Jamie just crowning away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow! Sorry. So uh, how are the new people?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well they have uh, some unusual pet names for each other. Including umm, evil bitch and uh, sick bastard. Oh God oh! Contraction!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah? Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ooh! Ow!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Evil Bitch",
+   "text": "Are you looking at her?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sick Bastard",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Evil Bitch",
+   "text": "Don't you look at her you sick bastard!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sick Bastard",
+   "text": "Honey I swear! I wasn't looking at her!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Evil Bitch",
+   "text": "She's in labor! You like that you sick son of a bitch!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Umm. Umm, I'm-I'm just gonna-(Closes the privacy screen.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Evil Bitch",
+   "text": "See? See? It was because you were looking fat pervert!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No-no, I'm...I'm sure no one was looking. Just want some privacy. (He closes the screen and stares wide-eyed at Rachel.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Evil Bitch",
+   "text": "You miss your girlfriend?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Just ignore them."
+  },
+  {
+   "t": "direction",
+   "text": "Sick Bastard sits down in a chair that enables him to look around the screen and stare at Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "He's looking at me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to him) Hey! You wanna live to see your baby?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Evil Bitch",
+   "text": "Don't you talk to my husband like that you stupid bastard!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross shrugs his shoulders to Rachel and Sick Bastard closes the screen all the way."
+  },
+  {
+   "t": "scene",
+   "text": "Outside the Nursery, Chandler is looking at the babies as Monica walks up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh good God! If you want a baby so bad just go steal it!"
+  },
+  {
+   "t": "direction",
+   "text": "The nurse attending to the babies hears this, turns and stares at Chandler. Chandler moves Monica to the side and away from the nurse."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What is going on with you? Since when are you so crazy about babies?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm not crazy about babies. I'm crazy about us."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Look, we've always talked about having babies someday. I'm not saying it has to be right now, but I'm starting to think that we can handle it. We're good. We're really good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We are pretty good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "But nothing has to happen until your ready."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well maybe I'm ready now. I mean, it's a little scary, but maybe it's right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?! It's not right! We're not ready to have a kid now!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm kidding. This is going to be fun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "So we're gonna try? I mean, are we trying?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We're trying to get pregnant. (They start kissing, but Chandler stops it.) Y'know I'm not really comfortable doing this in front of the babies. So, when do you want to start trying?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay, hold on a sec."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Period math?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, we could start trying. Now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Right here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, not here. Maybe here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wait a minute, it's perfect. We got a lot of time to kill and we're in a building that's full of beds!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And it's so clean!!"
+  },
+  {
+   "t": "direction",
+   "text": "They run off in search of a bed."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "The Vending Machines, Phoebe is buying a soda and Joey is shaking the candy machine."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Come on you stupid machine! Come on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, it ate your money?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(looking at her) No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right, I'll see you downstairs then."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "All right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey I got one! I got one!"
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to the elevator lobby, Phoebe walks up and sees a man in a wheelchair with his broken leg extended.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Oh uh, up or down?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh down please. (The guy tries to reach the button, but can't.) I-I hate to be a ball buster can I just do it? (She pushes the button.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Could you press up too please?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Sure! I feel so bad for you; I broke my leg once too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Oh yeah? How'd yours happen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, it's a long story. It's kind of embarrassing. Let's just say there was a typographical error with a sex manual. (The guy laughs.) How about you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Car accident."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Oh, let me guess some idiot on a cell phone wasn't paying attention?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Yeah. Me. (The elevator door opens.) Oh hey, that's me. (Rolls onto the elevator.) Hey uh, I take it you're just visiting someone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh-huh, yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Well umm, if you have sometime y'know and maybe you might want to visit someone else..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yeah! I-I would like that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "I'm in the middle... (The elevator door closes, cutting him off.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wait! What?! No!! Elevator!! No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(standing behind her) Uh, you gotta press the button. (Does so.)"
+  },
+  {
+   "t": "scene",
+   "text": "The Semi-Private Labor Room, Evil Bitch and Sick Bastard are gone and Ross has just finished talking to a nurse as Rachel stands and stretches."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The nurse said they're bringing in another woman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ugh, is she pregnant yet? She doesn't need to be; she'll still have the baby before I do. Oh Ross, another contraction! (Leans back on Ross for some support.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's it. That's it."
+  },
+  {
+   "t": "direction",
+   "text": "The next couple enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Oooh, that sounded like a bad one."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah it was."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "Mine haven't been so bad. Oh! Here comes one now. (Hums then squeals a little bit.) Oh, that was a big one!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel motions for Ross to close the privacy screen, which he does."
+  },
+  {
+   "t": "scene",
+   "text": "Another Waiting Room, Phoebe and Joey are trying to find out where the guy with the broken leg is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(to the nurse) Excuse me? Could you help me with something? The patient I'm looking for has a broken leg and is in a wheelchair. And umm, he's like early to mid-thirties, very attractive."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "I think I know who you're talking about."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh yay! Great! Okay, what room number is he in?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "I'm sorry, that information is restricted to hospital staff..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(walks up) Uh, she's with me. (Introduces himself) Dr. Drake Remoray."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "Dr. Drake who?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Remoray. It's Portuguese. We need that information; I'm a doctor."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "A doctor at this hospital?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Damnit woman we're losing precious time! Now do you want this man's blood on your head?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hands."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hands! It is absolutely essential that you tell me what room the man my assistant described is staying in. He's a patient of mine, I've been treating him for years!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "He's in room 816."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "816, thank you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thank you. (Starts to exit.)"
+  },
+  {
+   "t": "direction",
+   "text": "Joey starts to leave, but stops."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "And what is his name?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(coming back for Joey) No! (Grabs Joey and drags him away.)"
+  },
+  {
+   "t": "scene",
+   "text": "An Empty Hospital Room, Chandler and Monica enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I think we found a place."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. (They start kissing.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Umm, wait! Do you want to set the mood a little?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. Uh, we'll dim the lights, dim the lights. (He goes to the light switch and finds it's not a dimmer switch when he flips the lights off.) Or turn them out all together. Uh, no scented candles. Okay here. Here we go. (He sprays an aerosol air freshener above her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay! Okay! Make me sterile, but okay."
+  },
+  {
+   "t": "direction",
+   "text": "He hops onto the bed and they start making out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. Let's hurry-Oh wait! Do we have a condom? (He looks at her.) Oh right! (Laughs and they resume making out when a nurse catches them in the act.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, 98.6. You're gonna be fine."
+  },
+  {
+   "t": "scene",
+   "text": "Outside Room 816, Phoebe and Joey are approaching."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, this is it! (Looks in the window.) Oh, that's him! That's him!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Great! Go get him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Wait a second, or maybe you can go in first."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(looks in the window) He's not really my type."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No not you, Dr. Drake Remoray. You can ask him questions and see what's he like. People tell doctors everything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But you said he was this great guy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "But lately all the guys I meet seem really nice at first, then they turn out to be the biggest jerks."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You do attract some stinkers."
+  },
+  {
+   "t": "scene",
+   "text": "The Semi-Private Labor Room, Dr. Long is checking on Rachel again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Dr. Long, I've been at this for seventeen hours! Three women have come and gone with their babies, you gotta give me some good news! How many centimeters am I dilated? Eight? Nine?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Three."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Just three?! I'm dilated three!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "We are moving along, just slowly. (Rachel lies back and sighs.) Don't worry, you're doing great. I'll be back soon. (Exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey, y'know what? I'm not waiting! I'm gonna push this baby out! I'm doing it! I mean it's what? Three centimeters? That's gotta be like this! (Holds her hands a couple inches apart.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Actually it's more like this. (Pushes her hands to less than an inch apart.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh stupid metric system!"
+  },
+  {
+   "t": "direction",
+   "text": "Another woman with a nurse and doctor enter, the woman is screaming."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doctor",
+   "text": "Oh my. We're gonna need to take you straight to the delivery room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh for the love of God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman Giving Birth",
+   "text": "(yelling from the hallway) It's coming! It's coming!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Doctor",
+   "text": "And here it is! (The baby cries.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh come on!!"
+  },
+  {
+   "t": "scene",
+   "text": "Room 816, Dr. Drake Remoray is entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hi! I'm Dr. Drake Remoray and I have a few routine questions I need to ask you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Really? I've been dealing with Dr. Wells."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know, but I'm a neurologist. And just to be on the safe side, Dr. Wells wanted a more comprehensive overview of you status so he sent me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Dr. Wells is a woman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That was a test. Good response. All right, full name."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "Clifford Burnett."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Date of birth?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "November 16th, 1968."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Age?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "Can't you figure that out based on my date of birth?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm a doctor Cliff, not a mathematician."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "I'm 33."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. And uh, are you married."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh really? So, 33 and still single, would you say you have commitment issues?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "Are all the questions this personal?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(checking the list) Yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "Well uh if you must know I'm a widower."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh that's terrible. I'm-I'm really sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hmm. Do you sleep with women and never call them again?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Excellent! Excellent! And uh, finally, are you into any weird stuff y'know, sexually?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "No!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oooh, wrong answer. (Exits.)"
+  },
+  {
+   "t": "scene",
+   "text": "The Semi-Private Labor Room, they're brining in yet another woman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "(calling to the woman) This room's available."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay! Okay wait! You listen to me! You listen to me! Since I have been waiting four women, that's four, one higher than the number of centimeters that I am dilated, have come and gone with their babies! I'm next! It's my turn! It's only fair! And if you bring in one woman and she has her baby before me I'm going to sue you! Not this hospital, I'm going to sue you! And my husband (Points at Ross) he's a lawyer!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh Rach..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Go get back on that case honey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Nurse",
+   "text": "I don't think the next patient is very far along."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, well then bring her in."
+  },
+  {
+   "t": "direction",
+   "text": "Another nurse wheels the next pregnant woman in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Woman",
+   "text": "OH....MY....GAWD!!! (Uh-huh, it's Janice.)"
+  },
+  {
+   "t": "direction",
+   "text": "Ross and Rachel are, needless to say, stunned at the arrival of Janice."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "The Semi-Private Labor Room, continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "I....can't....believe this!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And yet somehow it's true!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "I mean this is so great! We're gonna be baby buddies! (Does the laugh.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(To Rachel) Squeeze your legs together and cover the baby's ears!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Man",
+   "text": "(entering, carrying a pillow) Hi sweetie!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Hi! Hi sweetheart! This is my husband Sid, I don't think you've met him. Ross, Rachel, this is Sid. I nabbed him a year ago at the dermatologist's office. Thank God for adult acne huh? (Does the laugh.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sid",
+   "text": "I still can't believe it! I'm the luckiest guy in the world!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(softly) Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Sid",
+   "text": "(To Janice) What'd he say?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh y'know what? You have to speak very loudly when you're talking to Sid, because he's almost completely deaf."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh there you go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I get it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "So? Congratulations you two, I didn't even know you got married."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh we-we didn't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No-no. We..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Um uh...We're-we're just having this baby together but uh, uh that's all."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Why?!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh well umm...we're just not in that place, y'know? But we're very excited about this."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh. Well then shut me up. (Does the laugh.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Just tell me how."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Uh-oh, I feel another one coming. (She makes a sound like a goose during the contraction.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Sid you lucky deaf bastard."
+  },
+  {
+   "t": "scene",
+   "text": "Outside Room 816, Joey is briefing Phoebe on Cliff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What else? What else?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, well he's 33."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh. Ah-uh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "A widower."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "He seemed like a stand up guy. Oh, and he's not into anything weird sexually."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Enter Pheebs."
+  },
+  {
+   "t": "scene",
+   "text": "Another Hospital Room, Chandler and Monica enter and start making out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Should we tell Rachel there's an empty private room right next door to hers?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We could, or we can have sex in it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Well let me think about that, while I remove my pants!"
+  },
+  {
+   "t": "direction",
+   "text": "They start making out again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(lying down on the bed) Okay mister! Fertilize me!"
+  },
+  {
+   "t": "direction",
+   "text": "Suddenly they hear Janice laughing, and it ruins the moment."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Does that sound like Janice?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "If it's not, then there's two of them. And that would mean it's the end of the world!"
+  },
+  {
+   "t": "scene",
+   "text": "The Semi-Private Labor Room, Chandler and Monica are entering to see if they in fact did hear Janice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh hi."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I can't believe this is taking so long. How are you doing?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh not bad. Do you know that feeling when you're trying to blow a Saint Bernard out your ass?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Weirdest thing. Did I hear-(A nurse opens the privacy screen and Chandler sees Janice)-Mother of God it's true!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Chandler Bing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Jan-Janice!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Not just Janice, Janice in labor, contracting and everything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh, this should be easy. I have a very wide pelvis. You remember Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Janice I didn't even know you were pregnant! Who's the unwitting human who's essence you've stolen?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "It's you. This is yours."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "(laughs) Look how nervous he gets! We haven't slept together in years! (Laughs again.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That's funny. Does it-does it hurt? Does the labor hurt?"
+  },
+  {
+   "t": "scene",
+   "text": "Room 816, Phoebe is making her move on Cliff."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay I've got one for you, if you had too which one would you rather eat, a seeing eye dog or a talking gorilla?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "I'd have to say...the talking gorilla, because at least I can explain to him that you're making me eat him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Somebody went to college. Wow. (Cliff gets uncomfortable) What is it? I'm sorry. (She moves her arm, which was resting on the same pillow his leg is.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "No, I'm sorry. It's just my foot itches like crazy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, I'll get it. (She gets up and grabs a spoon.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "Wow! I usually get to know a girl a little better before I let her spoon me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Relax, it's not like we're forking."
+  },
+  {
+   "t": "scene",
+   "text": "The Semi-Private Labor Room, Janice is being moved to the delivery room and is screaming in pain."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh that's five Ross. Five women have had five babies! And I have had no babies! Why doesn't she want to come out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know what I think it is? I think you've made such a nice home for her over the last nine months that she just doesn't want to leave."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh. Look at you making up crap for me. Oh God! (Starts another contraction as Dr. Long enters.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Twenty-one hours, you're a hero."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Doctor you gotta do something! I think you gotta give me drugs or you gotta light a fire up in there and just smoke it out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Actually, I think you're ready to go to the delivery room."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Ten centimeters, you're about to become a mom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "My God. Okay. (Another woman enters.) Ha-ha-ha beat ya! Sucker!"
+  },
+  {
+   "t": "scene",
+   "text": "Room 816, Phoebe and Cliff are eating some pudding with spoons."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "Is this the same spoon that was in my cast? (Smells it.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Y'know what? This one is. (Eats another spoonful of pudding as Cliff sees something on TV.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "Oh my God! That's the doctor who was in my room before!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Huh. Okay, Mr. Perkazet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "I'm telling you! The guy from that show was here in my room, asking me all these weird questions!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Cliff, do you really believe that a character from a TV show was here in your room?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Rachel's having her baby!! (Phoebe turns and looks at him.) Which is of no interest to me, I'm a neurologist."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "That-that's him! You know him?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay. Okay. I-Okay umm...this...I-I sent my friend Joey in here to find out stuff about you. Umm y'know, if it helps you came off great. A lot better than I'm coming off right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "I don't believe this. You got him to pretend he was some fake doctor?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Fake? Excuse me? Hello? (Taps the TV screen.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "And then you tried to make me think that I was crazy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're right, that was wrong. I'm sorry. I'm so sorry. It's just that I liked you so much. Can we just, can we just start over?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "I don't think so."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh, if I may? Umm-umm look, Cliff, you told me a lot of personal stuff about you, right? And maybe-maybe it would if-if would help if-if you knew some personal stuff about her. Uh, she was married to a gay ice dancer. Uh, she gave birth to her brother's triplets. Oh! Oh! Her-her twin sister used to do porn!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Uh Joey, we're trying to dial down the crazy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Right!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Umm, look we don't, we don't really know each other so it would be really easy to just forget about this, but there seems to be something between us. And I don't know about you but that doesn't happen to me a lot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Cliff",
+   "text": "It doesn't happen to me either."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Me neither."
+  },
+  {
+   "t": "scene",
+   "text": "The Delivery Room, Rachel is finally giving birth."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Push. Push. Come on push for five seconds. 5...4..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "3-2-1 oh!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Okay, the next contraction should be in about twenty seconds."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I can't. I can't push anymore, I can't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Sweetie you're doing great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God twenty seconds my ass!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Here we go! Okay, keep pushing! Wait! I see something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What? You do? You do? (Looks) Oh my God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Don't say, \"Oh my God!\" Oh my God what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What is that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "It's the baby's buttock, she's breech."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh thank God, I thought she had two heads."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God. Is she gonna be okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "She's gonna be fine. Okay, she's in a more difficult position so you're gonna have to push even harder now. Go! Push!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Rachel you're gonna have to push even harder, nothing's happening!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm sorry, I can't!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yes you can!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I can't!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Hey! Hey! Come on! You can! I know you can do this! Let's go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I can't. Please, you do it for me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No! Come on let's-One more time! One final push! Ready? 1...2...3! (Rachel pushes so hard her head snaps up head-butting Ross and knocking him down.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Good!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(from the floor) Keep pushing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Are you okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You have no idea how much this hurts. (All of the women in the room turn and glare at him.) Keep going! Keep going!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Here we go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh! Oh! She's upside down but she's coming! She's coming!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh! Oh my God oh! Oh my God she's here."
+  },
+  {
+   "t": "direction",
+   "text": "The newest friend cries."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh she's...she's perfect."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, she's so tiny. (Starts crying) Where'd she go?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh it's okay. They're just-they're just wrapping her up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. Well be careful with her, she's really tiny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Here she is!"
+  },
+  {
+   "t": "direction",
+   "text": "Dr. Long hands her to Rachel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh hey you. Thanks for coming out of me. (The baby cries.) I know. Oh. Yeah. Oh, she's looking at me. Hi! I know you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "Do we have a name yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No, not yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Dr. Long",
+   "text": "That's fine, for now we'll just call her Baby Girl Green."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no, Baby Girl Geller-Green."
+  },
+  {
+   "t": "direction",
+   "text": "Ross and Rachel look into each other's eyes and kiss."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hello baby girl."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "The Recovery Room, Ross is taking pictures of Rachel holding the baby as the rest of the gang enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Can we come in?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, come in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "There she is!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, she's so beautiful."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Here. (Hands her to Monica.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh my God! She's amazing. Oh, oh I'm so glad you guys got drunk and had sex!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "It's incredible, I mean one minute she's inside you and then 47 hours later here she is."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(taking the baby) She looks so real! (The gang looks at him.) Y'know what I mean! She's this whole tiny little person. She already has eyelashes and knees and...uh-oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh no-no, no for I second there I counted six fingers, but one was from the other hand so we're good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, my turn. My turn. (Joey hands her to Phoebe.) Oh! You're so cute! Oh, I could squeeze your little head! (Pause) I won't."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel starts crying again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What's the matter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh nothing I... Sorry, I just can't stop crying."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "The doctor says it's completely normal with all the hormones. Plus, you-you're sleep deprived."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So? You guys are all sleep deprived. I don't see you weeping because you put your slippers on the wrong feet. Oh God. (Starts to cry harder.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What's the matter now?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I was reliving it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ohhh. (Hands her back to Rachel.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So, do you know what you're gonna call her yet?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, wait a minute it's not gonna be Baby Girl? I thought that was so original!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh actually, we-we've narrowed it down to two names."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah, and y'know what? I love them both, so why don't you just pick one and that'll be it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow! Umm, okay uh...everyone...this...is Isabella. (Rachel starts crying.) What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's not her name! I'm sorry, she just doesn't feel like an Isabella."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So then I guess Ferdinad is out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What was the other one Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Umm, Delilah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh great! Suddenly she sounds like a biblical whore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "So I guess we're back to uh, Baby Girl."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well what are we going to do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's okay honey, you'll find a name."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ugh, easy for you to say, you already know what your kids names are going to be."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "You do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, I've had them picked out since I was fourteen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh no, it's gonna be named after some snack or baked good isn't it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well tell us! What are they?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Umm, okay. If it's a boy it's Daniel."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And if it's a girl?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I don't want to say."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, just tell us! We're not gonna want it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay. It's Emma."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(gasps) Emma! (Looks at the baby and starts to cry.) See? I don't want it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Take it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It's clearly an Emma."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh honey, but you love that name."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah, but I love you more. Besides y'know, nothing goes with Bing. So I'm screwed. I mean... (Rachel hands Emma to Monica.) Oh, hi Emma. Yeah, that's you. You're our little Em. Oh what's that honey? What? Oh, you want a little cousin? (To Chandler) You want a cousin right now?!"
+  },
+  {
+   "t": "scene",
+   "text": "A Janitorial Closet, Monica and Chandler are emerging slowly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "That was amazing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know. Hey, do you realize we may have just changed our lives forever? We may have just started a family. Nine months from now we can be here, having our own baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And if not, we got to do it on a bucket."
+  },
+  {
+   "t": "scene",
+   "text": "The Recovery Room, Rachel is putting Emma down for a nap."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "(entering) Yoo-hoo! Aaron Litman-Neurolic would like to say hello to his future bride."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohhh! (Looks at Aaron and recoils in horror.) Wow! He kinda takes your breath away doesn't he?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "He's a keeper. How are you feeling?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I'm fine. (Gasps in pain as she sits down.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Can I just say, I really admire what you're doing. Just raising her all alone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, I'm not doing it alone. I have Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh, sure. Now. But what happens when he meets somebody else and gets married?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well then he gets a divorce, it's Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "I'm telling you Rachel, listen to Janice. They all say they're gonna be there until they start their real family."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well I-That's never gonna happen with Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh well that's what I thought about my first husband, now I'm lucky if my kid gets to spend the weekend with her father and the twins and little Ms. New Boobs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "I hate to be the one to say it, but honey you two (Her and Emma) are on your own."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well... That's...y'know-That's-We've been alone for the last twenty minutes we're doing okay. Besides y'know what? I-I-Maybe we won't be alone, 'cause lately I-I-things have been happening between me and Ross, y'know? Right before I went into labor, we-we had this kiss. Y'know? So it might be the...the beginning of something."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey Janice!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Oh hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Who's this little guy? (Gasps when he sees Aaron.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Say hello to Aaron, your future son-in-law."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No-no. No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "I'm gonna leave the three of you alone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Janice",
+   "text": "Bye. (Exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Man! Did you see the kid on that nose?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Uh-huh. (Ross takes off his coat and sets in on a chair.) Y'know what I was, I was thinking about?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Umm...that kiss before we left the apartment. That was some-something huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. Yeah, it really was. But we...we gotta be careful. We...we can't let that happen again, y'know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(pause) Right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "I mean we don't want to go down that road do we?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! No, of course not. No. That's why I brought it up. (Pause) They didn't have any sodas?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh my God! I'm sorry, I was talking to this nurse, completely forgot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's all right. (He goes to get her a soda.) And so it begins."
+  },
+  {
+   "t": "scene",
+   "text": "Outside the Nursery, Ross is looking at Emma as Phoebe walks up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Is she in there?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. She's putting her down now, that's her. (Points to the nurse putting Emma now.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look at Emma!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I just can't decide who she looks more alike, you or Rachel?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh what are you kidding? She's gorgeous, it's all Rachel."
+  },
+  {
+   "t": "direction",
+   "text": "Pause"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm sorry, for the last time, why aren't you two together again? (Silence from Ross.) No, I know. I know, because you're not in that place. Which would be fine, except you totally are."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It's...it's complicated okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah that's true. Yeah, you love her. You always have. You have a child together. There is no right answer."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Look, we've been together. Okay? And then apart, and then together, and then apart, and now we have a baby. (Pause) It's just if-if we got together again and it didn't work out...I could never do that to Emma. I mean she-she thinking everything-(Starts to cry.) Oh that's...now me. What do they put something in the water in this place? Since Rachel and I we're doing really, we're doing really well right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know. I know. I know. I know, and if you try to make it more you might wreck it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, exactly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Right. (Pause) Or you might get everything you've wanted since you were fifteen."
+  },
+  {
+   "t": "scene",
+   "text": "The Delivery Room, Rachel is in bed as Joey enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey. I just saw a woman breast feeding both of her twins at the same time; it is like a freak show up here. (Notices she's wiping her eyes.) What's the matter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Nothing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What is it? Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really it's nothing. I'm just..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Rach come on, what?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I've just been thinking about how my baby and I are gonna be all alone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What are you talking about alone? What about Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh please, he'll be with his real family, the twins and little miss new boobs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, how long was I watching that woman?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm just saying that y'know, someday Ross is gonna meet somebody and...he's gonna have his own life. Right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah, I guess so."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I just never thought I would raise this baby all by myself. Pretty dumb huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey, listen to me, listen to me...you are never ever gonna be alone. Okay? I promise that's not gonna happen."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey. Honey what would I do without you?"
+  },
+  {
+   "t": "direction",
+   "text": "They hug."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You don't have to worry about that okay?"
+  },
+  {
+   "t": "direction",
+   "text": "Pause"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, hon can you grab me my other box of tissues? They're right on that chair under Ross's coat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Sure."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "direction",
+   "text": "He moves Ross's coat to get the tissues and the engagement ring box Mrs. Geller gave him falls out of the pocket it was inside. Joey goes to one knee, picks up the box, opens it, and sees that it's an engagement ring."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "My God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Joey."
+  },
+  {
+   "t": "direction",
+   "text": "He turns to face Rachel on one knee with the box open."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(seeing the ring) Oh my God. (Pause) Okay."
+  },
+  {
+   "t": "direction",
+   "text": "Joey is stunned."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to Ross getting of an elevator carrying a bouquet of flowers and walking down the hall to Rachel's room.]"
+  },
+  {
+   "t": "direction",
+   "text": "[Fade to black.]"
+  },
+  {
+   "t": "direction",
+   "text": "Closing Credits"
+  },
+  {
+   "t": "direction",
+   "text": "{Transcriber's Note: As with all the cliffhangers, there was no credits scene. There will be a ninth and final season of Friends starting sometime in September. See you then, have a good summer everyone.}"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  },
+  {
+   "t": "direction",
+   "text": "Season 8"
+  },
+  {
+   "t": "direction",
+   "text": "210"
+  }
+ ]
+}

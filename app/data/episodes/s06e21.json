@@ -1,0 +1,1523 @@
+{
+ "id": "s06e21",
+ "season": 6,
+ "episodes": [
+  21
+ ],
+ "code": "621",
+ "title": "The One Where Ross Meets Elizabeth's Dad",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe, Rachel, Chandler, and Monica are there. Rachel is reading everyone's horoscope."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay, Chandler!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "And your horoscope says, \"On the fifth a special someone is going to give you a gift.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Monica) Oh, well thank you in advance. (Kisses her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Op, but the twelfth brings a lover's spat."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(To Chandler) You are going to make a joke about my special present! Why would you do that?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, wait and on the nineteenth a secret crush announces itself."
+  },
+  {
+   "t": "direction",
+   "text": "Phoebe winks and licks her lips while eyeing Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey guys!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(ecstatic) Oh my God! It's Joey Tribbiani of Mac and C.H.E.E.S.E.!!!!!!!"
+  },
+  {
+   "t": "direction",
+   "text": "Everyone claps and cheers, Joey mimics looking about with a gun."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh that's right. It's your first day! So are you psyched to fight fake crime with your robot sidekick?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Am I psyched? The lead in my own TV series? I've dreamed about this for years! Why have I not been preparing?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No! Joey, you're going to be great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "But I got to act with a robot Pheebs, and-and I don't know anything about technology! I can't even use Chandler's computer except to find porn! And-and that's only 'cause it's right there when you turn it on!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I think our lover's spat will start a little early this month."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(in a sexy voice to Chandler) I'll be waiting."
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, time lapse. Phoebe is now looking at the covers of two different books."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Are you judging them by their covers? Because you're really not supposed to do that."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No, I'm just deciding which one to use-I'm gonna start writing another book!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Be-because the last one was such a big seller?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, if you must know I have written 14 books. And as I am the only one who has read them, I can tell you that they all have been very well received."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What are you guys doing later?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, Rachel and I have appointments to get our hair cut."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(To Phoebe) We do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I want to see what he wants first."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(continuing) I just found out that Elizabeth's dad wants to meet me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Wait a minute, hold the phone! You're not Elizabeth's dad?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Come on guys, I-I really want this guy to like me. It-it would really help me out if you guys were here to make me look good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "All",
+   "text": "Of course we'll help! Yeah! We'll be here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We know how tough those parent/teacher conferences can be."
+  },
+  {
+   "t": "scene",
+   "text": "Pier 59 Studios, it's the set of Mac and C.H.E.E.S.E. The producer is showing Joey around the set."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Producer",
+   "text": "(walking into Mac's office) So uh, here's your office set!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow! Huh? (Picks up the phone) Mac Macaveli, Private Investigator!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Producer",
+   "text": "(checking his watch) Let's get you into wardrobe for a fitting."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. Hey uh, when do I get to meet the robot?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Producer",
+   "text": "I'm sorry, why don't we do that right now? He's right here. (Points to a guy.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Producer",
+   "text": "Joey Tribbiani, this is..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh wow! He's so lifelike! (Starts touching the guy's cheeks) Unbelievable! (He starts tugging on the guy's ears."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Producer",
+   "text": "This is Wayne, the man who created and operates C.H.E.E.S.E."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(slaps Wayne on his cheek) How do you do there, Wayne? (Backs away.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Producer",
+   "text": "I'll let you two guys get acquainted, huh? (Walks away.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay. Sorry about that...(Mimics that cheek thing he just did.) Uh, so where's C.H.E.E.S.E.?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Wayne",
+   "text": "C.H.E.E.S.E. is right here. (He puts on his headset, picks up the controller, and wheels C.H.E.E.S.E. in. C.H.E.E.S.E. is just a plain old robot on tracks; he kinda looks like No. 5 in the movie Short Circuit.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "C.H.E.E.S.E.",
+   "text": "(Wayne with a computerized voice) Nice to meet you Mac!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(laughs) This is like the temporary robot, right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Wayne",
+   "text": "No. Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, I-I just, I just it was going to be like a really cool robot, y'know? Like the terminator or uh, when I first saw you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Wayne",
+   "text": "I spent two years developing this machine, it's absolutely state of the art."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm sorry, it just-I don't know it doesn't really look like it can do anything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Wayne",
+   "text": "It can do this. (He moves C.H.E.E.S.E.'s arm close to Joey's special area and he jumps back.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Ross is at the counter drinking coffee as Elizabeth enters with her dad, Paul. Elizabeth goes to kiss Ross, but he just kisses her on the forehead. By the way Paul is played by Bruce Willis. Yes, that Bruce Willis from Moonlighting, Die Hard, and Armageddon."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "This is my father, Paul Stevens. Dad, this is Ross Geller."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "It-it's great to meet you Paul."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I usually prefer Elizabeth's boyfriends to address me as Mr. Stevens."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Of course, of course, Mr. Stevens."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "So Ross, what your problem?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Eh-wh-Excuse me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Why can't you get a girlfriend your own age?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's funny. Umm.... (Pause, then serious) It's not funny."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I don't like you going out with my daughter Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay. I can, I can see that. Umm, but I think if you give me umm, one chance I can, I can change your mind."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Okay. I'll give you one chance to change my mind. (Ross laughs in relief) You got one minute. (Ross suddenly gets worried.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Daddy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Fine! Two minutes. Go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This is-you-(Ross starts laughing.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "(laughs then checking his watch) 1 minute 50 seconds."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, umm I want you to know that I have never done anything like this before. I mean, I mean I've been in um, relationships in general, uh but I have never done it with a student-I mean I not-not it! I mean, I mean I don't-We haven't done it. Uh, I mean, I mean, we've-we've-we've done stuff. (Paul is not amused.) Okay, okay, a joke, a joke-lighten the mood. Umm, two guys go into a bar. One of them is Irish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I'm Irish."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And the Irish guy wins the joke!"
+  },
+  {
+   "t": "direction",
+   "text": "Monica, Chandler, and Phoebe enter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ross!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How crazy that we'd run into you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh God, thank you! (Runs and gives all of them a group hug.) Umm, uh, Mr. Stevens I'd like you to meet my friends uh, this is Phoebe, Monica, and Chandler."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "You're Elizabeth's father, huh? I can see now where she gets her rugged handsomeness."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(obviously attracted to him) Is-is-is there a-a Mrs. Stevens?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "There's a Mr. Bing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "No, unfortunately Lizzie's mom passed away shortly after she was born. I raised her by myself."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe and Monica",
+   "text": "(sympathetic) Ohh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I get that a lot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay umm, why don't we all take a seat, y'know? And uh, and I'll get us all some uh some coffees-(He goes to pull out Elizabeth's chair, but Paul steps in)-Yeah, why don't you. (Paul pulls out her chair) Uh and you guys can talk about whatever, whatever you want. Y'know? Whatever pops into your head. (He turns his back to Paul and Elizabeth and points to himself for Chandler, Monica, and Phoebe. Then he goes to order the coffee.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Y'know, it is so strange seeing Ross here this time of day, 'cause usually he's got the children's hospital."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah. Not looking for dates. (Monica turns in horror.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "So uh, Monica is Ross's sister."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "And he's a great brother!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I had a sister."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ohh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "She passed away."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica and Phoebe",
+   "text": "(sympathetic) Ohh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Oh, you don't have to do that every time."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "But uh Ross, Ross is a great guy! I was roommates with him in college. Uh, funny story... (He starts laughing then notices that Paul isn't happy.) You're roommate in college died didn't he?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "A part of him did yes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(returning with the coffee) Okay here we are Paul, Elizabeth. (He sets down their cups.) So I hope you guys were finding something to talk about."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, we were just..."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel runs in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi, I'm sorry I'm late but I am ready, ready to talk you up! When does Liz's father get here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I'm already here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Ross is sooo great!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Phoebe is working on her book at the kitchen table, Monica is on the couch, and Chandler is entering from the bathroom carrying a package of toilet paper."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey honey, you got the kind with the little girl, you said we were gonna to get the kind with the baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No, you said the baby creeps you out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "No, the little girl creeps me out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "You said the baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Why would the baby creep me out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Why would the little girl creep you out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(writing frantically) You guys, I'm sorry, could you please talk a little slower?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "This is going in your book?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, it's about relationships. Y'know? The traps, the pitfalls, what not to do, keep going. This stuff is great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?! Excuse me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "And how none of it matters when the people really love each other. (Chandler and Monica kiss.) And how people will believe anything you tell them as long as it's a compliment."
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Rachel is there alone as Paul enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(seeing him) Oh hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Hi! Hi. (He's looking around.) I think I left my keys here somewhere."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Well let's look for them. (Finds some under one of the couch cushions. It has a pink, fuzzy ball on the key chain.) Oh-oh-hey! Are these them?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "All right! (Throws them back under the cushion.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Oh, here they are right here. (Picks them up from underneath the corner of the couch.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh good."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Thanks for your help. (Starts to leave.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(chasing after him) Oh, wait! Sorry, Mr. Paul? Mr. Paul?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Just call me Paul."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Paul. Umm, I just wanted you to know that Ross really is a great guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Well maybe you can date him then that would save me the trouble of killing him. (Rachel laughs then starts looking at him.) Are you okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "You just don't look old enough to have a twenty-year-old daughter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Well, we were very young when we had her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh. We?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Well yeah, it usually, it takes two people to... (He taps his index fingers together.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh no! Yes! Of course, I know that! I just-I meant y'know are you still a 'We' or are you just 'You?'"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I'm just me, my wife died shortly after Lizzie was born."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(sympathetic) Ohh. So you raised her all on your own?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Yes I did."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh. (She touches his arm for support and likes what she feels) Ooh!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Phoebe is still writing in her book, Chandler and Monica are in the kitchen as Joey enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "How was your first day?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Pretty great! Except I did get a little attitude from the robot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Damn those robots, they're supposed to be our faithful servants!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Anyway, it wasn't the robot, it was the guy who controls him. Yeah, he doesn't like me. He had C.H.E.E.S.E. knock over the sandwich right when I was reaching for one! Ohh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, why don't you just get him fired?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I may have to, I hate to do it, but I'm the star! Y'know? There's a limit to how many sandwiches I can eat off the floor. (His cell phone rings) Excuse me. (Answers it, on phone) Joey Tribbiani."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Estelle",
+   "text": "(on the other end) Joe! I'm glad I found ya, I got an audition for ya!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Wow!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Estelle",
+   "text": "The thing is it's kinda on the Q.T. The actor who has the part doesn't know he might be fired. It's the lead in a series, Mac and C.H.E.E.S.E."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I'm the lead in Mac and C.H.E.E.S.E.!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Estelle",
+   "text": "Uh-oh!"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, Ross is entering looking for Joey, but instead he finds Paul and Rachel making out on the couch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Joey?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Hi Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I was just getting him to like you."
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Joey and Rachel's, scene is continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Joey?! Joey!! (He runs into his bedroom.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, Joey is not here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, I'll just wait for him in here!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, it's okay. You can come out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Yeah Ross it's okay, it's me, Mr. Stevens."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(coming out of the bedroom) Oh! Oh my God! I didn't even see you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Sure you did! You came in, you got all awkward, and you ran into the bedroom. You were shouting, \"Joey! Joey!\" Bye Rach. (Kisses her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Bye!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I'll call you later. Bye Ross. (Leaves)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What-what-what the-how da-how did-what the-how did-what?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, y'know he lost his keys so he was looking for them..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(incredulous) In your mouth?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No! Downstairs! And we got to talking y'know, for like two hours, and I really liked him so I invited him up here for a cup of coffee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You were at the coffeehouse!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross, what's the big deal? So I kissed the guy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "He is my girlfriend's father, okay? It's-it's, it's weird!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wh-You dated my sister!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That was different!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What? Why?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This is weird for me!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ross look, look this is good for you. Okay? Let's face it, so far the guy's not lovin' ya! But I can turn that around! I got the inside track! We can all go out to dinner, y'know? And I can talk you up! Ross, the guy is a very, very successful lawyer!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "How is that important?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh it's important!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Joey is telling everyone about his impending termination at Mac and C.H.E.E.S.E."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Apparently, there's like a million guys out there that can play Mac, and there's only this one robot and this one guy who controls it! I didn't know he could get me fired! What am I going to do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well y'know Joey, you're a pretty charming guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Thanks, but I kinda have a problem to deal with here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "No sweetie, you've got to win over the guy that controls C.H.E.E.S.E.! You've got to kiss some serious robot ass!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "That's not a bad idea. Yeah. Okay, but if I got to turn on the charm tomorrow I'm not wasting anymore of it over here with you guys. (Starts to leave, but stops and turns to Phoebe.) Well, actually I got a little bit saved for you Pheebs. (Exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So do you think uh, Joey's more charming than me?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah! That's why I'm sleeping with him on the side."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, you wish. (Stops to think about it and gets depressed.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(writing in her book) \"You wish.\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe, stop writing about us!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I'm not writing about you! I'm writing about other people."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Who?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Marcia and Chester."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Okay fine! Fine! Then you know what, I'll just write about Phyllis! Hmm!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hmm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(writing on a piece of paper) Phyllis is sitting in a chair."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I see what you're doing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(still writing) Phyllis sees what I'm doing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh-oh."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Ooh, I have tasted my own medicine and it is bitter!"
+  },
+  {
+   "t": "scene",
+   "text": "Pier 59 Studios, Joey is walking up to C.H.E.E.S.E. and Wayne."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Morning! Hey, how's my favorite genius and my little robot buddy?! (Pats C.H.E.E.S.E. on the head.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Wayne",
+   "text": "Don't touch him!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay! (He yanks his hand away.) All right. Umm, all right Wayne, level with me. Okay? I-I keep hearing all these rumors that I might get fired. Okay, they even have actors coming in to read for my part! Come on man, you-you got to give me a second chance! I mean, I love-I love this little guy! (He grabs C.H.E.E.S.E.'s arm and pulls it off at the elbow.) Ah-ah!! (Wayne is shocked.) Okay, that's why you didn't want me to touch him right? Here you go! Okay? (Hands Wayne the arm and he goes to fix it. Meanwhile Joey starts to berate himself.) Stupid! I can't believe it! God! (A very beautiful woman walks by.) (To her) Hey, how you doin'? (He and her go over to talk and Wayne looks on with envy.)"
+  },
+  {
+   "t": "scene",
+   "text": "A Restaurant, Ross and Rachel are on their double date. Rachel is busy talking Ross up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So it seemed that my prom date had stood me up, so Ross selflessly, offered to take me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "What a nice story!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "So Ross was in college and decided to jump at the chance to take a young girl to her high school prom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Wow! I definitely did not see that one backfiring! I'm gonna go to the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, take your time."
+  },
+  {
+   "t": "direction",
+   "text": "Rachel heads for the bathroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Paul) Just-just so you know I was a freshman and she was a senior. So it wasn't as bad as-as..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Ross, look, I know I've been giving you a lot of jabs and it's partly because I'm very protective of Lizzie, and partly because well, they just keep coming to me. But I have to admit that after all the wonderful things that Lizzie has told me and the many, many, (pause) many stories that Rachel has told me that, well (pause) you're not (pause) all bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Not all bad."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "And anyhow, I'm sorry I was so harsh before, but you have to understand that I (pause) still look at Lizzie like she's a twelve-year-old girl."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah. You know what? I know what you mean; I do that too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I beg your pardon?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No! No! Not-I don't mean I-I see her as a twelve-year-old girl! I mean I-I have a son, who's umm six and I still think of him as a baby."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "You have a son?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, well my-my ex-wife and I share custody of Ben and umm, uh, and just so you know, Carol and I are on excellent terms as I'm sure you are with your wife! (Realizes) Oh, I'm sorry! (To Elizabeth) It's unbelievable!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Don't worry about it, I just didn't realize you were married. (Rachel returns and hears that.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh we were, but that was just a (pause as the audience reacts), I mean that was just a big drunken mistake."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "You're back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "You two were married?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! Whoops! I'm sorry, you were talking about Emily!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross slams his head down on the table."
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Monica and Chandler are entering and they're arguing."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler, we said we would meet at the coffeehouse at six."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "We said seven!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "We said six!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "The only way that I said six would be if the seven's, let meet at seven, not at six."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah and if I had seven, maybe I would've said something like this, \"Wow! My boyfriend's such a wise ass-seven!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(Turning around in the chair) Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh my good God."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Ugh!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I know what time you said."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "What?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well actually, I know what time Chester and Marcia said."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What time?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Quite an interesting turn of events, suddenly it's my book to the rescue, huh? (Reading her book) Ooh, very interesting. Yeah, well this certainly clears things up."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(disgusted) What does it say?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I will tell you as soon as you thank me for writing my book."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Thank you for writing your book. Its-its uh, great book and you are the queen of everything."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Thanks! So are you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(To Monica) I told you I should not wear this color. (He's wearing a reddish-orange sweater.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(reading from her book) Mon... (Pause as she restarts) Marcia and Chester are planning on seeing a movie on Sunday night. Marcia thinks they're supposed to meet at six, Chester thinks it's at seven."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "So you knew we were gonna miss the movie!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "That's right."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Inside of telling us you decided to write in your stupid book!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(writing in her book) Marcia and Chester are mad at Phyllis."
+  },
+  {
+   "t": "scene",
+   "text": "Joey's Dressing Room, Joey and Chandler are there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I can't believe I'm going to lose this job!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Oh I'm so sorry man! Is there anything I can do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah! Help me get this mini-fridge past the security guard."
+  },
+  {
+   "t": "direction",
+   "text": "There's a knock on the door and Joey answers it to Wayne."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Wayne",
+   "text": "Hey Joey, I want to talk to you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah? Well, I don't want to talk to you Wayne! I hate you! You ruined my life! Oh, Chandler, Wayne. Wayne, Chandler. (They shake hands.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hi, how are ya?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Wayne",
+   "text": "Joey, Joey, I-I-I'll g-get you your job back if you help me out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(incredulous) Why should I help you?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(whispering in Joey's ear) The reason he just said."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(happily) What do you need?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Wayne",
+   "text": "I-I-I saw you on stage talking to that beautiful woman, y'know Sarah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Wayne",
+   "text": "I wish I could talk to her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What are you in love with her or something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Wayne",
+   "text": "Yeah. Her. All of them. Anyone."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, I've been there my friend."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Wayne",
+   "text": "Listen, I-I guarantee you keep your job if you can teach me how to talk to women like you do."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh wow Wayne, it's not really something you can teach y'know? It's pretty much something you're born with if you-(Off Chandler's look)-You-you can teach it! I'll show you right how to do it."
+  },
+  {
+   "t": "scene",
+   "text": "A Restaurant, Rachel is still trying to talk up Ross, not to much success."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I mean if you think about it, I mean Ross did learn something from each marriage."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "How to make the next one even shorter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Now wait a minute that's not fair. He was married to me a hell of a lot longer than he was married to Emily, he just didn't tell me. (Everyone looks at her, Ross not happily.) Maybe I have to pee again. (Gets up to try to use the bathroom.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Well, this is fun. So Ross, did you kill any of these wives?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Y'know what? I-I-I... I-I have had enough of this! Y'know, I-I-I care a great deal about your daughter and I have treated her with nothing but respect! So if-if you've got a problem with me, frankly..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Are you yelling at me?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "God no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Y'know what daddy? If you don't like Ross, that's fine. It doesn't matter to me, I'm gonna go out with him anyway."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Really?! (She nods in the affirmative.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Well if it doesn't matter to her, it doesn't matter to me! (to Paul) Still not yelling!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Wow. What can I say? (Pause, pointing at Ross) This doesn't make me like you any better!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's okay, I'm not so crazy about myself right now either."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Then we agree?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Uh yeah, I guess-Yeah! I guess so."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Neither of us like Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "I like Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ohhh! Kids!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(returning) Wait-wait-wait, I just thought of another story about how nice Ross is!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "That's okay Rach, we're not liking Ross right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh! I've got a lot of those too!"
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Mac's Office, Mac is talking to C.H.E.E.S.E. about their case."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Well, it turns out you were right C.H.E.E.S.E."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "C.H.E.E.S.E.",
+   "text": "The shipment never made it through Omaha?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "You got it! And the rabbi's beard, 100% horsehair. Nice catch C.H.E.E.S.E.! (Pauses as he waits for C.H.E.E.S.E.'s next line.) It's your line C.H.E.E.S.E.! (Suddenly C.H.E.E.S.E. goes crazy and starts flinging it's arms and advancing on Joey behind the desk.) Wayne! Wayne!!"
+  },
+  {
+   "t": "direction",
+   "text": "The camera cuts to Wayne who's busy making out with Sarah and rubbing C.H.E.E.S.E.'s controller on her back causing C.H.E.E.S.E. to go crazy. Joey starts throwing books at C.H.E.E.S.E. to get him to stop."
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}

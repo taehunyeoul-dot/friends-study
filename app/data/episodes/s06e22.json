@@ -1,0 +1,1436 @@
+{
+ "id": "s06e22",
+ "season": 6,
+ "episodes": [
+  22
+ ],
+ "code": "622",
+ "title": "The One Where Paul's The Man",
+ "lines": [
+  {
+   "t": "scene",
+   "text": "Central Perk, Rachel, Chandler, Monica, and Joey are there as Phoebe enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(dejected) Hi, you guys."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What's the matter?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well it's just-it's one of those situations that I just hate. Y'know? A massage client gave me three tickets to the Helmet-Pelts exhibit at the Morgan Chase museum."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(nodding knowingly) Now you're thinking you gotta sleep with him."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No! No! It's just that he gave me three tickets and there are six of us!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'll give up my ticket."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Me too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay that's so generous!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "And I think Ross is generous too."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Great! Okay then it's just us girls!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica and Rachel",
+   "text": "(less than enthused) Great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "So what-what is the exhibit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "It's mostly just photographs of lesbian love scenes interspersed with video games and free sandwiches."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh man! (Hits Chandler)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(entering) Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Hi!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Hey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey Ross listen Chandler got you out of going to the lesbian sandwich museum this weekend!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Thanks? But I have plans; Elizabeth and I are going out of town."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh that's great!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I mean think about all the money that you're gonna make!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Why? What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, her father pays you for baby-sitting right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No, no, that's funny. But maybe it's time to move on, let it go, y'know? Stop it! Besides, Rachel is going out with Elizabeth's father, so ah, he's much older than she is. Looks like I'm not the only one interested in fossils, huh?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I mean Ross all that does is remind us that you are interested in fossils."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, okay. Uh, well uh, Rachel is going to need to yell sweet nothings (Paul enters) in his ear."
+  },
+  {
+   "t": "direction",
+   "text": "And walks up right behind Ross, and standard sitcom joke 2B follows with the person being insulted standing right behind the person doing the insulting while the rest of the people become frightened and try to warn the insulter about the insultee's presence."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Ross."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh, come on you guys; that's funny! Y'know? Because he's need-he's got like a hearing aide y'know, 'cause-'cause y'know, 'cause he's all old, and..."
+  },
+  {
+   "t": "direction",
+   "text": "Paul reveals his presence by laughing, thus concluding standard sitcom joke 2B. Paul then pulls Ross aside to have a little chat with him and tells the rest of the group that he'll just be one second."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Okay look, Ross, just so you know that since Lizzie likes you so much, I've decided to accept the fact that you're going out with her."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Really? That okay, that's great."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Yeah. But then I changed my mind. I'm funny like that. So I told Lizzie, now I'm telling you, I don't want you seeing my daughter anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right look, I-I realize it upsets you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Yes it does."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "But, Elizabeth and I are-are both adults and so I don't think there's really anything you can do about it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I'll call the university and tell them about your relationship and have you fired."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ohh! A man with a plan!"
+  },
+  {
+   "t": "direction",
+   "text": "Opening Credits"
+  },
+  {
+   "t": "scene",
+   "text": "A Dry Cleaners, Joey is there with Phoebe and is trying to get his picture put back amongst the other celebrities hanging on the walls."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh, this is so exciting! You get your picture back up on the wall of fame! Eek!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I know. It was so cool when I was up there before. Me and Jim Belushi would just be crackin' up about something... Then I get fired off of Days Of Our Lives and he takes me down. Now he's just laughing at me. Look at him, that smug Belushi bastard, I'll..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(gasps) Ohh, okay maybe they put your picture back up they can put you next to Matt Lauer. Look at him, smiling at me. (Giggles) Yeah I know; we'd be great together!"
+  },
+  {
+   "t": "direction",
+   "text": "The dry cleaner finishes with the customer in front of Joey and they approach the counter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey! So I'm back."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "Who are you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Joey Tribbiani! From the wall! (The dry cleaner doesn't remember) Okay, maybe this will jog your memory, huh? (Holds his picture up in front of his face.) Huh? Okay eh-ah-anyway, I'm ready to go back up on the wall I'm the star of a new TV show."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "(picking up a TV Guide) Show me in the table."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh well, it's not on TV yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "Well, then it's not on the wall yet."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay, fine, I will bring you a tape, huh? (Walks away)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So umm, now do you have any of Matt Lauer's clothes here? Maybe? Just ones that haven't been cleaned yet?"
+  },
+  {
+   "t": "direction",
+   "text": "The dry cleaner just stares at her and she retreats."
+  },
+  {
+   "t": "scene",
+   "text": "The Morgan Chase Museum, the girls are entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh, I love museums!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Umm."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Soakin' up all the culture."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Where do you want to start?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ooh, the gift shop!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Yeah!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Hey, and then lunch."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh, wait yes, but I can't eat too much. Paul is taking me out to dinner tonight, he said he has a big surprise planned."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh wow. What, do you think maybe he's gonna tell you that he's gay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "What?! No! Why?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No reason! That would just be a really big surprise, right?"
+  },
+  {
+   "t": "direction",
+   "text": "A museum official enters with another man and woman."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Museum Official",
+   "text": "(to the couple) You can put the aisle over here (points), and put the wedding ceremony right over here. (Points.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I didn't know you could get married here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "This would be a beautiful place to get married, yeah, but I wouldn't put the aisle there and I would never have the ceremony there! (Points to both places.) I mean you'd have the ceremony under this big beautiful arch. (The arch at the entrance to the room.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Museum Official",
+   "text": "(To Monica) May I help you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh sorry didn't mean to interrupt. It's just such a beautiful space; do you do a lot of weddings here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Museum Official",
+   "text": "Yes. We're very popular. There's a two-year waiting list. Sorry! (She kinda storms out with the couple.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Monica, you should totally put your name down on the list"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What?! Are you crazy?! I'm not getting married! I'm not even engaged."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah, but there's a two-year wait. And then what if you get engaged in two years and then you got to wait another two years for this place. That's four years. Chandler's not gonna wait that long. He's gonna find somebody else, y'know? Someone, someone who did put their name on the list. (Rachel agrees.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Yeah hon, it can't hurt to put your name down! I mean in if two years if you're not engaged you just don't use it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, I mean I guess there is no harm in putting my name down."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I'm gonna do it too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Me too!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really? Who would, who would you marry?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I don't know, I don't have anyone right now. Y'know?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh Pheebs."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Don't feel too sorry for me. At least my boyfriend isn't gay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe, that stuff is..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Don't even get me started on yours!"
+  },
+  {
+   "t": "scene",
+   "text": "The Dry Cleaners, Joey is trying to get his picture up again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "(entering) Hey! So, did you watch the tape of my show?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "I did."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "All right, let's get me back up there! (Holds out his picture.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "No! It don't go up on the wall!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "What-But you saw the show!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "Yes, it was very offensive to my people!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Dry cleaners?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "Russians! It showed them as terrorists and villains!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay! Okay, look! You-you-you got Harrison Ford up there!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "That's right. Mr. Ford is a very good customer, he brings us a lot of clothes; you bring us nothing!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Okay well that may be true. But, in-in okay, Air Force One the Russians were terrorists! And evil! And plus he kills a bunch of them! That-that-that's offensive to Russians."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "I've never seen it!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh you should, it's great."
+  },
+  {
+   "t": "direction",
+   "text": "The Dry Cleaner stares at him and Joey retreats."
+  },
+  {
+   "t": "scene",
+   "text": "A Cabin in the Woods, Elizabeth is giving Ross a tour."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "This place is really beautiful!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Yeah, I've been coming here since I was a kid. This used to be my Grandma's."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Wow! The only thing I got from my Grandmother was her eyes. I mean not-not her actual eyeballs, but, but people say that my eyes-Do-do you want to make out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Sure!"
+  },
+  {
+   "t": "direction",
+   "text": "They fall to the couch and start to make out, but Ross stops suddenly."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Are you okay? What's wrong?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ehh, I was just, I was just thinking about your father."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Well, whatever works for ya..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No. No-no uh, he just, he just really freaked me out before."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Oh. Well, so we have to hide our relationship from one more person. Big deal. Besides, it's kinda fun hiding."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah."
+  },
+  {
+   "t": "direction",
+   "text": "They start making out again."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "(quietly) Hey umm, you brought protection right?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(loudly) Why?! Are there like bears or something?! (Looks around and then sees that Elizabeth is shaking her head no and realizes what Elizabeth meant.) Ohh. Oh, protection. Yeah-no, yeah-no, that-that-that I forgot."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "I'll just run to the store and get some."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Oh no! Hey-hey, I'm the guy! I'll get it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Do you know where the store is?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "No."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Do you want to ride around town on my little pink bicycle?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "A little bit."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "(laughs) I'll be back in ten minutes."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Why don't you get in the hot tub and I'll meet you there."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Ohh, okay."
+  },
+  {
+   "t": "direction",
+   "text": "Elizabeth leaves and Ross starts to remove his clothing right there in the middle of the living room where someone can see him. Of course, someone almost does, but he hears a door opening and..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(from another room) Oh my God, what a great surprise! This is such a beautiful house."
+  },
+  {
+   "t": "direction",
+   "text": "Ross with his pants around his ankles tries to run, but Dr. Geller forgets that he has his pants around his ankles and falls down trying to flee."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "(To Rachel) Thank you, it's my mom's. So this is the kitchen."
+  },
+  {
+   "t": "direction",
+   "text": "Dr. Geller, the man with the Ph.D. in Paleontology, is trying to find a place to hide, but this supposedly intelligent man in the hands of cliched scriptwriters runs around with his pants down around his ankles like one of the Three Stooges."
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Chandler is reading the newspaper as the phone rings. He let's the machine answer it."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(on machine) You've reached Monica and Chandler's, if you're listening to this message, we're probably screening. (to himself) Yeah we are."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Museum Official",
+   "text": "(on phone) Hi, this is Heldi from the Morgan Chase museum. I'm calling for Monica Geller. I want to let her know that there was a cancellation and if she's still interested in having the Bing-Geller wedding at our facility, it is available... (Chandler runs to answer the phone.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(on phone) This is Chandler Bing! This is Chandler Bing! (Listens) Yes, the groom-No! Not the groom!!"
+  },
+  {
+   "t": "direction",
+   "text": "Commercial Break"
+  },
+  {
+   "t": "scene",
+   "text": "Paul's Cabin, Paul and Rachel are sitting on the couch drinking wine and talking."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "It's so secluded up here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I know. I like it up here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I feel like we're the only two people in the world. (She sets down her wine class, picks up a walnut, and knocks another one on the floor.) Oops. Sorry. (She reaches down to pick it up and Ross hands it to her. Ross is hiding under the couch and causes Rachel to scream.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "What's the matter honey? Did you see a little mouse?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "No-no! Big bear! Big bear outside! I think I-I-would you-actually, would you go check on that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Honey, we don't have any bears here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, okay. Would-would you get me a Diet Coke?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Okay. I'll be right back. (Gets up and heads for the kitchen.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Okay. (After Paul leaves Rachel drops to the floor to confront Ross.) What?! What are you doing here?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "What are you doing here?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "I came with Paul!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Yeah, I recognize the ankles!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Get up!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "(entering) Here you go honey! (Rachel kicks Ross back under the couch.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ahh. Thank you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Diet Coke. (Hands her the glass.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Op, ice. I need ice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I'll be right back. (He goes to get the ice.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(under the couch) You and your ice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ugh! Get out! Get out! Go! Come on! (Ross gets up and heads for the kitchen.) No! Not in there! He's in there! (She points Ross to the door next to the kitchen.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(before entering) Did you really hear a bear?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Go-go!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "(entering) Here you go honey. One Diet Coke with ice."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Ohh, thank you."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "I'm so happy that you're here."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "(entering) Here I am!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "(jumping up) Elizabeth! Oh look, Elizabeth's here! Who are you talking to?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Uh, you guys?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "How did you know we were here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Umm..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, she-she ob-obviously saw the tire tracks that were leading up to the closed garage."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Obviously."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Elizabeth, what are you doing here?! (Motions that he brought Rachel here to be alone with her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Did-did you come up here to work on that term paper or something?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Yeah! Yep."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Well, why do y'know go in that room (points to the room Ross is in) and do your homework?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Ohh, I wouldn't do it in there. That's my dad's bedroom."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "That's your, that's your dad's bedroom. (Yelling) That's your dad's bedroom!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Why are you yelling?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Whoa, that Diet Coke just went straight to my head! Woo!"
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Chandler is sitting at the kitchen table staring at the phone as Monica enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Hi, honey."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(gets up) See you later. (Starts to leave.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "What? I-I bought groceries, I was gonna make you dinner!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(angrily) Well next time ask! Or at least wait for me to ask! (He storms out.)"
+  },
+  {
+   "t": "direction",
+   "text": "Monica puts the groceries down and goes to check the answering machine and hears."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Museum Official",
+   "text": "(on machine) Hi, this is Heldi from the Morgan Chase museum. I'm calling for Monica Geller."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh no!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Museum Official",
+   "text": "(on machine) I want to let her know that there was a cancellation and if she's still interested in having the Bing-Geller wedding at our facility, it is available..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Oh please, he didn't hear it! He didn't hear it!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "(on machine) This is Chandler Bing! This is Chandler Bing! (The machine beeps off.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "NOOOO!!!!!!!!"
+  },
+  {
+   "t": "scene",
+   "text": "The Dry Cleaner's, Joey has brought in a bunch of laundry in another attempt to get his picture on the wall, but the dry cleaner isn't working right now. Instead, a beautiful woman is working."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Female Clerk",
+   "text": "Can I help you?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Uh yeah, where-where's the guy who decides who's pictures go up on the wall?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Female Clerk",
+   "text": "He's not here right now."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh, you're kidding me! All-all right, well make sure you tell him that Joey Tribbiani stopped by to drop off all of these clothes. Okay? I'm an actor; I'm kinda getting my picture up there on the wall."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Female Clerk",
+   "text": "Y'know, there are two people who could put your picture up there. (She makes eyes at him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh really? Well, maybe you and I go out for drinks? (Pause) You're the other one right? (She thinks about it for a second and nods yes.)"
+  },
+  {
+   "t": "scene",
+   "text": "Paul's Cabin, continued from earlier."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "So Lizzie, are-are-are you planning on staying the night?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Oh no-no believe me, I'm leaving as soon as possible!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Good. Good. Not that we don't want you to stay, obviously you're welcome-How much more homework do you have?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Ahh, I just have one problem left that I do not know how to solve. Uhh, Rachel maybe you want to come upstairs and help me figure it out?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Really? Okay. Okay, I-I'll go upstairs. (to Paul) If-if you get me something from the car."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "What do you need from the car?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Surprise me."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "(whispering) Okay. (Starts for the car.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(yelling) So you're gonna be in the car, I will be upstairs, and that's where everybody's gonna be!"
+  },
+  {
+   "t": "direction",
+   "text": "Rachel and Elizabeth go upstairs. Paul starts for the car, but notices his luggage is still out and decides to take in into the bedroom."
+  },
+  {
+   "t": "direction",
+   "text": "[Cut to his bedroom, Ross is listening at the door as Paul opens the door, trapping Ross behind it. With Paul's back turned Ross coils up like a snake and slitters underneath the bed.]"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "(standing in front of a mirror and to himself) Just relax. Just relax Paul, you're doing great. (Ross moves a piece of luggage over so he can watch Paul.) She likes you. She... Maybe, she likes you. She likes you. Y'know why? Because you're a (pause) neat guy. (Ross can't believe what he's hearing.) You are the man. You are (pause) the man! (He opens his shirt and looks at his chest.) I still got it. Nice and sexy. You're just a love machine. (Starts singing) I'm just a love machine and I won't work for nobody but you! Hey bab-y! (Flexes and grunts loudly.) Showtime. (Starts to leave and starts singing.) I'm just a love machine, yeah ba-by! (Grunts again and Ross is stunned.)"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Phoebe is there as Monica rushes in."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Phoebe!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Yeah?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Have you seen Chandler?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "No! Why?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard! (Phoebe gasps.) I know! How bad is this?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well for the regular guy, it's bad, but Chandler, Oh dear God!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know! I know! And he totally freaked out and I can't find him anywhere!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "What are you gonna do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well, I'm never gonna listen to you again, that's for sure! (Mimicking her.) \"Y'know, harm can it do if you go and put your name down?\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Rachel said that!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Well Rachel's not here! (Runs out.)"
+  },
+  {
+   "t": "scene",
+   "text": "The Dry Cleaner's, Joey and Phoebe are entering to see if his picture is on the wall."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Oh! Here it is! (Noticing it next to the door.) Ooh, Joey! Why did you sign it, \"Son of a bitch?\" (Son of a bitch is written across the entire picture.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "I didn't do that! Who would've done that?!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "(entering) Son of a bitch!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Okay, maybe ask this guy."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "You, get out of my shop!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, what did he do?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "He went out with my wife!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Joey!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Whoa-whoa-whoa-whoa, I-I-Hey! I did not go out with your wife! (The same woman from before enters.) Okay? I went out with her! (Points at her.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "The Dry Cleaner",
+   "text": "That's my wife!!! Get out! (Starts yelling at him in Russian, and I'm betting he's not saying pleasant things about him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "Well, we should go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Yeah."
+  },
+  {
+   "t": "scene",
+   "text": "Paul's Bedroom, Elizabeth is entering."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Ross? Ross?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Elizabeth! (He opens one of the bed stands that he has curled himself up into.) Okay. Okay. (She helps him out.) I'm gonna go out this window. (Points to the window next to him.) I'll meet you at the front door. Just tell them you're going home, okay?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Okay!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "(yelling from the living room) Oh wait-wait-wait!! No! Don't go in there! Don't go in there! I need another soda!"
+  },
+  {
+   "t": "direction",
+   "text": "Ross frantically starts to open the window as Paul enters and traps him halfway out the window."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Ross!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Rachel",
+   "text": "Oh my God Ross! What in heaven's name are you doing here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "(to Elizabeth) And that is why we cannot see each other anymore."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Ross. You and I are going to have to have a little talk."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Daddy!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "You're next!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Elizabeth",
+   "text": "Okay. I didn't know he was here. (Runs over to Rachel.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Let me just see if I got this straight. I tell you to stay away from my daughter or I'll have you fired. What you heard was, \"Take my daughter, come up to my country house, and ruin my weekend with Rachel!\""
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "Okay, please-please Paul, just let me explain..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "No, let me explain! Fired!!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "All right, fine! Fine! Have me fired! But uh, I want you to know that you and I are not all that different. I mean, I too am a neat guy. (Paul just looks at him.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "(panicked) What?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Ross",
+   "text": "And I too am just a love machine. (Hums a little bit and mimics Paul's flexing.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Paul",
+   "text": "Ross, let me show you where the guest room is."
+  },
+  {
+   "t": "scene",
+   "text": "Monica, Chandler, and Phoebe's, Monica is pacing, waiting for Chandler to return. Chandler enters."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "(going over to him) I'm so sorry. Please, stop freaking out."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I'm not freaking out. Why would I be freaking out? A woman named Heldi called and said we were getting married, but that happens everyday. (Does one of those Chandler noises.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Honey, we were at this beautiful place, and I-I-I just put our names down for fun! I mean, what's the harm in that?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Right here! (Clucks like a chicken for some reason.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Chandler, please don't think I was trying to pressure you. Phoebe and Rachel..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Phoebe and Rachel! So the people that knew about our wedding before me were you, Phoebe and Rachel, Heldi, and apparently some band called Starlight Magic 7 who are available by the way!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "It was a mistake. Please don't take this to mean anything, because it doesn't."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "Really?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yes, if it really doesn't mean anything, because you know that I'm just not ready..."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I know! I know."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Okay. (They hug.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Monica",
+   "text": "I'm gonna go tell Joey that (laughs) that you're back. I was really worried about you. (Exits.)"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "(entering from her room) Hey, did she buy it?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Totally."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "So did Heldi show you the place?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "Yeah, it's beautiful."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Phoebe",
+   "text": "I can't believe you're gonna ask Monica to marry you!"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Chandler",
+   "text": "I know."
+  },
+  {
+   "t": "direction",
+   "text": "They hug."
+  },
+  {
+   "t": "direction",
+   "text": "Ending Credits"
+  },
+  {
+   "t": "scene",
+   "text": "Central Perk, Joey is going up to the counter."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Hey Gunther."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "Hey! Take these cappuccinos to table 11 and that guy over there (points) wants the biscotti."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Oh uh, well I just came in for a cup of coffee to go."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "Do you still work here?"
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "No! No, I quit a long time ago. (Pause) Did I forget to you that one? I'm sorry."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Gunther",
+   "text": "Oh that's cool, I was gonna fire you anyway."
+  },
+  {
+   "t": "dialogue",
+   "speaker": "Joey",
+   "text": "Great! (Takes his coffee and leaves.)"
+  },
+  {
+   "t": "direction",
+   "text": "End"
+  }
+ ]
+}
