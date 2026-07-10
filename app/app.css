@@ -7,25 +7,40 @@
   --ink:#141414;          /* 본문 */
   --sub:#6E6E6E;          /* 보조 텍스트 */
   --line:#E3E3E3;         /* 경계선 */
-  --frame:#141414;        /* 링·강조 라인 */
+  /* 기능색: 배경·본문은 무채색, 동작·상태에만 절제된 색 */
+  --accent:#3565C8;                 /* 주요 동작 (버튼·활성 탭·링) */
+  --accent-tint:rgba(53,101,200,.10);
+  --good:#2F8F5B;                   /* 정답·완료 */
+  --good-tint:rgba(47,143,91,.12);
+  --bad:#C4564A;                    /* 오답·다시 */
+  --bad-tint:rgba(196,86,74,.10);
+  --warn:#A8862C;                   /* 어려움 */
+  --frame:var(--accent);            /* 문구멍 링 */
   --ring-track:#E3E3E3;
-  --fill:#141414;         /* 주요 버튼 배경 */
-  --fill-ink:#FFFFFF;     /* 주요 버튼 글자 */
+  --fill:var(--accent);             /* 주요 버튼 배경 */
+  --fill-ink:#FFFFFF;
   --body:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Pretendard",
          "Segoe UI","Malgun Gothic",sans-serif;
   --safe-b:env(safe-area-inset-bottom,0px);
   --safe-t:env(safe-area-inset-top,0px);
-  /* 화자 구분: 모노크롬 — 이름은 굵기로 구분 */
-  --c-rachel:var(--ink); --c-monica:var(--ink); --c-ross:var(--ink);
-  --c-chandler:var(--ink); --c-joey:var(--ink); --c-phoebe:var(--ink);
-  --c-etc:var(--sub);
+  /* 대본 화자 구분색 (차분한 톤) */
+  --c-rachel:#BE5A4C; --c-monica:#7B5FC0; --c-ross:#3E6FAE;
+  --c-chandler:#A8862C; --c-joey:#4C8F5A; --c-phoebe:#B75C90;
+  --c-etc:#6E6E6E;
 }
 @media (prefers-color-scheme: dark){
   :root{
     --bg:#0E0E0E; --surface:#1A1A1A; --surface-2:#262626;
     --ink:#F2F2F2; --sub:#9C9C9C; --line:#2B2B2B;
-    --frame:#F2F2F2; --ring-track:#2B2B2B;
-    --fill:#F2F2F2; --fill-ink:#0E0E0E;
+    --accent:#8AA9F0; --accent-tint:rgba(138,169,240,.14);
+    --good:#6FBF8F; --good-tint:rgba(111,191,143,.15);
+    --bad:#E08578; --bad-tint:rgba(224,133,120,.13);
+    --warn:#D2AC5E;
+    --ring-track:#2B2B2B;
+    --fill:var(--accent); --fill-ink:#0E1730;
+    --c-rachel:#E08B7D; --c-monica:#A98FE0; --c-ross:#7FA8DC;
+    --c-chandler:#CBAA55; --c-joey:#7FBF8D; --c-phoebe:#DC8FB8;
+    --c-etc:#9C9C9C;
   }
 }
 *{box-sizing:border-box;margin:0;padding:0}
@@ -38,8 +53,8 @@ body{
 }
 button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 [hidden]{display:none !important}
-mark{background:transparent;color:inherit;font-weight:800;text-decoration:underline;text-underline-offset:3px}
-button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--ink);outline-offset:2px;border-radius:6px}
+mark{background:var(--accent-tint);color:var(--accent);font-weight:800;border-radius:3px;padding:0 2px}
+button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
 
 /* ── 상단바 ── */
 #topbar{
@@ -77,7 +92,7 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(-
   padding:6px 22px;border-radius:14px;font-size:12px;color:var(--sub);
 }
 .tab-ico{font-size:19px;line-height:1.2}
-.tab.active{color:var(--ink);font-weight:700}
+.tab.active{color:var(--accent);font-weight:700}
 .badge{
   position:absolute;top:2px;right:8px;
   background:var(--fill);color:var(--fill-ink);font-style:normal;font-size:10.5px;font-weight:700;
@@ -137,8 +152,8 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(-
 .ep .t .meta{font-size:12px;color:var(--sub);margin-top:2px;display:block}
 .ep .st{flex:none;font-size:11.5px;padding:3px 10px;border-radius:10px;font-weight:600}
 .st.none{background:var(--surface-2);color:var(--sub)}
-.st.doing{background:var(--fill);color:var(--fill-ink)}
-.st.done{border:1px solid var(--ink);color:var(--ink)}
+.st.doing{background:var(--accent-tint);color:var(--accent)}
+.st.done{background:var(--good-tint);color:var(--good)}
 .st.nodata{color:var(--sub);opacity:.6}
 
 /* 이어서 학습 카드 */
@@ -174,9 +189,9 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(-
 .x-add{
   flex:none;width:34px;height:34px;border-radius:50%;font-size:19px;line-height:1;
   display:grid;place-items:center;
-  border:1.5px solid var(--ink);color:var(--ink);background:transparent;
+  border:1.5px solid var(--accent);color:var(--accent);background:transparent;
 }
-.x-add.in{background:var(--fill);color:var(--fill-ink);border-color:var(--fill)}
+.x-add.in{background:var(--good);color:#fff;border-color:var(--good)}
 .x-body{padding:0 14px 14px;display:none}
 .x.open .x-body{display:block}
 .x-body .dlg{
@@ -220,10 +235,10 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(-
   font-size:15px;line-height:1.7;margin-bottom:12px;white-space:pre-wrap;
 }
 .card .q-dlg .blank{
-  display:inline-block;min-width:64px;border-bottom:2px solid var(--ink);
+  display:inline-block;min-width:64px;border-bottom:2px solid var(--accent);
   color:transparent;user-select:none;
 }
-.card .q-dlg .blank.revealed{color:var(--ink);border-bottom-color:transparent;font-weight:800}
+.card .q-dlg .blank.revealed{color:var(--accent);border-bottom-color:transparent;font-weight:800}
 .hintbtn{
   align-self:center;margin-bottom:14px;padding:7px 16px;border-radius:16px;
   font-size:13px;color:var(--sub);border:1px dashed var(--sub);
@@ -241,11 +256,10 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(-
 }
 .verdict{
   margin-top:12px;padding:11px 14px;border-radius:12px;font-weight:700;font-size:15px;
-  background:var(--bg);border:1px solid var(--line);
 }
 .verdict .typed{font-weight:400;color:var(--sub);margin-left:6px}
-.v-ok{border-color:var(--ink)}
-.v-no{border-style:dashed}
+.v-ok{background:var(--good-tint);color:var(--good)}
+.v-no{background:var(--bad-tint);color:var(--bad)}
 .card .a{border-top:1px solid var(--line);margin-top:16px;padding-top:14px}
 .card .a .en{font-size:22px;font-weight:800;text-align:center;margin-bottom:10px;letter-spacing:-0.01em}
 .card .a h4{font-size:11.5px;letter-spacing:.08em;font-weight:800;color:var(--sub);margin:10px 0 2px}
@@ -260,12 +274,17 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(-
 .grades button{
   flex:1;padding:12px 0 9px;border-radius:14px;font-weight:700;font-size:14.5px;
   display:flex;flex-direction:column;align-items:center;gap:1px;
-  border:1.5px solid var(--ink);color:var(--ink);background:transparent;
+  border:1.5px solid var(--line);color:var(--ink);background:transparent;
 }
 .grades small{font-weight:400;font-size:10.5px;color:var(--sub)}
-.grades .g-again{border-style:dashed}
-.grades .g-good{background:var(--fill);color:var(--fill-ink)}
-.grades .g-good small{color:var(--fill-ink);opacity:.7}
+.grades .g-again{border-color:var(--bad);color:var(--bad)}
+.grades .g-again small{color:var(--bad);opacity:.75}
+.grades .g-hard{border-color:var(--warn);color:var(--warn)}
+.grades .g-hard small{color:var(--warn);opacity:.75}
+.grades .g-good{background:var(--good);border-color:var(--good);color:#fff}
+.grades .g-good small{color:#fff;opacity:.75}
+.grades .g-easy{border-color:var(--accent);color:var(--accent)}
+.grades .g-easy small{color:var(--accent);opacity:.75}
 
 /* ── 훈련 탭 ── */
 .modes{display:flex;flex-direction:column;gap:10px;margin-top:8px}
@@ -297,16 +316,16 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(-
   padding:13px 14px;border-radius:14px;border:1.5px solid var(--line);
   background:var(--bg);font-size:15px;font-weight:600;text-align:left;
 }
-.choice.correct{border-color:var(--ink);background:var(--fill);color:var(--fill-ink)}
+.choice.correct{border-color:var(--good);background:var(--good-tint);color:var(--good)}
 .choice.correct::before{content:"⭕ "}
-.choice.wrong{border-style:dashed;text-decoration:line-through;color:var(--sub)}
+.choice.wrong{border-color:var(--bad);background:var(--bad-tint);color:var(--bad);text-decoration:line-through}
 .choice.wrong::before{content:"❌ "}
 .choice:disabled{cursor:default}
 
 /* 대사 듣기 버튼 / 등장 지도 */
 .speakbtn{
   margin:2px 0 4px;padding:7px 14px;border-radius:16px;font-size:13px;font-weight:600;
-  border:1.5px solid var(--ink);color:var(--ink);
+  border:1.5px solid var(--accent);color:var(--accent);
 }
 .occ{
   font-size:13.5px;color:var(--sub);line-height:1.6;margin-bottom:6px;

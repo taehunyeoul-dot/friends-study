@@ -843,4 +843,14 @@ if ("serviceWorker" in navigator) {
   });
 }
 
+/* 앱을 오래 뒀다가 다시 열면 자동 새로고침 → 새 버전 반영 */
+let hiddenAt = 0;
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "hidden") {
+    hiddenAt = Date.now();
+  } else if (hiddenAt && Date.now() - hiddenAt > 30 * 60 * 1000 && navigator.onLine) {
+    location.reload();
+  }
+});
+
 render();
