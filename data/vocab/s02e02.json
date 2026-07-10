@@ -1,0 +1,209 @@
+{
+    "id":  "s02e02",
+    "code":  "202",
+    "title":  "The One With the Breast Milk",
+    "model":  "sonnet",
+    "cost_usd":  0.3047,
+    "expressions":  [
+                        {
+                            "expression":  "grow out of something",
+                            "dialogue":  "Monica: I know he\u0027s gonna grow out of them in like, 20 minutes, but I couldn\u0027t resist.",
+                            "speaker":  "Monica",
+                            "meaning":  "자라면서 (옷·습관·단계 등이) 맞지 않게 되다, 벗어나다",
+                            "nuance":  "아이 옷에 가장 자주 쓰이지만, 어른에게도 \u0027어떤 성향이나 취미를 졸업하다\u0027는 의미로 쓸 수 있다. 변화가 시간의 흐름에 따라 자연스럽게 일어남을 내포한다.",
+                            "example":  "He used to be really shy, but he grew out of it in college. → 그는 예전에 많이 수줍어했는데, 대학 다니면서 그걸 극복했어."
+                        },
+                        {
+                            "expression":  "I couldn\u0027t resist",
+                            "dialogue":  "Monica: I know he\u0027s gonna grow out of them in like, 20 minutes, but I couldn\u0027t resist.",
+                            "speaker":  "Monica",
+                            "meaning":  "참을 수가 없었다, 어쩔 수 없이 했다",
+                            "nuance":  "충동구매나 충동적인 행동을 가볍게 인정할 때 쓰는 표현. 깊은 죄책감보다는 귀여운 자기 변명 톤에 가깝다.",
+                            "example":  "The cake looked so good I couldn\u0027t resist — I had an extra slice. → 케이크가 너무 맛있어 보여서 참을 수가 없었어 — 한 조각 더 먹어 버렸어."
+                        },
+                        {
+                            "expression":  "get used to something / doing",
+                            "dialogue":  "Ross: It\u0027s gonna happen a lot, so you\u0027d better get used to it.",
+                            "speaker":  "Ross",
+                            "meaning":  "~에 익숙해지다",
+                            "nuance":  "\u0027You\u0027d better get used to it\u0027처럼 경고 형식으로 쓰이면 약간 단호하고 직접적인 뉘앙스가 추가된다. 처음에는 불편하지만 점차 적응하게 될 것임을 내포.",
+                            "example":  "The commute is long, but you\u0027ll get used to it after a few weeks. → 출퇴근 시간이 길지만, 몇 주 지나면 익숙해질 거야."
+                        },
+                        {
+                            "expression":  "one thing led to another",
+                            "dialogue":  "Monica: When it started I was just trying to be nice to her. And then, one thing led to another and, before I knew it, we were... shopping.",
+                            "speaker":  "Monica",
+                            "meaning":  "이런저런 일이 있다 보니 그렇게 됐다, 자연스럽게 이어졌다",
+                            "nuance":  "의도하지 않은 결과나 약간 민망한 상황을 설명할 때 특히 자주 쓰인다. 과정의 세부 사항을 생략하면서도 자연스러운 흐름을 암시한다.",
+                            "example":  "We bumped into each other at a café, one thing led to another, and now we\u0027re working on a project together. → 카페에서 우연히 마주쳤고, 이런저런 일이 있다 보니 이제 함께 프로젝트를 하고 있어."
+                        },
+                        {
+                            "expression":  "before I knew it",
+                            "dialogue":  "Monica: And then, one thing led to another and, before I knew it, we were... shopping.",
+                            "speaker":  "Monica",
+                            "meaning":  "정신을 차려보니, 알아채기도 전에, 어느새",
+                            "nuance":  "시간이나 상황이 예상보다 훨씬 빠르게 변했음을 강조할 때 쓴다. \u0027before long\u0027보다 더 즉흥적이고 놀란 느낌을 준다.",
+                            "example":  "I sat down to watch one episode, and before I knew it, it was 2 a.m. → 에피소드 하나만 보려고 앉았는데, 정신 차리고 보니 새벽 두 시였어."
+                        },
+                        {
+                            "expression":  "under one\u0027s breath",
+                            "dialogue":  "Julie: Oh, you\u0027re losin\u0027 your apron here, let me get it. There you go.\nRachel: (to Julie) Thank you. (under her breath to Chandler) What a bitch.",
+                            "speaker":  "Rachel",
+                            "meaning":  "혼잣말로, 남이 못 듣게 작게 중얼거리며",
+                            "nuance":  "불만, 비꼼, 속마음을 상대가 듣지 못하도록 아주 낮은 목소리로 말할 때 쓰는 표현. 글에서는 행동을 설명하는 방식으로도 자주 등장한다.",
+                            "example":  "He muttered something under his breath, but I couldn\u0027t quite hear what it was. → 그가 뭔가를 작게 중얼거렸는데, 정확히 뭐라고 했는지 들리지 않았어."
+                        },
+                        {
+                            "expression":  "never mean for someone to find out",
+                            "dialogue":  "Monica: I never meant for you to find out!\nRachel: Oh, please, you wanted to get caught.",
+                            "speaker":  "Monica",
+                            "meaning":  "~가 알게 될 의도가 전혀 없었다",
+                            "nuance":  "비밀이 들켰을 때 쓰는 변명성 표현으로, \u0027find out\u0027 대신 \u0027know\u0027, \u0027see\u0027, \u0027hear\u0027도 같은 구조로 쓸 수 있다. 사과보다는 해명에 가깝다.",
+                            "example":  "I never meant for it to become such a big deal — I was just trying to help. → 이게 이렇게 큰 일이 될 줄은 몰랐어 — 그냥 도와주고 싶었을 뿐이야."
+                        },
+                        {
+                            "expression":  "want to get caught",
+                            "dialogue":  "Rachel: Oh, please, you wanted to get caught.\nMonica: That is not true!",
+                            "speaker":  "Rachel",
+                            "meaning":  "들키고 싶었던 거잖아 (무의식적 욕구를 지적하는 표현)",
+                            "nuance":  "상대가 증거를 남기거나 부주의하게 행동했을 때, 실은 들키길 원했다는 심리적 통찰처럼 사용하는 날카로운 표현이다.",
+                            "example":  "You left the messages right there on your phone screen. I think part of you wanted to get caught. → 메시지를 핸드폰 화면에 그냥 띄워 뒀잖아. 어딘가 들키고 싶었던 거 아니야?"
+                        },
+                        {
+                            "expression":  "Did my back hurt your knife?",
+                            "dialogue":  "Monica: I feel terrible, I really do.\nRachel: Oh, I\u0027m sorry, did my back hurt your knife?",
+                            "speaker":  "Rachel",
+                            "meaning":  "\u0027내가 당신 칼에 등을 들이밀어 줬나요?\u0027 — 배신당한 것을 냉소적으로 뒤집어 표현",
+                            "nuance":  "\u0027stab someone in the back(배신하다)\u0027을 비틀어 만든 즉흥적 반어. 직접 화내는 대신 기발한 냉소로 상대를 찌르는 방식으로, 화자의 재치와 분노를 동시에 보여준다.",
+                            "example":  "Oh, so you went behind my back and told my boss? I\u0027m sorry, did my back hurt your knife? → 아, 내 뒤에서 상사한테 말했어? 어머, 내 등이 네 칼에 걸렸나?"
+                        },
+                        {
+                            "expression":  "stand your ground",
+                            "dialogue":  "Chandler: I say you stand your ground. I say you show him that you are the baddest hombre west of the lingerie.",
+                            "speaker":  "Chandler",
+                            "meaning":  "물러서지 않다, 자신의 입장을 고수하다",
+                            "nuance":  "경쟁이나 압박 상황에서 굴복하지 말라는 강한 격려의 표현. 비즈니스, 협상, 개인 갈등 등 다양한 맥락에서 쓸 수 있다.",
+                            "example":  "They\u0027re pushing you to lower your price, but just stand your ground — your work is worth it. → 가격을 낮추라고 압박하고 있지만, 그냥 버텨 — 네 작업은 그 값어치가 충분해."
+                        },
+                        {
+                            "expression":  "sooner or later",
+                            "dialogue":  "Chandler: You know, sooner or later somebody\u0027s gonna come along that slices a better cheddar. And then where\u0027re you gonna run?",
+                            "speaker":  "Chandler",
+                            "meaning":  "조만간, 언젠가는 (피할 수 없이)",
+                            "nuance":  "반드시 일어날 일이 결국 찾아올 것이라는 체념 혹은 경고의 뉘앙스를 담는다. 위협으로도, 현실적인 위로로도 쓰인다.",
+                            "example":  "Sooner or later, she\u0027s going to realize she\u0027s been overworking herself. → 언젠가는 그녀도 자신이 과로하고 있다는 걸 깨닫게 될 거야."
+                        },
+                        {
+                            "expression":  "You\u0027re damn right",
+                            "dialogue":  "Joey: I guess you\u0027re right.\nChandler: You\u0027re damn right I\u0027m right.",
+                            "speaker":  "Chandler",
+                            "meaning":  "당연하지, 맞아도 너무 맞아 (강한 자기 확신 또는 동의)",
+                            "nuance":  "\u0027damn\u0027이 들어가 매우 구어적이고 강조된 표현. 비격식 상황에서만 어울리며, 상대의 반문을 완전히 차단할 때 효과적이다.",
+                            "example":  "\u0027Are you sure this is the right move?\u0027 \u0027You\u0027re damn right I\u0027m sure.\u0027 → \u0027이게 맞는 결정이야?\u0027 \u0027당연하지, 완전히 확신해.\u0027"
+                        },
+                        {
+                            "expression":  "not going to bore you with (the details)",
+                            "dialogue":  "Rachel: ...for many reasons, which I\u0027m not gonna bore you with now, but I just, I see how happy he is...",
+                            "speaker":  "Rachel",
+                            "meaning":  "지루한 세부 사항으로 상대를 괴롭히지 않을게, 자세한 얘기는 생략할게",
+                            "nuance":  "말이 길어질 수 있는 배경 설명을 예의 바르게 건너뛸 때 쓰는 표현. 상대방을 배려하면서 요점으로 넘어가는 자연스러운 전환 장치.",
+                            "example":  "I won\u0027t bore you with the details, but the trip didn\u0027t go as planned. → 자세한 얘기는 생략할게, 어쨌든 여행이 계획대로 되지 않았어."
+                        },
+                        {
+                            "expression":  "kinda get the feeling (that)",
+                            "dialogue":  "Julie: I really wanted you to like me, and I kinda got the feeling that maybe you don\u0027t.",
+                            "speaker":  "Julie",
+                            "meaning":  "어쩐지 ~한 느낌이 들다, 왠지 ~인 것 같다",
+                            "nuance":  "\u0027kind of got the feeling\u0027의 구어 축약형. 직접 말하기 불편한 것을 완곡하게 꺼낼 때 쓴다. 확신 없이 느낌을 공유하는 방식이라 대화 분위기를 부드럽게 유지한다.",
+                            "example":  "I kinda get the feeling he\u0027s not really into this project anymore. → 그가 이 프로젝트에 더 이상 열의가 없는 것 같은 느낌이 들어."
+                        },
+                        {
+                            "expression":  "show what you\u0027re made of",
+                            "dialogue":  "Chandler: I say you show this guy what you\u0027re made of.",
+                            "speaker":  "Chandler",
+                            "meaning":  "네 진가를 보여줘, 네 실력과 근성을 증명해",
+                            "nuance":  "단순한 기술이 아니라 성품과 근성까지 포함하는 표현. 경쟁이나 도전 앞에서 격려할 때 자주 쓰이며, \u0027prove yourself\u0027보다 조금 더 드라마틱한 느낌을 준다.",
+                            "example":  "This is your chance to show the team what you\u0027re made of — don\u0027t hold back. → 이번이 팀에게 네 진가를 보여줄 기회야 — 주저하지 마."
+                        },
+                        {
+                            "expression":  "get out of the game",
+                            "dialogue":  "Joey: Maybe I should just get outta the game. They need guys up in housewares to serve cheese.",
+                            "speaker":  "Joey",
+                            "meaning":  "(어떤 분야나 경쟁에서) 손을 떼다, 그만두다",
+                            "nuance":  "\u0027game\u0027은 비유적으로 업계, 연애, 경쟁 등 다양한 상황에 쓸 수 있다. 지쳐서 포기하려는 심리를 표현할 때 자주 나온다.",
+                            "example":  "After five failed auditions, he thought about getting out of the game entirely. → 다섯 번의 오디션에 떨어지고 나서, 그는 완전히 손을 떼는 것을 고민했어."
+                        },
+                        {
+                            "expression":  "You bet",
+                            "dialogue":  "Hombre Man: Ready, Annabelle?\nAnnabelle: You bet.",
+                            "speaker":  "Annabelle",
+                            "meaning":  "물론이죠, 당연하죠 (= Absolutely / Of course)",
+                            "nuance":  "\u0027Yes\u0027보다 활기차고 자신감 있는 표현. 친근하고 긍정적인 대화 분위기에 잘 어울리며, 격식 있는 자리에서는 다소 캐주얼하게 들릴 수 있다.",
+                            "example":  "\u0027Do you want to grab lunch?\u0027 \u0027You bet — I\u0027m starving.\u0027 → \u0027점심 먹을래?\u0027 \u0027당연하지 — 배고파 죽겠어.\u0027"
+                        },
+                        {
+                            "expression":  "That\u0027s my territory",
+                            "dialogue":  "Joey: I know you\u0027re new, but it\u0027s kinda understood that everything from Young Men\u0027s to the escalator is my territory.",
+                            "speaker":  "Joey",
+                            "meaning":  "그건 내 구역이야, 내 영역이야",
+                            "nuance":  "물리적 공간뿐 아니라 업무 담당 영역, 전문 분야, 관계의 경계 등을 비유적으로 표현할 때도 쓴다.",
+                            "example":  "The backend is your territory, but the API design needs to go through me. → 백엔드는 네 담당이지만, API 설계는 나를 거쳐야 해."
+                        },
+                        {
+                            "expression":  "I say + [recommendation]",
+                            "dialogue":  "Chandler: I say you show this guy what you\u0027re made of. I say you stand your ground.",
+                            "speaker":  "Chandler",
+                            "meaning":  "내 생각엔 ~해야 한다, 나라면 ~하겠어",
+                            "nuance":  "공식적인 제안보다는 강한 개인적 확신을 담은 격려나 권고. 상대방에게 행동을 촉구할 때 \u0027I think\u0027보다 훨씬 단호한 느낌을 준다.",
+                            "example":  "I say we cut the intro short and get straight to the demo — people are already bored. → 내 생각엔 인트로를 짧게 끊고 바로 데모로 넘어가야 해 — 사람들이 이미 지루해하고 있어."
+                        },
+                        {
+                            "expression":  "gotta (= have got to)",
+                            "dialogue":  "Joey: (joins Chandler in the kitchen) I gotta get one, too.\nChandler: What are you guys doing?",
+                            "speaker":  "Joey",
+                            "meaning":  "~해야 한다 (\u0027have got to\u0027의 구어 축약형)",
+                            "nuance":  "\u0027have to\u0027보다 더 즉흥적이고 구어적인 표현. 의무나 긴박한 필요를 나타내며, 미국 일상 영어에서 매우 빈번하게 등장한다. 격식 글쓰기에는 쓰지 않는다.",
+                            "example":  "We gotta leave in five minutes or we\u0027ll miss the last train. → 5분 안에 출발해야 해, 안 그러면 막차 놓쳐."
+                        },
+                        {
+                            "expression":  "What a [noun]! (감탄 구조)",
+                            "dialogue":  "Julie: (exits) Bye.\nRachel: Bye. (After Julie exits.) What a manipulative bitch.",
+                            "speaker":  "Rachel",
+                            "meaning":  "정말 ~한 사람/상황이네! (강한 감정을 담은 감탄 표현)",
+                            "nuance":  "\u0027What a + 명사\u0027 구조는 분노, 찬사, 놀라움 등 다양한 감정에 쓰인다. 여기서는 냉소적 비난이지만, \u0027What a great idea!\u0027처럼 긍정적으로도 활발하게 쓰인다.",
+                            "example":  "What a coincidence — I was just about to call you! → 이런 우연이 — 막 전화하려던 참이었는데!"
+                        },
+                        {
+                            "expression":  "go out with someone / they go out",
+                            "dialogue":  "Monica: She was just a girl who met a guy, and now they go out.",
+                            "speaker":  "Monica",
+                            "meaning":  "~와 사귀다, 연인 관계이다",
+                            "nuance":  "\u0027date someone\u0027과 비슷하지만 더 일상적인 표현. \u0027go out together\u0027 또는 \u0027they\u0027re going out\u0027으로도 쓴다. 미국 영어에서는 10대~30대 사이에서 특히 자연스럽다.",
+                            "example":  "Are those two going out, or are they just close friends? → 저 둘 사귀는 거야, 아니면 그냥 친한 친구야?"
+                        },
+                        {
+                            "expression":  "doesn\u0027t make me any less [adjective/noun]",
+                            "dialogue":  "Monica: Just because I\u0027m friends with her doesn\u0027t make me any less friends with you.",
+                            "speaker":  "Monica",
+                            "meaning":  "그렇다고 해서 ~이 조금도 줄어드는 게 아니다",
+                            "nuance":  "상대방의 걱정을 부정하면서 관계나 감정이 변하지 않았음을 강조할 때 쓴다. \u0027less\u0027 앞에 형용사나 명사를 자유롭게 넣어 응용할 수 있다.",
+                            "example":  "Moving abroad doesn\u0027t make me any less committed to our friendship. → 해외로 이사 간다고 해서 우리 우정이 덜 소중해지는 건 아니야."
+                        },
+                        {
+                            "expression":  "You\u0027re not totally [adjective]",
+                            "dialogue":  "Julie: I kinda got the feeling that maybe you don\u0027t (like me).\nRachel: Well, you\u0027re not totally paranoid.",
+                            "speaker":  "Rachel",
+                            "meaning":  "완전히 ~한 건 아니야 (부분적으로 맞는 말이야)",
+                            "nuance":  "상대방의 걱정이나 판단을 완전히 부정하지 않고 절반 정도 인정하는 완곡한 표현. 직설적이면서도 배려하는 솔직함이 담겨 있다.",
+                            "example":  "You\u0027re not totally wrong — we could\u0027ve prepared a bit more. → 완전히 틀린 건 아니야 — 우리가 좀 더 준비할 수 있었을 것 같아."
+                        },
+                        {
+                            "expression":  "It didn\u0027t mean anything to me",
+                            "dialogue":  "Monica: Honey, wait. We only did it once. It didn\u0027t mean anything to me.\nRachel: Yeah, right. Sure!",
+                            "speaker":  "Monica",
+                            "meaning":  "나한테는 아무 의미가 없었어, 특별한 감정 없이 한 거야",
+                            "nuance":  "연인 관계에서 배신을 설명할 때 클리셰처럼 쓰이지만, 어떤 행동에 감정적 의미가 없었음을 강조하는 표현으로 다양하게 응용 가능하다. Rachel의 반응처럼, 오히려 더 의심을 살 때도 많다.",
+                            "example":  "I bumped into my ex at a work event, but it didn\u0027t mean anything to me — it was just small talk. → 회사 행사에서 전 남자친구를 마주쳤는데, 별 의미는 없었어 — 그냥 가벼운 인사 나눈 거야."
+                        }
+                    ]
+}

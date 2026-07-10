@@ -1,0 +1,209 @@
+{
+    "id":  "s01e15",
+    "code":  "115",
+    "title":  "The One With the Stoned Guy",
+    "model":  "sonnet",
+    "cost_usd":  0.2887,
+    "expressions":  [
+                        {
+                            "expression":  "stop by",
+                            "dialogue":  "Mr. Kostelick wants you to **stop by** his office at the end of the day.",
+                            "speaker":  "Mrs. Tedlock",
+                            "meaning":  "잠깐 들르다",
+                            "nuance":  "\"visit\"보다 가볍고 부담 없는 뉘앙스. 직장에서 상사가 부를 때나 친구 집에 잠깐 들를 때 모두 자연스럽게 씀.",
+                            "example":  "Can you **stop by** my desk before you leave? → 가기 전에 내 자리에 잠깐 들를 수 있어?"
+                        },
+                        {
+                            "expression":  "have nothing to do with",
+                            "dialogue":  "If this is about those prank memos, I **had nothing to do with** them. Really.",
+                            "speaker":  "Chandler",
+                            "meaning":  "~와 아무 관련이 없다",
+                            "nuance":  "책임이나 관여를 강하게 부인할 때 쓰는 표현. \"I didn\u0027t do it\"보다 훨씬 강한 거리두기이며, 결백을 주장하거나 무관함을 강조하는 상황 모두에 쓰임.",
+                            "example":  "I **had nothing to do with** that decision — talk to the manager. → 그 결정이랑 나는 전혀 관계없어 — 매니저한테 얘기해."
+                        },
+                        {
+                            "expression":  "end up -ing",
+                            "dialogue":  "I panicked, alright? But it wasn\u0027t a total loss. I mean, we **ended up** cuddling.",
+                            "speaker":  "Ross",
+                            "meaning":  "결국 ~하게 되다 (의도하지 않은 결과)",
+                            "nuance":  "계획과 달리 흘러간 결과를 묘사할 때. 후회, 놀람, 체념 등 다양한 감정과 어울리며 일상 대화에서 매우 빈번하게 쓰임.",
+                            "example":  "We missed the last train and **ended up** walking home in the rain. → 막차를 놓쳐서 결국 빗속에 걸어서 집에 갔어."
+                        },
+                        {
+                            "expression":  "figure out",
+                            "dialogue":  "I just know I\u0027m not going to **figure it out** working there.",
+                            "speaker":  "Chandler",
+                            "meaning":  "답을 찾아내다, 파악하다, 해결책을 알아내다",
+                            "nuance":  "\"understand\"보다 능동적이고 구체적인 느낌. 뭔가를 골똘히 생각해서 결론에 도달하는 과정을 담음. 인생 방향, 문제 해결, 상황 파악 등 폭넓게 쓰임.",
+                            "example":  "I\u0027m still trying to **figure out** what I want to do with my life. → 내가 뭘 하면서 살고 싶은지 아직 찾는 중이야."
+                        },
+                        {
+                            "expression":  "that\u0027s the thing",
+                            "dialogue":  "I don\u0027t know. **That\u0027s the thing.** I don\u0027t know what I want to do.",
+                            "speaker":  "Chandler",
+                            "meaning":  "바로 그게 핵심이야 / 그게 문제야",
+                            "nuance":  "대화에서 핵심 문제나 아이러니를 짚을 때 쓰는 전환 표현. 한국어의 \"그게 말이야\" 혹은 \"그게 딱 문제인데\"에 가까운 구어체로, 뒤에 딜레마나 고백이 따라옴.",
+                            "example":  "I want to go, but **that\u0027s the thing** — I don\u0027t have the money. → 가고는 싶은데, 그게 문제야 — 돈이 없거든."
+                        },
+                        {
+                            "expression":  "take (someone) by surprise",
+                            "dialogue":  "She **took me by surprise**. You know, but it wasn\u0027t a total loss.",
+                            "speaker":  "Ross",
+                            "meaning":  "~를 허를 찌르다, 예상치 못하게 당하다",
+                            "nuance":  "좋은 의미든 나쁜 의미든 준비 없이 상황이나 사람에게 기습당하는 느낌. 수동형 \"I was taken by surprise\"로도 자주 씀.",
+                            "example":  "His resignation really **took everyone by surprise**. → 그의 사직이 모두를 정말 깜짝 놀라게 했어."
+                        },
+                        {
+                            "expression":  "picture (oneself) doing",
+                            "dialogue":  "I just always **pictured myself** doing something... something.",
+                            "speaker":  "Chandler",
+                            "meaning":  "~하는 자신을 상상하다",
+                            "nuance":  "미래의 자신을 머릿속으로 그려볼 때 쓰는 구어적 표현. \"imagine\"과 비슷하지만 더 시각적이고 개인적인 느낌. 부정형(\"I can\u0027t picture myself doing X\")으로도 자주 씀.",
+                            "example":  "I never **pictured myself** living alone, but here I am. → 혼자 살 거라고 상상도 못 했는데, 이렇게 됐네."
+                        },
+                        {
+                            "expression":  "I don\u0027t mean to brag",
+                            "dialogue":  "You know, I **don\u0027t mean to brag**, but I waited tables at Innsbruck in \u002776.",
+                            "speaker":  "Chandler",
+                            "meaning":  "자랑하려는 건 아닌데 (실제로는 자랑하는 쿠션 표현)",
+                            "nuance":  "겸손한 척하며 실제로는 자랑을 꺼낼 때 앞에 붙이는 표현. 영어권에서 자기 자랑 전에 쓰는 사교적 완충재이며, 유머러스한 자기비하와도 잘 어울림.",
+                            "example":  "I **don\u0027t mean to brag**, but I finished the whole thing in ten minutes. → 자랑하려는 건 아닌데, 그거 10분 만에 다 끝냈어."
+                        },
+                        {
+                            "expression":  "root for (someone)",
+                            "dialogue":  "It\u0027s OK. I was always **rooting for** you two kids to get together.",
+                            "speaker":  "Chandler",
+                            "meaning":  "~를 응원하다, ~가 잘 되길 바라다",
+                            "nuance":  "스포츠 응원에서 확장되어 누군가의 성공·관계·결정을 마음속으로 지지할 때 씀. 따뜻하고 진심 어린 뉘앙스로, 겉으로 표현하지 않았던 지지를 고백할 때도 자연스럽게 쓰임.",
+                            "example":  "I\u0027ve always been **rooting for** you — I knew you\u0027d get the job. → 항상 응원하고 있었어 — 취직될 줄 알았다고."
+                        },
+                        {
+                            "expression":  "bail (on someone)",
+                            "dialogue":  "**Wendy bailed.** I have no waitress.",
+                            "speaker":  "Monica",
+                            "meaning":  "약속·계획을 갑자기 취소하다, 바람 맞히다",
+                            "nuance":  "예고 없이 또는 마지막 순간에 빠지는 것. 실망감이나 짜증이 실린 구어체로 90년대부터 지금까지 광범위하게 쓰임. \"bail on someone\"처럼 대상을 붙일 수도 있음.",
+                            "example":  "He was supposed to come to my party but he **bailed** at the last minute. → 파티에 온다고 했다가 마지막 순간에 빠졌어."
+                        },
+                        {
+                            "expression":  "be there for (someone)",
+                            "dialogue":  "When you ran out of your wedding, I **was there for** you.",
+                            "speaker":  "Monica",
+                            "meaning":  "~의 곁에 있어주다, 힘들 때 지지해주다",
+                            "nuance":  "단순히 물리적으로 옆에 있는 것이 아니라 감정적·실질적으로 지원하는 것. \"support\"보다 훨씬 따뜻하고 개인적인 표현이며, 과거 희생을 떠올리며 감사함을 요구하는 맥락에서도 씀.",
+                            "example":  "You\u0027ve always **been there for** me — I won\u0027t forget that. → 항상 내 곁에 있어줬잖아 — 그거 절대 안 잊어."
+                        },
+                        {
+                            "expression":  "put a roof over (someone\u0027s) head",
+                            "dialogue":  "I **put a roof over your head**, and if that means nothing to you...",
+                            "speaker":  "Monica",
+                            "meaning":  "~에게 살 곳을 마련해 주다",
+                            "nuance":  "단순히 집을 제공하는 것을 넘어 큰 희생이나 도움을 강조할 때 씀. 상대에게 감사함을 요구하거나 과거 베푼 은혜를 상기시키는 맥락에서 특히 자주 등장함.",
+                            "example":  "My aunt **put a roof over my head** when I first moved to the city. → 처음 도시에 왔을 때 이모가 살 곳을 마련해줬어."
+                        },
+                        {
+                            "expression":  "I\u0027m with you",
+                            "dialogue":  "OK, **I\u0027m with you**, Cheech. OK.",
+                            "speaker":  "Rachel",
+                            "meaning":  "무슨 말인지 알겠어, 이해했어 (따라가고 있어)",
+                            "nuance":  "설명을 듣고 \"따라잡았다\"는 뜻의 구어체. \"I understand\"보다 가볍고 즉각적인 반응. 맥락에 따라 \"동의해\"의 뜻도 되므로 상황 파악이 중요함.",
+                            "example":  "Wait, you\u0027re quitting your job to travel? — **I\u0027m with you**, just tell me more. → 잠깐, 여행하려고 직장 그만두는 거야? — 알겠어, 더 얘기해봐."
+                        },
+                        {
+                            "expression":  "seal the deal",
+                            "dialogue":  "She\u0027s going to take one look at his furry, cute little face and it\u0027ll **seal the deal**.",
+                            "speaker":  "Joey",
+                            "meaning":  "결정적으로 마무리 짓다, 확실히 성사시키다",
+                            "nuance":  "협상, 연애, 취업 등 어떤 상황에서든 결정타를 날려 마무리하는 것. 비즈니스와 일상 양쪽에서 두루 쓰이며 90년대부터 지금까지 활발하게 사용 중.",
+                            "example":  "The free upgrade definitely **sealed the deal** — I\u0027m buying from them. → 무료 업그레이드가 결정적이었어 — 거기서 살게."
+                        },
+                        {
+                            "expression":  "chick magnet",
+                            "dialogue":  "I\u0027m telling you, that monkey is a **chick magnet**!",
+                            "speaker":  "Joey",
+                            "meaning":  "여성들의 관심을 끄는 남자나 물건",
+                            "nuance":  "\"chick\"은 90년대 구어에서 여성을 지칭하는 슬랭. 현재는 다소 구식으로 여겨지며 젊은 세대는 잘 안 쓰지만 팝컬처나 과거 미드에서 자주 접할 수 있는 표현.",
+                            "example":  "He adopted a puppy and it turned into an instant **chick magnet**. → 강아지 입양했더니 순식간에 여자들한테 인기 폭발이었어."
+                        },
+                        {
+                            "expression":  "talk dirty (to someone)",
+                            "dialogue":  "No no no. **Talk... dirty.**",
+                            "speaker":  "Celia",
+                            "meaning":  "성적으로 자극적인 말을 하다",
+                            "nuance":  "성인 간의 친밀한 맥락에서 쓰는 직접적인 표현. 이 에피소드에선 Ross가 당황하는 코미디 소재로 쓰였지만 실제 영어에서도 직접적으로 쓰이는 표현임.",
+                            "example":  "Some people freeze up when asked to **talk dirty** — it\u0027s actually a common thing. → 야한 말 해달라고 하면 굳어버리는 사람 많아 — 사실 흔한 일이야."
+                        },
+                        {
+                            "expression":  "play hardball",
+                            "dialogue":  "Look, Al, I\u0027m **not playing hardball** here, OK? This is not a negotiation, this is a rejection!",
+                            "speaker":  "Chandler",
+                            "meaning":  "강경하게 협상하다, 타협 없이 밀어붙이다",
+                            "nuance":  "야구에서 온 비유 표현. 직장이나 비즈니스 협상에서 강압적 전술을 쓸 때. Chandler처럼 부정형(\"I\u0027m not playing hardball\")으로 오히려 의도를 강조하는 역설적 용법도 자주 나타남.",
+                            "example":  "The union decided to **play hardball** and rejected every offer. → 노조는 강경 노선을 택하며 모든 제안을 거절했어."
+                        },
+                        {
+                            "expression":  "I\u0027ll tell you what",
+                            "dialogue":  "**I\u0027ll tell you what.** Just try something on me.",
+                            "speaker":  "Joey",
+                            "meaning":  "이렇게 하자 / 내 말 들어봐 (제안을 꺼낼 때 쓰는 전환 표현)",
+                            "nuance":  "대화의 흐름을 끊고 제안이나 해결책을 내놓을 때 앞에 붙이는 구어체. \"Here\u0027s an idea\"나 \"Let me suggest something\"의 느낌으로, 상대방을 설득하거나 새 방향을 제시하기 전에 주의를 끄는 역할.",
+                            "example":  "**I\u0027ll tell you what** — you handle the intro and I\u0027ll take care of the rest. → 이렇게 하자 — 네가 인트로 담당하고 나머지는 내가 할게."
+                        },
+                        {
+                            "expression":  "What\u0027s the big deal?",
+                            "dialogue":  "**What\u0027s the big deal?** You just say what you want to do to her.",
+                            "speaker":  "Joey",
+                            "meaning":  "왜 그게 그렇게 대단한 일이야? / 별것도 아닌데 뭘 그래",
+                            "nuance":  "상대가 과민반응한다고 생각할 때 쓰는 표현. 무심하거나 약간 도발적인 뉘앙스가 있어서 상황에 따라 상대를 무시하는 인상을 줄 수도 있음. 친한 사이에서는 자연스러운 표현.",
+                            "example":  "So you forgot one assignment — **what\u0027s the big deal?** You\u0027ve aced everything else. → 과제 하나 빠뜨린 게 뭐가 그렇게 큰일이야? 나머지는 다 잘했잖아."
+                        },
+                        {
+                            "expression":  "split (something) with (someone)",
+                            "dialogue":  "I had a grape about five hours ago, so I\u0027d better **split this with** you.",
+                            "speaker":  "Chandler",
+                            "meaning":  "~와 나눠 갖다, 같이 나눠 먹다 (반반씩)",
+                            "nuance":  "음식이나 비용을 나눌 때 자연스럽게 쓰는 표현. \"share\"와 비슷하지만 반반 나누는 뉘앙스가 더 강함. 계산서를 나눌 때도 \"let\u0027s split the bill\"로 자주 씀.",
+                            "example":  "This pizza is huge — want to **split it with** me? → 피자 너무 크다 — 나랑 나눠 먹을래?"
+                        },
+                        {
+                            "expression":  "blaze up a doobie / smoke a joint / light a bone",
+                            "dialogue":  "In the cab, Steve **blazed up a doobie**. **Smoked a joint**? You know, **lit a bone**? Weed? Hemp? Ganja?",
+                            "speaker":  "Phoebe",
+                            "meaning":  "마리화나를 피우다",
+                            "nuance":  "Phoebe가 Rachel에게 설명하면서 같은 행위의 속어를 줄줄이 나열하는 장면. \"doobie\", \"joint\", \"bone\"은 모두 마리화나 담배를 뜻하는 90년대 미국 슬랭. 현재는 \"smoke a joint\"가 가장 일반적이며 \"blaze\"는 다소 구식 느낌.",
+                            "example":  "Someone in the stairwell was **smoking a joint** — the whole hallway reeked. → 계단통에서 누가 대마초 피우고 있었어 — 복도 전체가 냄새 났어."
+                        },
+                        {
+                            "expression":  "go out with (someone)",
+                            "dialogue":  "**Who are you going out with?**",
+                            "speaker":  "Chandler",
+                            "meaning":  "~와 사귀다, ~와 데이트하다",
+                            "nuance":  "누군가와 연인 관계이거나 데이트 중임을 나타내는 가장 일상적인 구어체. \"date\"를 동사로 쓰는 것과 동일한 의미지만 더 부드럽고 자연스럽게 쓰임.",
+                            "example":  "How long have you been **going out with** her? → 그 사람이랑 사귄 지 얼마나 됐어?"
+                        },
+                        {
+                            "expression":  "What a tool!",
+                            "dialogue":  "**What a tool!**",
+                            "speaker":  "Joey",
+                            "meaning":  "진짜 답답한 인간이네! / 완전 멍청이네",
+                            "nuance":  "눈치 없거나 이기적이고 어리석게 행동하는 사람을 향한 비하 슬랭. 90년대~2000년대에 특히 유행했으며 현재도 간간이 쓰이지만 다소 구식 느낌. \"jerk\"이나 \"idiot\"보다 가벼운 경멸 표현.",
+                            "example":  "He showed up an hour late and didn\u0027t even apologize — **what a tool**. → 한 시간 늦게 나타나서 사과도 없네 — 완전 답답한 인간."
+                        },
+                        {
+                            "expression":  "keep (something) down",
+                            "dialogue":  "We\u0027re talking about whipped fish, Monica. I\u0027m just happy I\u0027m **keeping it down**, y\u0027know?",
+                            "speaker":  "Joey",
+                            "meaning":  "먹은 것을 토하지 않고 소화하다",
+                            "nuance":  "구역질이 날 것 같은 음식을 억지로 삼키며 버티는 상황에 씀. 불쾌한 음식에 대한 솔직한 반응을 우스갯소리로 표현할 때 자연스럽게 쓰이는 구어체. 맥락에 따라 \"소리를 낮추라\"는 뜻(keep it down!)도 되니 주의.",
+                            "example":  "I was so seasick I could barely **keep anything down**. → 배멀미가 너무 심해서 먹은 게 다 넘어올 것 같았어."
+                        },
+                        {
+                            "expression":  "There you go!",
+                            "dialogue":  "**There you go!** Keep going. Keep going!",
+                            "speaker":  "Joey",
+                            "meaning":  "바로 그거야! 잘하고 있어! 됐어!",
+                            "nuance":  "격려나 확인을 표현할 때 쓰는 다목적 감탄사. 맥락에 따라 물건을 건네며 \"자, 여기\"의 뜻도 되고, 예상대로 됐을 때 \"봐, 그렇지\"의 뜻도 됨. 어떤 상황에서 쓰이는지 따라 해석이 달라지므로 패턴으로 익혀두면 좋음.",
+                            "example":  "**There you go!** You finally got the rhythm. → 바로 그거야! 드디어 리듬이 맞았어."
+                        }
+                    ]
+}

@@ -1,0 +1,209 @@
+{
+    "id":  "s01e19",
+    "code":  "119",
+    "title":  "The One Where the Monkey Gets Away",
+    "model":  "sonnet",
+    "cost_usd":  0.3239,
+    "expressions":  [
+                        {
+                            "expression":  "mail call",
+                            "dialogue":  "Monica: **Mail call**, Rachel Green, bunk seven.",
+                            "speaker":  "Monica",
+                            "meaning":  "편지[우편물]가 왔어요 — 군대식 배급 구호를 일상에서 장난스럽게 차용한 표현",
+                            "nuance":  "원래 군대에서 편지를 나눠줄 때 외치는 구호. 일상에서 쓰면 과장되고 장난기 있는 뉘앙스를 준다. \u0027bunk seven\u0027까지 붙여 캠프 컨셉을 이어간 것이 포인트.",
+                            "example":  "Mail call! You got something from the IRS — looks serious. → 우편물이야! 국세청에서 뭔가 왔어 — 심각해 보여."
+                        },
+                        {
+                            "expression":  "Where else would we get any?",
+                            "dialogue":  "Rachel: Oh, cool! Free sample of coffee! / Monica: Oh good! **Where else would we get any?**",
+                            "speaker":  "Monica",
+                            "meaning":  "\"달리 어디서 구하겠어?\" — 이미 넘치게 있는 걸 신기해하는 상대를 비꼬는 수사 의문문",
+                            "nuance":  "카페에서 일하면서 \u0027커피 샘플\u0027에 들뜬 Rachel을 꼬집는 장면. 수사 의문문 형식으로, 말하지 않아도 뻔한 사실을 강조하며 비꼰다.",
+                            "example":  "Oh, a free pen from the hotel! Where else would we get any? → 호텔에서 공짜 볼펜이래! 달리 어디서 구하겠어?"
+                        },
+                        {
+                            "expression":  "be done with someone/something",
+                            "dialogue":  "Ross: What happened to \u0027Forget relationships! **I\u0027m done with men**!\u0027 The whole, uh, penis embargo?",
+                            "speaker":  "Ross (Rachel의 말을 인용)",
+                            "meaning":  "~와 완전히 끝내다, 더 이상 관여하지 않겠다고 선언하다",
+                            "nuance":  "단순히 관계가 끝난 게 아니라 질려서 포기를 선언할 때 쓴다. 강한 결심처럼 들리지만 맥락상 금방 바뀌는 상황에 자주 등장해 아이러니 효과를 낸다.",
+                            "example":  "After the third all-nighter this week, I\u0027m done with this project. → 이번 주에만 세 번 밤샘하고 나니, 이 프로젝트는 이제 진짜 끝이야."
+                        },
+                        {
+                            "expression":  "make someone\u0027s toes curl",
+                            "dialogue":  "Rachel: ...someone who\u0027s like your best friend, but then also can **make your toes curl**?",
+                            "speaker":  "Rachel",
+                            "meaning":  "강렬한 설렘·흥분으로 온몸이 반응하게 만들다 (특히 로맨틱·성적 매력)",
+                            "nuance":  "신체 반응으로 감정 강도를 표현하는 관용구. 긍정적(짜릿한 설렘)으로도, 부정적(소름 끼치는 불쾌함)으로도 쓰이지만, 이 장면에서는 로맨틱한 의미.",
+                            "example":  "That last note she hit on stage was the kind of performance that makes your toes curl. → 그녀가 무대에서 마지막으로 낸 그 음은 온몸이 짜릿해지는 퍼포먼스였어."
+                        },
+                        {
+                            "expression":  "woo someone",
+                            "dialogue":  "Ross: ...I\u0027d go pick up a bottle of wine, go over there and, uh, try to **woo** her.",
+                            "speaker":  "Ross",
+                            "meaning":  "구애하다, 애정을 얻으려고 적극적으로 공을 들이다",
+                            "nuance":  "구식(old-fashioned) 표현으로, 현대 영어에서 쓰면 약간 촌스럽거나 과장된 느낌. Chandler가 바로 \u00271890년대로 돌아가야겠다\u0027고 놀린 이유가 바로 이 단어 때문.",
+                            "example":  "He spent weeks wooing her with handwritten letters and home-cooked dinners. → 그는 몇 주간 손편지와 직접 만든 저녁으로 그녀에게 공을 들였다."
+                        },
+                        {
+                            "expression":  "take someone back to [시대], when [표현] was last used",
+                            "dialogue":  "Chandler: Hey, y\u0027know what you should do? You should **take her back to the 1890s, when that phrase was last used**.",
+                            "speaker":  "Chandler",
+                            "meaning":  "\"그 표현은 ~시대에나 쓰던 거야\" — 구식 표현을 쓴 상대를 위트 있게 비꼬는 공식",
+                            "nuance":  "Chandler 특유의 비꼬기 패턴. \u0027[표현/행동] was last used/done in [옛 시대]\u0027 구조로 기억해두면 비슷한 상황에서 응용 가능.",
+                            "example":  "You should take that hairstyle back to the 80s, when it was last cool. → 그 헤어스타일은 마지막으로 유행했던 80년대로 가져가야겠다."
+                        },
+                        {
+                            "expression":  "I was there",
+                            "dialogue":  "Rachel: ...And it was just this raw, animal, sexual... / Ross: **Wait-wait. I, I got it. I was there.**",
+                            "speaker":  "Ross",
+                            "meaning":  "\"나도 알아, 나도 거기 있었잖아\" — 이미 아는 내용을 더 설명하지 않아도 된다며 대화를 끊을 때",
+                            "nuance":  "상대방이 자신이 이미 아는 불편한 내용을 계속 설명할 때 자연스럽게 막는 표현. \u0027I know\u0027보다 더 직접적이고, 그 상황에 함께 있었음을 강조한다.",
+                            "example":  "A: So then he slipped and knocked everything off the table— / B: Yeah, I was there, I don\u0027t need a replay. → A: 그래서 그가 미끄러지면서 테이블 위의 걸 다 쓸어— / B: 응, 나도 거기 있었어, 다시 설명 안 해도 돼."
+                        },
+                        {
+                            "expression":  "suck-fest",
+                            "dialogue":  "Joey: **Suck-fest.**",
+                            "speaker":  "Joey",
+                            "meaning":  "완전 최악의 경험, 형편없음이 극에 달한 것",
+                            "nuance":  "\u0027-fest\u0027는 \u0027~의 향연, ~이 넘쳐나는 것\u0027을 뜻하는 속어 접미사. \u0027suck\u0027과 합쳐 강한 혐오감을 표현한다. \u0027bore-fest\u0027, \u0027cry-fest\u0027 등 유사 합성어도 같은 방식으로 만들어진다.",
+                            "example":  "That three-hour layover in a tiny airport was a total suck-fest. → 그 작은 공항에서 세 시간 경유는 완전 최악이었어."
+                        },
+                        {
+                            "expression":  "chick-flick",
+                            "dialogue":  "Chandler: Toootal **chick-flick**.",
+                            "speaker":  "Chandler",
+                            "meaning":  "주로 여성 취향의 로맨틱·감성 영화 (남성이 달갑지 않아 하며 쓰는 표현)",
+                            "nuance":  "비공식적이고 성차별적 뉘앙스가 있어 현재는 덜 쓰이는 추세지만 1990~2000년대 일상 대화에서는 흔했다. 로맨스·드라마 장르를 가볍게 무시하는 어감이 담겨 있다.",
+                            "example":  "He complained it was a chick-flick the whole time, but he was the one crying at the end. → 내내 로맨스 영화라고 투덜댔는데, 마지막에 운 건 걔였잖아."
+                        },
+                        {
+                            "expression":  "unclench",
+                            "dialogue":  "Ross: \u0027Pwease, Aunt Monica, pwease?\u0027 Oh, **unclench**. You\u0027re not even gonna be there.",
+                            "speaker":  "Ross",
+                            "meaning":  "긴장 풀어, 좀 느긋하게 굴어",
+                            "nuance":  "\u0027clench\u0027(주먹·근육을 꽉 쥐다)의 반대로, 몸과 마음을 이완하라는 구어 표현. \u0027Relax\u0027나 \u0027Chill out\u0027보다 더 직접적이고 약간 날이 선 뉘앙스가 있다.",
+                            "example":  "Unclench — it\u0027s just a practice run, not the real thing. → 긴장 풀어 — 그냥 리허설이야, 본 공연이 아니잖아."
+                        },
+                        {
+                            "expression":  "run something by someone",
+                            "dialogue":  "Ross: ...before we head off to the murder capital of the North-East, I was, uh, kinda wanting to **run something by** you.",
+                            "speaker":  "Ross",
+                            "meaning":  "~에게 (아이디어·계획 등을) 꺼내보다, 의견을 구하다",
+                            "nuance":  "공식적인 \u0027보고\u0027보다 가볍고, 상대방의 반응이나 암묵적 승인을 구하는 뉘앙스. 직장과 일상 모두에서 매우 자주 쓰이는 표현.",
+                            "example":  "Before I confirm the budget, let me run the numbers by my manager first. → 예산을 확정하기 전에, 매니저한테 수치를 먼저 보여볼게."
+                        },
+                        {
+                            "expression":  "pick up (something)",
+                            "dialogue":  "Ross: ...after work I\u0027d go **pick up** a bottle of wine, go over there and, uh, try to woo her.",
+                            "speaker":  "Ross",
+                            "meaning":  "가는 길에 (물건을) 가볍게 사 오다",
+                            "nuance":  "목적을 두고 쇼핑하러 가는 게 아니라 \u0027들르는 김에 사 온다\u0027는 가벼운 뉘앙스. 일상에서 가장 빈번하게 쓰이는 phrasal verb 중 하나.",
+                            "example":  "Can you pick up some coffee beans on your way home? → 집에 오는 길에 커피 원두 좀 사올 수 있어?"
+                        },
+                        {
+                            "expression":  "I figured (I\u0027d / that ...)",
+                            "dialogue":  "Ross: ...**I figured** after work I\u0027d go pick up a bottle of wine, go over there...",
+                            "speaker":  "Ross",
+                            "meaning":  "~할 생각이었어, ~면 좋겠다고 판단했어",
+                            "nuance":  "\u0027I thought\u0027보다 구어적이고 자연스럽다. 자신의 계획이나 비공식적 판단을 가볍게 설명할 때 사용. \u0027I figured (that)...\u0027 또는 \u0027I figured I\u0027d...\u0027 형태가 가장 흔하다.",
+                            "example":  "I figured we\u0027d just order pizza — no one really wants to cook tonight. → 피자 시켜 먹으면 되겠다 싶었어 — 오늘 밤 요리하고 싶은 사람 없잖아."
+                        },
+                        {
+                            "expression":  "be in the mood for something",
+                            "dialogue":  "Ross: We still have that bottle of wine. You **in the mood for**, uh, something grape?",
+                            "speaker":  "Ross",
+                            "meaning":  "~하고 싶은 기분이다, ~할 마음이 생기다",
+                            "nuance":  "현재 특정 활동·음식·분위기에 대한 즉흥적 욕구를 표현. \u0027Are you in the mood for...?\u0027는 상대방 의향을 부드럽게 타진할 때 자주 쓰인다.",
+                            "example":  "I\u0027m not really in the mood for a big meal — maybe just some soup. → 거하게 먹을 기분이 아니야 — 수프 같은 거나 먹을까."
+                        },
+                        {
+                            "expression":  "quick and painful",
+                            "dialogue":  "Rachel: Oh God... Okay. Alright. Alright. Okay. Ross, please don\u0027t hate me. / Ross: Okay, **quick and painful**. (Starts to cork the wine)",
+                            "speaker":  "Ross",
+                            "meaning":  "\"짧고 고통스럽게\" — 나쁜 소식을 각오하고 받아들이겠다는 표현",
+                            "nuance":  "일반적인 관용구는 \u0027quick and painless(빠르고 고통 없이)\u0027지만, Ross가 의도적으로 \u0027painful\u0027로 바꿔 최악을 예감하는 유머를 만든 것이 포인트.",
+                            "example":  "Just tell me what went wrong. Quick and painful — I can handle it. → 뭐가 잘못됐는지 그냥 말해. 짧고 고통스럽게 — 감당할 수 있어."
+                        },
+                        {
+                            "expression":  "be hard on someone",
+                            "dialogue":  "Ross: Listen, I\u0027m sorry I was so **hard on** you before, it\u0027s just I...",
+                            "speaker":  "Ross",
+                            "meaning":  "~에게 너무 가혹하게 굴다, 심하게 몰아붙이다",
+                            "nuance":  "비난이나 꾸짖음이 지나쳤을 때 사과·반성의 맥락에서 자주 쓰인다. \u0027Don\u0027t be too hard on yourself(너무 자책하지 마)\u0027처럼 재귀 표현으로도 쓸 수 있다.",
+                            "example":  "I was really hard on him about that one mistake. I should\u0027ve given him more room to grow. → 그 한 번의 실수에 너무 심하게 했어. 더 여유를 줬어야 했는데."
+                        },
+                        {
+                            "expression":  "vintage [name]",
+                            "dialogue":  "Ross: ...this is just **vintage Rachel**. I mean, things just sort of happen around you.",
+                            "speaker":  "Ross",
+                            "meaning":  "전형적인 ~다운 행동, ~의 특성이 그대로 드러나는 (칭찬 또는 비꼬기)",
+                            "nuance":  "원래 \u0027vintage\u0027는 오래되어 품질이 검증된 것이지만, 여기서는 \u0027역시 너답다\u0027는 비꼬는 의미로 사용됐다. 칭찬·비난 양쪽 맥락 모두에 쓸 수 있다.",
+                            "example":  "He showed up an hour late with coffee for everyone — vintage Mark. → 한 시간 늦게 모두를 위한 커피 들고 나타났어 — 완전 Mark답지."
+                        },
+                        {
+                            "expression":  "be totally oblivious to something",
+                            "dialogue":  "Ross: ...doing your Rachel-thing, **totally oblivious to** people\u0027s monkeys, or to people\u0027s feelings...",
+                            "speaker":  "Ross",
+                            "meaning":  "~을 전혀 눈치채지 못하다, 완전히 무감각하다",
+                            "nuance":  "\u0027oblivious\u0027는 주변 상황이나 타인 감정에 둔감한 상태를 강조한다. \u0027clueless\u0027(눈치 없는)와 비슷하지만, 의도치 않게 인식 자체가 없는 경우에 더 어울린다.",
+                            "example":  "He was totally oblivious to the fact that everyone else had already left. → 그는 다른 사람들이 모두 이미 떠났다는 사실을 전혀 눈치채지 못했다."
+                        },
+                        {
+                            "expression":  "things just sort of happen around you",
+                            "dialogue":  "Ross: I mean, **things just sort of happen around** you.",
+                            "speaker":  "Ross",
+                            "meaning":  "\"일이 그냥 네 주변에서 자꾸 벌어진다\" — 특정인 주변에 사건·사고가 유독 많이 터짐을 표현",
+                            "nuance":  "\u0027sort of\u0027가 들어가 직접 비난보다 부드럽지만, 그럼에도 책임을 은근히 암시한다. 누군가를 은근히 꼬집을 때 쓸 수 있는 패턴.",
+                            "example":  "I don\u0027t know how, but things just sort of happen around her — she always ends up at the center of the drama. → 어떻게 된 건지 모르겠지만 그녀 주변엔 일이 자꾸 벌어져 — 항상 사건의 중심에 있게 돼."
+                        },
+                        {
+                            "expression":  "be the bigger person",
+                            "dialogue":  "Rachel: C\u0027mon, Luisa, you have a chance to **be the bigger person** here! Take it!",
+                            "speaker":  "Rachel",
+                            "meaning":  "더 성숙하게 행동하다, 자존심을 내세우지 않고 먼저 양보하거나 용서하다",
+                            "nuance":  "갈등 상황에서 상대가 먼저 화해나 양보를 선택하도록 설득할 때 쓴다. 이를 거부하면 암묵적으로 \u0027소인배\u0027가 된다는 압박이 깔려 있다.",
+                            "example":  "Just send the apology text. Be the bigger person — it\u0027s not about winning. → 사과 문자 그냥 보내. 더 성숙하게 굴어 — 이기고 지는 문제가 아니잖아."
+                        },
+                        {
+                            "expression":  "so long as",
+                            "dialogue":  "Ross: Well, **so long as** we\u0027re here and, uh, not on the subject, I was thinking about, uh...",
+                            "speaker":  "Ross",
+                            "meaning":  "~하는 한, ~이기만 하면 (= as long as)",
+                            "nuance":  "\u0027as long as\u0027의 구어적 변형. 조건을 제시하거나, 현재 상황을 이용해 자연스럽게 화제를 전환할 때도 쓸 수 있다.",
+                            "example":  "So long as you\u0027re already in the kitchen, could you grab me a glass of water? → 어차피 주방에 있는 거, 물 한 잔만 가져다 줄 수 있어?"
+                        },
+                        {
+                            "expression":  "I can\u0027t believe we\u0027re even having this discussion",
+                            "dialogue":  "Chandler: **I can\u0027t believe we are even having this discussion.**",
+                            "speaker":  "Chandler",
+                            "meaning":  "이런 얘기를 해야 한다는 것 자체가 말이 안 된다 — 너무 당연한 것을 굳이 논의하는 상황에 대한 황당함",
+                            "nuance":  "\u0027even\u0027이 핵심으로, 이 대화 자체가 필요 없어야 함을 강조한다. 강한 반대 의견을 드러내거나, 명백한 사실을 상대가 의심할 때 쓴다.",
+                            "example":  "I can\u0027t believe we\u0027re even having this discussion — of course we need to return the money. → 이런 얘기를 해야 한다는 게 어이없어 — 당연히 돈은 돌려줘야지."
+                        },
+                        {
+                            "expression":  "master the difference between A and B",
+                            "dialogue":  "Ross: Well, I see he\u0027s finally **mastered the difference between** \u0027bring me the\u0027 and \u0027pee in the\u0027.",
+                            "speaker":  "Ross",
+                            "meaning":  "A와 B의 차이를 완벽하게 익히다, 헷갈리지 않고 구별하다",
+                            "nuance":  "\u0027know the difference\u0027는 인지 수준이지만 \u0027master\u0027는 실수 없이 실행할 수 있는 완전 체득 수준을 의미한다. 여기선 원숭이의 학습을 유머러스하게 표현한 것.",
+                            "example":  "It took her years to finally master the difference between \u0027affect\u0027 and \u0027effect\u0027. → \u0027affect\u0027와 \u0027effect\u0027의 차이를 완전히 익히는 데 몇 년이 걸렸어."
+                        },
+                        {
+                            "expression":  "start someone off with something",
+                            "dialogue":  "Ross: I shouldn\u0027t\u0027ve, uh, asked you to start off with a monkey. I should\u0027ve **started you off with** like a pen or a pencil.",
+                            "speaker":  "Ross",
+                            "meaning":  "~을 처음 경험/시작점으로 삼게 하다, 첫 단계로 ~을 주다",
+                            "nuance":  "\u0027start off\u0027만으로도 \u0027시작하다\u0027이지만, \u0027start someone off with\u0027는 \u0027특정 대상에게 특정 것부터 시작시키다\u0027라는 뜻. 난이도 조절 실패를 언급할 때 자주 등장한다.",
+                            "example":  "Don\u0027t start new hires off with the most complicated accounts — give them something manageable first. → 신입 직원한테 처음부터 가장 복잡한 계정을 맡기지 마 — 다룰 수 있는 것부터 시작시켜."
+                        },
+                        {
+                            "expression":  "I don\u0027t need X to enjoy Y",
+                            "dialogue":  "Joey: Hey, **I don\u0027t need violence to enjoy a movie**. Just so long as there\u0027s a little nudity.",
+                            "speaker":  "Joey",
+                            "meaning":  "Y를 즐기는 데 X는 필요 없다 — 자신의 기호나 원칙을 설명하는 패턴",
+                            "nuance":  "Joey가 \u0027X 없어도 된다\u0027고 한 뒤 바로 다른 조건(nudity)을 붙여 유머를 만든다. 이 패턴 자체는 자신의 취향이나 최소 조건을 밝힐 때 폭넓게 활용된다.",
+                            "example":  "I don\u0027t need a fancy location to enjoy a meal — great company is enough. → 식사를 즐기는 데 근사한 장소는 필요 없어 — 좋은 사람이면 충분해."
+                        }
+                    ]
+}

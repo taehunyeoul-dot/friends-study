@@ -1,0 +1,209 @@
+{
+    "id":  "s02e01",
+    "code":  "201",
+    "title":  "The One With Ross\u0027 New Girlfriend",
+    "model":  "sonnet",
+    "cost_usd":  0.3797,
+    "expressions":  [
+                        {
+                            "expression":  "let it slip",
+                            "dialogue":  "Chandler let it slip that Ross was in love with Rachel.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "의도치 않게 비밀이나 정보를 누설하다",
+                            "nuance":  "\u0027accidentally told\u0027보다 훨씬 자연스럽고 일상적인 표현으로, 실수로 말해버렸다는 느낌을 강하게 담고 있다. 지금도 매우 자주 쓰인다.",
+                            "example":  "She let it slip that they were planning a surprise party. → 그녀가 깜짝 파티를 계획 중이라는 걸 무심코 말해버렸다."
+                        },
+                        {
+                            "expression":  "make a break for it",
+                            "dialogue":  "She decides to make a break for it.",
+                            "speaker":  "Rachel (stage direction)",
+                            "meaning":  "불편하거나 위험한 상황에서 재빨리 도망치려 하다",
+                            "nuance":  "범죄 탈주처럼 심각한 상황뿐 아니라 어색한 자리를 피해 슬쩍 빠져나올 때도 코믹하게 쓰인다. 현재도 구어에서 자주 쓰인다.",
+                            "example":  "The speech was going on forever, so I made a break for it during the intermission. → 연설이 너무 길어져서 쉬는 시간에 슬쩍 빠져나왔다."
+                        },
+                        {
+                            "expression":  "Enough about me",
+                            "dialogue":  "But, enough about us. So, how\u0027ve you been?",
+                            "speaker":  "Phoebe",
+                            "meaning":  "\u0027나/우리 얘기는 그만하고\u0027 — 화제를 상대방에게 돌릴 때 쓰는 전환 표현",
+                            "nuance":  "자기 얘기를 너무 많이 했다는 걸 의식하며 상대방에게 관심을 돌리는 사교적 표현. 유머러스하게 쓰면 더 자연스럽다.",
+                            "example":  "Enough about me — how are things going with your new job? → 내 얘기는 됐고, 새 직장은 어때?"
+                        },
+                        {
+                            "expression":  "go for it",
+                            "dialogue":  "I never would\u0027ve gone for it with her if it hadn\u0027t been for you.",
+                            "speaker":  "Ross",
+                            "meaning":  "누군가와의 관계를 시도하다, 용기 내어 밀어붙이다",
+                            "nuance":  "단독으로 \u0027해봐!\u0027라는 격려로도 쓰이고, \u0027go for it with someone\u0027처럼 연애 시도를 뜻하기도 한다. 적극적으로 도전하는 뉘앙스가 강하다.",
+                            "example":  "I\u0027ve liked her for months. I finally decided to just go for it. → 몇 달째 좋아했는데, 드디어 한번 시도해보기로 했어."
+                        },
+                        {
+                            "expression":  "You gotta hear this",
+                            "dialogue":  "You gotta hear this story.",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027이거 꼭 들어봐야 해\u0027 — 흥미로운 이야기를 소개할 때 쓰는 도입 표현",
+                            "nuance":  "\u0027You have got to\u0027의 구어적 축약형. 상대방의 호기심을 자극하며 이야기를 시작하는 전형적인 패턴으로 지금도 매우 흔히 쓰인다.",
+                            "example":  "You gotta hear what happened to me on the subway this morning! → 오늘 아침 지하철에서 있었던 일 들어봐야 해!"
+                        },
+                        {
+                            "expression":  "give away the ending",
+                            "dialogue":  "I just gave away the ending, didn\u0027t I? Oh!",
+                            "speaker":  "Rachel",
+                            "meaning":  "이야기의 결말을 미리 말해버리다, 스포일러를 하다",
+                            "nuance":  "\u0027spoil\u0027과 같은 의미지만 더 일상적이고 가벼운 표현. 영화·책·실제 이야기 모두에 쓸 수 있으며 지금도 자주 쓰인다.",
+                            "example":  "Don\u0027t give away the ending! I\u0027m only halfway through the book. → 결말 말하지 마! 책 절반밖에 안 읽었거든."
+                        },
+                        {
+                            "expression":  "hit rock bottom",
+                            "dialogue":  "When I saw him get off that plane with her, I really thought I hit rock bottom.",
+                            "speaker":  "Rachel",
+                            "meaning":  "인생의 최저점에 달하다, 더 이상 나빠질 수 없는 상태에 이르다",
+                            "nuance":  "감정적으로나 상황적으로 최악에 처했을 때 쓰는 강한 표현. Rachel은 이어서 \u0027there\u0027s rock bottom, 50 feet of crap, then me\u0027로 유머러스하게 확장한다.",
+                            "example":  "After losing his job and savings in the same month, he felt like he\u0027d hit rock bottom. → 직장도 저축도 같은 달에 잃고 나서 그는 인생 밑바닥에 온 것 같았다."
+                        },
+                        {
+                            "expression":  "get disconnected",
+                            "dialogue":  "Sorry, we got disconnected.",
+                            "speaker":  "Ross",
+                            "meaning":  "전화가 갑자기 끊기다",
+                            "nuance":  "전화 통화 중 신호가 끊겼을 때 가장 자연스럽게 쓰는 표현. 요즘은 \u0027the call dropped\u0027도 많이 쓰이지만 \u0027got disconnected\u0027는 여전히 통용된다.",
+                            "example":  "I think we got disconnected earlier — can you call me back? → 아까 전화가 끊긴 것 같은데, 다시 걸어줄 수 있어?"
+                        },
+                        {
+                            "expression":  "get back together",
+                            "dialogue":  "is this one of those things where you break up with a guy...and then the next day you get back together with the guy",
+                            "speaker":  "Ross",
+                            "meaning":  "헤어졌다가 다시 사귀다, 재결합하다",
+                            "nuance":  "연인 사이의 재결합을 표현하는 가장 자연스러운 구어 표현. \u0027reunite\u0027보다 훨씬 일상적이며 친구 사이에 사용하기도 한다.",
+                            "example":  "They broke up over the summer but got back together before school started. → 여름에 헤어졌다가 개학 전에 다시 사귀게 됐어."
+                        },
+                        {
+                            "expression":  "take advantage of (someone)",
+                            "dialogue":  "Joey\u0027s tailor...took advantage of me.",
+                            "speaker":  "Chandler",
+                            "meaning":  "누군가를 이용하다, 신뢰나 약점을 악용하다",
+                            "nuance":  "이 장면에서는 오해에서 비롯된 코믹한 상황이지만, 일반적으로는 상대방의 호의나 순진함을 악용하는 부정적인 행동을 묘사할 때 쓴다.",
+                            "example":  "Don\u0027t let people take advantage of your generosity. → 사람들이 네 너그러움을 악용하게 두지 마."
+                        },
+                        {
+                            "expression":  "have a great time",
+                            "dialogue":  "I don\u0027t know, we\u0027re havin\u0027 a great time.",
+                            "speaker":  "Ross",
+                            "meaning":  "정말 즐거운 시간을 보내다",
+                            "nuance":  "여행, 파티, 연애 등 어떤 상황에서든 쓸 수 있는 가장 자연스러운 \u0027즐겁다\u0027 표현. \u0027I\u0027m having fun\u0027보다 조금 더 지속적이고 포괄적인 느낌이다.",
+                            "example":  "We had a great time at the concert last night! → 어젯밤 콘서트에서 정말 즐거운 시간 보냈어!"
+                        },
+                        {
+                            "expression":  "feel about someone",
+                            "dialogue":  "I\u0027ve never felt about anyone the way Ross felt about you.",
+                            "speaker":  "Joey",
+                            "meaning":  "누군가에 대해 특정 방식으로 감정을 느끼다",
+                            "nuance":  "\u0027the way I feel about you\u0027처럼 감정의 깊이나 방식을 비교할 때 쓰는 구조. 사랑 고백이나 진지한 감정 묘사에서 매우 자주 나오는 패턴이다.",
+                            "example":  "I\u0027ve never felt about anyone the way I feel about her. → 그녀에게 느끼는 것처럼 누군가에게 이런 감정을 느껴본 적이 없어."
+                        },
+                        {
+                            "expression":  "in spite of",
+                            "dialogue":  "Well, in spite of the yummy bagels and palpable tension, I\u0027ve got pants that need to be altered.",
+                            "speaker":  "Chandler",
+                            "meaning":  "~에도 불구하고",
+                            "nuance":  "\u0027despite\u0027와 같은 의미지만 약간 더 구어적인 느낌. Chandler가 어색한 분위기를 유머로 빠져나가는 이 장면처럼 현실을 인정하면서 화제를 전환할 때 자연스럽게 쓰인다.",
+                            "example":  "In spite of the terrible weather, we still had a great camping trip. → 날씨가 끔찍했는데도 캠핑은 정말 좋았어."
+                        },
+                        {
+                            "expression":  "make a first impression",
+                            "dialogue":  "I\u0027ll make a much better first impression tomorrow when I don\u0027t have 20 hours of cab and plane on me.",
+                            "speaker":  "Julie",
+                            "meaning":  "첫인상을 남기다",
+                            "nuance":  "\u0027make a good/bad/better first impression\u0027으로 쓰이며, 처음 만나는 사람에게 어떤 이미지를 심어주는지 말할 때 쓴다. \u0027You never get a second chance to make a first impression\u0027이 유명한 격언이다.",
+                            "example":  "Dress well for the interview — you only get one chance to make a first impression. → 면접에 잘 차려입어. 첫인상은 한 번뿐이니까."
+                        },
+                        {
+                            "expression":  "be on your way",
+                            "dialogue":  "Paulo, why don\u0027t you just go get dressed, and then you be on your way, ok, bye-bye.",
+                            "speaker":  "Rachel",
+                            "meaning":  "이제 자리를 뜨다, 떠나다",
+                            "nuance":  "정중하면서도 단호하게 상대방이 떠나야 함을 알릴 때 쓰는 표현. \u0027I\u0027ll let you be on your way\u0027는 작별 인사 시 흔히 쓰이는 자연스러운 구어다.",
+                            "example":  "Thanks for dropping by — I\u0027ll let you be on your way. → 들러줘서 고마워, 이제 가봐야겠지."
+                        },
+                        {
+                            "expression":  "I don\u0027t care what you say",
+                            "dialogue":  "Ok, I don\u0027t care what you guys say, something\u0027s bothering her.",
+                            "speaker":  "Chandler",
+                            "meaning":  "\u0027뭐라고 해도 상관없어\u0027 — 다른 사람의 의견에 반해 자기 확신을 강하게 주장할 때 쓰는 표현",
+                            "nuance":  "다수 의견에 맞서 자신의 판단을 밀어붙일 때 쓴다. 고집스럽거나 확신에 찬 뉘앙스로, 강하게도 가볍게도 쓸 수 있다.",
+                            "example":  "I don\u0027t care what anyone says — this is the best ramen I\u0027ve ever had. → 다들 뭐래도, 이건 내가 먹어본 라멘 중 최고야."
+                        },
+                        {
+                            "expression":  "appreciate someone",
+                            "dialogue":  "You deserve to be with someone who appreciates you.",
+                            "speaker":  "Ross",
+                            "meaning":  "누군가의 진정한 가치를 알아보고 소중히 여기다",
+                            "nuance":  "단순한 감사(\u0027thank you\u0027)와 달리, 상대방의 가치를 깊이 인식하고 존중한다는 뜻. 연애 맥락에서 누군가가 충분히 대우받지 못한다고 느낄 때 자주 쓰인다.",
+                            "example":  "Find someone who truly appreciates you for who you are. → 있는 그대로의 너를 진심으로 소중히 여기는 사람을 찾아."
+                        },
+                        {
+                            "expression":  "I gotta get out of here",
+                            "dialogue":  "I gotta get out of here.",
+                            "speaker":  "Rachel",
+                            "meaning":  "지금 당장 여기서 나가야겠어",
+                            "nuance":  "감정적으로 힘들거나 상황이 너무 불편할 때 즉흥적으로 내뱉는 표현. 매우 구어적이며 긴박하거나 절박한 감정을 담는다.",
+                            "example":  "This party is way too crowded — I gotta get out of here. → 파티에 사람이 너무 많아, 나 나가야겠어."
+                        },
+                        {
+                            "expression":  "since forever",
+                            "dialogue":  "Ross was in love with Rachel since, you know, forever.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "아주 오래전부터, 거의 태어날 때부터 (과장적 구어 표현)",
+                            "nuance":  "\u0027for as long as I can remember\u0027를 더 구어적이고 과장되게 표현한 것. \u0027I\u0027ve known her since forever\u0027처럼 일상에서 매우 자주 쓰이며 1990년대부터 지금까지 여전히 흔하다.",
+                            "example":  "She\u0027s been obsessed with that singer since forever. → 걔는 거의 아주 옛날부터 그 가수를 좋아했어."
+                        },
+                        {
+                            "expression":  "the silver lining",
+                            "dialogue":  "But, the silver lining, if you wanna see it, is that he made the decision all by himself!",
+                            "speaker":  "Chandler",
+                            "meaning":  "불행 중 다행, 나쁜 상황 속의 긍정적인 면",
+                            "nuance":  "\u0027Every cloud has a silver lining\u0027이라는 영어 속담에서 나온 표현. \u0027look on the bright side\u0027 대신 쓰이며 지금도 매우 일상적으로 쓰인다. Chandler의 대사는 위로랍시고 별로 위로가 안 되는 상황을 더 코믹하게 만든다.",
+                            "example":  "The silver lining of being laid off was finally having time to pursue my passion. → 해고된 덕분에 드디어 하고 싶었던 일을 할 시간이 생겼어, 그게 위안이랄까."
+                        },
+                        {
+                            "expression":  "deal with it",
+                            "dialogue":  "I\u0027m just gonna deal with it, I\u0027m just gonna deal with it.",
+                            "speaker":  "Rachel",
+                            "meaning":  "어쩔 수 없는 상황을 그냥 감당하고 받아들이다",
+                            "nuance":  "체념과 결단이 섞인 표현. 자신에게 다짐하듯 쓰면 \u0027어떻게든 해쳐나가야지\u0027의 뉘앙스고, \u0027Just deal with it\u0027처럼 명령조로 쓰면 \u0027그냥 참아\u0027라는 차가운 뉘앙스가 된다.",
+                            "example":  "The commute is awful, but I\u0027ll just have to deal with it. → 출퇴근이 최악이지만, 그냥 감당해야지."
+                        },
+                        {
+                            "expression":  "something\u0027s bothering someone",
+                            "dialogue":  "Ok, I don\u0027t care what you guys say, something\u0027s bothering her.",
+                            "speaker":  "Chandler",
+                            "meaning":  "뭔가가 누군가를 신경 쓰이게 하다, 마음에 걸리다",
+                            "nuance":  "\u0027What\u0027s bothering you?\u0027는 \u0027무슨 일이야? 뭔가 마음에 걸리는 게 있어?\u0027의 가장 자연스러운 표현 중 하나. 걱정, 불안, 불편함 등 폭넓게 쓸 수 있다.",
+                            "example":  "Something\u0027s been bothering me all week, but I can\u0027t put my finger on it. → 일주일 내내 뭔가 마음에 걸리는데, 뭔지 딱 못 짚겠어."
+                        },
+                        {
+                            "expression":  "have one\u0027s share of",
+                            "dialogue":  "I\u0027ve been with my share of women. In fact, I\u0027ve been with like a lot of people\u0027s share of women.",
+                            "speaker":  "Joey",
+                            "meaning":  "\u0027내 몫만큼은 충분히 경험해봤다\u0027 — 상당한 경험이 있다는 것을 표현",
+                            "nuance":  "\u0027I\u0027ve had my share of bad days\u0027처럼 부정적인 경험에도, 긍정적인 경험에도 쓸 수 있다. Joey의 대사는 이를 과장해서 유머로 승화시킨 예시다.",
+                            "example":  "I\u0027ve had my share of awkward first dates, but nothing like that. → 어색한 첫 데이트는 충분히 해봤지만, 그 정도는 아니었어."
+                        },
+                        {
+                            "expression":  "one of those things where",
+                            "dialogue":  "is this one of those things where you break up with a guy, and then I tell you what I think, and then the next day you get back together with the guy",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027~하는 그런 패턴 중 하나야?\u0027 — 과거에 반복된 행동이나 전형적인 상황을 지적할 때 쓰는 표현",
+                            "nuance":  "반복되는 행동 패턴을 언급하며 가볍게 비꼬거나 조심스럽게 확인할 때 쓴다. 설명하기 복잡한 상황을 간결하게 묘사하는 데 유용하다.",
+                            "example":  "Is this one of those things where we say we\u0027ll keep in touch but never actually do? → 연락하자고 해놓고 실제로는 안 하는 그런 거야?"
+                        },
+                        {
+                            "expression":  "you know what I\u0027m thinking?",
+                            "dialogue":  "Monica: Pheebes, you know what I\u0027m thinking? Phoebe: Oh, ok. How, it\u0027s been so long since you\u0027ve had sex, you\u0027re wondering if they\u0027ve changed it?",
+                            "speaker":  "Monica / Phoebe",
+                            "meaning":  "\u0027내가 뭘 생각하는지 알아?\u0027 — 공유하고 싶은 생각이 있을 때 상대방의 관심을 끄는 대화 도입 표현",
+                            "nuance":  "제안이나 아이디어를 꺼낼 때 쓰는 관용적 도입부. 열린 질문처럼 들려 상대방이 엉뚱한 답을 할 여지를 만들기 때문에 코미디에서 자주 활용된다.",
+                            "example":  "You know what I\u0027m thinking? We should just cancel the whole trip and stay home. → 내가 뭘 생각하는지 알아? 그냥 여행 다 취소하고 집에 있자."
+                        }
+                    ]
+}

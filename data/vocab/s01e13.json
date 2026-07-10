@@ -1,0 +1,209 @@
+{
+    "id":  "s01e13",
+    "code":  "113",
+    "title":  "The One With the Boobies",
+    "model":  "sonnet",
+    "cost_usd":  0.4461,
+    "expressions":  [
+                        {
+                            "expression":  "barge in",
+                            "dialogue":  "You just **barge in** here, you don\u0027t knock.",
+                            "speaker":  "Rachel",
+                            "meaning":  "허락이나 노크 없이 불쑥 들어오다",
+                            "nuance":  "물리적으로 공간에 침입하는 것뿐 아니라 \u0027barge into a conversation\u0027처럼 대화에 끼어들 때도 쓴다. 무례한 침입을 비난하는 맥락에서 주로 등장.",
+                            "example":  "Sorry to barge in, but this really can\u0027t wait. / 끼어들어서 미안한데, 이건 정말 기다릴 수가 없어."
+                        },
+                        {
+                            "expression":  "we\u0027re all out of ~",
+                            "dialogue":  "I\u0027m sorry, we\u0027re **all out of** those.",
+                            "speaker":  "Rachel",
+                            "meaning":  "~이 다 떨어졌다, 재고가 없다",
+                            "nuance":  "가게나 집에서 물건이 소진됐을 때 쓰는 일상 표현. 여기서 Rachel은 Chandler에게 다시 볼 기회가 없다는 것을 품절에 빗대어 냉소적으로 표현하고 있어 문맥이 재미있다.",
+                            "example":  "We\u0027re all out of medium — would you like a large instead? / 미디엄 사이즈가 다 떨어졌는데 라지로 드릴까요?"
+                        },
+                        {
+                            "expression":  "It\u0027s not like I was ~",
+                            "dialogue":  "Not like I was across the street **with a telescope and a box of donuts**.",
+                            "speaker":  "Chandler",
+                            "meaning":  "마치 ~한 것처럼 생각하지 마; 그렇게까지 의도한 건 아니었다",
+                            "nuance":  "자신의 행동이 의도적이거나 악의적이지 않았음을 변명할 때 쓰는 패턴. 뒤에 터무니없이 과장된 상황을 붙여 유머 효과를 준다. \u0027It\u0027s not like I + [과거 행동]\u0027으로 다양하게 활용 가능.",
+                            "example":  "It\u0027s not like I was eavesdropping — the walls are just really thin. / 일부러 엿들은 게 아니야. 벽이 그냥 너무 얇은 거야."
+                        },
+                        {
+                            "expression":  "That\u0027s it?",
+                            "dialogue":  "Nice? They were **nice**. I mean, **that\u0027s it**? Mittens are nice.",
+                            "speaker":  "Rachel",
+                            "meaning":  "고작 그게 전부야? 그것밖에 안 돼?",
+                            "nuance":  "기대에 한참 못 미치는 반응이나 칭찬에 실망을 표현할 때 쓴다. \u0027nice\u0027처럼 밋밋한 단어가 얼마나 약한 표현인지 강조하는 장면. \u0027Is that all?\u0027과 같은 의미.",
+                            "example":  "You worked on this for two weeks and that\u0027s it? One slide? / 2주 동안 이걸 했는데 고작 슬라이드 한 장이야?"
+                        },
+                        {
+                            "expression":  "rock, hard place, me",
+                            "dialogue":  "Okaaay, (Gestures) **rock, hard place, me**.",
+                            "speaker":  "Chandler",
+                            "meaning":  "진퇴양난에 빠져 있다 (= caught between a rock and a hard place)",
+                            "nuance":  "\u0027Between a rock and a hard place\u0027라는 이디엄의 핵심 단어만 남긴 구어적 축약형. 어느 쪽을 선택해도 나쁜 상황에 자신이 끼어 있음을 제스처와 함께 압축적으로 표현.",
+                            "example":  "If I tell her the truth she\u0027ll be crushed, if I lie she\u0027ll find out later — rock, hard place, me. / 사실 말하면 상처받고 거짓말하면 나중에 들킬 거야. 완전 진퇴양난이야."
+                        },
+                        {
+                            "expression":  "back up (there)",
+                            "dialogue":  "**Whoah whoah, back up there**, Sparky. What\u0027d you mean by that?",
+                            "speaker":  "Chandler",
+                            "meaning":  "잠깐, 방금 한 말로 되돌아가 봐; 다시 설명해",
+                            "nuance":  "상대방이 충격적이거나 예상치 못한 말을 했을 때 멈추고 clarification을 요청하는 구어 표현. \u0027Sparky\u0027는 상대를 가볍게 지칭하는 비격식 호칭으로 약간 건방진 뉘앙스를 준다.",
+                            "example":  "Back up — you said you already signed the contract? When did that happen? / 잠깐, 이미 계약서에 서명했다고? 그게 언제 얘기야?"
+                        },
+                        {
+                            "expression":  "I don\u0027t know you from Adam",
+                            "dialogue":  "I just met you, **I don\u0027t know you from Adam**.",
+                            "speaker":  "Roger",
+                            "meaning":  "당신에 대해 아무것도 모른다, 전혀 모르는 사람이다",
+                            "nuance":  "완전한 타인임을 강조하는 이디엄으로 성경의 아담(첫 번째 인간)에서 유래. 3인칭으로도 \u0027I don\u0027t know him from Adam\u0027처럼 자주 쓴다. 그럼에도 무언가를 꿰뚫었다는 대조 효과를 줄 때 특히 강렬하다.",
+                            "example":  "I don\u0027t know her from Adam, but she walked in and immediately took charge of the whole room. / 전혀 모르는 사람인데 들어오자마자 분위기를 완전히 장악하더라고."
+                        },
+                        {
+                            "expression":  "It\u0027s textbook.",
+                            "dialogue":  "\"How did you know that?\" \"**It\u0027s textbook.**\"",
+                            "speaker":  "Roger",
+                            "meaning":  "교과서적인 사례다, 전형적인 패턴이다",
+                            "nuance":  "심리학이나 사회과학 이론에서 예측 가능한 전형적 케이스임을 뜻한다. \u0027classic\u0027 또는 \u0027by the book\u0027과 유사하며, 약간 냉소적이거나 거만하게 들릴 수 있다.",
+                            "example":  "She overdelivered on the first project, then burned out completely by the third — textbook overachiever pattern. / 첫 프로젝트에서 과하게 해내고는 세 번째에 완전히 번아웃이 왔어. 전형적인 과성취자 패턴이야."
+                        },
+                        {
+                            "expression":  "haul one\u0027s ass",
+                            "dialogue":  "I\u0027m better off staying with the kid than **hauling my ass back and forth** on the ferry.",
+                            "speaker":  "Mr. Tribbiani",
+                            "meaning":  "힘들게 몸을 이동시키다, 고생하며 왔다 갔다 하다",
+                            "nuance":  "속어 표현으로 이동 자체가 번거롭고 힘들다는 뉘앙스를 강하게 전달한다. \u0027haul ass\u0027는 빠르게 이동하라는 뜻이지만 \u0027haul one\u0027s ass somewhere\u0027는 힘들게 어딘가를 가는 것.",
+                            "example":  "I\u0027m not hauling my ass to the suburbs for a one-hour party. / 한 시간짜리 파티 때문에 교외까지 힘들게 가고 싶지 않아."
+                        },
+                        {
+                            "expression":  "come clean (with / about)",
+                            "dialogue":  "**You gotta come clean with** Ma!",
+                            "speaker":  "Joey",
+                            "meaning":  "숨겨온 진실을 솔직하게 털어놓다, 고백하다",
+                            "nuance":  "오랫동안 숨겨왔던 비밀이나 사실을 드러낼 때 쓰는 구어 표현. \u0027confess\u0027보다 더 일상적이다. \u0027come clean about the mistake\u0027 또는 \u0027come clean with someone\u0027 형태로 모두 가능.",
+                            "example":  "You need to come clean about what happened before someone else tells them. / 다른 사람이 먼저 말하기 전에 무슨 일이 있었는지 솔직하게 털어놔야 해."
+                        },
+                        {
+                            "expression":  "go the distance",
+                            "dialogue":  "when the right one comes along, I\u0027d be able to **go the distance**",
+                            "speaker":  "Joey",
+                            "meaning":  "끝까지 해내다, 포기하지 않고 오래 지속하다",
+                            "nuance":  "권투에서 전 라운드를 완주하는 것에서 유래한 표현. 관계에서는 장기적으로 헌신하는 것, 프로젝트에서는 완수하는 것을 의미한다. \u0027stay the course\u0027와 유사.",
+                            "example":  "Most startups fail in year one — only the ones with real grit go the distance. / 대부분의 스타트업은 첫해에 망해. 진짜 끈기 있는 곳만 끝까지 살아남아."
+                        },
+                        {
+                            "expression":  "a stand-up guy",
+                            "dialogue":  "I always figured I\u0027d be able to be **a stand-up guy** and go the distance.",
+                            "speaker":  "Joey",
+                            "meaning":  "믿을 수 있고 의리 있는 사람, 올바른 사람",
+                            "nuance":  "도덕적으로 올바르고 신뢰할 수 있는 사람을 칭찬하는 표현. \u0027stand-up person\u0027으로 성별 무관하게 쓸 수도 있다. 친구나 동료를 추천하거나 칭찬할 때 자주 등장.",
+                            "example":  "He admitted the mistake in front of everyone — that\u0027s what a stand-up guy does. / 모두 앞에서 실수를 인정했어. 그게 진짜 의리 있는 사람이 하는 거지."
+                        },
+                        {
+                            "expression":  "cave (in)",
+                            "dialogue":  "When they were all over you to go into your father\u0027s business, **did you cave**?",
+                            "speaker":  "Chandler",
+                            "meaning":  "압박에 굴복하다, 버티지 못하고 양보하다",
+                            "nuance":  "협상이나 갈등 상황에서 자신의 입장을 포기하는 것. \u0027cave in\u0027 또는 \u0027cave to pressure\u0027로 쓰인다. 굴복하는 쪽이 의지가 약하다는 뉘앙스를 내포.",
+                            "example":  "She swore she\u0027d never apologize, but she caved after her friends refused to speak to her. / 절대 사과 안 한다고 했지만 친구들이 말을 끊자 결국 굴복했어."
+                        },
+                        {
+                            "expression":  "keep an eye on",
+                            "dialogue":  "I want you right here where I can **keep an eye on** you.",
+                            "speaker":  "Joey",
+                            "meaning":  "~을 주의 깊게 지켜보다, 감시하다",
+                            "nuance":  "보호 목적 또는 감시 목적 모두에 쓸 수 있다. \u0027watch over\u0027보다 더 구어적이고 가볍다. \u0027keep an eye on things\u0027처럼 상황 전반을 살피는 것에도 쓴다.",
+                            "example":  "Can you keep an eye on my bag while I grab a coffee? / 커피 사오는 동안 내 가방 좀 봐줄 수 있어?"
+                        },
+                        {
+                            "expression":  "hit [milestone / stage of life]",
+                            "dialogue":  "Parents divorced before you **hit puberty**.",
+                            "speaker":  "Roger",
+                            "meaning":  "특정 나이나 인생 단계에 이르다, ~을 맞이하다",
+                            "nuance":  "\u0027hit\u0027을 특정 시점·단계·수치에 이를 때 쓰는 패턴. \u0027hit puberty\u0027 외에 \u0027hit 30\u0027, \u0027hit a wall\u0027, \u0027hit rock bottom\u0027 등 다양하게 활용 가능하며 구어에서 매우 자연스럽다.",
+                            "example":  "Once you hit your thirties, sleep stops being optional. / 서른이 되고 나면 수면은 선택 사항이 아니야."
+                        },
+                        {
+                            "expression":  "suck up to",
+                            "dialogue":  "maybe what you were doing was **sucking up to** Mom and Dad so they\u0027d keep liking you better",
+                            "speaker":  "Monica",
+                            "meaning":  "~에게 아첨하다, 잘 보이려고 비위를 맞추다",
+                            "nuance":  "권력이나 영향력 있는 사람에게 이익을 위해 아첨하는 것으로 부정적 뉘앙스가 강하다. \u0027kiss up to\u0027, \u0027brown-nose\u0027와 유사. 상사, 부모 등 윗사람에게 잘 보이려는 행동에 주로 쓴다.",
+                            "example":  "He\u0027s been sucking up to the manager all week, laughing at every unfunny joke she makes. / 그 사람 일주일 내내 매니저한테 아첨하면서 재미없는 농담에도 다 웃고 있어."
+                        },
+                        {
+                            "expression":  "tit for tat",
+                            "dialogue":  "C\u0027mon, he\u0027s right. **Tit for tat**.",
+                            "speaker":  "Rachel",
+                            "meaning":  "눈에는 눈, 이에는 이; 받은 것과 동등하게 갚다",
+                            "nuance":  "\u0027This for that\u0027이 변형된 이디엄. 동등한 보복이나 교환을 의미한다. 유머러스한 가벼운 상황부터 진지한 협상 테이블까지 폭넓게 쓰인다.",
+                            "example":  "She ignored my texts for a week, so I did the same — total tit for tat. / 그녀가 일주일 동안 문자를 무시해서 나도 똑같이 했어. 완전 눈에는 눈이지."
+                        },
+                        {
+                            "expression":  "You\u0027re one to talk.",
+                            "dialogue":  "\"You\u0027re burning your tomatoes.\" \"**You\u0027re one to talk.**\"",
+                            "speaker":  "Joey",
+                            "meaning":  "당신이 그런 말 할 처지야? 남 말할 자격 있어?",
+                            "nuance":  "상대방이 자신도 같은 잘못을 하거나 더 나쁜 상황이면서 남을 비판할 때 반박하는 표현. \u0027Look who\u0027s talking\u0027과 동의어. 약간 날카롭지만 구어에서 매우 흔하다.",
+                            "example":  "\"You\u0027re always late!\" \"You\u0027re one to talk — you missed the flight last year.\" / \"너 항상 늦잖아!\" \"당신이 그런 말 할 처지야? 작년에 비행기 놓친 사람이.\""
+                        },
+                        {
+                            "expression":  "after a certain point",
+                            "dialogue":  "After **a certain point**, you gotta let go.",
+                            "speaker":  "Joey",
+                            "meaning":  "어느 정도 지나면, 일정 선을 넘어서면",
+                            "nuance":  "시간이나 상황의 임계점을 표현하는 구. 그 지점을 넘으면 접근 방식이나 태도를 바꿔야 함을 암시. \u0027at some point\u0027보다 더 구체적인 전환점이 있음을 강조.",
+                            "example":  "After a certain point in an argument, the best move is just to stop and cool down. / 언쟁이 어느 정도 이상 넘어가면 그냥 멈추고 식히는 게 최선이야."
+                        },
+                        {
+                            "expression":  "let go (of)",
+                            "dialogue":  "After a certain point, you gotta **let go**.",
+                            "speaker":  "Joey",
+                            "meaning":  "내려놓다, 놓아주다, 감정적 집착을 멈추다",
+                            "nuance":  "물리적으로 잡은 것을 놓는 것 외에 감정적으로 미련이나 집착을 내려놓는 것을 뜻한다. 과거, 관계, 기대 등 다양한 맥락에 쓰인다. \u0027let it go\u0027는 좀 더 구어적인 변형.",
+                            "example":  "She needs to let go of what happened and focus on what\u0027s ahead. / 그녀는 일어난 일에 대한 미련을 내려놓고 앞을 봐야 해."
+                        },
+                        {
+                            "expression":  "dysfunctional",
+                            "dialogue":  "typical behaviour when you have this kind of **dysfunctional group dynamic**",
+                            "speaker":  "Roger",
+                            "meaning":  "기능이 제대로 안 되는, 건강하지 못한 패턴을 가진",
+                            "nuance":  "원래 심리학 용어였으나 이제 일상어로 자리 잡았다. 가족, 팀, 조직 등에서 비정상적이거나 해로운 관계 패턴이 있을 때 사용. \u0027functional\u0027의 반대어.",
+                            "example":  "The meetings were so dysfunctional that people started skipping them just to get work done. / 회의가 너무 엉망이라 사람들이 그냥 일하려고 빠지기 시작했어."
+                        },
+                        {
+                            "expression":  "co-dependent",
+                            "dialogue":  "this kind of **co-dependant**, emotionally stunted...",
+                            "speaker":  "Roger",
+                            "meaning":  "상호 의존적인 (건강하지 못한 방식으로 서로에게 기대는)",
+                            "nuance":  "심리학 용어로, 두 사람이 서로 건강하지 않은 방식으로 과도하게 의존하는 관계를 묘사. 주로 관계 상담이나 자기계발 맥락에서 쓰이며 부정적 뉘앙스가 강하다.",
+                            "example":  "They broke up but texted each other every day for months — a pretty co-dependent situation. / 헤어졌는데 몇 달 동안 매일 문자를 주고받았어. 꽤 공의존적인 상황이었지."
+                        },
+                        {
+                            "expression":  "cover story",
+                            "dialogue":  "You should\u0027ve heard some of his **cover stories** — \u0027I\u0027m sleeping over at my accountant\u0027s.\u0027",
+                            "speaker":  "Mrs. Tribbiani",
+                            "meaning":  "알리바이, 진실을 숨기기 위해 꾸며낸 이야기",
+                            "nuance":  "원래 스파이 세계에서 쓰이던 용어가 일상어로 정착했다. 잡지의 \u0027커버 스토리(표지 기사)\u0027와는 완전히 다른 의미. 거짓 행방을 설명하기 위해 지어낸 핑계나 이야기를 가리킨다.",
+                            "example":  "His cover story was a work conference, but his phone showed he never left the city. / 그의 핑계는 업무 컨퍼런스였는데 폰 기록을 보니 시내를 떠난 적이 없었어."
+                        },
+                        {
+                            "expression":  "This has gone on long enough.",
+                            "dialogue":  "**This has gone on long enough.**",
+                            "speaker":  "Joey",
+                            "meaning":  "이건 너무 오래 계속됐어, 이제 끝내야 할 때야",
+                            "nuance":  "어떤 상황이 더 이상 용납할 수 없는 시점에 이르렀을 때 단호하게 개입하거나 종지부를 찍으려 할 때 쓰는 표현. \u0027Enough is enough\u0027와 유사한 맥락.",
+                            "example":  "This back-and-forth has gone on long enough — let\u0027s just make a decision today. / 이러쿵저러쿵 너무 오래됐어. 오늘 그냥 결정하자."
+                        },
+                        {
+                            "expression":  "freak (someone) out",
+                            "dialogue":  "maybe it\u0027s just that he\u0027s so perceptive that it **freaks you out**?",
+                            "speaker":  "Phoebe",
+                            "meaning":  "~을 소름 끼치게 하다, 불안하게 만들다, 기겁하게 하다",
+                            "nuance":  "공포, 놀라움, 불쾌함 등 강한 감정을 유발할 때 쓰는 구어 표현. 자신이 그런 상태가 된 경우 \u0027be freaked out\u0027으로 쓴다. \u0027creep out\u0027보다 반응이 더 즉각적이고 강한 느낌.",
+                            "example":  "Mannequins in the dark totally freak me out — I can\u0027t explain why. / 어두운 곳의 마네킹은 진짜 소름 돋아. 왜 그런지 모르겠지만."
+                        }
+                    ]
+}

@@ -1,0 +1,209 @@
+{
+    "id":  "s01e17",
+    "code":  "117",
+    "title":  "The One With Two Parts, Part 2",
+    "model":  "sonnet",
+    "cost_usd":  0.4815,
+    "expressions":  [
+                        {
+                            "expression":  "Might as well + 동사",
+                            "dialogue":  "Monica: \"That\u0027s insurance fraud.\" / Rachel: \"Well, alright, then, forget it. **Might as well just go home.** Ow ow ow ow!\" / Monica: \"(Jumping up to make Rachel sit down) Okay, okay. I hate this.\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "다른 선택이 없거나 나쁜 상황에서 \u0027그냥 ~하는 게 낫겠다\u0027, \u0027어차피 ~하자\u0027",
+                            "nuance":  "체념하거나 더 나은 대안이 없을 때 쓰는 표현. 가볍게 포기하거나 현실을 받아들이는 뉘앙스가 담겨 있으며, 강요가 아닌 자연스러운 결론처럼 들린다.",
+                            "example":  "There\u0027s nothing left to fix. Might as well start over. / 고칠 게 아무것도 없어. 그냥 처음부터 다시 시작하자."
+                        },
+                        {
+                            "expression":  "freak out",
+                            "dialogue":  "Ross: \"Dad, before I was born, **did you freak out** at all?\" / Mr. Geller: \"I\u0027m not freaking out, I\u0027m just saying, if somebody had come to me with the idea—\" / Ross: \"Dad, dad, dad, I\u0027m talkin\u0027 about the whole uh, baby thing.\"",
+                            "speaker":  "Ross",
+                            "meaning":  "겁먹거나 극도로 불안해지다, 패닉 상태가 되다",
+                            "nuance":  "두려움, 불안, 과도한 흥분 등 다양한 강한 감정 반응에 쓸 수 있다. 긍정적인 흥분에도 사용 가능하며 매우 구어적이다.",
+                            "example":  "She freaked out when she saw how much the trip was going to cost. / 여행 비용이 얼마나 드는지 보고 그녀는 완전히 패닉 상태가 됐어."
+                        },
+                        {
+                            "expression":  "make up for (something)",
+                            "dialogue":  "Mr. Geller: \"I wasn\u0027t around that much. Is that what this is about?\" / Ross: \"No, no, Dad, I was just wondering.\" / Mr. Geller: \"\u0027Cause **there\u0027s time to make up for that**. We can do stuff together.\"",
+                            "speaker":  "Mr. Geller",
+                            "meaning":  "과거의 잘못이나 부족함을 보상하다, 만회하다",
+                            "nuance":  "과거의 실수나 부재를 다른 행동으로 상쇄하려는 의도를 나타낸다. \u0027make it up to someone(누군가에게 직접 보상하다)\u0027과 달리 상황 자체를 보완하는 뉘앙스.",
+                            "example":  "I missed your birthday, so I\u0027m taking you to dinner to make up for it. / 네 생일을 놓쳤으니 저녁을 사서 만회할게."
+                        },
+                        {
+                            "expression":  "screw (something) up",
+                            "dialogue":  "Joey: \"**What can I do? Look, I don\u0027t want to do anything to screw it up with Ursula.**\" / Chandler: \"And your friend Phoebe?\" / Joey: \"Well, if she\u0027s my friend, hopefully she\u0027ll understand.\"",
+                            "speaker":  "Joey",
+                            "meaning":  "망치다, 엉망으로 만들다",
+                            "nuance":  "실수나 부주의로 잘 되어가던 것을 망가뜨리는 상황에 쓴다. \u0027mess up\u0027보다 다소 강한 어감이며 약한 비속어를 포함한다.",
+                            "example":  "Don\u0027t screw this up — it\u0027s your one shot at the promotion. / 이거 망치지 마 — 승진 기회가 이번 한 번이야."
+                        },
+                        {
+                            "expression":  "blow (something/someone) off",
+                            "dialogue":  "Monica: \"I think it\u0027s totally insane, I mean, they work for the hospital. It\u0027s like returning to the scene of the crime. You know, **I say we blow off the dates.**\" / Rachel: \"What? Monica, they are cute, they are doctors, cute doctors, doctors who are cute!\"",
+                            "speaker":  "Monica",
+                            "meaning":  "약속·계획을 취소하거나 무시하다, 상대방을 가볍게 여기고 나타나지 않다",
+                            "nuance":  "배려 없이 약속을 일방적으로 깨거나 상대를 무시하는 것으로 다소 무례한 뉘앙스. \u0027stand up\u0027보다 더 넓은 상황에 쓰인다.",
+                            "example":  "She blew off our lunch plans without even a text. / 그녀는 문자 하나 없이 우리 점심 약속을 날렸어."
+                        },
+                        {
+                            "expression":  "stand (someone) up",
+                            "dialogue":  "Phoebe: \"Trouble?\" / Joey: \"**Your sister stood me up the other night.**\" / Phoebe: \"Oh, no. Don\u0027t you hate it when people aren\u0027t there for you?\"",
+                            "speaker":  "Joey",
+                            "meaning":  "데이트·약속에 나타나지 않아 상대를 바람맞히다",
+                            "nuance":  "특히 데이트 상황에서 아무 연락 없이 나타나지 않는 것을 가리키며, 상당히 무례한 행동으로 여겨진다. 항상 과거형·완료형으로 많이 쓰인다.",
+                            "example":  "She got all dressed up and he stood her up — didn\u0027t even call. / 그녀는 다 차려입고 나갔는데 그는 바람맞혔어 — 전화도 안 했어."
+                        },
+                        {
+                            "expression":  "returning to the scene of the crime",
+                            "dialogue":  "Rachel: \"...the very cute, cute, cute doctors asked us out for tomorrow night, and I said \u0027yes.\u0027\" / Monica: \"I think it\u0027s totally insane, I mean, they work for the hospital. **It\u0027s like returning to the scene of the crime.** You know, I say we blow off the dates.\" / Rachel: \"What? Monica, they are cute, they are doctors...\"",
+                            "speaker":  "Monica",
+                            "meaning":  "과거에 실수나 민망한 일이 있었던 곳·상황에 다시 돌아가는 것",
+                            "nuance":  "원래는 범죄자가 범행 현장으로 돌아가는 것을 뜻하지만, 유머러스하게 곤란했던 상황으로 자발적으로 돌아가는 것을 표현할 때 쓴다.",
+                            "example":  "Going back to that bar after what happened last time feels like returning to the scene of the crime. / 지난번 일이 있고 나서 그 바에 다시 가는 건 범행 현장으로 돌아가는 것 같아."
+                        },
+                        {
+                            "expression":  "What are the odds (of that)?",
+                            "dialogue":  "Ross: \"Tonight.\" / Joey: \"Oh, man. **What\u0027re the odds of that happening?**\" / Ross: \"You take your time.\"",
+                            "speaker":  "Joey",
+                            "meaning":  "그런 일이 일어날 확률이 얼마나 되겠어? (우연의 일치에 대한 놀라움 표현)",
+                            "nuance":  "실제로 확률을 묻는 게 아니라 \u0027설마 이런 일이!\u0027라는 놀라움을 전달하는 수사적 질문. 확률적으로 낮은 우연에 쓴다.",
+                            "example":  "We both showed up wearing the exact same outfit. What are the odds? / 우리 둘 다 완전히 같은 옷 입고 왔잖아. 이게 무슨 확률이야?"
+                        },
+                        {
+                            "expression":  "You take your time. (비꼬는 용법)",
+                            "dialogue":  "Joey: \"Oh, man. What\u0027re the odds of that happening?\" / Ross: \"**You take your time.**\" / Chandler: \"There it is! So what\u0027re you gonna do?\"",
+                            "speaker":  "Ross",
+                            "meaning":  "비꼬는 말 — \u0027이제야 알아챘어?\u0027 (표면적으로는 \u0027천천히 생각해봐\u0027)",
+                            "nuance":  "진심으로 쓰면 상대에게 여유를 주는 말이지만, 뻔한 것을 늦게 파악한 상대에게 쓰면 완전히 비꼬는 표현이 된다. 어조가 핵심.",
+                            "example":  "You just realized the report was due yesterday? Yeah, you take your time. / 보고서가 어제까지였다는 걸 지금 알았어? 그래, 천천히 생각해봐."
+                        },
+                        {
+                            "expression":  "throw/have a hissy fit",
+                            "dialogue":  "Joey: \"Well, if she\u0027s my friend, hopefully she\u0027ll understand. I mean, wouldn\u0027t you guys?\" / Chandler: \"**Man, if you tried something like that on my birthday, you\u0027d be starin\u0027 at the business end of a hissy fit.**\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "유치하거나 과장된 방식으로 화를 내다, 히스테리를 부리다",
+                            "nuance":  "어른이 어린아이처럼 발끈하거나 지나치게 화를 내는 모습을 비웃을 때 쓴다. \u0027the business end of\u0027는 \u0027~의 가장 강력한 부분\u0027이라는 관용구.",
+                            "example":  "He threw a total hissy fit when they ran out of his favorite coffee. / 그가 좋아하는 커피가 품절되자 완전히 발끈해서 난리를 쳤어."
+                        },
+                        {
+                            "expression":  "You got me. (모를 때)",
+                            "dialogue":  "Phoebe: \"Joey. You know, um, he\u0027s really nutsy about you.\" / Ursula: \"He is? Why?\" / Phoebe: \"**You got me.**\" / Ursula: \"Right.\"",
+                            "speaker":  "Phoebe",
+                            "meaning":  "\u0027모르겠어\u0027, \u0027나도 왜인지 모르겠어\u0027",
+                            "nuance":  "문맥에 따라 두 가지 뜻. 1) \u0027I have no idea\u0027 — 모를 때. 2) \u0027You caught me / You\u0027re right\u0027 — 상대가 나를 맞혔을 때. 여기서는 1번 용법으로, 어깨를 으쓱하며 쓰는 표현.",
+                            "example":  "\"Why does this app keep crashing?\" \"You got me — I\u0027ve been staring at it for an hour.\" / \u0027이 앱은 왜 계속 꺼지는 거야?\u0027 \u0027나도 모르겠어 — 한 시간째 들여다보고 있어.\u0027"
+                        },
+                        {
+                            "expression":  "figure (something) out",
+                            "dialogue":  "Phoebe: \"No, Joey.\" / Ursula: \"Oh. No, no, **he is so smart. He\u0027ll figure it out.**\" / Ursula: \"Do you want some chicken?\"",
+                            "speaker":  "Ursula",
+                            "meaning":  "상황·문제를 스스로 이해하거나 알아내다",
+                            "nuance":  "시간이 지나면 자연스럽게 깨닫게 될 거라는 뉘앙스도 있다. \u0027work it out\u0027과 비슷하지만 더 구어적이고 일상에서 훨씬 자주 쓰인다.",
+                            "example":  "Don\u0027t explain it — she\u0027ll figure it out on her own. / 설명 안 해도 돼 — 그녀가 혼자 알아낼 거야."
+                        },
+                        {
+                            "expression":  "come through",
+                            "dialogue":  "Chandler: \"So, you feel like a dad yet?\" / Ross: \"No, why?\" / Chandler: \"**Hey, come on, you came through, you did what you had to do.** That is very dad.\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "어려운 순간에 기대에 부응하다, 결정적인 때 해내다",
+                            "nuance":  "중요한 순간에 실망시키지 않고 제 역할을 해내는 것을 강조. 신뢰와 책임감의 뉘앙스가 강하며 \u0027deliver\u0027와 비슷하게 쓰인다.",
+                            "example":  "When we needed her most, she came through and finished the project on time. / 우리가 가장 필요할 때 그녀가 해내서 프로젝트를 제때 끝냈어."
+                        },
+                        {
+                            "expression":  "scare the crap out of (someone)",
+                            "dialogue":  "The Whole Party: \"SURPRISE!!!\" / Ross: \"**What the hell are you doing? You scared the crap outta me.**\" / Rachel: \"Was that the cake?\"",
+                            "speaker":  "Ross",
+                            "meaning":  "엄청나게 놀라게 하다, 혼비백산하게 만들다",
+                            "nuance":  "약한 비속어를 포함한 강한 구어 표현. 단순한 \u0027scared me\u0027보다 훨씬 강한 충격을 나타낸다. 공식 상황에서는 피해야 한다.",
+                            "example":  "Don\u0027t sneak up on me like that — you scared the crap out of me! / 그렇게 몰래 다가오지 마 — 완전히 혼비백산했잖아!"
+                        },
+                        {
+                            "expression":  "so not + 형용사/상태",
+                            "dialogue":  "Ross: \"...so I am running, and running, and that, that is when I woke up. See **I, I am so not ready to be a father.**\" / Chandler: \"Hey, you\u0027re gonna be fine.\"",
+                            "speaker":  "Ross",
+                            "meaning":  "\u0027전혀 ~하지 않다\u0027, \u0027~할 준비가 전혀 안 됐다\u0027 — 강한 부정 강조",
+                            "nuance":  "1990~2000년대 미국 구어에서 유행한 강조 표현. \u0027definitely not\u0027보다 감정적이고 구어적이다. 지금도 캐주얼 대화에서 자주 쓰인다.",
+                            "example":  "It\u0027s only Monday and I\u0027m so not ready for this week. / 겨우 월요일인데 이번 주를 맞이할 준비가 전혀 안 됐어."
+                        },
+                        {
+                            "expression":  "boss (someone/people) around",
+                            "dialogue":  "Dr. Rosen: \"Good for you.\" / Rachel: (as Monica) \"**Yeah it is, mostly because I get to boss people around, which I just love to do.**\"",
+                            "speaker":  "Rachel (Monica로 가장하여)",
+                            "meaning":  "다른 사람에게 이래라저래라 명령하다, 권위적으로 지시하다",
+                            "nuance":  "약간 부정적인 뉘앙스로 권위를 남용해 남을 지시하는 행동을 가리킨다. 유머러스하게도 쓰이며, \u0027order people around\u0027와 바꿔 쓸 수 있다.",
+                            "example":  "He always tries to boss everyone around, even when he\u0027s not in charge. / 그는 책임자가 아닐 때도 항상 남들에게 이래라저래라 하려고 해."
+                        },
+                        {
+                            "expression":  "drunk on (someone/something)",
+                            "dialogue":  "Joey: \"You don\u0027t drink.\" / Phoebe: (as Ursula) \"**That\u0027s right, I don\u0027t... But I was, I was drunk on you!**\" / Joey: \"Oh, Urse...\"",
+                            "speaker":  "Phoebe (Ursula로 가장하여)",
+                            "meaning":  "누군가/무언가에 완전히 도취되어 있다, 이성을 잃을 만큼 빠져 있다",
+                            "nuance":  "술에 취한 것처럼 이성을 잃을 만큼 매료된 상태를 비유적으로 표현. 낭만적이거나 다소 과장된 고백 상황에서 쓰이며 \u0027intoxicated by\u0027와 유사하다.",
+                            "example":  "I wasn\u0027t thinking clearly that night — I was completely drunk on the moment. / 그날 밤은 제대로 생각을 못 했어 — 그 순간에 완전히 취해 있었거든."
+                        },
+                        {
+                            "expression":  "There it is!",
+                            "dialogue":  "Joey: \"Oh, man. What\u0027re the odds of that happening?\" / Ross: \"You take your time.\" / Chandler: \"**There it is!** So what\u0027re you gonna do?\"",
+                            "speaker":  "Chandler",
+                            "meaning":  "\u0027바로 그거야!\u0027, \u0027거봐, 역시 그렇지!\u0027 — 예상했던 것이 드디어 확인될 때",
+                            "nuance":  "기다리던 것이 나타나거나 예상이 맞았을 때 쓰는 의기양양한 표현. \u0027봐봐, 내가 뭐랬어\u0027의 뉘앙스가 있으며 \u0027There you go\u0027와 비슷하다.",
+                            "example":  "He denied it for an hour, and then — there it is — the truth finally came out. / 한 시간 동안 부정하다가, 역시나 — 결국 진실이 나왔어."
+                        },
+                        {
+                            "expression":  "I know that \u0027[단어/표현]\u0027 — 말투를 알아채는 표현",
+                            "dialogue":  "Phoebe: (as Ursula) \"Listen, um—\" / Joey: \"**No, no, no, don\u0027t say \u0027listen.\u0027 I know that \u0027listen.\u0027 I\u0027ve said that \u0027listen.\u0027**\"",
+                            "speaker":  "Joey",
+                            "meaning":  "특정 단어나 말투를 들었을 때 그 의미(보통 나쁜 소식의 전조)를 직감적으로 알아채다",
+                            "nuance":  "살면서 익힌 경험으로 패턴을 알아채는 것. \u0027그 말투 알아\u0027의 느낌. 감정적으로 방어적인 상황, 특히 이별 장면에서 자주 나온다.",
+                            "example":  "Don\u0027t say \u0027we need to talk\u0027 — I know that \u0027we need to talk.\u0027 / \u0027할 얘기가 있어\u0027라고 하지 마 — 나 그 \u0027할 얘기가 있어\u0027 알아."
+                        },
+                        {
+                            "expression":  "have a heart",
+                            "dialogue":  "Ross: \"Lady, he is people. He has a name, okay? He watches Jeopardy! **Please, please have a heart!**\" / Dr. Mitchell: \"I\u0027ll take a look at him.\"",
+                            "speaker":  "Ross",
+                            "meaning":  "동정심을 가져라, 마음이 있으면 도와줘 — 연민을 호소하는 표현",
+                            "nuance":  "누군가에게 자비나 연민을 절박하게 호소할 때 쓴다. 다소 극적인 어감이 있으며 상대가 냉정하게 거절하는 상황에서 감정적으로 요청할 때 나온다.",
+                            "example":  "Come on, have a heart — he\u0027s been working double shifts all week. / 제발, 마음이 좀 있어봐 — 그가 일주일 내내 이중 근무를 했잖아."
+                        },
+                        {
+                            "expression":  "Get out of my office! (아이디어 거절 관용구)",
+                            "dialogue":  "Mr. Geller: \"Five years ago, if somebody had said to me, here\u0027s a tomato that looks like a prune, **I\u0027d say \u0027get out of my office!\u0027**\" / Ross: \"Dad, before I was born, did you freak out at all?\"",
+                            "speaker":  "Mr. Geller",
+                            "meaning":  "\u0027말도 안 돼!\u0027, \u0027그 아이디어는 꺼내지도 마!\u0027 — 터무니없는 제안을 단칼에 거절하는 표현",
+                            "nuance":  "사무실 문화에서 나온 표현으로, 과거에는 말도 안 됐던 아이디어가 지금은 성공했다는 것을 회고할 때도 자주 쓰인다.",
+                            "example":  "A foldable phone? Three years ago I would\u0027ve said \u0027get out of my office!\u0027 / 접히는 폰? 3년 전이었으면 \u0027말도 안 돼!\u0027라고 했을 거야."
+                        },
+                        {
+                            "expression":  "put (someone) out of business",
+                            "dialogue":  "Rachel: \"(on phone) Daddy... why would I sleep with Billy Dreskin? **His father tried to put you out of business!**\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "경쟁자를 폐업하게 만들다, 사업을 망하게 하다",
+                            "nuance":  "비즈니스 맥락에서 경쟁자를 시장에서 몰아내는 것. 비유적으로 어떤 경쟁 상황에서 상대를 완전히 제거하는 뜻으로도 쓰인다.",
+                            "example":  "Big chain stores are slowly putting local bookshops out of business. / 대형 체인점들이 서서히 동네 서점들을 폐업시키고 있어."
+                        },
+                        {
+                            "expression":  "wuss",
+                            "dialogue":  "Rachel: \"Oh, Monica! **Would you stop being such a wuss?**\" / Monica: \"A wuss? Excuse me for living in the real world, okay?\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "겁쟁이, 소심한 사람",
+                            "nuance":  "구어적 표현으로 용기 없이 지나치게 조심하거나 겁을 먹는 사람을 가볍게 놀릴 때 쓴다. \u0027chicken\u0027이나 \u0027coward\u0027의 캐주얼 버전.",
+                            "example":  "Just try it — don\u0027t be such a wuss! It\u0027s only one bite. / 한번 먹어봐 — 그렇게 겁쟁이처럼 굴지 마! 한 입밖에 안 돼."
+                        },
+                        {
+                            "expression":  "nuts/nutsy about (someone)",
+                            "dialogue":  "Ursula: \"He is? Why?\" / Phoebe: \"You got me.\" / Ursula: \"Right.\" (...) / Phoebe: \"Joey. You know, um, **he\u0027s really nutsy about you.**\" / Ursula: \"He is? Why?\"",
+                            "speaker":  "Phoebe",
+                            "meaning":  "누군가에게 완전히 반해 있다, 푹 빠져 있다",
+                            "nuance":  "\u0027nuts about\u0027의 강조형. \u0027crazy about\u0027, \u0027head over heels\u0027와 비슷. \u0027nutsy\u0027는 구어적 강조형이므로 현재는 \u0027nuts about\u0027이 더 일반적으로 쓰인다.",
+                            "example":  "You can tell he\u0027s completely nuts about her from the way he talks about her. / 그가 그녀에 대해 말하는 방식만 봐도 완전히 반해있다는 게 보여."
+                        },
+                        {
+                            "expression":  "ask (someone) out",
+                            "dialogue":  "Monica: \"Uh, you left out the stupid part.\" / Rachel: \"Not stupid. **The very cute, cute, cute doctors asked us out for tomorrow night, and I said \u0027yes.\u0027**\" / Monica: \"I think it\u0027s totally insane, I mean, they work for the hospital.\"",
+                            "speaker":  "Rachel",
+                            "meaning":  "데이트 신청하다",
+                            "nuance":  "연인 관계로 발전하기 위해 첫 데이트를 요청하는 것. 이미 사귀는 것을 뜻하는 \u0027go out with\u0027이나 \u0027date someone\u0027과 달리 관계 시작 이전의 요청 단계를 가리킨다.",
+                            "example":  "I\u0027ve liked her for months — I\u0027m finally going to ask her out this weekend. / 몇 달째 좋아했는데 — 이번 주말에 드디어 데이트 신청할 거야."
+                        }
+                    ]
+}

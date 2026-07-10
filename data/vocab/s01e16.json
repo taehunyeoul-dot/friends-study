@@ -1,0 +1,209 @@
+{
+    "id":  "s01e16",
+    "code":  "116",
+    "title":  "The One With Two Parts, part 1",
+    "model":  "sonnet",
+    "cost_usd":  0.3509,
+    "expressions":  [
+                        {
+                            "expression":  "act out",
+                            "dialogue":  "I don\u0027t know whether he\u0027s testing me, or just acting out, but my monkey is out of control.",
+                            "speaker":  "Ross",
+                            "meaning":  "감정적 불안이나 스트레스를 나쁜 행동으로 표출하다",
+                            "nuance":  "심리학 용어에서 온 일상 표현으로, 단순히 \u0027말썽 부린다\u0027는 뜻이 아니라 내면의 감정적 원인이 있음을 암시한다. 아이·동물에 자주 쓰이며, 어른에게 쓰면 유치하다는 뉘앙스가 더해진다.",
+                            "example":  "The kid\u0027s been acting out ever since his parents got divorced. → 부모가 이혼한 뒤로 그 아이는 계속 문제 행동을 보이고 있어."
+                        },
+                        {
+                            "expression":  "out of control",
+                            "dialogue":  "my monkey is out of control. But, he keeps erasing the messages on my machine, \u0027supposedly\u0027 by accident.",
+                            "speaker":  "Ross",
+                            "meaning":  "통제 불가 상태, 손을 쓸 수 없는 상황",
+                            "nuance":  "사람·상황·감정 모두에 쓴다. \u0027This is getting out of control\u0027처럼 진행형으로도 자주 사용되며, 과장이나 유머로도 가볍게 쓸 수 있다.",
+                            "example":  "The party got totally out of control once the neighbors showed up. → 이웃들이 나타나고 나서 파티는 완전히 통제 불능이 됐어."
+                        },
+                        {
+                            "expression":  "supposedly (with skeptical tone)",
+                            "dialogue":  "he keeps erasing the messages on my machine, \u0027supposedly\u0027 by accident.",
+                            "speaker":  "Ross",
+                            "meaning":  "본인 말로는, 겉으로는 — 실제로는 믿지 않는다는 의심을 담아",
+                            "nuance":  "손가락으로 따옴표를 그리듯 말하거나 목소리에 비꼬는 톤을 실으면 \u0027allegedly\u0027와 같은 뉘앙스가 난다. \u0027allegedly\u0027보다 훨씬 구어체적이고 가볍다.",
+                            "example":  "He was \u0027supposedly\u0027 working late, but I saw him at the bar. → 늦게까지 일하고 있었다고 하는데, 바에서 봤어."
+                        },
+                        {
+                            "expression":  "run it by someone",
+                            "dialogue":  "before you do anything Joey-like, you might wanna run it by err... (indicates Phoebe)",
+                            "speaker":  "Chandler",
+                            "meaning":  "어떤 일을 하기 전에 누군가에게 먼저 확인하거나 의견을 구하다",
+                            "nuance":  "\u0027run it by me first\u0027처럼 쓰이며, 결정권을 넘기는 게 아니라 최소한 알리거나 허락을 구하라는 제안이다. 직장과 친구 관계 모두에서 빈번하게 등장한다.",
+                            "example":  "Before you send that email, run it by your manager first. → 그 이메일 보내기 전에 매니저한테 먼저 확인받아."
+                        },
+                        {
+                            "expression":  "dip your pen in the company ink",
+                            "dialogue":  "It doesn\u0027t matter. You don\u0027t dip your pen in the company ink.",
+                            "speaker":  "Ross",
+                            "meaning":  "직장 동료와 연애하지 말라는 관용구",
+                            "nuance":  "\u0027company ink\u0027는 회사 내 인간관계를 비유한 표현. 약간 고풍스럽지만 지금도 충분히 통하며, \u0027Don\u0027t fish off the company pier\u0027와 같은 맥락이다.",
+                            "example":  "He started dating someone from his team — classic case of dipping your pen in the company ink. → 팀원이랑 사귀기 시작했대. 완전 사내 연애 교과서 같은 케이스네."
+                        },
+                        {
+                            "expression":  "Score!",
+                            "dialogue":  "All I ordered was coffee, she brought me a tuna melt and four plates of curly fries. / Score.",
+                            "speaker":  "Chandler",
+                            "meaning":  "원하는 것이 생각보다 잘 됐을 때 터져 나오는 감탄사 (\u0027됐다!\u0027, \u0027좋아!\u0027)",
+                            "nuance":  "스포츠에서 온 표현으로 90년대~2000년대 미국 구어체에서 매우 흔했다. 현재는 다소 레트로한 느낌이 있지만 여전히 쓰인다. 짧게 끊어 말하는 게 포인트.",
+                            "example":  "I found a parking spot right in front of the restaurant. Score! → 레스토랑 바로 앞에 주차 자리 찾았어. 됐다!"
+                        },
+                        {
+                            "expression":  "out of whack",
+                            "dialogue":  "it throws my WENUS out of whack. / Nina: Your... excuse me?",
+                            "speaker":  "Chandler",
+                            "meaning":  "정상 상태에서 벗어나 엉망이 되다, 균형이 깨지다",
+                            "nuance":  "기계·신체·수면·예산 등 무엇이든 \u0027제대로 작동 안 하는 상태\u0027에 쓴다. \u0027off\u0027 대신 반드시 \u0027out of\u0027를 쓴다는 점에 주의.",
+                            "example":  "My sleep schedule is completely out of whack since I started working night shifts. → 야간근무 시작한 뒤로 수면 패턴이 완전히 망가졌어."
+                        },
+                        {
+                            "expression":  "Can we start over?",
+                            "dialogue":  "Chandler: Can we start over? / Ursula: Yeah. Okay great. I\u0027m gonna be over here.",
+                            "speaker":  "Chandler",
+                            "meaning":  "대화나 상황이 어색해졌을 때 처음부터 다시 시작하자고 제안하다",
+                            "nuance":  "\u0027Let\u0027s start over\u0027의 질문형으로, 명령이 아닌 부탁 형태라 더 정중하고 부드럽다. 어색한 첫 만남이나 오해가 생겼을 때 분위기를 리셋할 때 쓴다.",
+                            "example":  "That introduction went terribly. Can we start over? → 첫 인사가 너무 엉망이었어요. 처음부터 다시 해도 될까요?"
+                        },
+                        {
+                            "expression":  "Come on in",
+                            "dialogue":  "Hi, Nina. Come on in.",
+                            "speaker":  "Chandler",
+                            "meaning":  "들어오세요 (따뜻하고 친근한 초대)",
+                            "nuance":  "\u0027Come in\u0027보다 더 환영하는 느낌을 준다. \u0027on\u0027이 들어가면서 편안하고 개방적인 뉘앙스가 더해진다. 사무실, 집 모두에서 쓴다.",
+                            "example":  "The door\u0027s open — come on in! → 문 열려 있으니까 들어와!"
+                        },
+                        {
+                            "expression":  "go over (something)",
+                            "dialogue":  "I\u0027ve just been going over your data here, and little thing, you\u0027ve been post-dating your Friday numbers.",
+                            "speaker":  "Chandler",
+                            "meaning":  "자료·숫자·내용 등을 꼼꼼히 검토하다, 살펴보다",
+                            "nuance":  "\u0027review\u0027보다 구어체적이고 캐주얼하다. \u0027Let me go over this again\u0027처럼 반복 확인에도 쓰인다. 직장·학교·계약서 등 다양한 맥락에서 사용 빈도가 높다.",
+                            "example":  "Let\u0027s go over the contract one more time before we sign. → 서명하기 전에 계약서 한 번 더 훑어보자."
+                        },
+                        {
+                            "expression":  "It\u0027s been better. / I\u0027ve been better.",
+                            "dialogue":  "How\u0027s it going, sir? / Ohh, it\u0027s been better.",
+                            "speaker":  "Mr. Douglas",
+                            "meaning":  "\u0027잘 지냈으면 좋았겠지만\u0027 — 현재 상황이 좋지 않음을 절제해서 표현하다",
+                            "nuance":  "영미권 특유의 understatement. 직접 \u0027I\u0027m bad\u0027라고 하지 않고 \u0027더 나았던 적이 있다\u0027는 식으로 에둘러 말한다. \u0027How are you?\u0027에 대한 솔직하지만 완곡한 대답으로 매우 자주 쓰인다.",
+                            "example":  "Hey, how are you? — I\u0027ve been better, honestly. → 어떻게 지냈어요? — 솔직히 좋지는 않았어요."
+                        },
+                        {
+                            "expression":  "lay off (people)",
+                            "dialogue":  "we\u0027re gonna be layin\u0027 off people in every department.",
+                            "speaker":  "Mr. Douglas",
+                            "meaning":  "경기·비용 문제 등 회사 사정으로 직원을 해고하다, 구조조정하다",
+                            "nuance":  "\u0027fire\u0027는 직원 잘못으로 인한 해고이고, \u0027lay off\u0027는 회사 사정으로 인한 해고다. 수동태 \u0027get laid off\u0027는 \u0027해고당하다\u0027는 뜻. 미국 직장 영어에서 필수 어휘.",
+                            "example":  "The company laid off 200 employees after the merger. → 합병 후 회사는 직원 200명을 감원했다."
+                        },
+                        {
+                            "expression":  "How bad could it be?",
+                            "dialogue":  "Look, you\u0027re cold, I have to pee, and there\u0027s a cup of coffee on the window. How bad could it be?",
+                            "speaker":  "Fran",
+                            "meaning":  "\u0027설마 얼마나 나쁘겠어?\u0027 — 불확실한 상황을 스스로 합리화할 때 쓰는 반어적 표현",
+                            "nuance":  "이 말 뒤에 실제로 상황이 나쁠 때 코미디나 아이러니가 생긴다. 긍정적 자기위안처럼 들리지만, 종종 그 반대 상황을 암시하는 복선으로 쓰인다.",
+                            "example":  "I\u0027ve never cooked for twenty people, but how bad could it be? → 스무 명 요리는 처음이지만, 설마 얼마나 힘들겠어?"
+                        },
+                        {
+                            "expression":  "There\u0027s something about her / him",
+                            "dialogue":  "She\u0027s different. There\u0027s uh, somethin\u0027 about her.",
+                            "speaker":  "Joey",
+                            "meaning":  "딱히 설명할 수 없지만 뭔가 끌리는 매력이나 특별한 무언가가 있다",
+                            "nuance":  "구체적으로 표현하기 어려운 인상이나 매력을 말할 때 쓴다. 연애 감정에 자주 쓰이며, \u0027Something about the way she talks…\u0027처럼 확장도 가능하다.",
+                            "example":  "I don\u0027t know what it is, but there\u0027s something about him that I really like. → 뭔지 모르겠는데, 그 사람한테 왠지 모르게 끌려."
+                        },
+                        {
+                            "expression":  "big picture",
+                            "dialogue":  "but, big picture. The birth part is just one day, and when it\u0027s over, we\u0027re all gonna be parents for the rest of our lives.",
+                            "speaker":  "Susan",
+                            "meaning":  "장기적·전체적 관점, 더 큰 그림",
+                            "nuance":  "당장의 어려움에 집착할 때 시야를 넓히라고 할 때 쓴다. \u0027Look at the big picture\u0027 / \u0027Think big picture\u0027 형태로도 자주 사용된다.",
+                            "example":  "I know this week is tough, but look at the big picture — we\u0027re building something real here. → 이번 주가 힘든 건 알지만, 큰 그림을 봐봐. 뭔가 진짜 걸 만들고 있잖아."
+                        },
+                        {
+                            "expression":  "you never really know what\u0027s going on inside someone\u0027s head",
+                            "dialogue":  "I guess you never really know what\u0027s going on inside a person\u0027s head. / Well, I guess that\u0027s why they call it psychology, sir.",
+                            "speaker":  "Mr. Douglas",
+                            "meaning":  "사람 속은 알 수 없다, 겉으로는 정말 모른다",
+                            "nuance":  "누군가의 의외의 반응에 놀랐을 때 쓰는 표현. \u0027what\u0027s going on in someone\u0027s head\u0027 단독으로도 \u0027저 사람 무슨 생각하는 거야?\u0027라는 의미로 자주 쓰인다.",
+                            "example":  "She seemed totally fine, but you never really know what\u0027s going on inside someone\u0027s head. → 멀쩡해 보였는데, 사람 속은 정말 알 수가 없어."
+                        },
+                        {
+                            "expression":  "That\u0027s what this is (all) about",
+                            "dialogue":  "I mean, that\u0027s what this is all about, right? Ross? Ross?",
+                            "speaker":  "Susan",
+                            "meaning":  "이게 핵심이다, 결국 이게 다야",
+                            "nuance":  "상황의 본질이나 가장 중요한 것을 강조할 때 쓴다. 논점을 재집중시키거나 설득할 때 특히 효과적이다.",
+                            "example":  "At the end of the day, making the customer happy — that\u0027s what this is all about. → 결국 고객을 만족시키는 것, 그게 전부야."
+                        },
+                        {
+                            "expression":  "I\u0027ve never known you to + verb",
+                            "dialogue":  "Wow, this is serious. I\u0027ve never known you to pay money for any kind of capade.",
+                            "speaker":  "Chandler",
+                            "meaning":  "내가 아는 한 네가 그런 걸 한 적이 없었는데 — 상대방의 이례적인 행동에 놀라움을 표현",
+                            "nuance":  "단순한 \u0027You never ~\u0027보다 관찰에 기반한 개인적 경험을 담고 있어 더 친밀하고 구체적인 느낌이 난다. 가벼운 놀라움이나 장난스런 지적에 쓴다.",
+                            "example":  "I\u0027ve never known you to turn down dessert. Are you feeling okay? → 너 디저트 거절하는 거 처음 봐. 어디 아파?"
+                        },
+                        {
+                            "expression":  "not that it\u0027s any of your business, but",
+                            "dialogue":  "Well, not that it\u0027s any of your business, but, no, we haven\u0027t, okay?",
+                            "speaker":  "Joey",
+                            "meaning":  "\u0027네 알 바는 아니지만\u0027 — 개인적인 질문에 방어적으로 대답하기 전에 쓰는 도입구",
+                            "nuance":  "질문이 선을 넘었음을 표시하면서도 대답은 하겠다는 이중적 신호. 끝에 \u0027but\u0027이 붙어 뒤에 실제 답이 온다는 걸 예고한다. 약간 발끈하지만 유머러스하게 쓸 수 있다.",
+                            "example":  "Not that it\u0027s any of your business, but I did get a raise last month. → 네가 알 바는 아니지만, 지난달에 연봉 올랐어."
+                        },
+                        {
+                            "expression":  "flip (someone) for it",
+                            "dialogue":  "So what do you propose to do? / I will flip you for it.",
+                            "speaker":  "Susan",
+                            "meaning":  "동전 던지기로 결정하다",
+                            "nuance":  "\u0027flip a coin\u0027과 같은 뜻이지만 \u0027flip you for it\u0027은 상대방에게 직접 제안하는 구어체 형태다. 두 선택지가 비슷할 때 공정하게 결정하자는 제안으로 가볍게 쓰인다.",
+                            "example":  "Neither of us wants to wash the dishes. I\u0027ll flip you for it. → 둘 다 설거지 하기 싫으면 동전 던져서 정하자."
+                        },
+                        {
+                            "expression":  "I\u0027m not saying X or anything",
+                            "dialogue":  "I mean, I\u0027m not saying she\u0027s like evil or anything.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "\u0027X라는 건 아니지만\u0027 — 강한 비판이나 주장을 부드럽게 완화할 때 쓰는 도입구",
+                            "nuance":  "\u0027or anything\u0027이 붙으면 훨씬 캐주얼하고 구어체적이다. 뒤에 \u0027but\u0027과 함께 본심이 이어진다. 직접적으로 말하기 부담스러울 때 쿠션 역할을 한다.",
+                            "example":  "I\u0027m not saying he\u0027s incompetent or anything, but he\u0027s made three mistakes this week. → 무능하다는 건 아닌데, 이번 주에만 세 번 실수했잖아."
+                        },
+                        {
+                            "expression":  "It\u0027s just that...",
+                            "dialogue":  "It\u0027s just, you know, it\u0027s this whole stupid Ursula thing, it\u0027s...",
+                            "speaker":  "Phoebe",
+                            "meaning":  "\u0027그냥 ... 때문에\u0027 — 속마음이나 이유를 조심스럽게 꺼낼 때 쓰는 도입구",
+                            "nuance":  "직접적인 불평이나 비판 대신 부드럽게 감정을 꺼낼 때 쓴다. \u0027I just feel like...\u0027와 함께 원망이나 걱정을 완곡하게 표현하는 데 매우 흔히 쓰인다.",
+                            "example":  "I\u0027m not mad. It\u0027s just that I wish you\u0027d told me sooner. → 화난 건 아니야. 그냥 좀 더 일찍 말해줬으면 좋았을 텐데."
+                        },
+                        {
+                            "expression":  "I could have [X]. (defensive hypothetical)",
+                            "dialogue":  "You don\u0027t even have cats. / I could have cats.",
+                            "speaker":  "Mr. Heckles",
+                            "meaning":  "\u0027그럴 수도 있잖아\u0027 — 현재 사실이 아니지만 논리적 가능성을 들어 방어하다",
+                            "nuance":  "현실과 맞지 않지만 \u0027가능성은 있다\u0027는 논리로 반박하는 코믹한 방어 패턴. 궁지에 몰렸을 때 억지로 유지하려는 논점에 쓰인다. could = 가능성의 조동사.",
+                            "example":  "You don\u0027t even have a LinkedIn. — I could have one. → 링크드인도 없잖아요. — 만들 수도 있죠."
+                        },
+                        {
+                            "expression":  "take it (well / badly / pretty well)",
+                            "dialogue":  "Oh, how\u0027d she take it? / Pretty well. Except for the stapler thing.",
+                            "speaker":  "Rachel / Chandler",
+                            "meaning":  "소식(특히 나쁜 소식)을 어떻게 받아들이다",
+                            "nuance":  "\u0027take it\u0027 뒤에 \u0027well / badly / hard / pretty well\u0027 등의 부사가 온다. 나쁜 소식을 전한 뒤 상대방의 반응을 묻거나 설명할 때 자연스럽게 쓰인다.",
+                            "example":  "How did your boss take it when you quit? → 네가 그만두겠다고 했을 때 상사가 어떻게 받아들이던?"
+                        },
+                        {
+                            "expression":  "play one\u0027s [X] card",
+                            "dialogue":  "Okay, I\u0027m gonna play my sperm card one more time.",
+                            "speaker":  "Ross",
+                            "meaning":  "논쟁이나 협상에서 특정 유리한 논거나 입장을 전략적으로 꺼내 쓰다",
+                            "nuance":  "\u0027play the race card\u0027, \u0027play the sympathy card\u0027처럼 확장 가능한 표현. \u0027one more time\u0027이 붙으면 이미 쓴 적이 있다는 걸 인정하면서도 또 꺼내겠다는 뉘앙스가 된다.",
+                            "example":  "Every time we argue about chores, he plays the \u0027I work longer hours\u0027 card. → 집안일 얘기만 나오면 걘 \u0027내가 더 오래 일한다\u0027는 카드를 꺼내."
+                        }
+                    ]
+}

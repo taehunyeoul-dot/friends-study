@@ -1,0 +1,209 @@
+{
+    "id":  "s01e24",
+    "code":  "124",
+    "title":  "The One Where Rachel Finds Out",
+    "model":  "sonnet",
+    "cost_usd":  0.5385,
+    "expressions":  [
+                        {
+                            "expression":  "nod off",
+                            "dialogue":  "Ross: And here\u0027s little Ben **nodding off**...\nMonica: Awww, look at Aunt Monica\u0027s little boy!\nPhoebe: Oh, look, he\u0027s got Ross\u0027s haircut!\nRachel: Oh, let me see! Oh, God, is he just the sweetest thing?",
+                            "speaker":  "Ross",
+                            "meaning":  "자신도 모르게 꾸벅꾸벅 졸다; 스르르 잠이 들다",
+                            "nuance":  "fall asleep보다 훨씬 부드럽고 귀여운 뉘앙스로, 의도치 않게 어느새 잠이 든 상황에 씀. 아기나 어르신을 묘사할 때 특히 자주 등장하는 표현.",
+                            "example":  "He nodded off on the couch halfway through the movie. → 영화 보다가 소파에서 어느새 꾸벅꾸벅 졸아버렸어."
+                        },
+                        {
+                            "expression":  "make money hand over fist",
+                            "dialogue":  "Joey: ...at the end of two weeks, I get seven hundred dollars.\nRoss: Hey.\nPhoebe: Wow, ooh, you\u0027re gonna be **making money hand over fist**!",
+                            "speaker":  "Phoebe",
+                            "meaning":  "돈을 엄청난 속도로 대량으로 벌어들이다",
+                            "nuance":  "로프를 두 손으로 빠르게 당기는 동작에서 유래한 표현으로, 과장이나 유머 상황에서 자주 쓰임. 여기서 Phoebe가 고작 700달러를 두고 이 표현을 쓰는 것 자체가 개그 포인트.",
+                            "example":  "That food truck was making money hand over fist after the review went viral. → 그 푸드트럭은 리뷰가 퍼진 후 돈을 엄청나게 쓸어 담았어."
+                        },
+                        {
+                            "expression":  "special someone",
+                            "dialogue":  "Monica: Oh Joey, Melanie called, said she\u0027s gonna be late.\nJoey: Oh, OK.\nPhoebe: So how are things going with you two? Is she becoming your **special someone**?\nJoey: I don\u0027t know, she\u0027s, uh.... she\u0027s pretty great.",
+                            "speaker":  "Phoebe",
+                            "meaning":  "연인, 또는 연인이 될 수 있는 특별한 상대",
+                            "nuance":  "직접적으로 \u0027남자친구/여자친구\u0027라고 하지 않고 살짝 돌려 말하는 부드러운 표현. 상대방의 연애를 물어볼 때 장난기 있는 톤으로 쓰임. 단순한 친구 이상의 감정을 암시하는 \u0027special\u0027이 핵심.",
+                            "example":  "So is there a special someone in your life these days? → 요즘 특별한 사람 생겼어?"
+                        },
+                        {
+                            "expression":  "Man\u0027s got a point.",
+                            "dialogue":  "Joey: What, you think I\u0027m gonna tell a girl I like that I\u0027m also seeing a cup?\nMonica: **Man\u0027s got a point.**\nJoey: Well, the tough thing is, she really wants to have sex with me.",
+                            "speaker":  "Monica",
+                            "meaning":  "저 사람 말이 맞네; 인정할 수밖에 없는 논리다",
+                            "nuance":  "단순하거나 황당한 논리임에도 틀리지 않았을 때 마지못해 인정하는 뉘앙스. \u0027He\u0027s got a point\u0027보다 더 구어적이고 간결한 형태로, 살짝 유머러스한 상황에서 효과가 더 큼.",
+                            "example":  "She said we should eat first before grocery shopping or we\u0027ll buy everything in sight — man\u0027s got a point. → 배고프면 마트에서 다 사들인다고, 먹고 나서 장 보자고 했는데... 틀린 말이 아니네."
+                        },
+                        {
+                            "expression":  "Hold on there, tiger.",
+                            "dialogue":  "Rachel: Oh, no, no, no. Presents first. Food later.\nMonica: Hey, **hold on there, tiger**. How\u0027s it going? How you holding up?\nJoey: Well, not so good.",
+                            "speaker":  "Monica",
+                            "meaning":  "잠깐만, 천천히; 너무 앞서 나가지 마",
+                            "nuance":  "흥분하거나 급하게 행동하는 상대를 친근하게 제지하는 표현. \u0027tiger\u0027는 그 사람이 활기차고 열정적이라는 뜻으로 쓰인 애칭이라, 혼내는 게 아니라 다정하게 속도를 늦추는 느낌. 친한 사이에서만 자연스럽게 쓸 수 있음.",
+                            "example":  "Hold on there, tiger — we haven\u0027t even agreed on a budget and you\u0027re already booking venues. → 잠깐, 예산도 안 정했는데 벌써 장소 예약하려는 거야?"
+                        },
+                        {
+                            "expression":  "be there for someone",
+                            "dialogue":  "Monica: So, uh, have you ever thought about **being there for her**?\nJoey: What do you mean?\nMonica: Y\u0027know, just **be there for her**.\nJoey: Not following you.\nMonica: Think about it.",
+                            "speaker":  "Monica",
+                            "meaning":  "누군가의 곁에 있어 주다; (이 장면에서는) 상대방에게 온전히 집중해 주다",
+                            "nuance":  "원래 \u0027정서적으로 지지해 준다\u0027는 뜻이지만, 이 장면에서 Monica는 이중 의미로 사용 — 성적인 관계에서 상대에게 집중하라는 조언을 아주 점잖게 돌려 말하는 것. 같은 표현이 맥락에 따라 완전히 다른 의미가 되는 좋은 예.",
+                            "example":  "When I was going through the divorce, she was really there for me every step of the way. → 이혼 과정을 겪는 동안 그녀가 매 순간 내 곁을 지켜줬어."
+                        },
+                        {
+                            "expression":  "get someone through tough times",
+                            "dialogue":  "Rachel: (opens gift) ...it\u0027s a book!\nPhoebe: Oh, it\u0027s Dr. Seuss!\nJoey: (to Rachel) That book **got me through some tough times**.\nMelanie: There is a little child inside this man!\nChandler: Yes, the doctors say if they remove it, he\u0027ll die.",
+                            "speaker":  "Joey",
+                            "meaning":  "힘든 시절을 버텨내도록 도와주다",
+                            "nuance":  "책, 음악, 사람, 반려동물 등 무엇이든 어려운 시기를 견디게 해줬다는 뜻으로 쓸 수 있음. 여기서 Dr. Seuss 동화책을 두고 하는 말이라 코미디 효과가 극대화되는 동시에 Joey의 의외로 진심 어린 면이 드러나는 명대사.",
+                            "example":  "Honestly, running got me through some of the toughest times of my life. → 솔직히, 달리기가 내 인생에서 가장 힘든 시절을 버티게 해줬어."
+                        },
+                        {
+                            "expression":  "cost a fortune",
+                            "dialogue":  "Rachel: Oh my God. He remembered.\nPhoebe: Oh, it\u0027s so pretty. This must have **cost him a fortune**.\nMonica: I can\u0027t believe he did this.\nChandler: Come on, Ross? Remember back in college, when he fell in love with Carol...",
+                            "speaker":  "Phoebe",
+                            "meaning":  "엄청나게 비쌌다; 돈이 많이 들었다",
+                            "nuance":  "\u0027a fortune\u0027은 실제로 전 재산을 의미하는 게 아니라 \u0027상당한 금액\u0027의 과장 표현. 감탄, 놀라움, 또는 상대방의 정성에 감동받은 상황에서 자주 등장함. cost 외에 \u0027spend a fortune\u0027, \u0027it must have cost...\u0027 형태로도 자주 쓰임.",
+                            "example":  "That renovation must have cost them a fortune — the kitchen alone looks brand new. → 리모델링에 돈 엄청 썼겠다 — 주방만 봐도 완전 새집 같은데."
+                        },
+                        {
+                            "expression":  "fall in love with",
+                            "dialogue":  "Chandler: Come on, Ross? Remember back in college, when he **fell in love with** Carol and bought her that ridiculously expensive crystal duck?\nRachel: What did you just say?\nChandler: (panicked) ahem... um... Crystal duck.\nRachel: No, no, no.... the, um, the... \u0027love\u0027 part?",
+                            "speaker":  "Chandler",
+                            "meaning":  "~에게 사랑에 빠지다; 낭만적인 감정이 생기다",
+                            "nuance":  "\u0027Fall\u0027은 의도치 않게 자연스럽게 빠져드는 감정을 표현 — 사랑은 선택이 아니라 그냥 일어나는 것임을 암시함. 이 장면은 Chandler가 실수로 Ross의 비밀을 털어놓는 에피소드의 결정적 전환점 대사.",
+                            "example":  "She didn\u0027t plan it, but she fell in love with her co-worker over the course of a long project. → 계획한 건 아니었지만, 긴 프로젝트를 함께 하면서 동료에게 빠지게 됐어."
+                        },
+                        {
+                            "expression":  "That\u0027ll turn back time. (사르카즘)",
+                            "dialogue":  "Rachel: Oh.... my God.\nChandler: (rubbing his temples) Oh, no-no-no-no-no....\nJoey: (pats Chandler on the leg) That\u0027s good, just keep rubbing your head. **That\u0027ll turn back time**.",
+                            "speaker":  "Joey",
+                            "meaning":  "그게 무슨 소용이야; 이미 엎질러진 물이야 (반어적으로)",
+                            "nuance":  "\u0027[무의미한 행동] + will + [불가능한 결과]\u0027 구조의 전형적인 영어 사르카즘. 헛된 행동을 하는 사람에게 \u0027그래봤자 소용없어\u0027를 유머러스하게 전달함. 맥락 없이 들으면 진심으로 들릴 수 있어서 반드시 톤과 상황으로 구분해야 함.",
+                            "example":  "Oh sure, just say \u0027sorry\u0027 and that\u0027ll turn back time. → 그래, 그냥 \u0027미안해\u0027 한 마디 하면 다 되돌아가겠지."
+                        },
+                        {
+                            "expression":  "desperately in love with",
+                            "dialogue":  "Rachel: W-well, what else did he say? I mean, does he, like, want to go out with me?\nJoey: Well, given that he\u0027s **desperately in love with you**, he probably wouldn\u0027t mind getting a cup of coffee or something.\nRachel: Ross? All this time? Well, I\u0027ve got to talk to him.",
+                            "speaker":  "Joey",
+                            "meaning":  "어쩔 수 없을 만큼 절실하게 사랑에 빠진 상태",
+                            "nuance":  "\u0027Desperately\u0027는 감정을 통제하지 못할 만큼 강렬하다는 뉘앙스 — 단순히 \u0027사랑한다\u0027보다 훨씬 절박하고 원초적인 느낌. Joey가 이 말을 쓰는 것 자체가 Ross의 감정이 얼마나 깊은지를 친구 입장에서 가감 없이 드러내는 순간.",
+                            "example":  "It was obvious to everyone that he was desperately in love with her; he just couldn\u0027t hide it. → 모두 눈에 보였어, 그가 그녀에게 얼마나 절실히 빠져 있는지 — 전혀 숨기질 못했거든."
+                        },
+                        {
+                            "expression":  "break someone\u0027s heart",
+                            "dialogue":  "Chandler: (quickly) H-He\u0027s in China!\nJoey: He\u0027s right, cause if you\u0027re just gonna, like, **break his heart**, that\u0027s the kind of thing that can wait.\nMonica: Yeah, but if it\u0027s good news, you should tell him now.",
+                            "speaker":  "Joey",
+                            "meaning":  "누군가에게 깊은 감정적 상처를 주다, 특히 사랑에서 거절당하는 경우",
+                            "nuance":  "\u0027Break\u0027은 온전했던 무언가가 망가진다는 이미지. 거절, 이별, 배신 등의 상황에서 폭넓게 쓰임. 이 장면에서 Joey가 이 표현을 쓰는 건 친구 Ross를 걱정하는 진심 어린 모습 — Joey의 의외로 따뜻한 면이 드러나는 대사.",
+                            "example":  "I don\u0027t want to lead him on if I don\u0027t feel the same way — I don\u0027t want to break his heart. → 같은 감정이 없으면서 기대하게 만들고 싶지 않아 — 상처 주고 싶지 않거든."
+                        },
+                        {
+                            "expression":  "gut feeling",
+                            "dialogue":  "Monica: Oh my God, me too! Oh! Oh, we\u0027d be like friends-in-law! Y\u0027know what the best part is? The best part is that you already know everything about him!\nRachel: I mean, this is just my initial **gut feeling**... but I\u0027m thinking... oh, I\u0027m thinking it\u0027d be really great.\nMonica: Oh my God, me too!",
+                            "speaker":  "Rachel",
+                            "meaning":  "이성이 아닌 본능에서 오는 직감",
+                            "nuance":  "\u0027Gut\u0027(내장)은 머리가 아닌 몸에서 오는 감각을 의미 — 이성적으로 설명하기 어렵지만 강하게 느껴지는 직관. \u0027initial gut feeling\u0027처럼 \u0027initial\u0027을 붙이면 아직 확신하기 전의 첫 느낌임을 강조함. 의사결정 상황에서 매우 자주 쓰임.",
+                            "example":  "I had a gut feeling something was off about that deal, and I was right to trust it. → 그 계약 어딘가 이상하다는 직감이 왔는데, 그 느낌을 믿길 잘했어."
+                        },
+                        {
+                            "expression":  "dump someone",
+                            "dialogue":  "Monica: Is there? Is there someone else?\nRachel: No! There is.. there is noone else!\nMonica: Then why the hell are you **dumping my brother**?!?",
+                            "speaker":  "Monica",
+                            "meaning":  "관계를 일방적으로 끊다; 차버리다",
+                            "nuance":  "break up with보다 더 거칠고 즉흥적인 느낌. 상대방의 의사를 무시하고 일방적으로 끊는 뉘앙스가 있어 감정적인 대화에서 비난조로 쓰이기도 함. Monica가 Ross의 감정을 옹호하며 Rachel에게 따지듯 사용하는 장면.",
+                            "example":  "He dumped her over text — not even a phone call. → 그는 문자로 그녀를 찼어 — 전화 한 통도 없이."
+                        },
+                        {
+                            "expression":  "big spender",
+                            "dialogue":  "Joey: Seven hundred bucks!\nChandler: Hey, **big**...\nJoey: Shhhh!\nChandler: (quietly) ...**spender**.\nJoey: She\u0027s still asleep.\nChandler: So how\u0027d it go?",
+                            "speaker":  "Chandler",
+                            "meaning":  "돈을 많이 쓰는(또는 많이 가진) 사람; 여기서는 Joey를 놀리는 반어적 표현",
+                            "nuance":  "원래는 씀씀이가 큰 사람을 가리키는 말이지만, 항상 돈을 빌려가던 Joey가 갑자기 700달러를 손에 쥐자 Chandler가 반어적으로 쓰는 것. 타이밍을 맞추기 위해 두 줄에 걸쳐 나눠서 말하는 것도 코미디 포인트.",
+                            "example":  "Oh, you ordered dessert AND coffee? Look at you, big spender! → 디저트에 커피까지? 진짜 큰손이시네!"
+                        },
+                        {
+                            "expression":  "hell of a [noun]",
+                            "dialogue":  "Chandler: So, you\u0027re gonna stick with this \u0027it\u0027s all for her\u0027 thing?\nJoey: What, are you crazy? When a blind man gets his sight back, does he walk around like this? (closes eyes)\nJoey: Man, **hell of a two weeks**, huh? Y\u0027know what, though? I really feel like I learned something.",
+                            "speaker":  "Joey",
+                            "meaning":  "정말 대단한, 엄청난, 강렬한 [명사] — 강조 표현",
+                            "nuance":  "긍정이든 부정이든 어떤 경험의 강도를 강조할 때 씀. \u0027quite some\u0027보다 훨씬 구어적이고 감정이 실려 있음. 여기서 \u0027hell\u0027은 욕이 아니라 강조어로, \u0027heck of a\u0027로 순화해서도 자주 씀.",
+                            "example":  "That was a hell of a performance — I had chills the entire time. → 정말 엄청난 공연이었어 — 내내 소름이 돋았거든."
+                        },
+                        {
+                            "expression":  "go out with someone",
+                            "dialogue":  "Rachel: Because, I feel like I wouldn\u0027t just be **going out with him**. I would be going out with all of you. Oh, and there would just be all this pressure, and I don\u0027t wanna...\nMonica: (gets up) No, no, no, no, no, no pressure, no pressure!\nRachel: Monica, nothing has even happened yet, and you\u0027re already so...",
+                            "speaker":  "Rachel",
+                            "meaning":  "~와 데이트하다; 사귀다",
+                            "nuance":  "미국 영어에서 \u0027연애하다/사귀다\u0027를 뜻하는 가장 자연스럽고 흔한 표현 중 하나. 여기서 Rachel은 Ross와 사귀면 두 사람만의 관계가 아니라 친구 그룹 전체와 얽히는 복잡함이 생긴다는 점을 이 표현으로 절묘하게 포착함.",
+                            "example":  "They\u0027ve been going out for almost a year now and things seem really serious. → 그들은 거의 1년째 사귀고 있고 꽤 진지해 보여."
+                        },
+                        {
+                            "expression":  "give someone a chance",
+                            "dialogue":  "Ross: I don\u0027t get it. What do you see in this guy, anyway?\nRachel: Well... he happens to be a very nice... guy....\nRoss: Rachel, come on. **Give us a chance**.\nRachel: Ross, it\u0027s too hard.\nRoss: No, no, no... why, because it might get weird for everyone else? Who cares about them. This is about us.",
+                            "speaker":  "Ross",
+                            "meaning":  "우리에게 기회를 줘; 한번 시도해봐",
+                            "nuance":  "간절한 부탁의 뉘앙스. \u0027chance\u0027라는 단어 자체가 불확실성을 인정하면서도 도전할 의지를 보여줌. 연애 맥락에서 매우 흔히 들을 수 있는 표현으로, \u0027just give it a chance\u0027처럼 \u0027just\u0027를 붙이면 더 간곡한 느낌.",
+                            "example":  "I know we got off to a rough start, but just give us a chance — I promise it\u0027ll be different. → 시작이 안 좋았던 거 알아, 그래도 한번만 기회 줘 — 다를 거라고 약속해."
+                        },
+                        {
+                            "expression":  "What do you see in someone?",
+                            "dialogue":  "Ross: Can\u0027t do it, can you?\nRachel: So I\u0027m thinking about you. So what?\nRoss: I don\u0027t get it. **What do you see in this guy**, anyway?\nRachel: Well... he happens to be a very nice... guy....\nCarl: I mean, come on, buddy, get a real car!",
+                            "speaker":  "Ross",
+                            "meaning":  "그 사람의 어떤 점이 좋은 거야? 왜 끌리는 거야?",
+                            "nuance":  "상대방이 이해하기 어려운 사람에게 왜 끌리는지 물을 때 쓰는 표현. 대부분 의아함이나 질투 섞인 어조로 쓰임. \u0027왜 좋아해?\u0027라는 직접적인 표현보다 훨씬 자연스럽고, Rachel의 Carl에 대한 대답이 점점 흐릿해지는 장면이 이 표현의 효과를 극대화함.",
+                            "example":  "I honestly don\u0027t get it — what do you see in him? He never listens to anyone. → 진짜 모르겠어 — 걔 어디가 좋아? 남 말은 하나도 안 듣잖아."
+                        },
+                        {
+                            "expression":  "look at someone that way",
+                            "dialogue":  "Ross: ...you and I both know we are perfect for each other, right? I mean... so, the only question is... are you attracted to me?\nRachel: I don\u0027t know... I mean, I\u0027ve never **looked at you that way** before.\nRoss: Well, start looking.\nRachel: Wow.",
+                            "speaker":  "Rachel",
+                            "meaning":  "누군가를 연인/로맨틱한 상대로 바라보다",
+                            "nuance":  "\u0027That way\u0027는 명시하지 않아도 맥락상 \u0027연애 감정으로\u0027라는 뜻을 전달하는 영어 특유의 간접 표현. 친구였던 사람에 대한 시각이 달라지는 순간을 묘사할 때 딱 맞는 표현. \u0027I never thought of you that way\u0027도 같은 의미로 자주 쓰임.",
+                            "example":  "I\u0027d always thought of him as just a friend until one day I caught myself looking at him that way. → 항상 그냥 친구로만 생각했는데, 어느 날 그를 그런 눈으로 보고 있는 나 자신을 발견했어."
+                        },
+                        {
+                            "expression":  "let it go",
+                            "dialogue":  "[공항 도착 게이트. 항공사 직원이 잘못 전달한 메시지 때문에 아내가 계속 \u0027레이철\u0027을 묻자]\nMan: For God\u0027s sake, will you **let it go**? There\u0027s no Rachel!\n[Ross가 Julie와 함께 등장하고, 꽃을 든 Rachel이 그 모습을 발견함]",
+                            "speaker":  "Man (공항 승객)",
+                            "meaning":  "그만해; 집착하지 마; 넘어가",
+                            "nuance":  "매우 범용적인 표현으로, 잊어버리라는 뜻부터 싸움 그만하라, 집착하지 마라는 뜻까지 다양하게 쓰임. \u0027For God\u0027s sake\u0027와 함께 쓰여 답답함과 간청이 동시에 전달됨. 이 에피소드에서 의도치 않은 조역이 자신도 모르게 시청자에게 적용되는 대사를 치는 아이러니 포인트.",
+                            "example":  "It happened three years ago — you need to just let it go and move on. → 3년 전 일이야 — 이제 그만 잊어버리고 앞으로 나아가야 해."
+                        },
+                        {
+                            "expression":  "can\u0027t wait for someone to meet someone",
+                            "dialogue":  "Ross: Oh, hey, hey, I got that.\nJulie: Oh, thanks, sweetie.\nRoss: No problem. I **cannot wait for you to meet** my friends.\nJulie: Really?\nRoss: Yeah.\nJulie: You don\u0027t think they\u0027ll judge and ridicule me?",
+                            "speaker":  "Ross",
+                            "meaning":  "~가 ~를 만나게 되는 게 너무 기대돼",
+                            "nuance":  "\u0027Can\u0027t wait\u0027는 기다리는 게 불가능할 만큼 설레고 기대된다는 과장 표현. \u0027for + 목적어 + to 부정사\u0027 구조는 영어에서 매우 흔하고 중요한 패턴. 시청자에게는 이 대사가 에피소드 전체를 뒤집는 마지막 반전의 신호탄이기도 함.",
+                            "example":  "I can\u0027t wait for you to meet my sister — you two are going to love each other. → 언니한테 꼭 소개시켜 줄게 — 둘이 엄청 잘 맞을 거야."
+                        },
+                        {
+                            "expression":  "it\u0027s a whole big [noun] thing",
+                            "dialogue":  "Monica: You\u0027re going to China?\nRoss: Yeah, i-it\u0027s for the museum. Someone found a bone, we want the bone, but they don\u0027t want us to have the bone, so I\u0027m going over there to try to persuade them to give us the bo- **it\u0027s-it\u0027s a whole big bone thing**. Anyway, I\u0027m gonna be gone for like, uh... like a week...",
+                            "speaker":  "Ross",
+                            "meaning":  "설명하기 복잡한 사정이야; 긴 얘기야",
+                            "nuance":  "복잡한 배경을 굳이 다 설명하기 싫을 때 뭉뚱그려 넘기는 표현. \u0027whole\u0027이 붙어 상황이 굉장히 복잡하고 방대한 맥락이 있다는 느낌을 줌. 여기서 Ross가 이미 길게 설명하다가 포기하면서 쓰는 장면이 특히 웃김.",
+                            "example":  "Why did we change suppliers? Oh, it\u0027s a whole big contract thing — I\u0027ll explain later. → 왜 공급업체 바꿨냐고? 아, 계약 관련해서 복잡한 사정이 있어 — 나중에 설명할게."
+                        },
+                        {
+                            "expression":  "perfect for each other",
+                            "dialogue":  "Ross: Look, I-I\u0027ve been in love with you since, like, the ninth grade.\nRachel: Ross, you\u0027re like my best friend.\nRoss: I know.\nRoss: ...you and I both know we are **perfect for each other**, right? I mean... so, the only question is... are you attracted to me?\nRachel: I don\u0027t know... I mean, I\u0027ve never looked at you that way before.",
+                            "speaker":  "Ross",
+                            "meaning":  "서로에게 딱 맞는 상대다; 천생연분이다",
+                            "nuance":  "\u0027Perfect\u0027는 절대적 단어이기 때문에 이 표현 자체가 상당히 강한 주장. 연애 감정을 고백하거나 상대를 설득할 때 자주 나오는 표현. Ross가 이 말을 자신 있게 쓰는 장면은 그가 이 관계를 얼마나 확신하고 있는지를 잘 보여주는 동시에 시청자의 공감을 이끌어내는 명대사.",
+                            "example":  "Everyone could tell they were perfect for each other — they finished each other\u0027s sentences. → 모두가 그들이 천생연분이라는 걸 알 수 있었어 — 서로 말을 이어 마쳤거든."
+                        },
+                        {
+                            "expression":  "It\u0027s the thought (that counts).",
+                            "dialogue":  "Monica: Hey, great skirt! Birthday present?\nRachel: Yeah.\nMonica: Oh, from who?\nRachel: From you. I exchanged the blouse you got me.\nMonica: Well, **it\u0027s the thought**. Hey, doesn\u0027t Ross\u0027s flight get in in a couple hours? At gate 27-B?",
+                            "speaker":  "Monica",
+                            "meaning":  "선물의 내용보다 마음이 중요하다; 뜻이 담겨 있으면 충분해",
+                            "nuance":  "\u0027It\u0027s the thought that counts\u0027의 줄임 표현으로, \u0027that counts\u0027는 생략해도 의미가 충분히 전달됨. 받은 선물이 마음에 들지 않아도 상대방의 마음을 인정하는 체념 섞인 다소 의례적인 표현. 여기서 Monica가 살짝 상처받았지만 점잖게 넘기는 톤이 잘 느껴짐.",
+                            "example":  "He got me the wrong size, but it\u0027s the thought that counts — at least he remembered my favorite color. → 사이즈는 맞지 않았지만, 마음이 중요한 거지 — 그래도 내가 좋아하는 색은 기억하고 있었잖아."
+                        }
+                    ]
+}
