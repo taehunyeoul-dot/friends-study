@@ -388,6 +388,11 @@ async function renderEpBody(meta) {
             <h4>뉘앙스</h4><p>${esc(x.nuance)}</p>
             <h4>예문</h4><p class="ex">${esc(x.example)}</p>
             ${occHtml(x)}
+            <div class="x-nav">
+              <button class="x-prev" data-to="${i - 1}" ${i === 0 ? "disabled" : ""}>‹ 이전 표현</button>
+              <span class="x-pos">${i + 1} / ${vocab.expressions.length}</span>
+              <button class="x-next" data-to="${i + 1}" ${i === vocab.expressions.length - 1 ? "disabled" : ""}>다음 표현 ›</button>
+            </div>
           </div>
         </div>`;
       }).join("")}</div>`;
@@ -406,6 +411,16 @@ async function renderEpBody(meta) {
     body.querySelectorAll(".x").forEach((el) => {
       el.querySelector(".x-head").addEventListener("click", () => el.classList.toggle("open"));
     });
+    body.querySelectorAll(".x-prev, .x-next").forEach((b) =>
+      b.addEventListener("click", () => {
+        const to = +b.dataset.to;
+        const items = body.querySelectorAll(".x");
+        const target = items[to];
+        if (!target) return;
+        items.forEach((el) => el.classList.remove("open"));
+        target.classList.add("open");
+        target.scrollIntoView({ block: "start", behavior: "smooth" });
+      }));
   } else {
     const ep = await getEpisode(meta.id);
     body.innerHTML = `<div class="script">

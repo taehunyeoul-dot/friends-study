@@ -171,6 +171,14 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(-
 .x-head .expr{flex:1;min-width:0}
 .x-head .expr .en{font-weight:700;font-size:16px}
 .x-head .expr .ko{font-size:13px;color:var(--sub);margin-top:1px}
+.x{scroll-margin-top:74px}
+.x-nav{
+  display:flex;align-items:center;justify-content:space-between;
+  margin-top:14px;padding-top:12px;border-top:1px solid var(--line);
+}
+.x-nav button{font-size:14px;font-weight:700;color:var(--accent);padding:6px 4px}
+.x-nav button:disabled{color:var(--sub);opacity:.45}
+.x-pos{font-family:var(--mono);font-size:11.5px;letter-spacing:.08em;color:var(--sub)}
 .x-chevron{flex:none;font-size:20px;color:var(--sub);transition:transform .15s}
 .x.open .x-chevron{transform:rotate(90deg)}
 .studying-note{
