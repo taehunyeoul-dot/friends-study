@@ -203,7 +203,7 @@ async function renderHome() {
   <div class="peephole-wrap">
     <div class="peephole" role="button" tabindex="0" aria-label="복습 시작">
       <svg width="172" height="172" viewBox="0 0 172 172" aria-hidden="true">
-        <circle cx="86" cy="86" r="${R}" fill="none" stroke="rgba(245,197,66,.18)" stroke-width="9"/>
+        <circle cx="86" cy="86" r="${R}" fill="none" stroke="var(--ring-track)" stroke-width="9"/>
         <circle cx="86" cy="86" r="${R}" fill="none" stroke="var(--frame)" stroke-width="9"
           stroke-linecap="round" stroke-dasharray="${CIRC}" stroke-dashoffset="${CIRC * (1 - pct)}"/>
       </svg>
@@ -213,8 +213,8 @@ async function renderHome() {
       </div>
     </div>
     <div class="peephole-cap">${
-      due > 0 ? `문구멍을 눌러 복습 시작 · 오늘 <b>${done}</b>장 완료`
-      : done > 0 ? `오늘 복습 끝! <b>${done}</b>장 완료 🛋️`
+      due > 0 ? `링을 눌러 복습 시작 · 오늘 <b>${done}</b>장 완료`
+      : done > 0 ? `오늘 복습 끝! <b>${done}</b>장 완료`
       : `에피소드에서 표현을 카드에 담아보세요`}</div>
   </div>
 
@@ -366,7 +366,7 @@ async function renderReview() {
   if (queue.length === 0) {
     const done = state.daily[today()] || 0;
     view.innerHTML = `<div class="donebox">
-      <div class="ring">🟡</div>
+      <div class="ring">◎</div>
       <div class="big">${done > 0 ? "오늘 복습 완료!" : "복습할 카드가 없어요"}</div>
       <p>${done > 0 ? `${done}장을 복습했어요. 내일 문구멍에서 만나요.`
         : "에피소드 화면에서 표현을 카드에 담으면\n여기에 복습 카드가 쌓입니다."}</p>
