@@ -169,12 +169,13 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(-
 .x-head .expr{flex:1;min-width:0}
 .x-head .expr .en{font-weight:700;font-size:16px}
 .x-head .expr .ko{font-size:13px;color:var(--sub);margin-top:1px}
-.x-add{
-  flex:none;width:34px;height:34px;border-radius:50%;font-size:19px;line-height:1;
-  display:grid;place-items:center;
-  border:1.5px solid var(--accent);color:var(--accent);background:transparent;
+.x-chevron{flex:none;font-size:20px;color:var(--sub);transition:transform .15s}
+.x.open .x-chevron{transform:rotate(90deg)}
+.studying-note{
+  font-size:14px;color:var(--sub);margin-bottom:12px;padding:12px 14px;
+  background:var(--good-tint);border-radius:12px;
 }
-.x-add.in{background:var(--good);color:#fff;border-color:var(--good)}
+.studying-note b{color:var(--good)}
 .x-body{padding:0 14px 14px;display:none}
 .x.open .x-body{display:block}
 .x-body .dlg{

@@ -314,10 +314,11 @@ async function renderHome() {
 }
 function epStatus(e) {
   if (!e.hasVocab) return { cls: "nodata", label: "대본만" };
-  const n = Object.keys(state.cards).filter((k) => k.startsWith(e.id + "#")).length;
-  if (n === 0) return { cls: "none", label: "시작 전" };
-  if (n >= e.exprCount) return { cls: "done", label: "담기 완료" };
-  return { cls: "doing", label: `${n}/${e.exprCount}` };
+  const cards = Object.entries(state.cards).filter(([k]) => k.startsWith(e.id + "#"));
+  if (cards.length === 0) return { cls: "none", label: "시작 전" };
+  // 모든 카드가 3주 이상 간격에 도달하면 익힘 완료로 본다
+  if (cards.every(([, c]) => c.iv >= 21)) return { cls: "done", label: "익힘" };
+  return { cls: "doing", label: "학습중" };
 }
 
 /* ── 에피소드 ─────────────────────────────── */
@@ -354,17 +355,18 @@ async function renderEpBody(meta) {
   const body = $("#epBody");
   if (epTab === "vocab" && meta.hasVocab) {
     const vocab = await getVocab(meta.id);
-    const allIn = vocab.expressions.every((_, i) => state.cards[meta.id + "#" + i]);
+    const started = vocab.expressions.some((_, i) => state.cards[meta.id + "#" + i]);
     body.innerHTML = `
-      <button class="addall" ${allIn ? "disabled" : ""}>${allIn ? "전체 표현이 카드에 담겨 있어요" : "표현 25개 모두 카드에 담기"}</button>
+      ${started
+        ? `<p class="studying-note">이 에피소드를 학습 중이에요 — 복습은 하단 <b>표현</b> 탭에서.</p>`
+        : `<button class="addall">이 에피소드 학습 시작 — 표현 ${vocab.expressions.length}개</button>`}
       <div class="xlist">
       ${vocab.expressions.map((x, i) => {
-        const inDeck = !!state.cards[meta.id + "#" + i];
         return `<div class="x" data-i="${i}">
           <button class="x-head">
             <span class="expr"><span class="en">${esc(x.expression)}</span>
             <span class="ko">${esc(x.meaning)}</span></span>
-            <span class="x-add ${inDeck ? "in" : ""}" role="button" aria-label="카드에 담기">${inDeck ? "✓" : "+"}</span>
+            <span class="x-chevron">›</span>
           </button>
           <div class="x-body">
             <div class="dlg">${markDialogue(x.dialogue, x.expression, "mark").html}</div>
@@ -376,31 +378,19 @@ async function renderEpBody(meta) {
         </div>`;
       }).join("")}</div>`;
 
-    body.querySelector(".addall").addEventListener("click", () => {
-      let n = 0;
+    const startBtn = body.querySelector(".addall");
+    if (startBtn) startBtn.addEventListener("click", () => {
       vocab.expressions.forEach((_, i) => {
         const k = meta.id + "#" + i;
-        if (!state.cards[k]) { state.cards[k] = newCard(meta.id, i); n++; }
+        if (!state.cards[k]) state.cards[k] = newCard(meta.id, i);
       });
-      save(); toast(`${n}개 표현을 카드에 담았어요`);
+      save(); toast("학습 시작! 표현 탭에 복습 카드가 생겼어요");
       renderEpBody(meta); updateBadge();
     });
     body.querySelectorAll(".speakbtn").forEach((b) =>
       b.addEventListener("click", () => speak(keyLine(vocab.expressions[+b.dataset.i]).text)));
     body.querySelectorAll(".x").forEach((el) => {
-      const i = +el.dataset.i, k = meta.id + "#" + i;
-      el.querySelector(".x-head").addEventListener("click", (ev) => {
-        if (ev.target.closest(".x-add")) {
-          if (state.cards[k]) { delete state.cards[k]; toast("카드에서 뺐어요"); }
-          else { state.cards[k] = newCard(meta.id, i); toast("카드에 담았어요"); }
-          save(); updateBadge();
-          const btn = el.querySelector(".x-add");
-          btn.classList.toggle("in", !!state.cards[k]);
-          btn.textContent = state.cards[k] ? "✓" : "+";
-        } else {
-          el.classList.toggle("open");
-        }
-      });
+      el.querySelector(".x-head").addEventListener("click", () => el.classList.toggle("open"));
     });
   } else {
     const ep = await getEpisode(meta.id);
@@ -425,7 +415,7 @@ async function renderReview() {
       <div class="ring">◎</div>
       <div class="big">${done > 0 ? "오늘 복습 완료!" : "복습할 카드가 없어요"}</div>
       <p>${done > 0 ? `${done}장을 복습했어요. 내일 다시 만나요.`
-        : "에피 탭에서 표현을 카드에 담으면\n여기에 복습 카드가 쌓입니다."}</p>
+        : "에피 탭에서 에피소드 학습을 시작하면\n여기에 복습 카드가 쌓입니다."}</p>
     </div>`;
     return;
   }
@@ -521,8 +511,8 @@ async function renderQuiz() {
   view.innerHTML = `<div class="loading">카드 불러오는 중…</div>`;
   const pool = await cardPool();
   if (pool.length < 4) {
-    view.innerHTML = `<div class="review-empty"><div class="big">카드가 부족해요</div>
-      <p>에피 탭에서 표현을 카드에 담아주세요.\n보기(오답)를 만들려면 4개 이상 필요합니다. (현재 ${pool.length}개)</p></div>`;
+    view.innerHTML = `<div class="review-empty"><div class="big">아직 퀴즈를 만들 수 없어요</div>
+      <p>에피 탭에서 에피소드 학습을 시작하면\n그 표현들로 퀴즈가 출제됩니다.</p></div>`;
     return;
   }
   quiz = { items: shuffle([...pool]).slice(0, 10), pool, i: 0, ok: 0 };
