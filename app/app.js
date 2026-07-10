@@ -209,6 +209,20 @@ async function cardPool() {
   }
   return out;
 }
+/* 인용 대사를 각본(screenplay) 포맷으로 렌더링:
+   화자 이름(대문자·가운데) 아래 대사. expr가 있으면 mark/cloze 처리 */
+function scriptQuote(dialogue, expr, mode) {
+  const segs = dialogueSegments(dialogue);
+  let found = false;
+  const html = segs.map((s) => {
+    const m = expr ? markDialogue(s.text, expr, mode) : { html: esc(s.text), found: false };
+    found = found || m.found;
+    return `<div class="sq">${s.speaker ? `<div class="sq-spk">${esc(s.speaker)}</div>` : ""}
+      <div class="sq-line">${m.html}</div></div>`;
+  }).join("");
+  return { html, found };
+}
+
 /* "다른 장면에서" 섹션 HTML */
 function occHtml(x) {
   if (!x.occ || !x.occ.length) return "";
@@ -369,7 +383,7 @@ async function renderEpBody(meta) {
             <span class="x-chevron">›</span>
           </button>
           <div class="x-body">
-            <div class="dlg">${markDialogue(x.dialogue, x.expression, "mark").html}</div>
+            <div class="dlg screenplay">${scriptQuote(x.dialogue, x.expression, "mark").html}</div>
             <button class="speakbtn" data-i="${i}">▶ 대사 듣기</button>
             <h4>뉘앙스</h4><p>${esc(x.nuance)}</p>
             <h4>예문</h4><p class="ex">${esc(x.example)}</p>
@@ -430,7 +444,7 @@ async function showCard() {
   if (!x) { delete state.cards[key]; save(); queue.shift(); return showCard(); }
   const idx = await getIndex();
   const meta = idx.find((e) => e.id === card.ep);
-  const cloze = markDialogue(x.dialogue, x.expression, "cloze");
+  const cloze = scriptQuote(x.dialogue, x.expression, "cloze");
   const doneToday = (state.daily[today()] || 0);
 
   view.innerHTML = `
@@ -439,7 +453,7 @@ async function showCard() {
     <div class="q-ko">${esc(x.meaning)}</div>
     ${cloze.found ? `
     <button class="hintbtn">힌트 보기 (대사)</button>
-    <div class="q-dlg" hidden>${cloze.html}</div>` : ""}
+    <div class="q-dlg screenplay" hidden>${cloze.html}</div>` : ""}
     <form class="answer-form" autocomplete="off">
       <input class="answer-input" type="text" inputmode="latin" autocapitalize="off"
         autocorrect="off" spellcheck="false" placeholder="영어 표현을 입력해보세요"
@@ -449,7 +463,7 @@ async function showCard() {
     <div class="verdict" hidden></div>
     <div class="a" hidden>
       <div class="en">${esc(x.expression)}</div>
-      <div class="q-dlg">${markDialogue(x.dialogue, x.expression, "mark").html}</div>
+      <div class="q-dlg screenplay">${scriptQuote(x.dialogue, x.expression, "mark").html}</div>
       <button class="speakbtn" id="rvSpeak">▶ 대사 듣기</button>
       <h4>뉘앙스</h4><p>${esc(x.nuance)}</p>
       <h4>예문</h4><p>${esc(x.example)}</p>
@@ -529,6 +543,8 @@ function quizQuestion() {
   const it = quiz.items[quiz.i];
   const line = keyLine(it.x);
   const cloze = markDialogue(line.text, it.x.expression, "cloze");
+  const quoteHtml = `<div class="sq">${line.speaker ? `<div class="sq-spk">${esc(line.speaker)}</div>` : ""}
+    <div class="sq-line">${cloze.found ? cloze.html : esc(line.text)}</div></div>`;
   const others = shuffle(quiz.pool.filter((p) => p.x.expression !== it.x.expression));
   const seen = new Set([it.x.expression]);
   const distractors = [];
@@ -540,7 +556,7 @@ function quizQuestion() {
   view.innerHTML = `
   <div class="rv-progress">${quiz.i + 1} / ${quiz.items.length} · 맞힘 ${quiz.ok}</div>
   <div class="card">
-    <div class="q-dlg">${line.speaker ? `<b>${esc(line.speaker)}:</b> ` : ""}${cloze.found ? cloze.html : esc(line.text)}</div>
+    <div class="q-dlg screenplay">${quoteHtml}</div>
     <div class="dict-hint">빈칸에 들어갈 표현은? (${esc(it.x.meaning)})</div>
     <div class="choices">${choices.map((c, ci) =>
       `<button class="choice" data-ok="${c === it ? 1 : 0}">${esc(c.x.expression)}</button>`).join("")}</div>
