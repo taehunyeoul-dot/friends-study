@@ -434,36 +434,94 @@ async function renderEpBody(meta) {
 
 /* ── 복습 ─────────────────────────────────── */
 let queue = [], qTotal = 0;
+let rvEp = null, rvIdx = 0; // rvEp 선택 시 해당 에피소드 둘러보기 모드
+
+/* 학습 시작한 에피소드들로 시즌/에피소드 선택 바 구성 */
+async function reviewFilterBar() {
+  const idx = await getIndex();
+  const startedIds = new Set(Object.keys(state.cards).map((k) => k.split("#")[0]));
+  const started = idx.filter((e) => startedIds.has(e.id));
+  if (started.length === 0) return "";
+  const seasons = [...new Set(started.map((e) => e.season))];
+  return `<div class="rv-filter">
+    <select id="rvEpSel" aria-label="복습 범위 선택">
+      <option value="">복습 대기순 (전체)</option>
+      ${seasons.map((s) => `<optgroup label="시즌 ${s}">
+        ${started.filter((e) => e.season === s).map((e) =>
+          `<option value="${e.id}" ${rvEp === e.id ? "selected" : ""}>${esc(String(e.code))} · ${esc(e.title)}</option>`).join("")}
+      </optgroup>`).join("")}
+    </select>
+  </div>`;
+}
+function bindReviewFilter() {
+  const sel = $("#rvEpSel");
+  if (sel) sel.addEventListener("change", () => {
+    rvEp = sel.value || null;
+    rvIdx = 0;
+    renderReview();
+  });
+}
+
 async function renderReview() {
-  setChrome("복습", false, "#/review");
-  queue = dueCards();
-  qTotal = (state.daily[today()] || 0) + queue.length;
-  if (queue.length === 0) {
-    const done = state.daily[today()] || 0;
-    view.innerHTML = `<div class="donebox">
-      <div class="ring">◎</div>
-      <div class="big">${done > 0 ? "오늘 복습 완료!" : "복습할 카드가 없어요"}</div>
-      <p>${done > 0 ? `${done}장을 복습했어요. 내일 다시 만나요.`
-        : "에피 탭에서 에피소드 학습을 시작하면\n여기에 복습 카드가 쌓입니다."}</p>
-    </div>`;
-    return;
+  setChrome("표현", false, "#/review");
+  if (rvEp && !state.cards[rvEp + "#0"]) rvEp = null;
+  if (!rvEp) {
+    queue = dueCards();
+    qTotal = (state.daily[today()] || 0) + queue.length;
+    if (queue.length === 0) {
+      const done = state.daily[today()] || 0;
+      const bar = await reviewFilterBar();
+      view.innerHTML = bar + `<div class="donebox">
+        <div class="ring">◎</div>
+        <div class="big">${done > 0 ? "오늘 복습 완료!" : "복습할 카드가 없어요"}</div>
+        <p>${done > 0 ? `${done}장을 복습했어요. 내일 다시 만나요.`
+          : "에피 탭에서 에피소드 학습을 시작하면\n여기에 복습 카드가 쌓입니다."}</p>
+        ${bar ? `<p style="margin-top:10px">위에서 에피소드를 고르면\n지난 표현들을 다시 훑어볼 수 있어요.</p>` : ""}
+      </div>`;
+      bindReviewFilter();
+      return;
+    }
   }
   await showCard();
 }
 async function showCard() {
   updateBadge();
-  if (queue.length === 0) return renderReview();
-  const [key, card] = queue[0];
+  let key, card, progress;
+  if (rvEp) {
+    const v = await getVocab(rvEp);
+    const n = v.expressions.length;
+    rvIdx = ((rvIdx % n) + n) % n;
+    key = rvEp + "#" + rvIdx;
+    card = state.cards[key] || (state.cards[key] = newCard(rvEp, rvIdx));
+    progress = `${rvIdx + 1} / ${n}`;
+  } else {
+    if (queue.length === 0) return renderReview();
+    [key, card] = queue[0];
+    progress = `${(state.daily[today()] || 0) + 1} / ${qTotal}`;
+  }
   const vocab = await getVocab(card.ep);
   const x = vocab.expressions[card.i];
-  if (!x) { delete state.cards[key]; save(); queue.shift(); return showCard(); }
+  if (!x) {
+    delete state.cards[key]; save();
+    if (rvEp) rvIdx++; else queue.shift();
+    return showCard();
+  }
   const idx = await getIndex();
   const meta = idx.find((e) => e.id === card.ep);
   const cloze = scriptQuote(x.dialogue, x.expression, "cloze");
-  const doneToday = (state.daily[today()] || 0);
+  const bar = await reviewFilterBar();
+  const canNav = rvEp ? vocab.expressions.length > 1 : queue.length > 1;
 
   view.innerHTML = `
-  <div class="rv-progress">${doneToday + 1} / ${qTotal}</div>
+  ${bar}
+  <div class="rv-nav">
+    <button id="rvPrev" aria-label="이전 카드" ${canNav ? "" : "disabled"}>‹</button>
+    <div class="rv-loc">
+      <div class="rv-progress">${progress}</div>
+      <div class="rv-src-top">시즌 ${meta ? meta.season : "?"} · ${esc(meta ? String(meta.code) : card.ep)} · 표현 ${card.i + 1}/${vocab.expressions.length}</div>
+    </div>
+    <button id="rvNext" aria-label="다음 카드" ${canNav ? "" : "disabled"}>›</button>
+  </div>
   <div class="card">
     <div class="q-ko">${esc(x.meaning)}</div>
     ${cloze.found ? `
@@ -509,6 +567,15 @@ async function showCard() {
     $(".card .q-dlg").hidden = false;
     hintBtn.hidden = true;
   });
+  bindReviewFilter();
+  $("#rvPrev").addEventListener("click", () => {
+    if (rvEp) { rvIdx--; showCard(); }
+    else if (queue.length > 1) { queue.unshift(queue.pop()); showCard(); }
+  });
+  $("#rvNext").addEventListener("click", () => {
+    if (rvEp) { rvIdx++; showCard(); }
+    else if (queue.length > 1) { queue.push(queue.shift()); showCard(); }
+  });
   $("#rvSpeak").addEventListener("click", () => speak(keyLine(x).text));
   $(".answer-form").addEventListener("submit", (ev) => {
     ev.preventDefault();
@@ -527,8 +594,12 @@ async function showCard() {
   [["g-again", 0], ["g-hard", 1], ["g-good", 2], ["g-easy", 3]].forEach(([cls, g]) =>
     $("." + cls).addEventListener("click", () => {
       grade(card, g);
-      queue.shift();
-      if (g === 0) queue.push([key, card]); // 이번 세션 안에서 다시
+      if (rvEp) {
+        rvIdx++; // 둘러보기 모드: 채점 후 다음 표현으로
+      } else {
+        queue.shift();
+        if (g === 0) queue.push([key, card]); // 이번 세션 안에서 다시
+      }
       showCard();
     }));
 }
