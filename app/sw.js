@@ -1,5 +1,5 @@
 /* Friends 영어공부 — 오프라인 캐시 (앱 셸 프리캐시 + 데이터 런타임 캐시) */
-const VER = "fs-v10";
+const VER = "fs-v11";
 const SHELL = ["./", "index.html", "app.css", "app.js", "manifest.webmanifest",
   "icons/icon-180.png", "icons/icon-192.png", "icons/icon-512.png",
   "icons/icon-maskable-192.png", "icons/icon-maskable-512.png"];
