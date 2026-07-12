@@ -434,51 +434,76 @@ async function renderEpBody(meta) {
 
 /* ── 복습 ─────────────────────────────────── */
 let queue = [], qTotal = 0;
-let rvEp = null, rvIdx = 0; // rvEp 선택 시 해당 에피소드 둘러보기 모드
+let rvSeason = null, rvEp = null, rvIdx = 0; // 시즌/에피소드 선택 시 둘러보기 모드
 
-/* 학습 시작한 에피소드들로 시즌/에피소드 선택 바 구성 */
-async function reviewFilterBar() {
+/* 학습 시작한 에피소드 목록 */
+async function startedEpisodes() {
   const idx = await getIndex();
   const startedIds = new Set(Object.keys(state.cards).map((k) => k.split("#")[0]));
-  const started = idx.filter((e) => startedIds.has(e.id));
-  if (started.length === 0) return "";
-  const seasons = [...new Set(started.map((e) => e.season))];
-  return `<div class="rv-filter">
-    <select id="rvEpSel" aria-label="복습 범위 선택">
-      <option value="">복습 대기순 (전체)</option>
-      ${seasons.map((s) => `<optgroup label="시즌 ${s}">
-        ${started.filter((e) => e.season === s).map((e) =>
-          `<option value="${e.id}" ${rvEp === e.id ? "selected" : ""}>${esc(String(e.code))} · ${esc(e.title)}</option>`).join("")}
-      </optgroup>`).join("")}
-    </select>
-  </div>`;
+  return idx.filter((e) => startedIds.has(e.id));
 }
-function bindReviewFilter() {
-  const sel = $("#rvEpSel");
-  if (sel) sel.addEventListener("change", () => {
-    rvEp = sel.value || null;
-    rvIdx = 0;
-    renderReview();
-  });
+/* 시즌 칩 한 줄 + (시즌 선택 시) 에피소드 칩 한 줄 */
+async function reviewChips() {
+  const idx = await getIndex();
+  const started = await startedEpisodes();
+  const seasons = [...new Set(idx.filter((e) => e.hasVocab).map((e) => e.season))];
+  let html = `<div class="seasons rv-chips">
+    <button class="season-chip ${rvSeason === null ? "active" : ""}" data-rvs="all">전체<span class="mini">복습 대기순</span></button>
+    ${seasons.map((s) => {
+      const n = started.filter((e) => e.season === s).length;
+      return `<button class="season-chip ${rvSeason === s ? "active" : ""}" data-rvs="${s}">시즌 ${s}<span class="mini">${n ? n + "화 학습중" : "시작 전"}</span></button>`;
+    }).join("")}</div>`;
+  if (rvSeason !== null) {
+    const eps = started.filter((e) => e.season === rvSeason);
+    html += eps.length
+      ? `<div class="seasons rv-chips">${eps.map((e) =>
+          `<button class="season-chip ep-chip ${rvEp === e.id ? "active" : ""}" data-rve="${e.id}">${esc(String(e.code).split("-")[0])}</button>`).join("")}</div>`
+      : "";
+  }
+  return html;
+}
+function bindReviewChips() {
+  view.querySelectorAll("[data-rvs]").forEach((b) =>
+    b.addEventListener("click", async () => {
+      const v = b.dataset.rvs;
+      if (v === "all") { rvSeason = null; rvEp = null; }
+      else {
+        rvSeason = +v;
+        const eps = (await startedEpisodes()).filter((e) => e.season === rvSeason);
+        rvEp = eps.length ? eps[0].id : null;
+      }
+      rvIdx = 0;
+      renderReview();
+    }));
+  view.querySelectorAll("[data-rve]").forEach((b) =>
+    b.addEventListener("click", () => { rvEp = b.dataset.rve; rvIdx = 0; renderReview(); }));
 }
 
 async function renderReview() {
   setChrome("표현", false, "#/review");
-  if (rvEp && !state.cards[rvEp + "#0"]) rvEp = null;
+  if (rvEp && !state.cards[rvEp + "#0"]) { rvEp = null; }
   if (!rvEp) {
+    const chips = await reviewChips();
+    if (rvSeason !== null) {
+      // 시즌은 골랐지만 학습 시작한 에피소드가 없음
+      view.innerHTML = chips + `<div class="review-empty">
+        <div class="big">시즌 ${rvSeason}은 아직이에요</div>
+        <p>에피 탭에서 이 시즌의 에피소드 학습을 시작하면\n여기서 표현을 둘러볼 수 있어요.</p></div>`;
+      bindReviewChips();
+      return;
+    }
     queue = dueCards();
     qTotal = (state.daily[today()] || 0) + queue.length;
     if (queue.length === 0) {
       const done = state.daily[today()] || 0;
-      const bar = await reviewFilterBar();
-      view.innerHTML = bar + `<div class="donebox">
+      view.innerHTML = chips + `<div class="donebox">
         <div class="ring">◎</div>
         <div class="big">${done > 0 ? "오늘 복습 완료!" : "복습할 카드가 없어요"}</div>
         <p>${done > 0 ? `${done}장을 복습했어요. 내일 다시 만나요.`
           : "에피 탭에서 에피소드 학습을 시작하면\n여기에 복습 카드가 쌓입니다."}</p>
-        ${bar ? `<p style="margin-top:10px">위에서 에피소드를 고르면\n지난 표현들을 다시 훑어볼 수 있어요.</p>` : ""}
+        <p style="margin-top:10px">위에서 시즌을 고르면 배운 표현을\n다시 훑어볼 수 있어요.</p>
       </div>`;
-      bindReviewFilter();
+      bindReviewChips();
       return;
     }
   }
@@ -509,16 +534,16 @@ async function showCard() {
   const idx = await getIndex();
   const meta = idx.find((e) => e.id === card.ep);
   const cloze = scriptQuote(x.dialogue, x.expression, "cloze");
-  const bar = await reviewFilterBar();
+  const chips = await reviewChips();
   const canNav = rvEp ? vocab.expressions.length > 1 : queue.length > 1;
 
   view.innerHTML = `
-  ${bar}
+  ${chips}
   <div class="rv-nav">
     <button id="rvPrev" aria-label="이전 카드" ${canNav ? "" : "disabled"}>‹</button>
     <div class="rv-loc">
       <div class="rv-progress">${progress}</div>
-      <div class="rv-src-top">시즌 ${meta ? meta.season : "?"} · ${esc(meta ? String(meta.code) : card.ep)} · 표현 ${card.i + 1}/${vocab.expressions.length}</div>
+      ${rvEp ? "" : `<div class="rv-src-top">시즌 ${meta ? meta.season : "?"} · ${esc(meta ? String(meta.code) : card.ep)} · 표현 ${card.i + 1}/${vocab.expressions.length}</div>`}
     </div>
     <button id="rvNext" aria-label="다음 카드" ${canNav ? "" : "disabled"}>›</button>
   </div>
@@ -567,7 +592,7 @@ async function showCard() {
     $(".card .q-dlg").hidden = false;
     hintBtn.hidden = true;
   });
-  bindReviewFilter();
+  bindReviewChips();
   $("#rvPrev").addEventListener("click", () => {
     if (rvEp) { rvIdx--; showCard(); }
     else if (queue.length > 1) { queue.unshift(queue.pop()); showCard(); }

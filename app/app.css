@@ -219,16 +219,9 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(-
 .review-empty{text-align:center;padding:60px 20px;color:var(--sub)}
 .review-empty .big{font-size:18px;font-weight:800;color:var(--ink);margin-bottom:8px}
 .rv-progress{font-family:var(--mono);font-size:12px;letter-spacing:.08em;color:var(--sub);text-align:center}
-/* 복습 범위 선택 + 카드 이동 */
-.rv-filter{margin-bottom:12px}
-.rv-filter select{
-  width:100%;padding:12px 16px;border:0;border-radius:999px;
-  background:var(--card);color:var(--ink);font:inherit;font-size:14.5px;font-weight:600;
-  box-shadow:var(--shadow-sm);appearance:none;-webkit-appearance:none;
-  background-image:linear-gradient(45deg,transparent 50%,var(--sub) 50%),linear-gradient(135deg,var(--sub) 50%,transparent 50%);
-  background-position:calc(100% - 22px) 55%,calc(100% - 16px) 55%;
-  background-size:6px 6px;background-repeat:no-repeat;
-}
+/* 복습 범위 선택 칩 + 카드 이동 */
+.rv-chips{padding-bottom:4px;margin-bottom:6px}
+.ep-chip{min-width:56px;text-align:center;font-family:var(--mono);font-weight:700}
 .rv-nav{display:flex;align-items:center;gap:8px;margin-bottom:12px}
 .rv-nav button{
   flex:none;width:44px;height:44px;border-radius:50%;font-size:24px;line-height:1;
